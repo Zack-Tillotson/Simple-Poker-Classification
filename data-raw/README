@@ -1,0 +1,3 @@
+To run preprocessing program:
+
+$ java -jar FlattenRawData.jar <dir/>[ <dir/> <dir/>...]
