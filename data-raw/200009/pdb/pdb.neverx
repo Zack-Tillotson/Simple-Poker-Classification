@@ -1,0 +1,538 @@
+neverx    968396236  8  5 f   -     -     -         3900    0    0 
+neverx    968396258  8  4 f   -     -     -         3900    0    0 
+neverx    968396282  8  3 f   -     -     -         3900    0    0 
+neverx    968396298  8  2 Bk  k     k     k         3900   10   25 4h 9h
+neverx    968396319  8  1 Bf  -     -     -         3915    5    0 
+neverx    968396345  8  8 c   k     k     k         3910   45    0 Tc Qs
+neverx    968396372  9  7 f   -     -     -         3865    0    0 
+neverx    968396404  9  6 f   -     -     -         3865    0    0 
+neverx    968396433  9  3 Q   -     -     -         3865    0    0 
+neverx    968419496  4  4 c   f     -     -         3865   10    0 
+neverx    968419513  4  3 c   b     b     -         3855  130  180 
+neverx    968419539  4  2 Bc  k     b     -         3905  140  210 
+neverx    968419569  4  1 Bc  kf    -     -         3975   10    0 
+neverx    968419592  4  4 f   -     -     -         3965    0    0 
+neverx    968419598  4  3 f   -     -     -         3965    0    0 
+neverx    968419603  4  2 Bk  k     k     k         3965   10   20 9c 2h
+neverx    968419622  4  1 Bc  k     k     k         3975   10    0 8h Kh
+neverx    968419654  4  4 c   c     c     k         3965  130    0 9c Td
+neverx    968419684  4  3 c   kf    -     -         3835   10    0 
+neverx    968419765  4  2 Bf  -     -     -         3825   10    0 
+neverx    968419817  4  1 Bf  -     -     -         3815    5    0 
+neverx    968419828  4  4 f   -     -     -         3810    0    0 
+neverx    968419847  4  3 c   kf    -     -         3810   10    0 
+neverx    968419869  4  2 Bk  k     k     k         3800   10    0 8s 5c
+neverx    968419914  4  1 Bf  -     -     -         3790    5    0 
+neverx    968419939  5  4 c   k     k     k         3785   10   25 5d Kd
+neverx    968419958  5  3 c   b     -     -         3800   35   50 
+neverx    968419971  5  2 Bk  k     c     f         3815   30    0 
+neverx    968419988  5  1 Bc  kf    -     -         3785   35    0 
+neverx    968420047  6  6 f   -     -     -         3750    0    0 
+neverx    968420069  6  5 c   k     f     -         3750   10    0 
+neverx    968420086  6  4 f   -     -     -         3740    0    0 
+neverx    968420101  6  3 fQ  -     -     -         3740    0    0 
+neverx    968420255  7  4 f   -     -     -         3740    0    0 
+neverx    968420267  7  3 f   -     -     -         3740    0    0 
+neverx    968420292  7  2 Bf  -     -     -         3740   10    0 
+neverx    968420323  7  1 Bf  -     -     -         3730    5    0 
+neverx    968420335  7  7 f   -     -     -         3725    0    0 
+neverx    968420374  7  6 cc  f     -     -         3725   40    0 
+neverx    968420411  7  5 f   -     -     -         3685    0    0 
+neverx    968420422  7  4 f   -     -     -         3685    0    0 
+neverx    968420442  7  3 c   r     b     -         3685  595  810 
+neverx    968420474  7  2 B   -     -     -         3900   10   15 
+neverx    968420481  7  1 Bc  k     b     -         3905  140  210 
+neverx    968420499  7  7 rc  c     f     -         3975  335    0 
+neverx    968420524  7  6 f   -     -     -         3640    0    0 
+neverx    968420584  8  5 f   -     -     -         3640    0    0 
+neverx    968420622  8  4 f   -     -     -         3640    0    0 
+neverx    968420665  7  2 f   -     -     -         3640    0    0 
+neverx    968420712  7  2 Bk  kf    -     -         3640   10    0 
+neverx    968420754  7  1 Bc  k     k     k         3630   35  105 8d Ah
+neverx    968420782  8  8 f   -     -     -         3700    0    0 
+neverx    968420819  8  7 f   -     -     -         3700    0    0 
+neverx    968420841  8  6 f   -     -     -         3700    0    0 
+neverx    968420882  8  5 f   -     -     -         3700    0    0 
+neverx    968420918  8  4 f   -     -     -         3700    0    0 
+neverx    968420954  8  3 f   -     -     -         3700    0    0 
+neverx    968420984  8  2 Bf  -     -     -         3700   10    0 
+neverx    968421027  8  1 Bf  -     -     -         3690    5    0 
+neverx    968421061  8  8 f   -     -     -         3685    0    0 
+neverx    968421100  8  7 f   -     -     -         3685    0    0 
+neverx    968421131  8  6 f   -     -     -         3685    0    0 
+neverx    968421139  8  5 f   -     -     -         3685    0    0 
+neverx    968421187  8  4 c   k     k     k         3685   10    0 Qh As
+neverx    968421236  8  3 f   -     -     -         3675    0    0 
+neverx    968421301  8  2 Bc  kf    -     -         3675   45    0 
+neverx    968421398  7  1 Bf  -     -     -         3630    5    0 
+neverx    968421422  7  7 f   -     -     -         3625    0    0 
+neverx    968421463  8  6 f   -     -     -         3625    0    0 
+neverx    968421507  8  5 f   -     -     -         3625    0    0 
+neverx    968421512  8  4 f   -     -     -         3625    0    0 
+neverx    968421530  8  3 c   k     k     k         3625   10    0 Js 8s
+neverx    968421577  8  2 Bk  k     kf    -         3615   10    0 
+neverx    968421607  9  1 Bc  b     -     -         3605   40   60 
+neverx    968421635  9  9 f   -     -     -         3625    0    0 
+neverx    968421649  9  8 r   c     b     k         3625  465  945 9d Js
+neverx    968421681  9  7 f   -     -     -         4105    0    0 
+neverx    968421705  9  6 c   k     c     f         4105   60    0 
+neverx    968421745 10  5 cc  k     k     k         4045   45  105 Kh Qc
+neverx    968421770 10  4 f   -     -     -         4105    0    0 
+neverx    968421806 10  3 c   b     b     b         4105  985 1350 
+neverx    968421844 10  2 Bk  kf    -     -         4470   10    0 
+neverx    968421856 10  1 Bf  -     -     -         4460    5    0 
+neverx    968421889 10 10 f   -     -     -         4455    0    0 
+neverx    968421916 10  9 f   -     -     -         4455    0    0 
+neverx    968421925 10  8 c   f     -     -         4455   45    0 
+neverx    968421954 10  7 f   -     -     -         4410    0    0 
+neverx    968421998 10  6 f   -     -     -         4410    0    0 
+neverx    968422022 10  5 c   f     -     -         4410   10    0 
+neverx    968422063 10  4 cc  kc    krA   -         4400 4400    0 Js Tc
+neverx    969748028  2  2 Bk  k     k     k         3160   10   20 Qd 5c
+neverx    969748047  2  1 Bf  -     -     -         3170    5    0 
+neverx    969748051  2  2 Bk  k     k     k         3165   10   20 6s 7c
+neverx    969748061  2  1 Bc  k     b     -         3175   30   40 
+neverx    969748070  2  2 Bk  f     -     -         3185   10    0 
+neverx    969748077  2  1 Bc  k     kf    -         3175   10    0 
+neverx    969748088  2  2 Bc  b     -     -         3165   90  120 
+neverx    969748096  2  1 Bf  -     -     -         3195    5    0 
+neverx    969748098  2  2 Bk  k     k     k         3190   10   20 2c 4c
+neverx    969748107  2  1 Bf  -     -     -         3200    5    0 
+neverx    969748111  2  2 Bk  k     k     k         3195   10   20 Js 3d
+neverx    969748122  2  1 Bf  -     -     -         3205    5    0 
+neverx    969748127  2  2 Bk  f     -     -         3200   10    0 
+neverx    969748135  2  1 Bc  k     k     k         3190   10   20 7s 4s
+neverx    969748144  2  2 Bc  f     -     -         3200   30    0 
+neverx    969748155  2  1 Bc  kf    -     -         3170   10    0 
+neverx    969748168  2  2 Bk  k     f     -         3160   10    0 
+neverx    969748179  2  1 Bf  -     -     -         3150    5    0 
+neverx    969748180  2  2 Bk  f     -     -         3145   10    0 
+neverx    969748185  2  1 Bf  -     -     -         3135    5    0 
+neverx    969748187  2  2 Bc  f     -     -         3130   30    0 
+neverx    969748192  2  1 Bc  b     k     k         3100   30    0 3d 5d
+neverx    969748204  2  2 B   -     -     -         3070   10   15 
+neverx    969748209  3  1 Bf  -     -     -         3075    5    0 
+neverx    969748221  3  3 f   -     -     -         3070    0    0 
+neverx    969748232  3  2 Bk  f     -     -         3070   10    0 
+neverx    969748238  3  1 Bf  -     -     -         3060    5    0 
+neverx    969748247  3  3 f   -     -     -         3055    0    0 
+neverx    969748267  3  2 B   -     -     -         3055   10   15 
+neverx    969748274  3  1 Bc  k     kf    -         3060   35    0 
+neverx    969748292  3  3 c   k     k     k         3025   10    0 2s Ts
+neverx    969748308  3  2 Bc  c     b     -         3015  270  360 
+neverx    969748321  3  1 Bc  k     bf    -         3105   40    0 
+neverx    969748332  3  3 c   k     k     k         3065   10    0 6d 7d
+neverx    969748343  3  2 Bk  f     -     -         3055   10    0 
+neverx    969748355  3  1 Bf  -     -     -         3045    5    0 
+neverx    969748358  3  3 cc  k     k     k         3040   40  120 Jh Qc
+neverx    969748372  3  2 Bk  k     f     -         3120   10    0 
+neverx    969748388  3  1 Bf  -     -     -         3110    5    0 
+neverx    969748392  3  3 f   -     -     -         3105    0    0 
+neverx    969748393  3  2 Bf  -     -     -         3105   10    0 
+neverx    969748398  3  1 Bc  k     k     k         3095   10   30 7h 8s
+neverx    969748418  4  4 c   b     -     -         3115   35   60 
+neverx    969748436  4  3 f   -     -     -         3140    0    0 
+neverx    969748439  4  2 Bk  k     c     k         3140   30    0 Kc 6s
+neverx    969748451  4  1 Bc  k     b     -         3110   50   80 
+neverx    969748469  4  4 f   -     -     -         3140    0    0 
+neverx    969748485  4  3 f   -     -     -         3140    0    0 
+neverx    969748525  3  2 Bf  -     -     -         3140   10    0 
+neverx    969748528  3  1 Bf  -     -     -         3130    5    0 
+neverx    969748532  3  3 c   k     k     k         3125   10    0 Ah 6d
+neverx    969748546  3  2 Br  -     -     -         3115   35   50 
+neverx    969748552  3  1 Bf  -     -     -         3130    5    0 
+neverx    969748566  3  3 f   -     -     -         3125    0    0 
+neverx    969748583  3  2 Bc  k     k     k         3125   40  120 8h 8c
+neverx    969748604  3  1 Bc  k     k     k         3205   10    0 9s Ah
+neverx    969748615  3  3 f   -     -     -         3195    0    0 
+neverx    969748620  3  2 Bk  k     f     -         3195   10    0 
+neverx    969748634  3  1 Br  -     -     -         3185   30   40 
+neverx    969748641  3  3 f   -     -     -         3195    0    0 
+neverx    969748650  3  2 Bf  -     -     -         3195   10    0 
+neverx    969748655  3  1 Br  k     kc    k         3185  130  270 Qh Ad
+neverx    969748675  3  3 cc  k     k     k         3325   40    0 5h Kh
+neverx    969748690  3  2 Bk  k     f     -         3285   10    0 
+neverx    969748701  3  1 Bf  -     -     -         3275    5    0 
+neverx    969748703  3  3 cc  b     k     k         3270  115  270 Ac 8c
+neverx    969748724  3  2 Bk  k     k     k         3425   10    0 2d 3s
+neverx    969748738  4  1 Bf  -     -     -         3415    5    0 
+neverx    969748752  4  4 r   k     f     -         3410   60    0 
+neverx    969748774  4  3 c   k     b     -         3350   35   50 
+neverx    969748784  4  2 Bk  k     k     k         3365   10   20 Ad 2s
+neverx    969748795  4  1 Bc  kf    -     -         3375   10    0 
+neverx    969748813  4  4 f   -     -     -         3365    0    0 
+neverx    969748840  4  3 f   -     -     -         3365    0    0 
+neverx    969748857  4  2 Bf  -     -     -         3365   10    0 
+neverx    969748867  4  1 Bc  k     kf    -         3355   10    0 
+neverx    969748882  4  4 c   c     f     -         3345   40    0 
+neverx    969748895  4  3 f   -     -     -         3305    0    0 
+neverx    969748898  4  2 Bk  b     bc    k         3305  205  420 Js 7d
+neverx    969748916  4  1 Bc  k     kf    -         3520   10    0 
+neverx    969748927  4  4 f   -     -     -         3510    0    0 
+neverx    969748931  4  3 f   -     -     -         3510    0    0 
+neverx    969748939  4  2 Bc  c     k     k         3510  160  480 Td 8h
+neverx    969748960  4  1 Bc  b     kc    k         3830  115  240 Ad 9d
+neverx    969748984  4  4 c   c     k     k         3955   40   90 4s 5s
+neverx    969748999  5  4 f   -     -     -         4005    0    0 
+neverx    969749014  5  3 f   -     -     -         4005    0    0 
+neverx    969749029  5  2 Br  kf    -     -         4005   32    0 
+neverx    969749049  5  1 Bf  -     -     -         3973    5    0 
+neverx    969749075  6  6 f   -     -     -         3968    0    0 
+neverx    969749091  6  5 r   b     -     -         3968  185  280 
+neverx    969749115  6  4 c   k     kf    -         4063   10    0 
+neverx    969749132  6  3 f   -     -     -         4053    0    0 
+neverx    969749135  6  2 B   -     -     -         4053   10   15 
+neverx    969749142  6  1 Bc  kc    k     bc        4058  530    0 Kc Jd
+neverx    969749165  6  6 f   -     -     -         3528    0    0 
+neverx    969749183  6  5 f   -     -     -         3528    0    0 
+neverx    969749194  6  4 r   b     k     k         3528  160  345 Qh 8c
+neverx    969749216  6  3 f   -     -     -         3713    0    0 
+neverx    969749229  6  2 Bk  k     k     k         3713   10   25 Jh 3c
+neverx    969749253  6  1 Bc  k     k     kf        3728   10    0 
+neverx    969749292  6  6 rc  k     f     -         3718  150    0 
+neverx    969749339  6  5 r   b     k     f         3568  115    0 
+neverx    969749355  6  4 f   -     -     -         3453    0    0 
+neverx    969749375  6  3 r   -     -     -         3453   35   50 
+neverx    969749382  6  2 B   -     -     -         3468   10   15 
+neverx    969749386  6  1 Bf  -     -     -         3473    5    0 
+neverx    969749402  6  6 r   -     -     -         3468   35   50 
+neverx    969749413  6  5 f   -     -     -         3483    0    0 
+neverx    969749427  6  4 c   kf    -     -         3483   10    0 
+neverx    969749447  6  3 f   -     -     -         3473    0    0 
+neverx    969749473  6  2 Br  b     bcA   -         3473 3473 7141 Ks 9s
+neverx    969749501  6  1 Br  k     k     k         7141   60  200 Kc Qd
+neverx    969749536  6  6 f   -     -     -         7281    0    0 
+neverx    969749577  6  5 f   -     -     -         7281    0    0 
+neverx    969749600  6  4 rc  kc    bc    k         7281 3435 6885 3h 6h
+neverx    969749619  6  3 rc  f     -     -        10731  405    0 
+neverx    969749646  6  2 Brc kc    kc    -        10326 3248    0 2h 2c
+neverx    969749673  6  1 Br  b     -     -         7078   90  120 
+neverx    969749698  6  6 rf  -     -     -         7108  410    0 
+neverx    969749745  6  5 rc  bc    bA    -         6698 6698    0 5s 5c
+neverx    970205523  2  1 Br  b     b     b         3202  810 1620 5c Jc
+neverx    970205540  2  2 Bk  f     -     -         4012   10    0 
+neverx    970205551  2  1 Bf  -     -     -         4002    5    0 
+neverx    970205553  2  2 Bk  k     f     -         3997   10    0 
+neverx    970205565  2  1 Bf  -     -     -         3987    5    0 
+neverx    970205568  2  2 Bk  k     k     b         3982   30   40 
+neverx    970205588  2  1 Bf  -     -     -         3992    5    0 
+neverx    970205591  2  2 B   -     -     -         3987   10   15 
+neverx    970205594  2  1 Bf  -     -     -         3992    5    0 
+neverx    970205597  2  2 Br  f     -     -         3987   30    0 
+neverx    970205608  2  1 Br  b     kf    -         3957   90    0 
+neverx    970205621  2  2 B   -     -     -         3867   10   15 
+neverx    970205624  2  1 Br  -     -     -         3872   30   40 
+neverx    970205628  2  2 B   -     -     -         3882   10   15 
+neverx    970205630  2  1 Br  -     -     -         3887   30   40 
+neverx    970205634  2  2 B   -     -     -         3897   10   15 
+neverx    970205637  2  1 Bc  b     -     -         3902   30   40 
+neverx    970205642  2  2 B   -     -     -         3912   10   15 
+neverx    970205645  2  1 Bc  kf    -     -         3917   10    0 
+neverx    970205653  2  2 B   -     -     -         3907   10   15 
+neverx    970205655  2  1 Bf  -     -     -         3912    5    0 
+neverx    970205658  2  2 Bk  f     -     -         3907   10    0 
+neverx    970205664  2  1 Bf  -     -     -         3897    5    0 
+neverx    970205666  2  2 B   -     -     -         3892   10   15 
+neverx    970205669  2  1 Bf  -     -     -         3897    5    0 
+neverx    970205671  2  2 B   -     -     -         3892   10   15 
+neverx    970205674  2  1 Bcc kc    k     k         3897   90  180 Ts 2s
+neverx    970205694  2  2 Bk  k     f     -         3987   10    0 
+neverx    970205712  2  1 Br  kf    -     -         3977   30    0 
+neverx    970205723  2  2 B   -     -     -         3947   10   15 
+neverx    970205726  2  1 Br  b     kc    k         3952  270    0 Jh 9c
+neverx    970205742  2  2 Br  c     c     b         3682  810  810 Jd Qd
+neverx    970205772  2  1 Bf  -     -     -         3682    5    0 
+neverx    970205777  2  2 Bf  -     -     -         3677   10    0 
+neverx    970205781  2  1 Br  -     -     -         3667   30   40 
+neverx    970205787  2  2 B   -     -     -         3677   10   15 
+neverx    970205790  2  1 Bf  -     -     -         3682    5    0 
+neverx    970205791  2  2 Bf  -     -     -         3677   10    0 
+neverx    970205795  2  1 Br  kc    kf    -         3667   90    0 
+neverx    970205811  2  2 B   -     -     -         3577   10   15 
+neverx    970205814  2  1 Bf  -     -     -         3582    5    0 
+neverx    970205816  2  2 B   -     -     -         3577   10   15 
+neverx    970205819  2  1 Br  b     -     -         3582   90  120 
+neverx    970205826  2  2 B   -     -     -         3612   10   15 
+neverx    970205829  2  1 Br  b     b     k         3617  270  540 Js Jc
+neverx    970205844  2  2 B   -     -     -         3887   10   15 
+neverx    970205852  2  1 Bf  -     -     -         3892    5    0 
+neverx    970205854  2  2 B   -     -     -         3887   10   15 
+neverx    970205857  2  1 Bf  -     -     -         3892    5    0 
+neverx    970205859  2  2 Bk  k     k     k         3887   10   20 3s 2s
+neverx    970205870  2  1 Br  -     -     -         3897   30   40 
+neverx    970205877  2  2 Br  c     f     -         3907   90    0 
+neverx    970205890  2  1 Bf  -     -     -         3817    5    0 
+neverx    970205892  2  2 Br  k     f     -         3812   30    0 
+neverx    970205906  2  1 Br  b     k     b         3782  270  360 
+neverx    970205919  2  2 Bk  k     c     f         3872   30    0 
+neverx    970205934  2  1 Br  -     -     -         3842   30   40 
+neverx    970205937  2  2 B   -     -     -         3852   10   15 
+neverx    970205941  2  1 Bf  -     -     -         3857    5    0 
+neverx    970205943  2  2 B   -     -     -         3852   10   15 
+neverx    970205946  2  1 Bf  -     -     -         3857    5    0 
+neverx    970205948  2  2 B   -     -     -         3852   10   15 
+neverx    970205952  2  1 Bf  -     -     -         3857    5    0 
+neverx    970205954  2  2 B   -     -     -         3852   10   15 
+neverx    970205957  2  1 Bf  -     -     -         3857    5    0 
+neverx    970205959  2  2 B   -     -     -         3852   10   15 
+neverx    970205961  2  1 Br  k     kf    -         3857   30    0 
+neverx    970205974  2  2 B   -     -     -         3827   10   15 
+neverx    970205978  2  1 Bcc k     k     k         3832   30   30 9h Kd
+neverx    970205991  2  2 Br  k     k     k         3832   90  180 Ad Ac
+neverx    970206016  2  1 Bf  -     -     -         3922    5    0 
+neverx    970206022  2  2 B   -     -     -         3917   10   15 
+neverx    970206023  2  1 Bc  b     -     -         3922   30   40 
+neverx    970206031  2  2 Bk  f     -     -         3932   10    0 
+neverx    970206039  2  1 Br  b     -     -         3922   90  120 
+neverx    970206047  2  2 Bk  f     -     -         3952   10    0 
+neverx    970206055  2  1 Bf  -     -     -         3942    5    0 
+neverx    970206057  2  2 B   -     -     -         3937   10   15 
+neverx    970206060  2  1 Bf  -     -     -         3942    5    0 
+neverx    970206062  2  2 B   -     -     -         3937   10   15 
+neverx    970206065  2  1 Bf  -     -     -         3942    5    0 
+neverx    970206068  2  2 B   -     -     -         3937   10   15 
+neverx    970206070  2  1 Br  b     k     k         3942   90    0 Kh 7h
+neverx    970206089  2  2 B   -     -     -         3852   10   15 
+neverx    970206097  2  1 Bf  -     -     -         3857    5    0 
+neverx    970206100  2  2 Br  r     -     -         3852  270  360 
+neverx    970206115  2  1 Bf  -     -     -         3942    5    0 
+neverx    970206117  2  2 Br  k     c     k         3937   90  180 Ks Jh
+neverx    970206135  2  1 Br  -     -     -         4027   30   40 
+neverx    970206144  2  2 Bc  f     -     -         4037   30    0 
+neverx    970206152  2  1 Bf  -     -     -         4007    5    0 
+neverx    970206154  2  2 Bk  f     -     -         4002   10    0 
+neverx    970206161  2  1 Bf  -     -     -         3992    5    0 
+neverx    970206163  2  2 Br  b     -     -         3987   90  120 
+neverx    970206175  2  1 Br  -     -     -         4017   30   40 
+neverx    970206179  2  2 Bk  f     -     -         4027   10    0 
+neverx    970206188  2  1 Bc  k     k     k         4017   10   20 2d As
+neverx    970206203  2  2 Bf  -     -     -         4027   10    0 
+neverx    970206215  2  1 Bf  -     -     -         4017    5    0 
+neverx    970206217  2  2 B   -     -     -         4012   10   15 
+neverx    970206221  3  1 Bf  -     -     -         4017    5    0 
+neverx    970206241  3  3 f   -     -     -         4012    0    0 
+neverx    970206249  3  2 Bf  -     -     -         4012   10    0 
+neverx    970206254  3  1 Bf  -     -     -         4002    5    0 
+neverx    970206277  3  3 r   k     k     k         3997   35   80 Qd As
+neverx    970206297  3  2 Bc  k     k     k         4042   35   53 Ah 3s
+neverx    970206319  3  1 Bf  -     -     -         4060    5    0 
+neverx    970206326  3  3 f   -     -     -         4055    0    0 
+neverx    970206329  3  2 Bf  -     -     -         4055   10    0 
+neverx    970206340  3  1 Bf  -     -     -         4045    5    0 
+neverx    970206344  3  3 f   -     -     -         4040    0    0 
+neverx    970206348  3  2 Bk  b     -     -         4040   30   40 
+neverx    970206359  3  1 Br  k     k     k         4050   40   90 Qh As
+neverx    970206373  3  3 f   -     -     -         4100    0    0 
+neverx    970206383  3  2 Bc  kf    -     -         4100   35    0 
+neverx    970206393  3  1 Bf  -     -     -         4065    5    0 
+neverx    970206405  3  3 f   -     -     -         4060    0    0 
+neverx    970206421  3  2 Bk  f     -     -         4060   10    0 
+neverx    970206434  3  1 Bc  kc    k     k         4050   40   90 3s Ts
+neverx    970206450  3  3 f   -     -     -         4100    0    0 
+neverx    970206461  3  2 Bk  k     k     k         4100   10    0 7c 8h
+neverx    970206474  4  1 Bc  k     k     b         4090   40   60 
+neverx    970206498  4  4 f   -     -     -         4110    0    0 
+neverx    970206522  4  3 rr  b     b     -         4110 2286 3058 
+neverx    970206557  5  3 f   -     -     -         4882    0    0 
+neverx    970206595  5  2 Bk  k     k     k         4882   10    0 Jd 8h
+neverx    970206616  5  1 Br  b     -     -         4872  250  400 
+neverx    970206643  5  5 c   b     -     -         5022   60  100 
+neverx    970206663  5  4 f   -     -     -         5062    0    0 
+neverx    970206689  5  3 f   -     -     -         5062    0    0 
+neverx    970206707  5  2 Bk  kf    -     -         5062   10    0 
+neverx    970206717  5  1 Bf  -     -     -         5052    5    0 
+neverx    970206721  5  5 f   -     -     -         5047    0    0 
+neverx    970206730  5  4 f   -     -     -         5047    0    0 
+neverx    970206761  5  3 r   b     -     -         5047  115  160 
+neverx    970206787  5  2 Bk  kf    -     -         5092   10    0 
+neverx    970206851  4  1 Bc  k     k     k         5082   10    0 8h 4h
+neverx    970206872  4  4 f   -     -     -         5072    0    0 
+neverx    970206889  4  3 f   -     -     -         5072    0    0 
+neverx    970206904  4  2 Bk  k     kf    -         5072   10    0 
+neverx    970206921  4  1 Br  b     b     b         5062 3235 6480 Ah As
+neverx    970206941  4  4 r   k     f     -         8307   35    0 
+neverx    970206960  4  3 cc  k     kf    -         8272   50    0 
+neverx    970206985  4  2 Bk  b     k     b         8222   90  180 Ac 5s
+neverx    970207006  4  1 Bf  -     -     -         8312    5    0 
+neverx    970207021  4  4 c   b     -     -         8307   50   80 
+neverx    970207039  4  3 f   -     -     -         8337    0    0 
+neverx    970207052  4  2 Bk  k     kf    -         8337   10    0 
+neverx    970207070  4  1 Bf  -     -     -         8327    5    0 
+neverx    970207089  4  4 r   b     b     k         8322  465  945 Kd Jd
+neverx    970207124  4  3 c   k     k     k         8802   10    0 8c Tc
+neverx    970207171  4  2 Bk  kf    -     -         8792   10    0 
+neverx    970207184  4  1 Bc  k     k     kf        8782   10    0 
+neverx    970207206  4  4 f   -     -     -         8772    0    0 
+neverx    970207229  4  3 r   kf    -     -         8772   35    0 
+neverx    970207276  4  2 Bk  k     k     k         8737   10   30 3d Kc
+neverx    970207293  4  1 Br  b     k     kf        8757  160    0 
+neverx    970207332  4  4 f   -     -     -         8597    0    0 
+neverx    970207362  4  3 f   -     -     -         8597    0    0 
+neverx    970207382  4  2 Br  k     k     k         8597   30    0 Kh Th
+neverx    970207399  4  1 Bf  -     -     -         8567    5    0 
+neverx    970207425  4  4 f   -     -     -         8562    0    0 
+neverx    970207440  4  3 c   b     k     k         8562   40   90 9d Jc
+neverx    970207461  4  2 Bk  k     k     k         8612   10    0 Qc 2s
+neverx    970207476  4  1 Br  b     b     kc        8602 1060 2160 Ah Kh
+neverx    970207512  4  4 f   -     -     -         9702    0    0 
+neverx    970207536  4  3 c   kf    -     -         9702   10    0 
+neverx    970207553  4  2 Bk  k     k     k         9692   10    0 Ah 5s
+neverx    970207580  5  1 Bc  k     kf    -         9682   10    0 
+neverx    970207601  5  5 f   -     -     -         9672    0    0 
+neverx    970207630  5  4 f   -     -     -         9672    0    0 
+neverx    970207667  6  4 f   -     -     -         9672    0    0 
+neverx    970207703  6  3 r   b     k     f         9672  180    0 
+neverx    970207737  7  3 f   -     -     -         9492    0    0 
+neverx    970207767  7  2 Bf  -     -     -         9492   10    0 
+neverx    970207783  7  1 Bc  kf    -     -         9482   10    0 
+neverx    970207806  7  7 c   k     f     -         9472   10    0 
+neverx    970207851  7  6 r   b     k     k         9462  225    0 2h 4h
+neverx    970207883  7  5 fQ  -     -     -         9237    0    0 
+neverx    970234728  2  1 Bc  k     k     k         9237   10   20 7s Ks
+neverx    970234798  2  2 Bk  k     k     rc        9247  270  270 3s Jh
+neverx    970234819  2  1 Bf  -     -     -         9247    5    0 
+neverx    970234828  2  2 Bk  b     -     -         9232   30   40 
+neverx    970234837  2  1 Br  -     -     -         9242   30   40 
+neverx    970234840  2  2 Bc  f     -     -         9252   30    0 
+neverx    970234846  2  1 Bf  -     -     -         9222    5    0 
+neverx    970234848  2  2 B   -     -     -         9217   10   15 
+neverx    970234850  2  1 Bc  k     kf    -         9222   10    0 
+neverx    970234861  2  2 Bk  b     b     -         9212   90  120 
+neverx    970234880  2  1 Br  -     -     -         9272   30   40 
+neverx    970234883  2  2 Bk  b     -     -         9282   30   40 
+neverx    970234890  2  1 Bf  -     -     -         9292    5    0 
+neverx    970234893  2  2 B   -     -     -         9287   10   15 
+neverx    970234895  2  1 Bf  -     -     -         9292    5    0 
+neverx    970234898  2  2 B   -     -     -         9287   10   15 
+neverx    970234901  2  1 Br  -     -     -         9292   30   40 
+neverx    970234906  2  2 Bk  k     k     -         9302   10   20 
+neverx    970234917  2  1 Bf  -     -     -         9312    5    0 
+neverx    970234919  2  2 B   -     -     -         9307   10   15 
+neverx    970234921  2  1 Bf  -     -     -         9312    5    0 
+neverx    970234923  2  2 Bk  k     k     f         9307   10    0 
+neverx    970234938  2  1 Br  -     -     -         9297   30   40 
+neverx    970234940  2  2 B   -     -     -         9307   10   15 
+neverx    970234942  2  1 Bf  -     -     -         9312    5    0 
+neverx    970234944  2  2 Bk  k     k     k         9307   10   20 9d 5s
+neverx    970234958  2  1 Bc  k     k     kf        9317   10    0 
+neverx    970234980  2  2 Bk  b     k     k         9307   30   60 Jd Ks
+neverx    970234993  2  1 Br  -     -     -         9337   30   40 
+neverx    970235001  2  2 Bf  -     -     -         9347   10    0 
+neverx    970235004  2  1 Bc  k     kc    kr        9337  270  540 Ks 5s
+neverx    970235022  2  2 Bk  k     k     k         9607   10    0 6c Qh
+neverx    970235033  2  1 Br  k     k     k         9597   30   60 Jd Kh
+neverx    970235043  2  2 B   -     -     -         9627   10   15 
+neverx    970235048  2  1 Bf  -     -     -         9632    5    0 
+neverx    970235052  2  2 B   -     -     -         9627   10   15 
+neverx    970235053  2  1 Bc  k     k     b         9632   30   40 
+neverx    970235070  2  2 Bk  k     k     c         9642   30    0 6d 7c
+neverx    970235080  2  1 Bf  -     -     -         9612    5    0 
+neverx    970235086  2  2 Bk  k     k     k         9607   10    0 7c 3d
+neverx    970235096  2  1 Br  b     -     -         9597   90  120 
+neverx    970235105  2  2 Bk  b     b     b         9627  270  360 
+neverx    970235117  2  1 Bf  -     -     -         9717    5    0 
+neverx    970235120  2  2 B   -     -     -         9712   10   15 
+neverx    970235121  2  1 Bf  -     -     -         9717    5    0 
+neverx    970235122  2  2 Bk  b     k     k         9712   30    0 Ts Jd
+neverx    970235134  2  1 Bf  -     -     -         9682    5    0 
+neverx    970235139  2  2 Bk  b     b     k         9677   90    0 3d 4d
+neverx    970235151  2  1 Bf  -     -     -         9587    5    0 
+neverx    970235156  2  2 Br  k     b     -         9582   90  120 
+neverx    970235165  2  1 Bf  -     -     -         9612    5    0 
+neverx    970235167  2  2 B   -     -     -         9607   10   15 
+neverx    970235169  2  1 Bc  k     k     k         9612   10    0 9s 7c
+neverx    970235179  2  2 Bk  k     k     k         9602   10    0 6s 2c
+neverx    970235190  2  1 Br  -     -     -         9592   30   40 
+neverx    970235196  2  2 Bk  b     -     -         9602   30   40 
+neverx    970235202  2  1 Bcf -     -     -         9612   10    0 
+neverx    970235206  2  2 Bk  k     k     f         9602   10    0 
+neverx    970235215  2  1 Bf  -     -     -         9592    5    0 
+neverx    970235217  2  2 Br  k     k     k         9587   30   60 6c 6d
+neverx    970235229  2  1 Bf  -     -     -         9617    5    0 
+neverx    970235234  2  2 Bk  k     k     f         9612   10    0 
+neverx    970235246  2  1 Bc  k     k     k         9602   10   10 7c Jc
+neverx    970235255  2  2 B   -     -     -         9602   10   15 
+neverx    970235259  2  1 Bf  -     -     -         9607    5    0 
+neverx    970235261  2  2 Bk  k     k     k         9602   10   20 7s 4h
+neverx    970235269  2  1 Bc  k     k     k         9612   10    0 2h Th
+neverx    970235282  2  2 Bk  b     b     b         9602  270  540 6s 8d
+neverx    970235301  3  1 Bc  b     -     -         9872   40   60 
+neverx    970235315  3  3 r   b     -     -         9892  110  150 
+neverx    970235326  3  2 Bf  -     -     -         9932   10    0 
+neverx    970235331  3  1 Bc  b     k     k         9922   40    0 Jc Td
+neverx    970235344  3  3 f   -     -     -         9882    0    0 
+neverx    970235355  3  2 Bk  f     -     -         9882   10    0 
+neverx    970235362  3  1 Br  b     k     k         9872   90    0 Qh Ac
+neverx    970235372  3  3 r   k     k     k         9782   35   80 Kc Ac
+neverx    970235389  3  2 B   -     -     -         9827   10   15 
+neverx    970235395  3  1 Bc  b     k     k         9832   40  120 8s 9s
+neverx    970235412  3  3 f   -     -     -         9912    0    0 
+neverx    970235418  3  2 Bk  k     b     k         9912   30   60 Qh 9c
+neverx    970235430  3  1 Bc  kf    -     -         9942   10    0 
+neverx    970235439  3  3 f   -     -     -         9932    0    0 
+neverx    970235469  3  2 B   -     -     -         9932   10   15 
+neverx    970235475  3  1 Br  kc    k     k         9937  130    0 6d 5d
+neverx    970235498  3  3 f   -     -     -         9807    0    0 
+neverx    970235525  3  2 Bk  k     k     k         9807   10   20 3h 4d
+neverx    970235550  3  1 Bf  -     -     -         9817    5    0 
+neverx    970235564  3  3 r   b     -     -         9812  115  160 
+neverx    970235575  3  2 Bk  k     k     kf        9857   10    0 
+neverx    970235653  3  1 Bc  bc    kc    k         9847  520 1080 2s Ts
+neverx    970235688  3  3 f   -     -     -        10407    0    0 
+neverx    970235712  3  2 Bk  k     k     k        10407   10   30 2h 9d
+neverx    970235744  3  1 Bf  -     -     -        10427    5    0 
+neverx    970235759  3  3 r   k     k     k        10422   35   80 9s 6s
+neverx    970235769  3  2 Br  k     k     k        10467   35   75 Ad 2d
+neverx    970235787  3  1 Bcf -     -     -        10507   10    0 
+neverx    970235801  3  3 c   b     b     -        10497  130  180 
+neverx    970235832  3  2 Br  k     k     k        10547   40    0 9c Ah
+neverx    970235854  3  1 Bf  -     -     -        10507    5    0 
+neverx    970235868  3  3 cc  f     -     -        10502   40    0 
+neverx    970235881  3  2 Bf  -     -     -        10462   10    0 
+neverx    970235885  3  1 Bc  b     -     -        10452   30   40 
+neverx    970235895  3  3 f   -     -     -        10462    0    0 
+neverx    970235929  3  2 Bk  k     f     -        10462   10    0 
+neverx    970235942  3  1 Bf  -     -     -        10452    5    0 
+neverx    970235945  3  3 f   -     -     -        10447    0    0 
+neverx    970235962  3  2 Br  k     kf    -        10447   40    0 
+neverx    970235980  3  1 Bf  -     -     -        10407    5    0 
+neverx    970235982  3  3 f   -     -     -        10402    0    0 
+neverx    970235995  3  2 Bk  f     -     -        10402   10    0 
+neverx    970236008  3  1 Bf  -     -     -        10392    5    0 
+neverx    970236017  3  3 f   -     -     -        10387    0    0 
+neverx    970236039  3  2 Bf  -     -     -        10387   10    0 
+neverx    970236045  3  1 Bcc kf    -     -        10377  140    0 
+neverx    970236072  3  3 r   k     k     k        10237   35    0 7d Kc
+neverx    970236092  3  2 Bk  r     k     k        10202   90  180 Jc 5c
+neverx    970236112  3  1 Br  kc    kc    -        10292  201  562 Jc 9s
+neverx    970236161  2  2 Br  k     k     k        10653   30   60 Ad 9s
+neverx    970236205  2  1 Br  b     k     -        10683   90  180 
+neverx    970236227  2  2 Bf  -     -     -        10773   10    0 
+neverx    970236231  2  1 Bc  k     b     kc       10763   90  180 7h Jh
+neverx    970236257  2  2 Bk  k     k     f        10853   10    0 
+neverx    970236273  2  1 Bf  -     -     -        10843    5    0 
+neverx    970236274  2  2 B   -     -     -        10838   10   15 
+neverx    970236278  2  1 Bf  -     -     -        10843    5    0 
+neverx    970236281  2  2 Bk  b     -     -        10838   30   40 
+neverx    970236287  2  1 Brc k     k     k        10848   90    0 Ts Ac
+neverx    970236297  2  2 B   -     -     -        10758   10   15 
+neverx    970236302  2  1 Br  k     k     k        10763   30   30 8d 9d
+neverx    970236322  2  2 Br  k     k     k        10763   30    0 As 6s
+neverx    970236337  2  1 Bf  -     -     -        10733    5    0 
+neverx    970236344  3  3 c   b     -     -        10728   40   60 
+neverx    970236353  2  1 Bk  k     k     kf       10748   10    0 
+neverx    970236368  3  1 Bf  -     -     -        10738    5    0 
+neverx    970236387  3  3 f   -     -     -        10733    0    0 
+neverx    970236399  3  2 Bc  k     k     b        10733  110  150 
+neverx    970236414  3  1 Bc  b     b     -        10773   90  120 
+neverx    970236430  3  3 r   k     k     k        10803   35    0 6c 9c
+neverx    970236451  3  2 B   -     -     -        10768   10   15 
+neverx    970236458  3  1 Bc  k     k     k        10773   35    0 6c 7c
+neverx    970236477  3  3 r   k     k     k        10738   35   75 Ac Js
+neverx    970236489  3  2 Bf  -     -     -        10778   10    0 
+neverx    970236505  3  1 Bf  -     -     -        10768    5    0 
+neverx    970236515  3  3 f   -     -     -        10763    0    0 
+neverx    970236525  3  2 B   -     -     -        10763   10   15 
+neverx    970236530  3  1 Bf  -     -     -        10768    5    0 
+neverx    970236538  3  3 f   -     -     -        10763    0    0 
+neverx    970236543  3  2 Bf  -     -     -        10763   10    0 

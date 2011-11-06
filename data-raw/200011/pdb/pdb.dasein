@@ -1,0 +1,63 @@
+dasein    975344860  6  5 r   k     k     k         9880   35   80 Ad 2d
+dasein    975344876  6  4 f   -     -     -         9925    0    0 
+dasein    975344892  6  3 r   k     f     -         9925   35    0 
+dasein    975344902  6  2 Br  k     c     c         9890  850    0 Ad Ac
+dasein    975344923  6  1 Brc k     k     kf        9040  355    0 
+dasein    975344946  6  6 r   b     k     k         8685  280    0 Tc Js
+dasein    975344972  6  5 r   k     f     -         8405   35    0 
+dasein    975344996  6  4 r   k     k     kf        8370   35    0 
+dasein    975345024  6  3 r   b     b     -         8335  375  510 
+dasein    975345039  6  2 Bk  k     kf    -         8470   10    0 
+dasein    975345066  6  1 Br  b     b     b         8460 1610 2160 
+dasein    975345092  7  7 r   -     -     -         9010   35   50 
+dasein    975345098  7  6 f   -     -     -         9025    0    0 
+dasein    975345114  7  5 r   c     k     k         9025  185  600 9s 7h
+dasein    975345142  7  4 f   -     -     -         9440    0    0 
+dasein    975345161  7  3 f   -     -     -         9440    0    0 
+dasein    975345171  7  2 Br  k     k     k         9440   75    0 Kh Jc
+dasein    975345221  7  1 Bc  kf    -     -         9365   35    0 
+dasein    975345271  7  7 rc  r     k     f         9330 5090    0 
+dasein    975345313  7  6 r   k     f     -         4240   45    0 
+dasein    975345346  7  5 r   k     kf    -         4195   35    0 
+dasein    975345378  7  4 f   -     -     -         4160    0    0 
+dasein    975345406  7  4 rrrcA -     -     -         4160 4160    0 Qd As
+dasein    975346093  7  6 f   -     -     -        10000    0    0 
+dasein    975346125  7  5 r   b     br    bA       10000 10000 10025 4c 6d
+dasein    975346151  7  4 f   -     -     -        10025    0    0 
+dasein    975346184  7  3 f   -     -     -        10025    0    0 
+dasein    975346222  7  2 Bk  f     -     -        10025   10    0 
+dasein    975346250  7  1 Bf  -     -     -        10015    5    0 
+dasein    975346281  7  7 r   -     -     -        10010   35   50 
+dasein    975346290  7  6 r   b     k     f        10025  185    0 
+dasein    975346319  7  5 f   -     -     -         9840    0    0 
+dasein    975346331  7  4 f   -     -     -         9840    0    0 
+dasein    975346359  7  3 r   f     -     -         9840   35    0 
+dasein    975346387  6  2 Br  f     -     -         9805   45    0 
+dasein    975346411  7  1 Bf  -     -     -         9760    5    0 
+dasein    975346438  7  7 rc  r     -     -         9755 1875 2520 
+dasein    975346460  7  6 r   f     -     -        10400  120    0 
+dasein    975346489  7  5 rc  f     -     -        10280  160    0 
+dasein    975346507  7  4 r   b     -     -        10120  115  160 
+dasein    975346521  7  3 r   b     k     k        10165  120  128 7c 5s
+dasein    975346545  8  2 Bk  f     -     -        10173   10    0 
+dasein    975346587  8  1 Brr kf    -     -        10163  850    0 
+dasein    975346616  8  8 r   b     k     k         9313  280  675 Qc Js
+dasein    975346645  8  7 rr  brA   -     -         9708 9708 19906 Js Qc
+dasein    975346701  8  6 f   -     -     -        19906    0    0 
+dasein    975346733  8  5 f   -     -     -        19906    0    0 
+dasein    975346751  8  4 rc  f     -     -        19906  290    0 
+dasein    975346779  8  3 r   k     k     k        19616   35    0 2d 2s
+dasein    975346804  8  2 Bk  f     -     -        19581   10    0 
+dasein    975346823  8  1 Br  b     b     brA      19571 19571    0 2c 2d
+dasein    975347662  6  6 r   b     b     f        10000  870    0 
+dasein    975347704  3  3 f   -     -     -         9130    0    0 
+dasein    975347728  3  2 Br  b     b     k         9130  335  675 Kc 5h
+dasein    975347744  3  1 Bf  -     -     -         9470    5    0 
+dasein    975347759  3  3 r   b     -     -         9465  110  150 
+dasein    975347773  3  2 Brc f     -     -         9505  205    0 
+dasein    975347812  4  1 Br  f     -     -         9300   40    0 
+dasein    975347832  4  4 r   f     -     -         9260   35    0 
+dasein    975347844  4  3 r   -     -     -         9225   35   50 
+dasein    975347850  3  2 Br  f     -     -         9240   30    0 
+dasein    975347856  3  1 Br  bf    -     -         9210   90    0 
+dasein    975347866  3  3 rrc rcA   -     -         9120 9120    0 7h Kh

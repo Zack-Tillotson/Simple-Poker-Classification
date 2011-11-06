@@ -1,0 +1,370 @@
+holdmking 973727176  3  2 B   -     -     -         3006   10   15 
+holdmking 973727185  3  1 Bf  -     -     -         3011    5    0 
+holdmking 973727190  3  3 r   b     -     -         3006  140  210 
+holdmking 973727215  3  2 Bf  -     -     -         3076   10    0 
+holdmking 973727219  3  1 Bf  -     -     -         3066    5    0 
+holdmking 973727225  3  3 f   -     -     -         3061    0    0 
+holdmking 973727230  3  2 Bk  k     k     k         3061   10    0 9s 4h
+holdmking 973727251  3  1 Bf  -     -     -         3051    5    0 
+holdmking 973727267  3  3 f   -     -     -         3046    0    0 
+holdmking 973727272  3  2 Bk  kf    -     -         3046   10    0 
+holdmking 973727284  3  1 Bf  -     -     -         3036    5    0 
+holdmking 973727289  3  3 f   -     -     -         3031    0    0 
+holdmking 973727294  3  2 Bc  c     c     k         3031  270  540 Qc Qh
+holdmking 973727319  3  1 Bc  kc    kf    -         3301  115    0 
+holdmking 973727347  3  3 f   -     -     -         3186    0    0 
+holdmking 973727355  3  2 Bc  b     kf    -         3186  110    0 
+holdmking 973727374  3  1 Bc  k     k     k         3076   10    0 7c Tc
+holdmking 973727393  3  3 f   -     -     -         3066    0    0 
+holdmking 973727400  3  2 Bk  k     k     kf        3066   10    0 
+holdmking 973727417  3  1 Bc  k     b     -         3056   30   40 
+holdmking 973727429  3  3 f   -     -     -         3066    0    0 
+holdmking 973727433  3  2 B   -     -     -         3066   10   15 
+holdmking 973727438  3  1 Bf  -     -     -         3071    5    0 
+holdmking 973727447  3  3 ccc cA    -     -         3066 3066 9198 Jh Jc
+holdmking 973727489  3  2 B   -     -     -         9198   10   15 
+holdmking 973727503  3  1 Bf  -     -     -         9203    5    0 
+holdmking 973727514  3  3 f   -     -     -         9198    0    0 
+holdmking 973727519  3  2 Bf  -     -     -         9198   10    0 
+holdmking 973727523  3  1 Bf  -     -     -         9188    5    0 
+holdmking 973727528  3  3 f   -     -     -         9183    0    0 
+holdmking 973727560  3  2 B   -     -     -         9183   10   15 
+holdmking 973727570  3  1 Bf  -     -     -         9188    5    0 
+holdmking 973727596  4  3 f   -     -     -         9183    0    0 
+holdmking 973727619  4  2 Bc  b     -     -         9183   90  120 
+holdmking 973727636  4  1 Bf  -     -     -         9213    5    0 
+holdmking 973727655  4  4 c   k     k     k         9208   35   85 Qh 9s
+holdmking 973727677  4  3 cc  b     -     -         9258  110  150 
+holdmking 973727704  4  2 Bc  c     b     k         9298  850 1800 7h 7d
+holdmking 973727742  4  1 Bf  -     -     -        10248    5    0 
+holdmking 973727769  4  4 c   f     -     -        10243   35    0 
+holdmking 973727789  4  3 c   k     c     k        10208   50  120 Ks Jc
+holdmking 973727821  4  2 Bk  k     kf    -        10278   10    0 
+holdmking 973727856  4  1 Bf  -     -     -        10268    5    0 
+holdmking 973727860  4  4 c   f     -     -        10263   35    0 
+holdmking 973727876  4  3 cc  k     k     k        10228   40  120 Ah 8h
+holdmking 973727905  4  2 Bk  k     bc    kf       10308  150    0 
+holdmking 973727939  4  1 Bc  b     -     -        10158   30   40 
+holdmking 973727953  4  4 c   k     k     f        10168   35    0 
+holdmking 973727981  4  3 f   -     -     -        10133    0    0 
+holdmking 973727998  4  2 Bc  c     c     k        10133  640    0 5s 6c
+holdmking 973728030  3  1 Bc  k     b     -         9493  140  210 
+holdmking 973728055  3  3 r   b     -     -         9563  115  160 
+holdmking 973728067  3  2 B   -     -     -         9608   10   15 
+holdmking 973728073  3  1 Bf  -     -     -         9613    5    0 
+holdmking 973728079  3  3 c   c     k     k         9608   40   90 As 5d
+holdmking 973728101  3  2 Br  bc    kc    kf        9658  785    0 
+holdmking 973728126  3  1 Bf  -     -     -         8873    5    0 
+holdmking 973728141  3  3 f   -     -     -         8868    0    0 
+holdmking 973728168  3  2 Brc b     -     -         8868 2080 3120 
+holdmking 973728206  3  1 Bf  -     -     -         9908    5    0 
+holdmking 973728228  3  3 c   -     -     -         9903   10   25 
+holdmking 973728246  2  1 B   -     -     -         9918   10   10 
+holdmking 973737858  2  2 Bk  k     k     k         9918   10   20 3s 3h
+holdmking 973737891  2  1 Bc  k     k     k        11378   10   20 2c Ks
+holdmking 973737921  2  2 Bk  k     k     rrrcA    11388 11388    0 4h 8d
+holdmking 973877121  3  3 f   -     -     -         4010    0    0 
+holdmking 973877142  3  2 Bf  -     -     -         4010   10    0 
+holdmking 973877153  3  1 Bf  -     -     -         4000    5    0 
+holdmking 973877157  3  3 f   -     -     -         3995    0    0 
+holdmking 973877180  3  2 B   -     -     -         3995   10   15 
+holdmking 973877184  3  1 Bf  -     -     -         4000    5    0 
+holdmking 973877188  3  3 r   b     -     -         3995  110  150 
+holdmking 973877199  3  2 Brr k     k     f         4035  810    0 
+holdmking 973877334  3  1 BfQ -     -     -         3205    5    0 
+holdmking 973898085  3  3 c   b     -     -         3110   40   60 
+holdmking 973898107  3  2 Bk  k     k     k         3110   10   20 9h 8h
+holdmking 973898120  3  1 Bf  -     -     -         3120    5    0 
+holdmking 973898128  3  3 c   k     k     k         3115   10   30 Ts Ks
+holdmking 973898153  4  2 Bk  k     k     k         3125   10    0 7d 2h
+holdmking 973898181  4  1 Bf  -     -     -         3115    5    0 
+holdmking 973898190  4  4 f   -     -     -         3110    0    0 
+holdmking 973898194  4  3 f   -     -     -         3110    0    0 
+holdmking 973898198  4  2 Bk  k     kf    -         3110   10    0 
+holdmking 973898225  4  1 Bf  -     -     -         3100    5    0 
+holdmking 973898299  3  3 c   k     b     -         3075   30   40 
+holdmking 973898324  3  3 f   -     -     -         3115    0    0 
+holdmking 973898337  3  2 Bk  b     b     -         3115  130  180 
+holdmking 973898359  3  1 Bf  -     -     -         3165    5    0 
+holdmking 973898363  3  3 f   -     -     -         3160    0    0 
+holdmking 973898365  4  2 B   -     -     -         3160   10   15 
+holdmking 973898371  4  1 Bf  -     -     -         3165    5    0 
+holdmking 973898378  4  4 f   -     -     -         3160    0    0 
+holdmking 973898390  4  3 f   -     -     -         3160    0    0 
+holdmking 973898397  4  2 B   -     -     -         3160   10   15 
+holdmking 973898401  3  1 Bf  -     -     -         3165    5    0 
+holdmking 973898407  3  3 f   -     -     -         3160    0    0 
+holdmking 973898419  4  2 Bk  k     k     kf        3120   10    0 
+holdmking 973898455  5  1 Bf  -     -     -         3070    5    0 
+holdmking 973898481  5  5 f   -     -     -         3065    0    0 
+holdmking 973898495  5  4 f   -     -     -         3065    0    0 
+holdmking 973898535  5  3 c   k     k     k         3045   10   30 Jh Qd
+holdmking 973898552  5  2 Bk  kf    -     -         3065   10    0 
+holdmking 973898579  5  1 Bf  -     -     -         3055    5    0 
+holdmking 973898586  5  5 f   -     -     -         3050    0    0 
+holdmking 973898598  5  4 f   -     -     -         3050    0    0 
+holdmking 973898610  5  3 f   -     -     -         3050    0    0 
+holdmking 973898631  5  2 Bk  f     -     -         3050   10    0 
+holdmking 973898644  5  1 Bf  -     -     -         3040    5    0 
+holdmking 973898662  5  5 f   -     -     -         2995    0    0 
+holdmking 973898679  5  4 f   -     -     -         2995    0    0 
+holdmking 973898687  5  3 f   -     -     -         2995    0    0 
+holdmking 973898706  5  2 Bk  b     b     kf        2975  150    0 
+holdmking 973898757  5  1 Bf  -     -     -         2815    5    0 
+holdmking 973898775  5  5 f   -     -     -         2810    0    0 
+holdmking 973898798  5  4 f   -     -     -         2750    0    0 
+holdmking 973898822  5  3 f   -     -     -         2750    0    0 
+holdmking 973898846  5  2 B   -     -     -         2750   10   15 
+holdmking 973898851  5  1 Bf  -     -     -         2755    5    0 
+holdmking 973898857  5  5 f   -     -     -         2750    0    0 
+holdmking 973898880  5  4 f   -     -     -         2750    0    0 
+holdmking 973898891  5  3 f   -     -     -         2750    0    0 
+holdmking 973898918  5  2 Bk  kf    -     -         2750   10    0 
+holdmking 973898930  5  1 Bc  kc    kc    k         2740  130    0 Qh Ah
+holdmking 973898956  5  5 c   k     f     -         2610   10    0 
+holdmking 973898985  5  4 f   -     -     -         2600    0    0 
+holdmking 973899015  5  3 r   -     -     -         2870   35   50 
+holdmking 973899023  5  2 Bk  k     k     k         2885   10    0 3s 7c
+holdmking 973899063  5  1 Bc  bc    k     kc        2715  400    0 Jc Jd
+holdmking 973899103  5  5 f   -     -     -         2295    0    0 
+holdmking 973899121  5  4 f   -     -     -         2295    0    0 
+holdmking 973899133  5  3 c   b     -     -         2295   40   60 
+holdmking 973899149  5  2 Bk  kc    k     k         2375   35    0 4c As
+holdmking 973899177  4  1 Bf  -     -     -         2320    5    0 
+holdmking 973899195  4  4 c   f     -     -         2315   10    0 
+holdmking 973899204  4  3 f   -     -     -         2305    0    0 
+holdmking 973899218  4  2 Bk  k     k     k         2305   10   20 Ad 8d
+holdmking 973899231  4  1 Bf  -     -     -         2315    5    0 
+holdmking 973899275  6  5 f   -     -     -         2310    0    0 
+holdmking 973899297  6  4 f   -     -     -         2310    0    0 
+holdmking 973899304  6  3 f   -     -     -         2310    0    0 
+holdmking 973899333  6  2 Bc  c     b     b         2310  810  810 As Qc
+holdmking 973899362  6  1 Bf  -     -     -         2310    5    0 
+holdmking 973899422  6  6 f   -     -     -         2285    0    0 
+holdmking 973899436  6  5 f   -     -     -         2275    0    0 
+holdmking 973899465  5  4 f   -     -     -         2215    0    0 
+holdmking 973899470  5  3 f   -     -     -         2215    0    0 
+holdmking 973899501  5  2 B   -     -     -         2215   10   15 
+holdmking 973899508  5  1 Bf  -     -     -         2220    5    0 
+holdmking 973899518  5  5 f   -     -     -         2215    0    0 
+holdmking 973899556  5  4 r   r     -     -         2215  495  690 
+holdmking 973899578  5  3 r   -     -     -         2410   35   50 
+holdmking 973899586  5  2 B   -     -     -         2425   10   15 
+holdmking 973899595  5  1 Bf  -     -     -         2430    5    0 
+holdmking 973899613  5  5 c   b     -     -         2425   40   60 
+holdmking 973899630  5  4 f   -     -     -         2445    0    0 
+holdmking 973899647  5  3 f   -     -     -         2445    0    0 
+holdmking 973899653  5  2 Bk  k     k     f         2445   10    0 
+holdmking 973899664  5  1 Bc  k     k     b         2435  150  230 
+holdmking 973899684  5  5 c   k     b     -         2515   35   50 
+holdmking 973899699  4  3 c   b     -     -         2530   35   50 
+holdmking 973899708  4  2 B   -     -     -         2545   10   15 
+holdmking 973899712  4  1 Bc  k     b     kc        2550   90  180 Qs 9d
+holdmking 973899729  4  4 r   b     k     k         2640  115    0 Ah Jc
+holdmking 973899747  4  3 f   -     -     -         2525    0    0 
+holdmking 973899753  4  2 Bf  -     -     -         2525   10    0 
+holdmking 973899768  4  1 Bc  kc    k     b         2515   90  180 6c 6s
+holdmking 973899787  4  4 f   -     -     -         2605    0    0 
+holdmking 973899811  4  3 c   f     -     -         2605   10    0 
+holdmking 973899825  4  2 Bk  kf    -     -         2595   10    0 
+holdmking 973899835  4  1 Bc  k     b     b         2585  130  180 
+holdmking 973899857  4  4 f   -     -     -         2635    0    0 
+holdmking 973899868  4  3 f   -     -     -         2635    0    0 
+holdmking 973899898  4  2 Bc  kf    -     -         2635   45    0 
+holdmking 973899920  4  1 Bf  -     -     -         2590    5    0 
+holdmking 973899938  4  4 f   -     -     -         2585    0    0 
+holdmking 973899950  4  3 c   f     -     -         2585   10    0 
+holdmking 973899960  4  2 Bk  f     -     -         2575   10    0 
+holdmking 973899970  4  1 Bc  b     -     -         2565   40   60 
+holdmking 973899984  4  4 f   -     -     -         2585    0    0 
+holdmking 973899994  4  3 r   -     -     -         2585   35   50 
+holdmking 973900001  4  2 Bc  kf    -     -         2600   35    0 
+holdmking 973900017  4  1 Bc  k     kf    -         2565   10    0 
+holdmking 973900032  4  4 f   -     -     -         2555    0    0 
+holdmking 973900053  4  3 f   -     -     -         2555    0    0 
+holdmking 973900067  4  2 Bk  f     -     -         2555   10    0 
+holdmking 973900081  4  1 Bc  k     k     k         2545   10    0 9c 7c
+holdmking 973900101  4  4 f   -     -     -         2535    0    0 
+holdmking 973900111  4  3 f   -     -     -         2535    0    0 
+holdmking 973900116  4  2 Bf  -     -     -         2535   10    0 
+holdmking 973900134  4  1 Bf  -     -     -         2525    5    0 
+holdmking 973900147  4  4 f   -     -     -         2520    0    0 
+holdmking 973900158  4  3 c   k     k     k         2520   10   25 Ts Jh
+holdmking 973900170  4  2 Bc  kf    -     -         2535   35    0 
+holdmking 973900183  4  1 Bc  k     k     k         2500   10    0 Ac 3s
+holdmking 973900198  4  4 r   b     b     k         2490  465  945 Ac 6c
+holdmking 973900221  4  3 f   -     -     -         2970    0    0 
+holdmking 973900231  4  2 B   -     -     -         2970   10   15 
+holdmking 973900235  4  1 Bc  k     k     k         2975   10   20 8s 8c
+holdmking 973900249  4  4 f   -     -     -         2985    0    0 
+holdmking 973900254  4  3 f   -     -     -         2985    0    0 
+holdmking 973900258  4  2 Bf  -     -     -         2985   10    0 
+holdmking 973900263  4  1 Bcc kf    -     -         2975   30    0 
+holdmking 973900283  4  4 f   -     -     -         2945    0    0 
+holdmking 973900288  4  3 r   -     -     -         2945   35   50 
+holdmking 973900291  4  2 Bk  b     -     -         2960   30   40 
+holdmking 973900300  4  1 Bf  -     -     -         2970    5    0 
+holdmking 973900307  4  4 c   f     -     -         2965   10    0 
+holdmking 973900317  4  3 f   -     -     -         2955    0    0 
+holdmking 973900327  4  2 Bk  f     -     -         2955   10    0 
+holdmking 973900339  4  1 Bf  -     -     -         2945    5    0 
+holdmking 973900361  4  4 f   -     -     -         2940    0    0 
+holdmking 973900368  4  3 f   -     -     -         2940    0    0 
+holdmking 973900383  4  2 Bc  k     b     -         2940  110  150 
+holdmking 973900396  4  1 Bf  -     -     -         2980    5    0 
+holdmking 973900403  4  4 c   k     k     k         2975   10    0 Qd Td
+holdmking 973900433  4  3 f   -     -     -         2965    0    0 
+holdmking 973900443  4  2 Bf  -     -     -         2965   10    0 
+holdmking 973900462  4  1 Bc  b     k     k         2955   40   90 8c Ad
+holdmking 973900483  4  4 f   -     -     -         3005    0    0 
+holdmking 973900492  4  3 c   k     f     -         3005   10    0 
+holdmking 973900510  4  2 Bc  k     k     kf        2995   35    0 
+holdmking 973900527  4  1 Bc  k     kc    k         2960   30    0 2d 3d
+holdmking 973900548  4  4 f   -     -     -         2930    0    0 
+holdmking 973900555  4  3 c   kf    -     -         2930   10    0 
+holdmking 973900569  4  2 Bf  -     -     -         2920   10    0 
+holdmking 973900573  4  1 Bf  -     -     -         2910    5    0 
+holdmking 973900576  4  4 f   -     -     -         2905    0    0 
+holdmking 973900579  4  3 f   -     -     -         2905    0    0 
+holdmking 973900581  4  2 Bf  -     -     -         2905   10    0 
+holdmking 973900585  4  1 Bf  -     -     -         2895    5    0 
+holdmking 973900598  4  4 f   -     -     -         2890    0    0 
+holdmking 973900603  4  3 f   -     -     -         2890    0    0 
+holdmking 973900631  4  2 B   -     -     -         2890   10   15 
+holdmking 973900637  4  1 Bf  -     -     -         2895    5    0 
+holdmking 973900647  4  4 f   -     -     -         2890    0    0 
+holdmking 973900650  4  3 f   -     -     -         2890    0    0 
+holdmking 973900664  4  2 B   -     -     -         2890   10   15 
+holdmking 973900670  4  1 Bc  kf    -     -         2895   35    0 
+holdmking 973900680  4  4 f   -     -     -         2860    0    0 
+holdmking 973900691  4  3 f   -     -     -         2860    0    0 
+holdmking 973900695  4  2 Bc  kc    k     b         2860  335    0 Kh Ts
+holdmking 973900716  4  1 Bc  k     k     b         2525  115  160 
+holdmking 973900741  4  4 c   k     k     k         2570   10    0 Qc 8h
+holdmking 973900770  4  3 c   b     -     -         2560   40   60 
+holdmking 973900790  4  2 Bc  kc    kf    -         2580  110    0 
+holdmking 973900804  4  1 Bf  -     -     -         2470    5    0 
+holdmking 973900818  4  4 c   k     b     b         2465  110  150 
+holdmking 973900840  4  3 c   b     -     -         2505   35   50 
+holdmking 973900849  4  2 Bc  k     b     -         2520  185  280 
+holdmking 973900868  4  1 Bc  b     -     -         2615   30   40 
+holdmking 973900879  4  4 f   -     -     -         2625    0    0 
+holdmking 973900884  4  3 f   -     -     -         2625    0    0 
+holdmking 973900890  4  2 Bf  -     -     -         2625   10    0 
+holdmking 973900894  4  1 Bf  -     -     -         2615    5    0 
+holdmking 973900904  4  4 c   b     k     k         2610   50    0 Jc Ks
+holdmking 973900930  4  3 f   -     -     -         2560    0    0 
+holdmking 973900942  4  2 B   -     -     -         2560   10   15 
+holdmking 973900949  4  1 Bf  -     -     -         2565    5    0 
+holdmking 973900980  4  4 c   b     -     -         2560   45   70 
+holdmking 973900990  4  3 f   -     -     -         2585    0    0 
+holdmking 973900996  4  2 B   -     -     -         2585   10   15 
+holdmking 973900999  4  1 Bf  -     -     -         2590    5    0 
+holdmking 973901014  4  4 f   -     -     -         2585    0    0 
+holdmking 973901033  4  3 f   -     -     -         2585    0    0 
+holdmking 973901046  3  2 Bk  k     kf    -         2585   10    0 
+holdmking 973901061  3  1 Bf  -     -     -         2575    5    0 
+holdmking 973901081  3  3 f   -     -     -         2570    0    0 
+holdmking 973901087  3  2 B   -     -     -         2570   10   15 
+holdmking 973901092  3  1 Bf  -     -     -         2575    5    0 
+holdmking 973901107  3  3 f   -     -     -         2570    0    0 
+holdmking 973901114  3  2 B   -     -     -         2570   10   15 
+holdmking 973901116  3  1 Bf  -     -     -         2575    5    0 
+holdmking 973901120  3  3 c   k     b     -         2570   35   50 
+holdmking 973901130  3  2 Bk  k     kf    -         2585   10    0 
+holdmking 973901148  3  1 Bf  -     -     -         2575    5    0 
+holdmking 973901165  3  3 f   -     -     -         2570    0    0 
+holdmking 973901172  3  2 B   -     -     -         2570   10   15 
+holdmking 973901176  3  1 Bf  -     -     -         2575    5    0 
+holdmking 973901178  3  3 cc  c     c     b         2570 1600 2160 
+holdmking 973901211  3  2 Bk  kc    kf    -         3130   40    0 
+holdmking 973901234  3  1 BQ  -     -     -         3090    5    0 
+holdmking 973912043  4  2 B   -     -     -         3085   10   15 
+holdmking 973912085  3  1 BKQ -     -     -         3070    5    0 
+holdmking 974217878  6  5 f   -     -     -         3070    0    0 
+holdmking 974217911  6  4 f   -     -     -         3070    0    0 
+holdmking 974217930  6  3 f   -     -     -         3070    0    0 
+holdmking 974217956  6  2 Bc  kc    k     b         3070  465  630 
+holdmking 974217988  6  1 Bf  -     -     -         3235    5    0 
+holdmking 974217999  7  6 f   -     -     -         3230    0    0 
+holdmking 974218027  7  5 f   -     -     -         3230    0    0 
+holdmking 974218043  7  4 f   -     -     -         3230    0    0 
+holdmking 974218064  7  3 cf  -     -     -         3230   10    0 
+holdmking 974218082  7  2 Bc  kf    -     -         3220   35    0 
+holdmking 974218107  7  1 Bc  k     kf    -         3185   35    0 
+holdmking 974218133  7  7 f   -     -     -         3150    0    0 
+holdmking 974218142  7  6 c   f     -     -         3150   10    0 
+holdmking 974218164  7  5 f   -     -     -         3140    0    0 
+holdmking 974218189  7  4 f   -     -     -         3140    0    0 
+holdmking 974218211  7  3 f   -     -     -         3140    0    0 
+holdmking 974218258  7  2 Bc  kf    -     -         3140   45    0 
+holdmking 974218291  7  1 Bc  kc    b     b         3095 2510 3480 
+holdmking 974218316  7  7 c   f     -     -         4065   35    0 
+holdmking 974218335  7  6 f   -     -     -         4030    0    0 
+holdmking 974218360  7  5 f   -     -     -         4030    0    0 
+holdmking 974218393  6  4 KQ  -     -     -         4030    0    0 
+holdmking 974242071  4  2 Bcf -     -     -         4890  115    0 
+holdmking 974242170  4  1 Bf  -     -     -         4775    5    0 
+holdmking 974242235  4  4 f   -     -     -         4770    0    0 
+holdmking 974242253  4  3 fQ  -     -     -         4770    0    0 
+holdmking 974242366  3  3 Q   -     -     -         4770    0    0 
+holdmking 974331675  2  1 Bc  k     b     -         5360   30   40 
+holdmking 974331698  3  3 r   b     -     -         5270  115  160 
+holdmking 974331721  4  3 f   -     -     -         5315    0    0 
+holdmking 974331724  4  2 Bc  k     k     k         5315   35    0 Qh Jd
+holdmking 974331749  5  1 Bf  -     -     -         5280    5    0 
+holdmking 974331758  5  5 f   -     -     -         5445    0    0 
+holdmking 974331764  5  4 f   -     -     -         5445    0    0 
+holdmking 974331772  5  3 r   bf    -     -         5445  110    0 
+holdmking 974331790  5  2 Bf  -     -     -         5335   10    0 
+holdmking 974331800  5  1 Bf  -     -     -         5325    5    0 
+holdmking 974331811  5  5 cc  f     -     -         5320   35    0 
+holdmking 974331822  4  3 r   r     b     -         5285 1075 1440 
+holdmking 974331843  4  2 B   -     -     -         5650   10   15 
+holdmking 974331850  4  1 Bc  b     -     -         5655   30   40 
+holdmking 974331862  5  5 f   -     -     -         5665    0    0 
+holdmking 974331889  5  4 r   -     -     -         5665   35   50 
+holdmking 974331899  6  4 r   -     -     -         5680   35   50 
+holdmking 974331908  6  3 r   -     -     -         5695   35   50 
+holdmking 974331913  6  2 B   -     -     -         5710   10   15 
+holdmking 974331918  6  1 Bf  -     -     -         5715    5    0 
+holdmking 974331928  6  6 c   b     -     -         5710   45   70 
+holdmking 974331941  6  5 f   -     -     -         5735    0    0 
+holdmking 974331974  6  4 f   -     -     -         5735    0    0 
+holdmking 974332044  3  2 c   k     b     k         5735   30    0 Jh Ts
+holdmking 974332069  3  2 B   -     -     -         5705   10   15 
+holdmking 974332079  3  1 Bf  -     -     -         5710    5    0 
+holdmking 974332097  3  3 Q   -     -     -         5705    0    0 
+holdmking 974332849  5  4 KQ  -     -     -         5705    0    0 
+holdmking 974332947  6  2 Bk  k     k     f         5705   10    0 
+holdmking 974332977  6  1 Bc  Q     -     -         5695   45    0 
+holdmking 974336360  7  3 f   -     -     -         5650    0    0 
+holdmking 974336386  6  2 Bf  -     -     -         5650   10    0 
+holdmking 974336418  6  1 Bf  -     -     -         5640    5    0 
+holdmking 974336452  6  6 c   b     -     -         5635   50   80 
+holdmking 974336487  6  5 r   -     -     -         5665   35   50 
+holdmking 974336508  6  4 f   -     -     -         5680    0    0 
+holdmking 974336526  6  3 r   k     f     -         5680   35    0 
+holdmking 974336561  6  2 Bf  -     -     -         5645   10    0 
+holdmking 974336588  6  1 Bf  -     -     -         5635    5    0 
+holdmking 974336627  6  6 f   -     -     -         5630    0    0 
+holdmking 974336649  6  5 f   -     -     -         5630    0    0 
+holdmking 974336667  6  4 f   -     -     -         5630    0    0 
+holdmking 974336680  6  3 f   -     -     -         5630    0    0 
+holdmking 974336692  6  2 Bk  k     k     k         5630   10    0 Qd 5s
+holdmking 974336712  7  1 Bf  -     -     -         5620    5    0 
+holdmking 974336722  7  7 c   k     f     -         5615   10    0 
+holdmking 974336754  7  6 c   b     -     -         5605   35   50 
+holdmking 974336774  7  5 f   -     -     -         5620    0    0 
+holdmking 974336793  7  4 f   -     -     -         5620    0    0 
+holdmking 974336821  7  3 f   -     -     -         5620    0    0 
+holdmking 974336858  7  2 Bk  kf    -     -         5620   10    0 
+holdmking 974336877  6  1 Bf  -     -     -         5610    5    0 
+holdmking 974336891  6  6 f   -     -     -         5605    0    0 
+holdmking 974336897  6  5 r   k     f     -         5605   45    0 
+holdmking 974336932  6  4 f   -     -     -         5560    0    0 
+holdmking 974336953  6  3 c   kQ    -     -         5560   10    0 
+holdmking 974355641  2  2 B   -     -     -         5550   10   15 
+holdmking 974364728  2  2 B   -     -     -         5545   10   20 
+holdmking 974393625  2  2 Bk  -     -     -         5415   10   20 
+holdmking 974393644  2  1 Bc  k     k     brrcA     5425 5425    0 4c 6d

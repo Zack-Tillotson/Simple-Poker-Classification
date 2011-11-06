@@ -1,0 +1,119 @@
+carrboro  975114023  6  4 f   -     -     -        11359    0    0 
+carrboro  975114053  6  3 c   b     -     -        11359   45   70 
+carrboro  975114072  6  2 Bk  b     -     -        11384   25   65 
+carrboro  975114117  6  1 Bf  -     -     -        11424    5    0 
+carrboro  975114141  6  6 f   -     -     -        11419    0    0 
+carrboro  975114167  6  5 f   -     -     -        11419    0    0 
+carrboro  975114193  6  4 r   b     k     k        11419   85    0 Tc Td
+carrboro  975114242  6  3 f   -     -     -        11334    0    0 
+carrboro  975114294  6  2 Bk  k     kc    k        11334   45  140 7h 5c
+carrboro  975114338  6  1 Br  -     -     -        11429   30   40 
+carrboro  975114359  6  6 c   rc    f     -        11439  255    0 
+carrboro  975114406  6  5 r   b     k     f        11184  220    0 
+carrboro  975114471  5  3 f   -     -     -        10964    0    0 
+carrboro  975114485  5  3 f   -     -     -        10964    0    0 
+carrboro  975114494  5  2 Bf  -     -     -        10964   10    0 
+carrboro  975114542  5  1 Bc  b     -     -        10954   40   60 
+carrboro  975114554  5  5 f   -     -     -        10974    0    0 
+carrboro  975114583  5  4 r   -     -     -        10974   35   50 
+carrboro  975114595  5  3 f   -     -     -        10989    0    0 
+carrboro  975114620  5  2 B   -     -     -        10989   10   15 
+carrboro  975114630  5  1 Bf  -     -     -        10994    5    0 
+carrboro  975114661  5  5 r   k     b     -        10989  115  160 
+carrboro  975114681  5  4 r   k     k     k        11034   35    0 Ad 6h
+carrboro  975114702  5  3 cc  kf    -     -        10999   45    0 
+carrboro  975114723  5  2 Bk  k     b     -        10954   30   40 
+carrboro  975114743  5  1 Bf  -     -     -        10964    5    0 
+carrboro  975114781  5  5 f   -     -     -        10959    0    0 
+carrboro  975114802  5  4 f   -     -     -        10959    0    0 
+carrboro  975114818  5  3 f   -     -     -        10959    0    0 
+carrboro  975114846  5  2 Bf  -     -     -        10959   10    0 
+carrboro  975114870  5  1 Br  b     -     -        10949   90  120 
+carrboro  975114893  5  5 r   b     b     b        10979  590  810 
+carrboro  975114935  5  4 r   -     -     -        11199   35   50 
+carrboro  975114945  5  3 rc  r     -     -        11214 1855 2520 
+carrboro  975114968  5  2 Bf  -     -     -        11879   10    0 
+carrboro  975114985  5  1 Bf  -     -     -        11869    5    0 
+carrboro  975115010  5  5 f   -     -     -        11864    0    0 
+carrboro  975115023  5  4 f   -     -     -        11864    0    0 
+carrboro  975115028  5  3 f   -     -     -        11864    0    0 
+carrboro  975115047  5  2 Bc  k     b     -        11864  160  240 
+carrboro  975115072  5  1 Bf  -     -     -        11944    5    0 
+carrboro  975115094  5  5 f   -     -     -        11939    0    0 
+carrboro  975115113  5  4 r   b     k     k        11939  320  775 Th Ac
+carrboro  975115150  5  3 f   -     -     -        12394    0    0 
+carrboro  975115166  5  2 Bf  -     -     -        12394   10    0 
+carrboro  975115184  5  1 Bc  b     -     -        12384   40   60 
+carrboro  975115195  5  5 f   -     -     -        12404    0    0 
+carrboro  975115209  5  4 r   -     -     -        12404   35   50 
+carrboro  975115218  5  3 r   -     -     -        12419   35   50 
+carrboro  975115225  5  2 Bk  b     bf    -        12434  110    0 
+carrboro  975115252  5  1 Br  k     b     -        12324  605 1055 
+carrboro  975115282  5  5 f   -     -     -        12774    0    0 
+carrboro  975115302  5  4 rf  -     -     -        12774   35    0 
+carrboro  975115320  5  3 f   -     -     -        12739    0    0 
+carrboro  975115351  5  2 Bf  -     -     -        12739   10    0 
+carrboro  975115370  5  1 Bc  k     k     k        12729   45    0 3c 4c
+carrboro  975115403  5  5 f   -     -     -        12684    0    0 
+carrboro  975115437  5  4 f   -     -     -        12684    0    0 
+carrboro  975115463  5  3 f   -     -     -        12684    0    0 
+carrboro  975115470  5  2 Bc  b     -     -        12684  145  220 
+carrboro  975115481  5  1 Bf  -     -     -        12759    5    0 
+carrboro  975115500  5  5 f   -     -     -        12754    0    0 
+carrboro  975115518  5  4 r   b     k     k        12754  115  240 9d 3c
+carrboro  975115542  5  3 f   -     -     -        12879    0    0 
+carrboro  975115571  6  2 Bk  b     -     -        12879   30   40 
+carrboro  975115616  7  1 Bf  -     -     -        12889    5    0 
+carrboro  975115637  7  7 c   b     k     b        12884  270    0 Jh Td
+carrboro  975115668  7  6 r   b     k     k        12614  105    0 5c Ah
+carrboro  975115704  7  5 c   f     -     -        12509   35    0 
+carrboro  975115742  7  4 f   -     -     -        12474    0    0 
+carrboro  975115768  7  3 f   -     -     -        12474    0    0 
+carrboro  975115797  7  2 Bf  -     -     -        12474   10    0 
+carrboro  975115838  7  1 Bf  -     -     -        12464    5    0 
+carrboro  975115852  7  7 f   -     -     -        12459    0    0 
+carrboro  975115872  7  6 cc  c     b     -        12459 4700 7410 Kc Jc
+carrboro  975115917  6  5 f   -     -     -        15169    0    0 
+carrboro  975115963  6  4 f   -     -     -        15169    0    0 
+carrboro  975116003  7  3 r   b     -     -        15169  120  170 
+carrboro  975116015  7  2 Bf  -     -     -        15219   10    0 
+carrboro  975116033  7  1 Bf  -     -     -        15209    5    0 
+carrboro  975116044  7  7 c   b     -     -        15204   50   80 
+carrboro  975116065  7  6 r   k     f     -        15234   35    0 
+carrboro  975116098  7  5 f   -     -     -        15199    0    0 
+carrboro  975116125  7  4 f   -     -     -        15199    0    0 
+carrboro  975116140  7  3 f   -     -     -        15199    0    0 
+carrboro  975116159  7  2 Bc  f     -     -        15199   35    0 
+carrboro  975116223  7  1 Bf  -     -     -        15164    5    0 
+carrboro  975116242  8  8 c   r     b     -        15159  465  630 
+carrboro  975116297  8  7 f   -     -     -        15324    0    0 
+carrboro  975116315  8  6 f   -     -     -        15324    0    0 
+carrboro  975116342  8  5 f   -     -     -        15324    0    0 
+carrboro  975116368  8  4 rc  r     -     -        15324 3435 4590 
+carrboro  975116393  8  3 f   -     -     -        16479    0    0 
+carrboro  975116439  8  2 Bf  -     -     -        16479   10    0 
+carrboro  975116473  8  1 Bc  b     kr    k        16469  690 1440 8h Kd
+carrboro  975116513  8  8 f   -     -     -        17219    0    0 
+carrboro  975116566 10  9 f   -     -     -        17219    0    0 
+carrboro  975116601 10  8 f   -     -     -        17219    0    0 
+carrboro  975116635 10  7 c   b     k     k        17219   45  105 Kh Ac
+carrboro  975116663 10  6 f   -     -     -        17279    0    0 
+carrboro  975116746  9  4 c   b     b     -        17279  170  240 
+carrboro  975116779  9  3 f   -     -     -        17349    0    0 
+carrboro  975116828  9  2 Bf  -     -     -        17349   10    0 
+carrboro  975116885  9  1 Bc  b     -     -        17339  150  230 
+carrboro  975116909  9  9 r   b     -     -        17419   95  155 
+carrboro  975116943  9  8 f   -     -     -        17479    0    0 
+carrboro  975116988  9  7 c   f     -     -        17479   10    0 
+carrboro  975117074 10  7 c   r     k     f        17469  170    0 
+carrboro  975117117 10  6 c   r     k     k        17299  170  360 9c Th
+carrboro  975117178 10  5 f   -     -     -        17489    0    0 
+carrboro  975117195 10  4 f   -     -     -        17489    0    0 
+carrboro  975117231 10  3 f   -     -     -        17489    0    0 
+carrboro  975117273 10  2 Bf  -     -     -        17489   10    0 
+carrboro  975117307 10  1 Bc  b     -     -        17479   40   60 
+carrboro  975117344 10 10 f   -     -     -        17499    0    0 
+carrboro  975117394 10  9 r   b     b     k        17499  405 1025 Ad 2s
+carrboro  975117456 10  8 f   -     -     -        18119    0    0 
+carrboro  975117501 10  7 f   -     -     -        18119    0    0 
+carrboro  975117565 10  6 f   Q     -     -        18119    0    0 

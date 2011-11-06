@@ -1,0 +1,222 @@
+MegaHertz 970206221  3  3 c   k     b     -         5245   35   50 
+MegaHertz 970206241  3  2 Bf  -     -     -         5260   10    0 
+MegaHertz 970206249  3  1 Bf  -     -     -         5250    5    0 
+MegaHertz 970206254  3  3 cc  c     c     k         5245  335  675 Ks 4s
+MegaHertz 970206277  3  2 Bf  -     -     -         5585   10    0 
+MegaHertz 970206297  3  1 Bc  k     k     k         5575   35    0 3d 7d
+MegaHertz 970206319  3  3 f   -     -     -         5540    0    0 
+MegaHertz 970206326  3  2 B   -     -     -         5540   10   15 
+MegaHertz 970206329  3  1 Bc  kf    -     -         5545   35    0 
+MegaHertz 970206340  3  3 f   -     -     -         5510    0    0 
+MegaHertz 970206344  3  2 B   -     -     -         5510   10   15 
+MegaHertz 970206348  3  1 Bc  kf    -     -         5515   10    0 
+MegaHertz 970206359  3  3 cc  k     k     k         5505   40    0 3h 3c
+MegaHertz 970206373  3  2 B   -     -     -         5465   10   15 
+MegaHertz 970206383  3  1 Bf  -     -     -         5470    5    0 
+MegaHertz 970206393  3  3 c   f     -     -         5465   10    0 
+MegaHertz 970206405  3  2 Bc  c     c     k         5455  270    0 5h Jh
+MegaHertz 970206421  3  1 Bc  b     -     -         5185   30   40 
+MegaHertz 970206434  3  3 c   b     k     k         5195   40    0 7s 4s
+MegaHertz 970206450  3  2 B   -     -     -         5155   10   15 
+MegaHertz 970206461  3  1 Bc  k     k     k         5160   10   20 Qd 9d
+MegaHertz 970206474  4  3 c   k     k     f         5170   10    0 
+MegaHertz 970206498  4  2 Bk  b     b     k         5160  110  225 9c 5s
+MegaHertz 970206522  4  1 Bf  -     -     -         5275    5    0 
+MegaHertz 970206557  5  5 c   k     c     b         5270  130  270 Qd Tc
+MegaHertz 970206595  5  4 f   -     -     -         5410    0    0 
+MegaHertz 970206616  5  3 cc  f     -     -         5410   50    0 
+MegaHertz 970206643  5  2 Bk  kf    -     -         5360   10    0 
+MegaHertz 970206663  5  1 Bc  kc    k     k         5350  115    0 5d Qd
+MegaHertz 970206689  5  5 r   b     -     -         5235  110  150 
+MegaHertz 970206707  5  4 f   -     -     -         5275    0    0 
+MegaHertz 970206717  5  3 f   -     -     -         5275    0    0 
+MegaHertz 970206721  5  2 B   -     -     -         5275   10   15 
+MegaHertz 970206730  5  1 Bf  -     -     -         5280    5    0 
+MegaHertz 970206761  5  5 f   -     -     -         5275    0    0 
+MegaHertz 970206787  5  4 f   -     -     -         5275    0    0 
+MegaHertz 970206851  4  2 Bk  k     k     k         5275   10    0 Kc 6s
+MegaHertz 970206872  4  1 Bc  k     b     -         5265   40   60 
+MegaHertz 970206889  4  4 f   -     -     -         5285    0    0 
+MegaHertz 970206904  4  3 f   -     -     -         5285    0    0 
+MegaHertz 970206921  4  2 Bf  -     -     -         5285   10    0 
+MegaHertz 970206941  4  1 Bf  -     -     -         5275    5    0 
+MegaHertz 970206960  4  4 cc  k     b     -         5270  210  320 
+MegaHertz 970206985  4  3 f   -     -     -         5380    0    0 
+MegaHertz 970207006  4  2 Bk  k     k     k         5380   10    0 2d 4c
+MegaHertz 970207021  4  1 Bc  kf    -     -         5370   10    0 
+MegaHertz 970207039  4  4 c   k     k     k         5360   10    0 Js Th
+MegaHertz 970207052  4  3 c   k     kf    -         5350   10    0 
+MegaHertz 970207070  4  2 Bk  k     k     k         5340   10   25 Jc Qs
+MegaHertz 970207089  4  1 Bf  -     -     -         5355    5    0 
+MegaHertz 970207124  4  4 c   k     k     k         5350   10    0 Jh 9c
+MegaHertz 970207171  4  3 c   b     -     -         5340   45   70 
+MegaHertz 970207184  4  2 Bk  k     k     kf        5365   10    0 
+MegaHertz 970207206  4  1 Bc  k     k     k         5355   10   10 4s 9h
+MegaHertz 970207229  4  4 c   b     k     k         5355  175    0 9h 7h
+MegaHertz 970207276  4  3 f   -     -     -         5180    0    0 
+MegaHertz 970207293  4  2 Bc  f     -     -         5180   40    0 
+MegaHertz 970207332  4  1 Bc  k     k     k         5140   10   30 Js Qd
+MegaHertz 970207362  4  4 c   k     b     -         5160   40   60 
+MegaHertz 970207382  4  3 f   -     -     -         5180    0    0 
+MegaHertz 970207399  4  2 Bk  kc    kf    -         5180   35    0 
+MegaHertz 970207425  4  1 Bc  k     b     -         5145   30   40 
+MegaHertz 970207440  4  4 f   -     -     -         5155    0    0 
+MegaHertz 970207461  4  3 c   k     k     k         5155   10   25 Kc 3h
+MegaHertz 970207476  4  2 Bc  f     -     -         5170   40    0 
+MegaHertz 970207512  4  1 Bc  k     b     -         5130   30   40 
+MegaHertz 970207536  4  4 c   b     -     -         5140   45   70 
+MegaHertz 970207553  4  3 c   k     k     k         5165   10    0 Kc 2c
+MegaHertz 970207580  5  3 c   k     f     -         5155   10    0 
+MegaHertz 970207601  5  2 Bc  f     -     -         5145   40    0 
+MegaHertz 970207630  5  1 Bc  kc    k     k         5105  115  240 Jd Js
+MegaHertz 970207667  6  6 f   -     -     -         5230    0    0 
+MegaHertz 970207703  6  5 c   f     -     -         5230   35    0 
+MegaHertz 970207737  7  5 c   k     k     k         5195   10   40 8h As
+MegaHertz 970207767  7  4 f   -     -     -         5225    0    0 
+MegaHertz 970207783  7  3 c   b     b     -         5225  170  240 
+MegaHertz 970207806  7  2 Bk  k     bf    -         5295   55    0 
+MegaHertz 970207851  7  1 Bc  kc    k     k         5240  225  540 9s 9h
+MegaHertz 970207883  7  7 f   -     -     -         5555    0    0 
+MegaHertz 970207930  6  5 c   b     -     -         5555   35   50 
+MegaHertz 970207946  6  4 c   kf    -     -         5570   10    0 
+MegaHertz 970207971  7  4 c   f     -     -         5560   10    0 
+MegaHertz 970208014  7  3 f   -     -     -         5550    0    0 
+MegaHertz 970208042  8  2 Bf  -     -     -         5550   10    0 
+MegaHertz 970208111  8  1 Bc  kc    k     b         5540  130    0 As Th
+MegaHertz 970208146  7  7 c   b     b     b         5410  790 1620 7c Kc
+MegaHertz 970208198  7  6 f   -     -     -         6240    0    0 
+MegaHertz 970208221  7  5 c   f     -     -         6240   10    0 
+MegaHertz 970208242  7  4 c   kf    -     -         6230   10    0 
+MegaHertz 970208315  6  3 cc  kf    -     -         6220   55    0 
+MegaHertz 970208363  7  3 f   -     -     -         6165    0    0 
+MegaHertz 970208381  6  2 Bk  k     c     c         6165  130    0 3d Ks
+MegaHertz 970208412  6  1 Bf  -     -     -         6035    5    0 
+MegaHertz 970208436  6  6 f   -     -     -         6030    0    0 
+MegaHertz 970208465  6  5 c   k     f     -         6030   10    0 
+MegaHertz 970208496  6  4 c   kc    kc    kc        6020  945    0 6h 5h
+MegaHertz 970208549  6  3 f   -     -     -         5075    0    0 
+MegaHertz 970208588  6  2 Bk  k     kf    -         5075   10    0 
+MegaHertz 970208625  6  1 Bc  k     b     -         5065  115  160 
+MegaHertz 970208677  5  5 f   -     -     -         5110    0    0 
+MegaHertz 970208688  5  5 f   -     -     -         5110    0    0 
+MegaHertz 970208719  5  4 f   -     -     -         5110    0    0 
+MegaHertz 970208727  5  3 c   f     -     -         5110   10    0 
+MegaHertz 970208748  5  2 Bk  k     k     k         5100   10    0 Qc 7c
+MegaHertz 970208792  6  1 Bc  k     b     -         5090   50   80 
+MegaHertz 970208830  6  6 cc  f     -     -         5120   55    0 
+MegaHertz 970208855  6  5 cf  -     -     -         5065   10    0 
+MegaHertz 970208890  6  4 c   k     f     -         5055   10    0 
+MegaHertz 970208923  6  3 f   -     -     -         5045    0    0 
+MegaHertz 970208967  6  2 Bk  c     k     b         5045  170  240 
+MegaHertz 970209004  6  1 Bc  kc    k     k         5115  115  240 Ad Ts
+MegaHertz 970209052  6  6 c   f     -     -         5240   35    0 
+MegaHertz 970209076  6  5 cc  k     f     -         5205   60    0 
+MegaHertz 970209108  7  4 c   b     k     k         5145   70    0 Th Qd
+MegaHertz 970209167  8  3 f   -     -     -         5075    0    0 
+MegaHertz 970209210  8  2 Bk  k     k     k         5075   10   40 7h Ac
+MegaHertz 970209245  8  1 Bc  kf    -     -         5105   10    0 
+MegaHertz 970209342  8  8 f   -     -     -         5095    0    0 
+MegaHertz 970209361  8  7 f   -     -     -         5095    0    0 
+MegaHertz 970209406  8  6 f   -     -     -         5095    0    0 
+MegaHertz 970209455  8  5 c   k     c     k         5095   65  165 Js Th
+MegaHertz 970209511  8  4 c   k     kf    -         5195   10    0 
+MegaHertz 970209578  8  3 c   k     b     -         5185   55   90 
+MegaHertz 970209651  8  2 Bf  -     -     -         5220   10    0 
+MegaHertz 970209725  8  1 Br  -     -     -         5210   40   60 
+MegaHertz 970209744  8  8 f   -     -     -         5230    0    0 
+MegaHertz 970209790  9  8 f   -     -     -         5230    0    0 
+MegaHertz 970209821  9  7 f   -     -     -         5230    0    0 
+MegaHertz 970209893 10  7 c   c     c     k         5230  260  300 9h Td
+MegaHertz 970209932 10  6 c   f     -     -         5270   10    0 
+MegaHertz 970209981 10  5 f   -     -     -         5260    0    0 
+MegaHertz 970210029 10  4 f   -     -     -         5260    0    0 
+MegaHertz 970210090 10  3 cc  kc    k     k         5260  340  825 Kd Ac
+MegaHertz 970210147 10  2 Bk  k     k     k         5745   10    0 4h 3d
+MegaHertz 970210187 10  1 Bf  -     -     -         5735    5    0 
+MegaHertz 970210228 10 10 c   f     -     -         5730   10    0 
+MegaHertz 970210250 10  9 c   f     -     -         5720   10    0 
+MegaHertz 970210293 10  8 f   -     -     -         5710    0    0 
+MegaHertz 970210336 10  7 f   -     -     -         5710    0    0 
+MegaHertz 970210391 10  6 c   kf    -     -         5710   10    0 
+MegaHertz 970210447  9  5 f   -     -     -         5700    0    0 
+MegaHertz 970210496  9  4 c   c     b     b         5700 1200 1680 
+MegaHertz 970210583  9  3 f   -     -     -         6180    0    0 
+MegaHertz 970210629  9  2 Bk  b     -     -         6180   45   70 
+MegaHertz 970210654  9  1 Bc  kf    -     -         6205   10    0 
+MegaHertz 970210727  9  9 c   c     f     -         6195   45    0 
+MegaHertz 970210757  9  8 r   b     -     -         6150  540  930 
+MegaHertz 970210796  8  7 r   k     b     -         6540  235  360 
+MegaHertz 970210829  8  6 cc  f     -     -         6665   70    0 
+MegaHertz 970210865  7  4 f   -     -     -         6595    0    0 
+MegaHertz 970210909  7  4 c   c     cf    -         6595  310    0 
+MegaHertz 970210972  7  3 c   k     k     k         6285   10   45 5s 5d
+MegaHertz 970211017  7  2 Bk  kc    k     f         6320   50    0 
+MegaHertz 970211070  7  1 BQ  -     -     -         6270    5    0 
+MegaHertz 970211411  7  2 Br  b     -     -         6265  160  240 
+MegaHertz 970211443  7  1 Bc  k     k     kf        6345   10    0 
+MegaHertz 970211495  6  6 f   -     -     -         6335    0    0 
+MegaHertz 970211530  6  5 cc  f     -     -         6335   45    0 
+MegaHertz 970211553  6  4 cc  k     b     -         6290  210  320 
+MegaHertz 970211606  6  3 f   -     -     -         6400    0    0 
+MegaHertz 970211635  5  1 Bc  kf    -     -         6400   40    0 
+MegaHertz 970211671  5  1 Bf  -     -     -         6360    5    0 
+MegaHertz 970211706  5  5 f   -     -     -         6355    0    0 
+MegaHertz 970211742  5  4 c   kf    -     -         6355   10    0 
+MegaHertz 970211765  6  4 cc  c     k     k         6345  130  270 Ah Ts
+MegaHertz 970211788  6  3 c   k     kf    -         6485   10    0 
+MegaHertz 970211841  6  2 Bk  k     k     kf        6475   10    0 
+MegaHertz 970211869  6  1 Bc  k     k     kf        6465   10    0 
+MegaHertz 970211904  6  6 f   -     -     -         6455    0    0 
+MegaHertz 970211917  6  5 r   k     b     k         6455  230  555 Ac Ah
+MegaHertz 970211962  6  4 c   k     f     -         6780   10    0 
+MegaHertz 970211994  6  3 c   kf    -     -         6770   10    0 
+MegaHertz 970212032  6  2 Bk  c     f     -         6760   70    0 
+MegaHertz 970212090  6  1 Bc  k     b     -         6690  115  160 
+MegaHertz 970212123  6  6 c   f     -     -         6735   10    0 
+MegaHertz 970212158  6  5 f   -     -     -         6725    0    0 
+MegaHertz 970212182  6  4 f   -     -     -         6725    0    0 
+MegaHertz 970212233  6  3 c   b     -     -         6725   40   60 
+MegaHertz 970212259  6  2 Bk  k     b     k         6745   40   90 Th Jd
+MegaHertz 970212290  6  1 Bf  -     -     -         6795    5    0 
+MegaHertz 970212328  6  6 c   k     k     c         6790   60   75 9h Ks
+MegaHertz 970212365  6  5 c   f     -     -         6805   10    0 
+MegaHertz 970212396  6  4 c   c     f     -         6795   50    0 
+MegaHertz 970212433  6  3 cc  kc    kc    kf        6745  775    0 
+MegaHertz 970212488  6  2 Bf  -     -     -         5970   10    0 
+MegaHertz 970212525  6  1 Bc  k     b     k         5960   60    0 Jd 7s
+MegaHertz 970212577  6  6 c   k     k     k         5900   10    0 2c 3c
+MegaHertz 970212618  6  5 cc  kc    k     k         5890  145    0 4c 5h
+MegaHertz 970212655  6  4 c   b     -     -         5745   40   60 
+MegaHertz 970212680  6  3 f   -     -     -         5765    0    0 
+MegaHertz 970212719  6  2 Bc  k     kc    kf        5765  110    0 
+MegaHertz 970212747  6  1 Bf  -     -     -         5655    5    0 
+MegaHertz 970212784  6  6 f   -     -     -         5650    0    0 
+MegaHertz 970212818  6  5 f   -     -     -         5650    0    0 
+MegaHertz 970212841  6  4 cc  c     c     c         5650 1210    0 Ks Qh
+MegaHertz 970212871  6  3 f   -     -     -         4440    0    0 
+MegaHertz 970212896  6  2 Bf  -     -     -         4440   10    0 
+MegaHertz 970212935  6  1 Br  k     k     k         4430   50  200 Jh As
+MegaHertz 970212982  6  6 c   k     b     b         4580  230  330 
+MegaHertz 970213035  7  6 f   -     -     -         4680    0    0 
+MegaHertz 970213065  7  5 c   k     f     -         4680   10    0 
+MegaHertz 970213101  7  4 f   -     -     -         4670    0    0 
+MegaHertz 970213137  7  3 c   k     kf    -         4670   10    0 
+MegaHertz 970213203  7  2 Bc  kf    -     -         4660   35    0 
+MegaHertz 970213231  7  1 Bc  k     kf    -         4625   10    0 
+MegaHertz 970213267  7  7 r   k     k     k         4615   65    0 Qh As
+MegaHertz 970213304  7  6 f   -     -     -         4550    0    0 
+MegaHertz 970213336  7  5 c   k     c     f         4550   50    0 
+MegaHertz 970213364  7  4 c   f     -     -         4500   10    0 
+MegaHertz 970213412  7  3 f   -     -     -         4490    0    0 
+MegaHertz 970213464  7  2 Bc  kc    k     kc        4490  425    0 9c As
+MegaHertz 970213500  7  1 Bc  kf    -     -         4065   10    0 
+MegaHertz 970213545  7  7 c   k     f     -         4055   35    0 
+MegaHertz 970213585  7  6 f   -     -     -         4020    0    0 
+MegaHertz 970213611  7  5 cc  f     -     -         4020  635    0 
+MegaHertz 970213647  7  4 cc  c     k     k         3385  360    0 6h 8s
+MegaHertz 970213690  7  3 f   -     -     -         3025    0    0 
+MegaHertz 970213763  8  2 Bc  kc    kc    k         3025  542    0 6d Kd
+MegaHertz 970213809  8  1 Bc  kc    k     k         2483  225  540 Tc 4c
+MegaHertz 970213857  8  8 cc  f     -     -         2798  300    0 
+MegaHertz 970213936  8  7 cc  bf    -     -         2498  285    0 
+MegaHertz 970213988  8  6 rr  b     bA    -         2213 2213    0 8h 8c

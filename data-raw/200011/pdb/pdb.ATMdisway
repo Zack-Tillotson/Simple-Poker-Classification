@@ -1,0 +1,70 @@
+ATMdisway 974181790  5  4 f   -     -     -         3187    0    0 
+ATMdisway 974181796  5  3 c   k     b     -         3187   45   70 
+ATMdisway 974181814  5  2 Bk  kf    -     -         3212   10    0 
+ATMdisway 974181822  5  1 Bc  k     k     k         3202   10   30 Ts 7s
+ATMdisway 974181847  6  5 f   -     -     -         3222    0    0 
+ATMdisway 974181860  6  4 c   b     -     -         3222   45   70 
+ATMdisway 974181889  6  3 f   -     -     -         3247    0    0 
+ATMdisway 974181906  6  2 Bk  kf    -     -         3247   10    0 
+ATMdisway 974181926  6  1 Br  b     -     -         3237   90  120 
+ATMdisway 974181940  7  7 c   b     k     c         3267  475    0 Qd Jc
+ATMdisway 974181972  7  6 f   -     -     -         2792    0    0 
+ATMdisway 974182020  8  6 f   -     -     -         2792    0    0 
+ATMdisway 974182060  8  5 c   b     -     -         2792   35   50 
+ATMdisway 974182080  8  4 f   -     -     -         2807    0    0 
+ATMdisway 974182105  8  3 f   -     -     -         2807    0    0 
+ATMdisway 974182145  8  2 Bk  kc    k     k         2807   35  100 Qh 6d
+ATMdisway 974182183  8  1 Bc  kf    -     -         2872   10    0 
+ATMdisway 974182222  8  8 c   f     -     -         2862   10    0 
+ATMdisway 974182236  8  7 f   -     -     -         2852    0    0 
+ATMdisway 974182274  8  6 f   -     -     -         2852    0    0 
+ATMdisway 974182294  8  5 f   -     -     -         2852    0    0 
+ATMdisway 974182314  8  4 f   -     -     -         2852    0    0 
+ATMdisway 974182334  7  2 Bk  k     c     c         2852  360    0 Jd Tc
+ATMdisway 974182386  7  1 Bf  -     -     -         2492    5    0 
+ATMdisway 974182404  7  7 c   k     c     b         2487  110  160 
+ATMdisway 974182444  7  6 f   -     -     -         2537    0    0 
+ATMdisway 974182469  7  5 f   -     -     -         2537    0    0 
+ATMdisway 974182495  7  4 f   -     -     -         2537    0    0 
+ATMdisway 974182514  7  3 f   -     -     -         2537    0    0 
+ATMdisway 974182532  7  2 Bk  f     -     -         2537   10    0 
+ATMdisway 974182566  8  1 Bf  -     -     -         2527    5    0 
+ATMdisway 974182593  8  8 ccc f     -     -         2522  250    0 
+ATMdisway 974182625  8  7 f   -     -     -         2272    0    0 
+ATMdisway 974182664  7  6 f   -     -     -         2272    0    0 
+ATMdisway 974182693  7  5 f   -     -     -         2272    0    0 
+ATMdisway 974182717  8  4 f   -     -     -         2272    0    0 
+ATMdisway 974182727  8  3 cc  k     k     k         2272   45  105 Jd Kc
+ATMdisway 974182744  8  2 Bf  -     -     -         2332   10    0 
+ATMdisway 974182773  8  1 Bf  -     -     -         2322    5    0 
+ATMdisway 974182792  8  8 f   -     -     -         2317    0    0 
+ATMdisway 974182821  8  7 cc  kf    -     -         2317   70    0 
+ATMdisway 974182842  8  6 c   k     b     -         2247   65  110 
+ATMdisway 974182877  9  6 f   -     -     -         2292    0    0 
+ATMdisway 974182901  8  4 f   -     -     -         2292    0    0 
+ATMdisway 974182916  8  3 f   -     -     -         2292    0    0 
+ATMdisway 974182934  8  2 Bc  kf    -     -         2292   35    0 
+ATMdisway 974182954  7  1 Bcc kr    -     -         2257  520  720 
+ATMdisway 974182979  7  7 f   -     -     -         2457    0    0 
+ATMdisway 974182997  7  6 f   -     -     -         2457    0    0 
+ATMdisway 974183018  7  5 f   -     -     -         2457    0    0 
+ATMdisway 974183043  7  4 f   -     -     -         2457    0    0 
+ATMdisway 974183078  7  3 f   -     -     -         2457    0    0 
+ATMdisway 974183089  8  2 Bf  -     -     -         2457   10    0 
+ATMdisway 974183114  8  1 Bcc k     b     -         2447  310  500 
+ATMdisway 974183145  8  8 f   -     -     -         2637    0    0 
+ATMdisway 974183167  8  7 f   -     -     -         2637    0    0 
+ATMdisway 974183201  8  6 f   -     -     -         2637    0    0 
+ATMdisway 974183246  8  5 f   -     -     -         2637    0    0 
+ATMdisway 974183280  7  3 f   -     -     -         2637    0    0 
+ATMdisway 974183333  7  2 Bc  k     k     k         2637   35   75 4h Ac
+ATMdisway 974183361  7  1 Bf  -     -     -         2677    5    0 
+ATMdisway 974183395  7  7 f   -     -     -         2672    0    0 
+ATMdisway 974183410  6  5 f   -     -     -         2672    0    0 
+ATMdisway 974183449  6  5 cf  -     -     -         2672   10    0 
+ATMdisway 974183484  6  4 c   b     k     k         2662   50  120 Jh Ah
+ATMdisway 974183518  6  3 c   k     f     -         2732   10    0 
+ATMdisway 974183544  6  2 Bk  k     b     k         2722   35    0 Ac Jd
+ATMdisway 974183568  6  1 Bc  b     -     -         2687   40   60 
+ATMdisway 974183584  6  6 f   -     -     -         2707    0    0 
+ATMdisway 974183613  6  5 cc  kc    krA   -         2707 2707    0 Jc Tc

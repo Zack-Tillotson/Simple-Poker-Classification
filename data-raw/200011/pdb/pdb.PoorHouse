@@ -1,0 +1,53 @@
+PoorHouse 973102035  6  3 f   -     -     -         3385    0    0 
+PoorHouse 973102059  6  2 Bk  kf    -     -         3385   10    0 
+PoorHouse 973102112  6  1 Bc  kc    kf    -         3375   50    0 
+PoorHouse 973102141  6  6 f   -     -     -         3325    0    0 
+PoorHouse 973102156  6  5 f   -     -     -         3325    0    0 
+PoorHouse 973102161  6  4 f   -     -     -         3325    0    0 
+PoorHouse 973102183  6  3 f   -     -     -         3325    0    0 
+PoorHouse 973102203  6  2 Br  b     -     -         3325  335  450 
+PoorHouse 973102217  6  1 Bf  -     -     -         3440    5    0 
+PoorHouse 973102236  6  6 f   -     -     -         3435    0    0 
+PoorHouse 973102245  6  5 c   b     k     k         3435   50  160 7s 6d
+PoorHouse 973102281  8  6 c   k     f     -         3545   10    0 
+PoorHouse 973102309  8  5 cc  k     k     k         3535   55  180 6d 6s
+PoorHouse 973102334  8  4 f   -     -     -         3660    0    0 
+PoorHouse 973102374  8  3 f   -     -     -         3660    0    0 
+PoorHouse 973102420  7  2 Bk  k     k     k         3660   10   45 2d Ac
+PoorHouse 973102447  7  1 Bc  k     k     b         3695   50  120 Kc Jd
+PoorHouse 973102471  7  7 c   f     -     -         3765   35    0 
+PoorHouse 973102494  7  6 c   k     k     k         3730   10    0 As 6d
+PoorHouse 973102510  7  5 cc  f     -     -         3720   65    0 
+PoorHouse 973102541  7  4 f   -     -     -         3655    0    0 
+PoorHouse 973102562  7  3 f   -     -     -         3655    0    0 
+PoorHouse 973102589  6  2 Bk  k     b     -         3655   50   80 
+PoorHouse 973102612  6  1 Bc  k     k     k         3685   45    0 9s Kd
+PoorHouse 973102640  6  6 f   -     -     -         3640    0    0 
+PoorHouse 973102654  6  5 f   -     -     -         3640    0    0 
+PoorHouse 973102667  6  4 f   -     -     -         3640    0    0 
+PoorHouse 973102696  6  3 f   -     -     -         3640    0    0 
+PoorHouse 973102707  6  2 Bk  k     kf    -         3640   10    0 
+PoorHouse 973102743  6  1 Bcc k     k     kf        3630   40    0 
+PoorHouse 973102788  6  6 cc  f     -     -         3590   50    0 
+PoorHouse 973102816  6  5 cc  kr    b     -         3540 1865 2520 
+PoorHouse 973102845  6  4 f   -     -     -         4195    0    0 
+PoorHouse 973102878  6  3 c   f     -     -         4195   10    0 
+PoorHouse 973102916  6  2 Bf  -     -     -         4185   10    0 
+PoorHouse 973102949  6  1 Bf  -     -     -         4175    5    0 
+PoorHouse 973102977  6  6 f   -     -     -         4170    0    0 
+PoorHouse 973103001  6  5 c   b     k     b         4170  310  500 
+PoorHouse 973103047  6  4 cc  kf    -     -         4360   45    0 
+PoorHouse 973103076  6  3 f   -     -     -         4315    0    0 
+PoorHouse 973103096  6  2 Bk  kf    -     -         4315   10    0 
+PoorHouse 973103122  6  1 Bc  kf    -     -         4305   45    0 
+PoorHouse 973103138  6  6 c   k     k     f         4260   55    0 
+PoorHouse 973103177  6  5 c   kc    kf    -         4205   45    0 
+PoorHouse 973103208  6  4 f   -     -     -         4160    0    0 
+PoorHouse 973103238  6  3 f   -     -     -         4160    0    0 
+PoorHouse 973103262  6  2 Bk  kf    -     -         4160   10    0 
+PoorHouse 973103281  6  1 Bf  -     -     -         4150    5    0 
+PoorHouse 973103336  6  6 f   -     -     -         4145    0    0 
+PoorHouse 973103370  5  4 cc  kf    -     -         4145   45    0 
+PoorHouse 973103407  6  3 f   -     -     -         4100    0    0 
+PoorHouse 973103432  6  2 Br  k     b     k         4100  160  360 Ac Ks
+PoorHouse 973103469  7  1 Bc  kc    kr    kcA       4300 4300    0 Qs 2s

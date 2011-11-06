@@ -1,0 +1,994 @@
+IdiotVig  967860336  5  2 Bk  r     -     -        22879   90  120 
+IdiotVig  967860352  5  1 Bc  kf    -     -        22909   10    0 
+IdiotVig  967860362  5  5 r   b     k     k        22899  110    0 2c 2s
+IdiotVig  967860383  5  4 f   -     -     -        22789    0    0 
+IdiotVig  967860416  5  3 f   -     -     -        22789    0    0 
+IdiotVig  967860443  5  2 Bf  -     -     -        22789   10    0 
+IdiotVig  967860463  5  1 Bc  k     b     b        22779  170    0 Ts 7d
+IdiotVig  967860489  5  5 f   -     -     -        22609    0    0 
+IdiotVig  967860519  5  4 f   -     -     -        22609    0    0 
+IdiotVig  967860548  5  3 f   -     -     -        22609    0    0 
+IdiotVig  967860559  5  2 Bk  kc    kf    -        22609   50    0 
+IdiotVig  967860581  5  1 Bc  k     k     kf       22559   10    0 
+IdiotVig  967860600  5  5 c   k     f     -        22549   10    0 
+IdiotVig  967860628  5  4 f   -     -     -        22539    0    0 
+IdiotVig  967860651  5  3 f   -     -     -        22539    0    0 
+IdiotVig  967860660  5  2 Bk  kf    -     -        22539   10    0 
+IdiotVig  967860680  5  1 Bc  b     b     -        22529  130  180 
+IdiotVig  967860699  5  5 f   -     -     -        22579    0    0 
+IdiotVig  967860724  5  4 r   k     k     r        22579  785    0 2h Ah
+IdiotVig  967860771  5  3 f   -     -     -        21794    0    0 
+IdiotVig  967860804  5  2 Bk  f     -     -        21794   10    0 
+IdiotVig  967860820  5  1 Bc  kf    -     -        21784   10    0 
+IdiotVig  967860832  5  5 c   f     -     -        21774   35    0 
+IdiotVig  967860862  5  4 f   -     -     -        21739    0    0 
+IdiotVig  967860896  5  3 f   -     -     -        21739    0    0 
+IdiotVig  967860915  5  2 Bf  -     -     -        21739   10    0 
+IdiotVig  967860934  5  1 Bf  -     -     -        21729    5    0 
+IdiotVig  967860951  5  5 f   -     -     -        21724    0    0 
+IdiotVig  967860971  5  4 f   -     -     -        21724    0    0 
+IdiotVig  967860992  5  3 c   k     f     -        21724   10    0 
+IdiotVig  967861046  6  2 Bk  b     b     -        21714   90  120 
+IdiotVig  967861069  6  1 Bc  kf    -     -        21744   10    0 
+IdiotVig  967861112  6  6 r   bc    f     -        21734  605    0 
+IdiotVig  967861143  5  5 Q   -     -     -        21129    0    0 
+IdiotVig  967868308 10  8 f   -     -     -        21129    0    0 
+IdiotVig  967868352 10  7 cf  -     -     -        21129   10    0 
+IdiotVig  967868386 10  6 f   -     -     -        21119    0    0 
+IdiotVig  967868470 10  5 f   -     -     -        21119    0    0 
+IdiotVig  967868506 10  4 f   -     -     -        21119    0    0 
+IdiotVig  967868530 10  3 f   -     -     -        21119    0    0 
+IdiotVig  967868612 10  2 Bf  -     -     -        21119   10    0 
+IdiotVig  967868645 10  1 Bc  k     k     k        21109   10    0 6s 4c
+IdiotVig  967868689 10 10 c   f     -     -        21099   35    0 
+IdiotVig  967868711 10  9 f   -     -     -        21064    0    0 
+IdiotVig  967868747 10  8 f   -     -     -        21064    0    0 
+IdiotVig  967868799 10  7 f   -     -     -        21064    0    0 
+IdiotVig  967868824 10  6 rf  -     -     -        21064   45    0 
+IdiotVig  967868856 10  5 f   -     -     -        21019    0    0 
+IdiotVig  967868898 10  4 f   -     -     -        21019    0    0 
+IdiotVig  967869000 10  3 ccf -     -     -        21019   60    0 
+IdiotVig  967869043 10  2 Bk  kc    kf    -        20959   50    0 
+IdiotVig  967869085 10  1 Br  b     b     b        20909 2130 4320 Qh Kh
+IdiotVig  967869117 10 10 f   -     -     -        23099    0    0 
+IdiotVig  967869177 10  9 f   -     -     -        23099    0    0 
+IdiotVig  967869205 10  8 f   -     -     -        23099    0    0 
+IdiotVig  967869250 10  7 f   -     -     -        23099    0    0 
+IdiotVig  967869294 10  6 f   -     -     -        23099    0    0 
+IdiotVig  967869335 10  5 cc  k     bc    kf       23099  465    0 
+IdiotVig  967869367 10  4 cf  -     -     -        22634   10    0 
+IdiotVig  967869396 10  3 f   -     -     -        22624    0    0 
+IdiotVig  967869437 10  2 Bf  -     -     -        22624   10    0 
+IdiotVig  967869497 10  1 Bf  -     -     -        22614    5    0 
+IdiotVig  967869520 10 10 cc  f     -     -        22609   40    0 
+IdiotVig  967869535 10  9 f   -     -     -        22569    0    0 
+IdiotVig  967869595 10  8 f   -     -     -        22569    0    0 
+IdiotVig  967869625 10  7 f   -     -     -        22569    0    0 
+IdiotVig  967869660 10  6 f   -     -     -        22569    0    0 
+IdiotVig  967869706 10  5 f   -     -     -        22569    0    0 
+IdiotVig  967869767 10  4 f   -     -     -        22569    0    0 
+IdiotVig  967869792 10  3 f   -     -     -        22569    0    0 
+IdiotVig  967869828 10  2 Bf  -     -     -        22569   10    0 
+IdiotVig  967869860 10  1 Bc  k     b     k        22559  345  840 Kd 9d
+IdiotVig  967869903 10 10 f   -     -     -        23054    0    0 
+IdiotVig  967869960 10  9 f   -     -     -        23054    0    0 
+IdiotVig  967870053  9  7 f   -     -     -        23054    0    0 
+IdiotVig  967870087 10  7 f   -     -     -        23054    0    0 
+IdiotVig  967870122 10  6 f   -     -     -        23054    0    0 
+IdiotVig  967870162 10  5 f   -     -     -        23054    0    0 
+IdiotVig  967870209 10  4 f   -     -     -        23054    0    0 
+IdiotVig  967870262 10  3 cc  kf    -     -        23054  250    0 
+IdiotVig  967870330 10  2 Bc  k     kf    -        22804   45    0 
+IdiotVig  967870368 10  1 Bf  -     -     -        22759    5    0 
+IdiotVig  967870406 10 10 f   -     -     -        22754    0    0 
+IdiotVig  967870447 10  9 f   -     -     -        22754    0    0 
+IdiotVig  967870505 10  8 f   -     -     -        22754    0    0 
+IdiotVig  967870541 10  7 cc  k     k     k        22754   60  200 Ks 9h
+IdiotVig  967870576 10  6 cc  b     b     -        22894  505  720 
+IdiotVig  967870608 10  5 f   -     -     -        23109    0    0 
+IdiotVig  967870637 10  4 cc  k     f     -        23109   65    0 
+IdiotVig  967870692 10  3 cf  -     -     -        23044   10    0 
+IdiotVig  967870742 10  2 Br  kf    -     -        23034   50    0 
+IdiotVig  967870787 10  1 Br  k     kf    -        22984   40    0 
+IdiotVig  967870823 10 10 c   r     b     b        22944 4835 6480 
+IdiotVig  967870852 10  9 f   -     -     -        24589    0    0 
+IdiotVig  967870886 10  8 f   -     -     -        24589    0    0 
+IdiotVig  967870953 10  7 cf  -     -     -        24589   10    0 
+IdiotVig  967871004 10  6 f   -     -     -        24579    0    0 
+IdiotVig  967871095 10  5 f   -     -     -        24579    0    0 
+IdiotVig  967871125 10  4 f   -     -     -        24579    0    0 
+IdiotVig  967871162 10  3 f   -     -     -        24579    0    0 
+IdiotVig  967871203 10  2 Bf  -     -     -        24579   10    0 
+IdiotVig  967871247 10  1 Bc  kf    -     -        24569   35    0 
+IdiotVig  967871281 10 10 c   b     k     f        24534  180    0 
+IdiotVig  967871372 10  9 f   -     -     -        24354    0    0 
+IdiotVig  967871441 10  8 cc  f     -     -        24354   45    0 
+IdiotVig  967871476 10  7 f   -     -     -        24309    0    0 
+IdiotVig  967871525 10  6 c   f     -     -        24309   10    0 
+IdiotVig  967871557 10  5 cc  b     k     k        24299  465    0 Ts Jc
+IdiotVig  967871611 10  4 fQ  -     -     -        23834    0    0 
+IdiotVig  967945351  5  4 r   -     -     -        23834   35   50 
+IdiotVig  967945361  5  3 r   k     k     c        23849  145  220 Ac Tc
+IdiotVig  967945389  5  2 Bk  b     c     k        23924   90    0 Jh 2s
+IdiotVig  967945414  5  1 Bc  bc    kf    -        23834  210    0 
+IdiotVig  967945439  5  5 f   -     -     -        23624    0    0 
+IdiotVig  967945444  5  4 r   b     -     -        23624  195  300 
+IdiotVig  967945461  5  3 f   -     -     -        23729    0    0 
+IdiotVig  967945473  5  2 B   -     -     -        23729   10   15 
+IdiotVig  967945481  5  1 Bc  k     b     -        23734   30   40 
+IdiotVig  967945494  5  5 c   f     -     -        23744   10    0 
+IdiotVig  967945515  5  4 c   f     -     -        23734   10    0 
+IdiotVig  967945534  5  3 f   -     -     -        23724    0    0 
+IdiotVig  967945545  5  2 B   -     -     -        23724   10   15 
+IdiotVig  967945551  5  1 Bf  -     -     -        23729    5    0 
+IdiotVig  967945575  5  5 r   -     -     -        23724   35   50 
+IdiotVig  967945584  5  4 r   b     -     -        23739  140  210 
+IdiotVig  967945602  5  3 c   c     r     k        23809  465  945 Qc Ah
+IdiotVig  967945625  5  2 Bk  k     b     b        24289  110  150 
+IdiotVig  967945653  5  1 Bc  kf    -     -        24329   10    0 
+IdiotVig  967945672  5  5 c   k     c     c        24319  110    0 Ad 7c
+IdiotVig  967945691  5  4 f   -     -     -        24209    0    0 
+IdiotVig  967945713  5  3 f   -     -     -        24209    0    0 
+IdiotVig  967945731  5  2 Bk  k     kf    -        24209   10    0 
+IdiotVig  967945747  5  1 Br  b     b     -        24199 1075 1440 
+IdiotVig  967945766  5  5 f   -     -     -        24564    0    0 
+IdiotVig  967945773  5  4 r   k     kf    -        24564   45    0 
+IdiotVig  967945801  5  3 f   -     -     -        24519    0    0 
+IdiotVig  967945812  5  2 Bk  b     -     -        24519   40   60 
+IdiotVig  967945826  5  1 Bc  k     b     b        24539  130    0 Kc 5d
+IdiotVig  967945843  5  5 f   -     -     -        24409    0    0 
+IdiotVig  967945862  6  4 r   k     k     k        24409   45    0 Jd Jh
+IdiotVig  967945888  6  3 c   b     k     b        24364  280  450 
+IdiotVig  967945927  6  2 Bk  kc    kf    -        24534   40    0 
+IdiotVig  967945957  6  1 Bc  k     kc    kf       24494   40    0 
+IdiotVig  967945980  6  6 f   -     -     -        24454    0    0 
+IdiotVig  967945995  6  5 f   -     -     -        24454    0    0 
+IdiotVig  967946017  6  4 f   -     -     -        24454    0    0 
+IdiotVig  967946048  6  3 f   -     -     -        24454    0    0 
+IdiotVig  967946104  5  2 B   -     -     -        24454   10   15 
+IdiotVig  967946119  6  1 Br  kf    -     -        24459   30    0 
+IdiotVig  967946144  6  6 c   c     b     k        24429  260    0 8d 7d
+IdiotVig  967946191  5  4 f   -     -     -        24169    0    0 
+IdiotVig  967946219  5  3 r   kc    k     b        24169  475  990 Jh Kh
+IdiotVig  967946247  4  2 Bk  r     b     b        24684  810 1080 
+IdiotVig  967946271  4  1 Br  -     -     -        24954   30   40 
+IdiotVig  967946276  4  4 c   k     f     -        24964   10    0 
+IdiotVig  967946290  4  3 r   b     b     k        24954  290  615 Ah Qd
+IdiotVig  967946312  4  2 Bf  -     -     -        25279   10    0 
+IdiotVig  967946332  4  1 Bcc k     kf    -        25269   40    0 
+IdiotVig  967946355  4  4 f   -     -     -        25229    0    0 
+IdiotVig  967946364  4  3 f   -     -     -        25229    0    0 
+IdiotVig  967946377  4  2 Bk  k     b     -        25229   35   50 
+IdiotVig  967946390  3  1 Br  b     -     -        25244   90  120 
+IdiotVig  967946399  3  3 Q   -     -     -        25274    0    0 
+IdiotVig  967951005 10  7 f   -     -     -        25274    0    0 
+IdiotVig  967951018 10  6 c   r     kf    -        25274  190    0 
+IdiotVig  967951070 10  5 f   -     -     -        25084    0    0 
+IdiotVig  967951107 10  4 c   kf    -     -        25084   10    0 
+IdiotVig  967951141 10  3 f   -     -     -        25099    0    0 
+IdiotVig  967951208 10  2 Bf  -     -     -        24774   10    0 
+IdiotVig  967951236 10  1 Bf  -     -     -        24964    5    0 
+IdiotVig  967951270 10 10 f   -     -     -        24859    0    0 
+IdiotVig  967951298 10  9 c   r     -     -        24809  250  360 
+IdiotVig  967951336 10  8 f   -     -     -        25144    0    0 
+IdiotVig  967951382 10  7 f   -     -     -        25094    0    0 
+IdiotVig  967951405 10  6 f   -     -     -        25169    0    0 
+IdiotVig  967951443 10  5 f   -     -     -        24919    0    0 
+IdiotVig  967951463 10  4 f   -     -     -        24794    0    0 
+IdiotVig  967951507 10  3 f   -     -     -        24944    0    0 
+IdiotVig  967951526 10  2 Bf  -     -     -        25019   10    0 
+IdiotVig  967951583 10  1 Bc  k     kf    -        24759   10    0 
+IdiotVig  967951645 10 10 f   -     -     -        24899    0    0 
+IdiotVig  967951689 10  9 c   c     c     f        24524  150    0 
+IdiotVig  967951733 10  8 f   -     -     -        24174    0    0 
+IdiotVig  967951760 10  7 f   -     -     -        23524    0    0 
+IdiotVig  967951795 10  6 c   r     k     b        23874 1530 2070 
+IdiotVig  967951859 10  5 c   b     -     -        24339   45   70 
+IdiotVig  967951889 10  4 f   -     -     -        24389    0    0 
+IdiotVig  967951942 10  3 c   kc    kc    k        24839  190  405 Kh 7h
+IdiotVig  967951992 10  2 B   -     -     -        24754   10   15 
+IdiotVig  967952025  9  1 Bc  b     k     b        25034  355  480 
+IdiotVig  967952052  9  9 c   b     -     -        25559  120  170 
+IdiotVig  967952069 10  9 f   -     -     -        25609    0    0 
+IdiotVig  967952094  9  8 r   b     k     k        25634  110    0 Js Qs
+IdiotVig  967952118  9  7 f   -     -     -        25499    0    0 
+IdiotVig  967952153  9  6 f   -     -     -        25574    0    0 
+IdiotVig  967952196 10  5 c   cc    kf    -        25424  635    0 
+IdiotVig  967952248 10  4 f   -     -     -        24539    0    0 
+IdiotVig  967952293 10  3 f   -     -     -        24364    0    0 
+IdiotVig  967952316  9  2 Bk  k     b     -        24314   35   50 
+IdiotVig  967952341  9  1 Bc  kf    -     -        24329   10    0 
+IdiotVig  967952365  9  9 c   f     -     -        24669   10    0 
+IdiotVig  967952415  8  7 f   -     -     -        24009    0    0 
+IdiotVig  967952440  8  6 f   -     -     -        23959    0    0 
+IdiotVig  967952473  7  4 f   -     -     -        23409    0    0 
+IdiotVig  967952503  7  3 r   k     b     -        23334  110  150 
+IdiotVig  967952533  7  2 Br  k     b     b        23074  335  450 
+IdiotVig  967952555  8  1 Bc  k     kf    -        22939   10    0 
+IdiotVig  967952590  8  8 f   -     -     -        22929    0    0 
+IdiotVig  967952624  8  7 c   r     k     k        22829  235    0 8c 7c
+IdiotVig  967952650  8  6 f   -     -     -        22819    0    0 
+IdiotVig  967952674  7  4 c   c     rc    c        22819 7255    0 6h 8h
+IdiotVig  967952703  7  3 fQ  -     -     -        15664    0    0 
+IdiotVig  967997271  7  5 f   -     -     -        15564    0    0 
+IdiotVig  967997285  7  4 f   -     -     -        15564    0    0 
+IdiotVig  967997313  7  4 f   -     -     -        15564    0    0 
+IdiotVig  967997343  6  2 Bc  kf    -     -        15564   35    0 
+IdiotVig  967997371  6  1 Bc  k     kf    -        15529   10    0 
+IdiotVig  967997391  6  6 f   -     -     -        15519    0    0 
+IdiotVig  967997414  6  5 f   -     -     -        15519    0    0 
+IdiotVig  967997446  6  4 f   -     -     -        15519    0    0 
+IdiotVig  967997471  6  3 f   -     -     -        15519    0    0 
+IdiotVig  967997487  6  2 Bf  -     -     -        15519   10    0 
+IdiotVig  967997545  5  1 Bf  -     -     -        15509    5    0 
+IdiotVig  967997556  5  5 r   k     k     c        15504  150  315 6h 6c
+IdiotVig  967997590  5  4 r   f     -     -        15669   35    0 
+IdiotVig  967997618  5  3 Q   -     -     -        15634    0    0 
+IdiotVig  968008688  5  5 f   -     -     -        15634    0    0 
+IdiotVig  968008697  5  4 f   -     -     -        15634    0    0 
+IdiotVig  968008739  6  3 f   -     -     -        15634    0    0 
+IdiotVig  968008768  6  2 Bf  -     -     -        15634   10    0 
+IdiotVig  968008785  6  1 Bc  kf    -     -        15624   10    0 
+IdiotVig  968008814  6  6 f   -     -     -        15614    0    0 
+IdiotVig  968008837  6  5 c   b     k     k        15614   55    0 5c Jc
+IdiotVig  968008896  6  4 f   -     -     -        15559    0    0 
+IdiotVig  968008921  5  3 f   -     -     -        15559    0    0 
+IdiotVig  968008951  5  2 B   -     -     -        15559   10   15 
+IdiotVig  968008958  5  1 Br  k     b     -        15564  160  240 
+IdiotVig  968008993  5  5 f   -     -     -        15644    0    0 
+IdiotVig  968009057  5  3 cc  k     k     k        15644   45    0 Js 8d
+IdiotVig  968009079  5  2 Bf  -     -     -        15599   10    0 
+IdiotVig  968009105  5  1 Bc  kf    -     -        15589   10    0 
+IdiotVig  968009129  5  5 f   -     -     -        15579    0    0 
+IdiotVig  968009153  5  4 f   -     -     -        15579    0    0 
+IdiotVig  968009175  5  3 f   -     -     -        15579    0    0 
+IdiotVig  968009199  5  2 Bk  kf    -     -        15579   10    0 
+IdiotVig  968009219  5  1 Br  -     -     -        15569   30   40 
+IdiotVig  968009230  5  5 r   k     f     -        15579   55    0 
+IdiotVig  968009259  5  4 c   b     -     -        15524   50   80 
+IdiotVig  968009276  5  3 f   -     -     -        15554    0    0 
+IdiotVig  968009291  5  2 Bk  kf    -     -        15554   10    0 
+IdiotVig  968009333  5  1 Br  b     k     kc       15544  690 1440 Ac 8c
+IdiotVig  968009363  5  5 c   b     -     -        16294   55   90 
+IdiotVig  968009393  5  4 f   -     -     -        16329    0    0 
+IdiotVig  968009436  5  3 r   b     -     -        16329  110  150 
+IdiotVig  968009447  5  2 Bk  kf    -     -        16369   10    0 
+IdiotVig  968009468  5  1 Bf  -     -     -        16359    5    0 
+IdiotVig  968009497  4  4 r   r     k     k        16354  605    0 8c 8d
+IdiotVig  968009528  4  3 f   -     -     -        15749    0    0 
+IdiotVig  968009534  4  2 Bk  k     b     -        15749   35   50 
+IdiotVig  968009546  4  1 Bc  kf    -     -        15764   10    0 
+IdiotVig  968009556  4  4 f   -     -     -        15754    0    0 
+IdiotVig  968009584  4  3 r   b     -     -        15754  110  150 
+IdiotVig  968009600  4  2 Bk  b     b     -        15794  160  240 
+IdiotVig  968009618  4  1 Bc  kf    -     -        15874   10    0 
+IdiotVig  968009632  4  4 f   -     -     -        15864    0    0 
+IdiotVig  968009636  4  3 f   -     -     -        15864    0    0 
+IdiotVig  968009657  4  2 Bk  b     -     -        15864   40   60 
+IdiotVig  968009676  4  1 Bc  krf   -     -        15884   90    0 
+IdiotVig  968009708  4  4 f   -     -     -        15794    0    0 
+IdiotVig  968009743  4  3 r   b     -     -        15794  110  150 
+IdiotVig  968009755  4  2 Bf  -     -     -        15834   10    0 
+IdiotVig  968009765  4  1 Bc  kf    -     -        15824   10    0 
+IdiotVig  968009777  4  4 f   -     -     -        15814    0    0 
+IdiotVig  968009790  4  3 f   -     -     -        15814    0    0 
+IdiotVig  968009800  4  2 Br  b     -     -        15814  160  240 
+IdiotVig  968009816  4  1 Bc  kf    -     -        15894   10    0 
+IdiotVig  968009844  4  4 f   -     -     -        15884    0    0 
+IdiotVig  968009882  3  3 c   k     b     b        15884  110  150 
+IdiotVig  968009904  3  2 Br  b     b     k        15924  270    0 8c Ac
+IdiotVig  968009930  3  1 Bc  kc    k     kf       15654   30    0 
+IdiotVig  968009948  3  3 r   b     b     k        15624  455  472 Kc Qc
+IdiotVig  968009967  4  2 Bk  kf    -     -        15641   10    0 
+IdiotVig  968009997  4  1 Bc  k     b     -        15631   30   40 
+IdiotVig  968010009  5  5 f   -     -     -        15641    0    0 
+IdiotVig  968010034  5  4 f   -     -     -        15641    0    0 
+IdiotVig  968010047  5  3 f   -     -     -        15641    0    0 
+IdiotVig  968010067  5  2 Bk  f     -     -        15641   10    0 
+IdiotVig  968010092  5  1 Bc  k     kf    -        15631   10    0 
+IdiotVig  968010132  5  5 c   rc    k     b        15621 2130 2880 
+IdiotVig  968010179  5  4 r   k     b     b        16371  465  630 
+IdiotVig  968010208  5  3 r   kc    b     kf       16536  310    0 
+IdiotVig  968010240  5  2 Bk  kf    -     -        16226   10    0 
+IdiotVig  968010271  5  1 Bc  kc    k     k        16216   40    0 6h Kh
+IdiotVig  968010309  5  5 f   -     -     -        16176    0    0 
+IdiotVig  968010324  5  4 f   -     -     -        16176    0    0 
+IdiotVig  968010354  5  3 f   -     -     -        16176    0    0 
+IdiotVig  968010364  5  2 Bf  -     -     -        16176   10    0 
+IdiotVig  968010398  6  1 Bc  k     b     b        16166  130  270 8h 4h
+IdiotVig  968010433  5  5 c   r     -     -        16306  130  180 
+IdiotVig  968010451  5  5 Q   -     -     -        16356    0    0 
+IdiotVig  968096299  4  2 Bk  r     b     k        16356  270  270 Kh 4c
+IdiotVig  968096317  4  1 Bc  b     k     kf       16356   40    0 
+IdiotVig  968096338  4  4 f   -     -     -        16316    0    0 
+IdiotVig  968096359  4  3 c   b     -     -        16316   35   50 
+IdiotVig  968096379  4  2 Bk  k     f     -        16331   10    0 
+IdiotVig  968096404  4  1 Bf  -     -     -        16321    5    0 
+IdiotVig  968096409  4  4 f   -     -     -        16316    0    0 
+IdiotVig  968096427  4  3 cc  f     -     -        16316   40    0 
+IdiotVig  968096446  4  2 Bk  b     kf    -        16276   40    0 
+IdiotVig  968096474  4  1 Bc  kc    kf    -        16236   50    0 
+IdiotVig  968096494  4  4 c   b     -     -        16186   40   60 
+IdiotVig  968096506  4  3 f   -     -     -        16206    0    0 
+IdiotVig  968096520  4  2 Bk  f     -     -        16206   10    0 
+IdiotVig  968096531  4  1 Bc  kr    -     -        16196  130  180 
+IdiotVig  968096549  4  4 f   -     -     -        16246    0    0 
+IdiotVig  968096555  4  3 f   -     -     -        16246    0    0 
+IdiotVig  968096568  4  2 Br  k     kf    -        16246   40    0 
+IdiotVig  968096596  4  1 Bc  k     k     kf       16206   10    0 
+IdiotVig  968096616  4  4 f   -     -     -        16196    0    0 
+IdiotVig  968096632  5  3 f   -     -     -        16196    0    0 
+IdiotVig  968096667  5  2 Br  b     -     -        16196  185  280 
+IdiotVig  968096681  5  1 Bc  kf    -     -        16291   10    0 
+IdiotVig  968096714  5  5 c   b     b     f        16281  190    0 
+IdiotVig  968096756  5  4 c   r     b     k        16091  530    0 As 6s
+IdiotVig  968096786  5  3 f   -     -     -        15561    0    0 
+IdiotVig  968096804  5  2 Bk  b     b     b        15561  530 1080 8h 4h
+IdiotVig  968096834  5  1 Bf  Q     -     -        16111    5    0 
+IdiotVig  968209085  6  2 Bk  r     b     k        21198  270  540 3c Th
+IdiotVig  968209110  6  1 Bc  k     k     k        21468   10    0 Ts 3c
+IdiotVig  968209220  5  5 f   -     -     -        21458    0    0 
+IdiotVig  968209249  6  5 c   c     f     -        21458   55    0 
+IdiotVig  968209280  6  4 r   k     b     k        21403  375  765 Jc Jd
+IdiotVig  968209312  5  3 f   -     -     -        21793    0    0 
+IdiotVig  968209360  6  2 Bk  kf    -     -        21793   10    0 
+IdiotVig  968209387  6  1 Bf  -     -     -        21783    5    0 
+IdiotVig  968209427  6  6 f   -     -     -        21778    0    0 
+IdiotVig  968209462  7  6 rc  k     f     -        21778  120    0 
+IdiotVig  968209492  7  5 c   c     c     k        21658   97    0 Kd 9s
+IdiotVig  968209531  7  4 f   -     -     -        21561    0    0 
+IdiotVig  968209589  7  3 f   -     -     -        21561    0    0 
+IdiotVig  968209619  7  2 Bc  kf    -     -        21561   35    0 
+IdiotVig  968209656  7  1 Bc  k     kf    -        21526   10    0 
+IdiotVig  968209721  7  7 f   -     -     -        21516    0    0 
+IdiotVig  968209754  7  6 f   -     -     -        21516    0    0 
+IdiotVig  968209775  7  5 cf  -     -     -        21516   10    0 
+IdiotVig  968209848  7  4 f   -     -     -        21506    0    0 
+IdiotVig  968209883  7  3 c   k     kf    -        21506   10    0 
+IdiotVig  968209916  5  1 Bf  -     -     -        21496   10    0 
+IdiotVig  968209960  5  1 Bc  k     k     kf       21486   10    0 
+IdiotVig  968210028  5  5 f   -     -     -        21476    0    0 
+IdiotVig  968210041  5  4 f   -     -     -        21476    0    0 
+IdiotVig  968210052  5  3 cc  c     c     c        21476 2385    0 Tc 8c
+IdiotVig  968210087  5  2 BQ  -     -     -        19091   10    0 
+IdiotVig  968453772 10 10 KQ  -     -     -        18118    0    0 
+IdiotVig  968720290  2  2 Bk  k     f     -        17048   10    0 
+IdiotVig  968720315  2  1 Br  -     -     -        17228   30   40 
+IdiotVig  968720321  2  2 Bf  -     -     -        17238   10    0 
+IdiotVig  968720325  2  1 Bc  k     k     k        17228   10    0 5d 8d
+IdiotVig  968720342  2  2 Bk  b     -     -        17218   30   40 
+IdiotVig  968720354  2  1 Bf  -     -     -        17208    5    0 
+IdiotVig  968720360  2  2 Br  b     -     -        17203   90  120 
+IdiotVig  968720370  2  1 Bc  k     b     -        17233   30   40 
+IdiotVig  968720381  2  2 Bk  b     -     -        17243   30   40 
+IdiotVig  968720392  2  1 Br  -     -     -        17253   30   40 
+IdiotVig  968720396  2  2 Br  k     f     -        17263   30    0 
+IdiotVig  968720415  2  1 Br  -     -     -        17233   30   40 
+IdiotVig  968720419  2  2 Bk  b     k     k        17243   30    0 Kd Tc
+IdiotVig  968720438  3  1 Bc  k     b     k        17653   30    0 Jh 4h
+IdiotVig  968720458  3  3 c   f     -     -        17623   10    0 
+IdiotVig  968720492  3  2 B   -     -     -        17613   10   15 
+IdiotVig  968720499  3  1 Br  -     -     -        17618   30   40 
+IdiotVig  968720503  3  3 c   k     b     -        17628   40   60 
+IdiotVig  968720516  3  2 Bk  k     k     k        17648   10    0 3s Th
+IdiotVig  968720551  3  1 Bf  -     -     -        17638    5    0 
+IdiotVig  968720570  3  3 c   k     b     -        17633   40   60 
+IdiotVig  968720588  3  2 Bk  k     k     b        17653   30   40 
+IdiotVig  968720607  3  1 Bc  b     -     -        17543   40   60 
+IdiotVig  968720618  3  3 c   k     k     k        17563   10    0 8d 9c
+IdiotVig  968720633  3  2 Bf  -     -     -        17553   10    0 
+IdiotVig  968720648  3  1 Bc  b     KQ    -        17543   40    0 
+IdiotVig  968817345 10  7 c   f     -     -        17403   35    0 
+IdiotVig  968817398 10  6 f   -     -     -        17368    0    0 
+IdiotVig  968817446 10  5 c   k     k     k        17368   10    0 Ts Qh
+IdiotVig  968817491 10  4 cf  -     -     -        17358   10    0 
+IdiotVig  968817533 10  3 f   -     -     -        17348    0    0 
+IdiotVig  968817610 10  2 Bk  c     f     -        17348   50    0 
+IdiotVig  968817657 10  1 Bf  -     -     -        17298    5    0 
+IdiotVig  968817693 10 10 f   -     -     -        17293    0    0 
+IdiotVig  968817734 10  9 c   k     f     -        17293   10    0 
+IdiotVig  968817769 10  8 f   -     -     -        17283    0    0 
+IdiotVig  968817832 10  7 f   -     -     -        17283    0    0 
+IdiotVig  968817877 10  6 r   f     -     -        17283   45    0 
+IdiotVig  968817931 10  5 fQ  -     -     -        17238    0    0 
+IdiotVig  969065612  9  4 f   -     -     -        17018    0    0 
+IdiotVig  969065636  9  3 f   -     -     -        17018    0    0 
+IdiotVig  969065678  9  2 Bc  k     kf    -        17013   35    0 
+IdiotVig  969065705  8  1 Bc  kf    -     -        16978   10    0 
+IdiotVig  969065728  8  8 c   k     b     k        16968  150  345 Qc 6c
+IdiotVig  969065760  7  6 f   -     -     -        17163    0    0 
+IdiotVig  969065781  8  5 f   -     -     -        17163    0    0 
+IdiotVig  969065817  8  4 f   -     -     -        17143    0    0 
+IdiotVig  969065846  8  3 f   -     -     -        17143    0    0 
+IdiotVig  969065872  9  2 Bf  -     -     -        17143   10    0 
+IdiotVig  969065898 10  1 Bf  -     -     -        17113    5    0 
+IdiotVig  969065926 10 10 c   c     f     -        17108  390    0 
+IdiotVig  969065979 10  9 c   Q     -     -        16708   10    0 
+IdiotVig  969122326  2  2 Bk  c     b     -        16538   90  120 
+IdiotVig  969122341  2  1 Bf  -     -     -        16568    5    0 
+IdiotVig  969122344  2  2 Bk  k     f     -        16563   10    0 
+IdiotVig  969122369  2  1 Bc  b     -     -        16553   30   40 
+IdiotVig  969122377  2  2 Bk  k     r     -        16563   90  120 
+IdiotVig  969122392  2  1 Bc  b     -     -        16593   30   40 
+IdiotVig  969122397  2  2 Bk  k     k     k        16603   10   10 9d 6h
+IdiotVig  969122408  2  1 Bc  k     k     k        16603   10    0 9s 6d
+IdiotVig  969122421  2  2 Bk  k     f     -        16593   10    0 
+IdiotVig  969122434  2  1 Br  -     -     -        16583   30   40 
+IdiotVig  969122437  2  2 B   -     -     -        16593   10   15 
+IdiotVig  969122439  2  1 Bc  k     k     k        16598   10    0 6c 4c
+IdiotVig  969122448  2  2 Br  -     -     -        16588   30   40 
+IdiotVig  969122464  2  1 Br  -     -     -        16598   30   40 
+IdiotVig  969122467  2  2 Bk  k     b     k        16608   30    0 Ac 2s
+IdiotVig  969122481  2  1 Br  b     -     -        16578   90  120 
+IdiotVig  969122490  2  2 Bk  k     r     -        16608   90  120 
+IdiotVig  969122504  2  1 Bf  -     -     -        16638    5    0 
+IdiotVig  969122506  2  2 B   -     -     -        16633   10   15 
+IdiotVig  969122507  2  1 Br  -     -     -        16638   30   40 
+IdiotVig  969122510  2  2 Bk  b     -     -        16648   30   40 
+IdiotVig  969122520  2  1 Bf  -     -     -        16658    5    0 
+IdiotVig  969122523  2  2 Bk  b     -     -        16653   30   40 
+IdiotVig  969122536  2  1 Br  -     -     -        16663   30   40 
+IdiotVig  969122539  2  2 Br  b     -     -        16673   90  120 
+IdiotVig  969122552  2  1 Bf  -     -     -        16703    5    0 
+IdiotVig  969122554  2  2 B   -     -     -        16698   10   15 
+IdiotVig  969122555  2  1 Bc  kc    kf    -        16703   30    0 
+IdiotVig  969122573  2  2 Bf  -     -     -        16673   10    0 
+IdiotVig  969122577  2  1 Br  kf    -     -        16663   30    0 
+IdiotVig  969122592  2  2 Bk  k     k     k        16633   10    0 7h 6d
+IdiotVig  969122602  2  1 Bf  -     -     -        16623    5    0 
+IdiotVig  969122608  2  2 B   -     -     -        16618   10   15 
+IdiotVig  969122609  2  1 Bc  b     k     k        16623   30    0 8s Tc
+IdiotVig  969122624  2  2 B   -     -     -        16593   10   15 
+IdiotVig  969122629  2  1 Bcc kf    -     -        16598   30    0 
+IdiotVig  969122636  2  2 Bk  k     f     -        16568   10    0 
+IdiotVig  969122649  2  1 Bc  k     b     -        16558   30   40 
+IdiotVig  969122660  2  2 Br  b     -     -        16568   90  120 
+IdiotVig  969122670  2  1 Bf  -     -     -        16598    5    0 
+IdiotVig  969122672  2  2 Bf  -     -     -        16593   10    0 
+IdiotVig  969122675  2  1 Br  b     -     -        16583   90  120 
+IdiotVig  969122683  2  2 Bk  b     k     k        16613   30   60 6h 2d
+IdiotVig  969122696  2  1 Bc  kc    k     k        16643   30   60 4h Jh
+IdiotVig  969122711  2  2 Br  -     -     -        16673   30   40 
+IdiotVig  969122720  2  1 Br  b     -     -        16683   90  120 
+IdiotVig  969122726  2  2 Bk  b     b     -        16713   90  120 
+IdiotVig  969122737  2  1 Br  kc    k     kc       16743  270  270 Ah Qd
+IdiotVig  969122754  2  2 Bk  f     -     -        16743   10    0 
+IdiotVig  969122764  2  1 Bc  b     -     -        16733   30   40 
+IdiotVig  969122770  2  2 Bc  f     -     -        16743   30    0 
+IdiotVig  969122778  2  1 Bc  b     kf    -        16713   30    0 
+IdiotVig  969122792  2  2 Br  -     -     -        16683   30   40 
+IdiotVig  969122796  2  1 Bc  b     -     -        16693   30   40 
+IdiotVig  969122804  2  2 Bk  b     b     k        16703   90    0 Kd 3h
+IdiotVig  969122818  2  1 Bc  kf    -     -        16613   10    0 
+IdiotVig  969122829  2  2 Br  b     b     -        16603  270  360 
+IdiotVig  969122843  2  1 Br  k     b     -        16693   90  120 
+IdiotVig  969122850  2  2 Bk  b     k     b        16723   90  120 
+IdiotVig  969122864  2  1 Bc  kc    kc    b        16753  270  540 8s 3s
+IdiotVig  969122883  2  2 Bc  b     -     -        17023   90  120 
+IdiotVig  969122895  2  1 Br  kf    -     -        17053   30    0 
+IdiotVig  969122903  2  2 Bk  b     b     -        17023   90  120 
+IdiotVig  969122922  2  1 Bf  -     -     -        17053    5    0 
+IdiotVig  969122927  2  2 Bk  k     k     k        17048   10    0 2c 3c
+IdiotVig  969122935  2  1 Bf  -     -     -        17038    5    0 
+IdiotVig  969122940  2  2 Bk  b     -     -        17033   30   40 
+IdiotVig  969122964  2  1 Bf  -     -     -        17043    5    0 
+IdiotVig  969122967  2  2 B   -     -     -        17038   10   15 
+IdiotVig  969122969  2  1 Bf  -     -     -        17043    5    0 
+IdiotVig  969122972  2  2 Bk  f     -     -        17038   10    0 
+IdiotVig  969122986  2  1 Bf  -     -     -        17028    5    0 
+IdiotVig  969122989  2  2 Bc  f     -     -        17023   30    0 
+IdiotVig  969122997  2  1 Bc  k     b     -        16993   30   40 
+IdiotVig  969123008  2  2 B   -     -     -        17003   10   15 
+IdiotVig  969123010  2  1 Br  -     -     -        17008   30   40 
+IdiotVig  969123019  2  2 Bk  f     -     -        17018   10    0 
+IdiotVig  969123026  2  1 Br  b     kf    -        17008   90    0 
+IdiotVig  969123038  2  2 Bc  f     -     -        16918   30    0 
+IdiotVig  969123048  2  1 Bc  kc    k     k        16888   30   60 3d Ah
+IdiotVig  969123059  2  2 Bk  b     -     -        16918   30   40 
+IdiotVig  969123077  2  1 Bf  -     -     -        16928    5    0 
+IdiotVig  969123080  2  2 Bc  f     -     -        16923   30    0 
+IdiotVig  969123088  2  1 Bf  -     -     -        16893    5    0 
+IdiotVig  969123090  2  2 Bk  f     -     -        16888   10    0 
+IdiotVig  969123098  2  1 Br  b     -     -        16878   90  120 
+IdiotVig  969123104  2  2 Br  b     b     f        16908  270    0 
+IdiotVig  969123123  2  1 Bc  kc    kf    -        16638   30    0 
+IdiotVig  969123136  2  2 Br  -     -     -        16608   30   40 
+IdiotVig  969123140  2  1 Br  b     k     k        16618   90    0 7s Js
+IdiotVig  969123153  2  2 Bk  c     c     k        16528   90    0 Tc 4h
+IdiotVig  969123169  2  1 Br  kr    -     -        16438  270  360 
+IdiotVig  969123182  2  2 B   -     -     -        16528   10   15 
+IdiotVig  969123185  2  1 Bc  b     b     -        16533   90  120 
+IdiotVig  969123195  2  2 B   -     -     -        16563   10   15 
+IdiotVig  969123198  2  1 Bc  k     b     -        16568   30   40 
+IdiotVig  969123209  2  2 Bk  k     b     b        16578   90  120 
+IdiotVig  969123224  2  1 Br  -     -     -        16608   30   40 
+IdiotVig  969123228  2  2 Bk  k     k     k        16618   10    0 2s 4c
+IdiotVig  969123239  2  1 Bf  -     -     -        16608    5    0 
+IdiotVig  969123244  2  2 Bk  f     -     -        16603   10    0 
+IdiotVig  969123251  2  1 Bc  b     -     -        16593   30   40 
+IdiotVig  969123257  2  2 Br  f     -     -        16603   30    0 
+IdiotVig  969123266  2  1 Bc  kc    k     b        16573   90  120 
+IdiotVig  969123281  2  2 Br  b     -     -        16603   90  120 
+IdiotVig  969123289  2  1 Br  -     -     -        16633   30   40 
+IdiotVig  969123292  2  2 B   -     -     -        16643   10   15 
+IdiotVig  969123294  2  1 Bf  -     -     -        16648    5    0 
+IdiotVig  969123297  2  2 B   -     -     -        16643   10   15 
+IdiotVig  969123300  2  1 Bf  -     -     -        16648    5    0 
+IdiotVig  969123302  2  2 Bk  b     b     -        16643   90  120 
+IdiotVig  969123317  2  1 Br  b     b     b        16673  810 1620 9c 9d
+IdiotVig  969123329  2  2 B   -     -     -        17483   10   15 
+IdiotVig  969164297 10  2 Bf  -     -     -        17488   10    0 
+IdiotVig  969164344 10  1 Bf  -     -     -        17478    5    0 
+IdiotVig  969164394 10 10 f   -     -     -        17473    0    0 
+IdiotVig  969164446 10  9 f   -     -     -        17473    0    0 
+IdiotVig  969164492 10  8 f   -     -     -        17473    0    0 
+IdiotVig  969164520 10  7 r   k     r     b        17473 1855 2520 
+IdiotVig  969164563 10  6 f   -     -     -        18138    0    0 
+IdiotVig  969164596 10  5 c   r     k     k        18138  210  650 4d 3d
+IdiotVig  969164633 10  4 c   kc    k     k        18578   55    0 Qs Kd
+IdiotVig  969164695 10  3 f   -     -     -        18523    0    0 
+IdiotVig  969164743 10  2 Bk  b     k     k        18523   45    0 Js 5d
+IdiotVig  969164781 10  1 Bf  -     -     -        18478    5    0 
+IdiotVig  969164809 10 10 c   k     f     -        18473   10    0 
+IdiotVig  969164836 10  9 c   r     b     k        18463  775 1755 9d 4d
+IdiotVig  969164882 10  8 cf  -     -     -        19443   25    0 
+IdiotVig  969164917 10  7 f   -     -     -        19418    0    0 
+IdiotVig  969164964 10  6 f   -     -     -        19418    0    0 
+IdiotVig  969164989 10  5 cc  k     f     -        19418   45    0 
+IdiotVig  969165022 10  4 f   -     -     -        19373    0    0 
+IdiotVig  969165073 10  3 r   kf    -     -        19373   35    0 
+IdiotVig  969165114 10  2 Bk  kf    -     -        19338   10    0 
+IdiotVig  969165136 10  1 Bf  -     Q     -        19328    5    0 
+IdiotVig  969247675  8  4 c   k     k     k        19468   10    0 Qd 3d
+IdiotVig  969247767  6  3 c   k     k     k        19398   10   35 2h Kh
+IdiotVig  969247796  6  2 Bc  kf    -     -        19323   45    0 
+IdiotVig  969247818  6  1 Bc  b     kf    -        19278   50    0 
+IdiotVig  969247854  6  6 f   -     -     -        19228    0    0 
+IdiotVig  969247889  6  5 f   -     -     -        19228    0    0 
+IdiotVig  969247905  6  4 c   f     -     -        19228   10    0 
+IdiotVig  969247943  6  3 f   -     -     -        19218    0    0 
+IdiotVig  969247967  6  2 Br  b     -     -        19218  150  210 
+IdiotVig  969247982  6  1 Bc  k     b     b        19278   90    0 6s 8d
+IdiotVig  969248000  6  6 r   -     -     -        19188   45   70 
+IdiotVig  969248016  6  5 c   k     b     b        19213  150    0 Tc Ks
+IdiotVig  969248049  6  4 f   -     -     -        19063    0    0 
+IdiotVig  969248083  6  3 f   -     -     -        19063    0    0 
+IdiotVig  969248155  6  2 Bk  b     b     kc       19063  335    0 9c Jh
+IdiotVig  969248180  6  1 Bf  -     -     -        18728    5    0 
+IdiotVig  969248206  6  6 r   b     -     -        18723  150  210 
+IdiotVig  969248228  6  5 f   -     -     -        18783    0    0 
+IdiotVig  969248238  6  4 c   f     -     -        18783   10    0 
+IdiotVig  969248273  6  3 c   k     b     b        18773  210    0 Ac 2s
+IdiotVig  969248312  7  2 Bk  k     kf    -        18563   10    0 
+IdiotVig  969248374  7  1 Bc  k     k     kf       18553   10    0 
+IdiotVig  969248428  6  6 f   -     -     -        18543    0    0 
+IdiotVig  969248464  6  5 c   k     k     k        18543   10    0 Tc 8c
+IdiotVig  969248508  6  4 c   c     k     b        18533  285  660 4d 9d
+IdiotVig  969248612  6  3 c   b     k     k        18908   60  200 5c 5h
+IdiotVig  969248664  7  2 Bk  b     b     b        19048  595  810 
+IdiotVig  969248694  7  1 Bc  k     kc    kf       19263   40    0 
+IdiotVig  969248727  7  7 f   -     -     -        19223    0    0 
+IdiotVig  969248760  7  6 f   -     -     -        19223    0    0 
+IdiotVig  969248802  7  5 r   -     -     -        19223   35   50 
+IdiotVig  969248815  7  4 f   -     -     -        19238    0    0 
+IdiotVig  969248857  8  3 c   b     kf    -        19238   60    0 
+IdiotVig  969248907  8  2 Bk  b     -     -        19178   55   90 
+IdiotVig  969248932  8  1 Bc  kf    -     -        19213   35    0 
+IdiotVig  969248962  9  9 cc  f     -     -        19178   55    0 
+IdiotVig  969249006  8  7 c   k     k     kf       19123   10    0 
+IdiotVig  969249105  6  5 f   -     -     -        19113    0    0 
+IdiotVig  969249136  6  4 f   -     -     -        19113    0    0 
+IdiotVig  969249161  6  3 f   -     -     -        19113    0    0 
+IdiotVig  969249184  7  3 f   -     -     -        19113    0    0 
+IdiotVig  969249242  6  1 Bk  k     kf    -        19113   10    0 
+IdiotVig  969249272  6  1 Bf  -     -     -        19103    5    0 
+IdiotVig  969249288  7  7 f   -     -     -        19098    0    0 
+IdiotVig  969249350  7  5 f   -     -     -        19098    0    0 
+IdiotVig  969249370  8  5 f   -     -     -        19098    0    0 
+IdiotVig  969249397  8  4 c   b     k     k        19098   65  165 Ts Kc
+IdiotVig  969249435  7  2 Bk  k     k     k        19198   10    0 7h 4s
+IdiotVig  969249463  8  1 Bc  k     kf    -        19188   10    0 
+IdiotVig  969249514  8  8 f   -     -     -        19178    0    0 
+IdiotVig  969249551  9  8 r   b     -     -        19178  185  280 
+IdiotVig  969249580  9  7 r   b     k     b        19273  475  990 Js Jd
+IdiotVig  969249687  9  6 f   -     -     -        19788    0    0 
+IdiotVig  969249743  9  6 c   k     f     -        19788   10    0 
+IdiotVig  969249783  9  5 c   kc    kf    -        19778   75    0 
+IdiotVig  969249875  8  4 f   -     -     -        19703    0    0 
+IdiotVig  969249887  8  3 f   -     -     -        19703    0    0 
+IdiotVig  969249945  8  2 Bf  -     -     -        19703   10    0 
+IdiotVig  969249996  8  1 Bf  -     -     -        19693    5    0 
+IdiotVig  969250032  7  7 f   -     -     -        19688    0    0 
+IdiotVig  969250073  7  6 c   b     -     -        19688   50   80 
+IdiotVig  969250112  7  5 f   -     -     -        19718    0    0 
+IdiotVig  969250165  7  4 f   -     -     -        19718    0    0 
+IdiotVig  969250237  6  3 f   -     -     -        19718    0    0 
+IdiotVig  969250268  5  2 Bk  kc    kf    -        19718   35    0 
+IdiotVig  969250291  5  1 Bc  b     b     -        19683  130  180 
+IdiotVig  969250322  5  4 Q   -     -     -        19733    0    0 
+IdiotVig  969407609  5  3 r   r     -     -        19733  735 1120 
+IdiotVig  969407640  5  2 Bk  k     b     b        20118  150  210 
+IdiotVig  969407668  5  1 Bc  kf    -     -        20178   10    0 
+IdiotVig  969407696  6  6 f   -     -     -        20168    0    0 
+IdiotVig  969407733  6  5 r   -     -     -        20168   35   50 
+IdiotVig  969407741  6  4 f   -     -     -        20183    0    0 
+IdiotVig  969407793  6  3 f   -     -     -        20183    0    0 
+IdiotVig  969407813  6  2 Bk  kc    kf    -        20183   45    0 
+IdiotVig  969407841  6  1 Bc  b     k     k        20138   60    0 Ks 9h
+IdiotVig  969407867  6  6 c   f     -     -        20078   10    0 
+IdiotVig  969407901  6  5 f   -     -     -        20068    0    0 
+IdiotVig  969407930  6  4 f   -     -     -        20068    0    0 
+IdiotVig  969407965  5  2 Bk  k     k     kf       20068   10    0 
+IdiotVig  969408010  5  1 Bc  k     k     kc       20058   30    0 2s Ts
+IdiotVig  969408032  5  5 f   -     -     -        20028    0    0 
+IdiotVig  969408046  5  4 r   b     k     k        20028  185    0 Qh Kh
+IdiotVig  969408090  5  3 f   -     -     -        19843    0    0 
+IdiotVig  969408125  5  2 Bk  kf    -     -        19843   10    0 
+IdiotVig  969408155  5  1 Bc  kf    -     -        19833   10    0 
+IdiotVig  969408200  5  5 f   -     -     -        19823    0    0 
+IdiotVig  969408271  5  4 f   -     -     -        19823    0    0 
+IdiotVig  969408320  5  3 cf  -     -     -        19823   10    0 
+IdiotVig  969408349  5  2 Bk  k     k     f        19813   10    0 
+IdiotVig  969408395  5  1 Bc  k     b     k        19803   40    0 Ah 5c
+IdiotVig  969408428  5  5 f   -     -     -        19763    0    0 
+IdiotVig  969408463  5  4 f   -     -     -        19763    0    0 
+IdiotVig  969408503  5  3 f   -     -     -        19763    0    0 
+IdiotVig  969408540  5  2 Bk  rf    -     -        19763  130    0 
+IdiotVig  969408577  5  1 Bcc b     k     kc       19633  850    0 Ks 8h
+IdiotVig  969408618  5  5 r   k     c     f        18783  225    0 
+IdiotVig  969408679  5  4 cc  kf    -     -        18558   55    0 
+IdiotVig  969408713  5  3 c   f     -     -        18503   10    0 
+IdiotVig  969408732  5  2 Bk  kc    kr    k        18493  605 1260 9d 3s
+IdiotVig  969408781  5  1 Bcf -     -     -        19148   10    0 
+IdiotVig  969408826  4  4 rc  k     k     f        19138  155    0 
+IdiotVig  969408878  4  3 f   -     -     -        18983    0    0 
+IdiotVig  969408894  4  2 Bc  kc    k     b        18983  475  660 
+IdiotVig  969408920  4  1 Br  b     b     -        19168  350  540 
+IdiotVig  969408966  4  4 f   -     -     -        19358    0    0 
+IdiotVig  969409002  4  3 f   -     -     -        19358    0    0 
+IdiotVig  969409026  4  2 Bk  b     k     kf       19358   35    0 
+IdiotVig  969409045  3  1 Br  k     b     -        19323   90  120 
+IdiotVig  969409064  3  3 cc  r     k     k        19353  400    0 7h Kd
+IdiotVig  969409085  3  2 Bc  k     b     kf       18953  110    0 
+IdiotVig  969409104  3  1 Bc  b     bc    k        18843  400  810 Ks Jd
+IdiotVig  969409126  3  3 r   k     c     k        19253  140    0 Ad Th
+IdiotVig  969409163  3  2 Bf  -     -     -        19113   10    0 
+IdiotVig  969409188  4  1 Bc  k     b     -        19103   30   40 
+IdiotVig  969409210  4  4 f   -     -     -        19113    0    0 
+IdiotVig  969409227  4  3 r   k     k     k        19113   35   55 Jd Ks
+IdiotVig  969409275  4  2 Bk  kf    -     -        19133   10    0 
+IdiotVig  969409292  5  1 Br  b     kf    -        19123  250    0 
+IdiotVig  969409352  5  5 c   b     b     b        18873  860 1800 Kd 4d
+IdiotVig  969409398  5  4 cc  kc    k     b        19813  605  840 
+IdiotVig  969409436  5  3 f   -     -     -        20048    0    0 
+IdiotVig  969409477  5  2 Bk  k     k     b        20048   35   75 3h Td
+IdiotVig  969409511  5  1 Bc  kc    kc    k        20088  210  480 5d Qs
+IdiotVig  969409539  5  5 r   b     -     -        20358  185  280 
+IdiotVig  969409559  5  4 c   k     k     k        20453   10    0 9h Td
+IdiotVig  969409589  5  3 f   -     -     -        20443    0    0 
+IdiotVig  969409617  5  2 Bf  -     -     -        20443   10    0 
+IdiotVig  969409664  5  1 Bcc kr    -     -        20433  270  360 
+IdiotVig  969409709  4  4 c   -     -     -        20523   10   25 
+IdiotVig  969409722  4  3 r   b     -     -        20538  120  180 
+IdiotVig  969409741  4  3 f   -     -     -        20598    0    0 
+IdiotVig  969409765  5  2 Bk  k     k     r        20598  170  360 7h 2h
+IdiotVig  969409806  4  1 Bc  kf    -     -        20788   10    0 
+IdiotVig  969409824  5  5 c   b     b     k        20778  110  225 Ac 3h
+IdiotVig  969409854  4  3 c   k     f     -        20893   10    0 
+IdiotVig  969409871  5  2 Bc  k     b     k        20883  145    0 8h Kh
+IdiotVig  969409902  5  1 Bc  kc    kf    -        20738   40    0 
+IdiotVig  969409923  4  4 c   k     br    -        20698  400  540 
+IdiotVig  969409946  4  3 r   k     k     k        20838   35  115 Th As
+IdiotVig  969409965  5  2 Bk  b     k     k        20918   45  105 3h Tc
+IdiotVig  969410002  4  1 Bf  -     -     -        20978    5    0 
+IdiotVig  969410020  4  4 cc  f     -     -        20973   40    0 
+IdiotVig  969410034  4  3 r   k     b     b        20933  375  383 As Js
+IdiotVig  969410053  4  2 Bk  k     kf    -        20941   10    0 
+IdiotVig  969410075  4  1 Bc  kf    -     -        20931   35    0 
+IdiotVig  969410089  4  4 c   b     k     f        20896   35    0 
+IdiotVig  969410109  4  3 f   -     -     -        20861    0    0 
+IdiotVig  969410133  4  2 B   -     -     -        20861   10   15 
+IdiotVig  969410136  4  1 Bcc k     kf    -        20866   50    0 
+IdiotVig  969410165  5  5 cc  f     -     -        20816   50    0 
+IdiotVig  969410203  5  4 r   b     k     b        20766  595  840 
+IdiotVig  969410241  4  2 c   b     b     k        21011  160  360 9d Kh
+IdiotVig  969410268  4  2 Bf  -     -     -        21211   10    0 
+IdiotVig  969410298  4  1 Bc  kf    -     -        21201   10    0 
+IdiotVig  969410325  4  4 r   -     -     -        21191   35   50 
+IdiotVig  969410332  4  3 c   b     -     -        21206   40   60 
+IdiotVig  969410346  4  2 B   -     -     -        21226   10   15 
+IdiotVig  969410352  4  1 Bf  -     -     -        21231    5    0 
+IdiotVig  969410370  4  4 f   -     -     -        21226    0    0 
+IdiotVig  969410376  4  3 f   -     -     -        21226    0    0 
+IdiotVig  969410394  4  2 Bc  k     kf    -        21226   35    0 
+IdiotVig  969410417  4  1 Bc  b     kc    k        21191  210    0 6s 5c
+IdiotVig  969410453  4  4 cc  b     -     -        20981  130  180 
+IdiotVig  969410470  4  3 f   -     -     -        21031    0    0 
+IdiotVig  969410475  4  2 Bk  k     k     k        21031   10    0 6c Kd
+IdiotVig  969410494  4  1 B   -     -     -        21021    5   15 
+IdiotVig  969410501  3  3 r   b     -     -        21031   90  120 
+IdiotVig  969410515  3  3 f   -     -     -        21061    0    0 
+IdiotVig  969410526  3  2 Bc  k     k     kf       21061   35    0 
+IdiotVig  969410545  4  1 Bf  -     -     -        21026    5    0 
+IdiotVig  969410567  4  4 f   -     -     -        21021    0    0 
+IdiotVig  969410581  4  3 c   f     -     -        21021   10    0 
+IdiotVig  969410596  4  2 Bk  k     k     k        21011   10    0 Js 7d
+IdiotVig  969410611  4  1 Bc  kf    -     -        21001   10    0 
+IdiotVig  969410651  4  4 c   k     b     b        20991  170  240 
+IdiotVig  969410702  6  5 c   k     f     -        21061   10    0 
+IdiotVig  969410743  6  4 c   k     b     k        21051   45   53 Qs 8s
+IdiotVig  969410773  6  3 cfQ -     -     -        21059   10    0 
+IdiotVig  969413622  8  3 r   k     k     k        21049   35    0 Ac Kh
+IdiotVig  969413709  8  2 Bk  kf    -     -        21014   10    0 
+IdiotVig  969413764  8  1 Bc  kc    k     kf       21004   40    0 
+IdiotVig  969413793  9  9 f   -     -     -        20964    0    0 
+IdiotVig  969413832  9  8 f   -     -     -        20964    0    0 
+IdiotVig  969413844  9  7 f   -     -     -        20964    0    0 
+IdiotVig  969413887  9  6 c   k     k     kf       20964   35    0 
+IdiotVig  969413931  9  5 r   kc    kf    -        20929  185    0 
+IdiotVig  969414010  8  4 f   -     -     -        20744    0    0 
+IdiotVig  969414131  6  2 Bk  k     bf    -        20744   35    0 
+IdiotVig  969414150  6  1 Bc  k     k     k        20709   10    0 4d 2c
+IdiotVig  969414169  6  6 c   b     -     -        20699   35   50 
+IdiotVig  969414190  6  5 f   -     -     -        20714    0    0 
+IdiotVig  969414254  7  5 f   -     -     -        20714    0    0 
+IdiotVig  969414267  6  3 c   bc    kf    -        20714  150    0 
+IdiotVig  969414309  6  2 Bk  b     -     -        20564   40   60 
+IdiotVig  969414332  6  1 Bf  -     -     -        20584    5    0 
+IdiotVig  969414347  6  6 f   -     -     -        20579    0    0 
+IdiotVig  969414380  6  5 f   -     -     -        20579    0    0 
+IdiotVig  969414424  6  4 cc  kf    -     -        20579   45    0 
+IdiotVig  969414480  6  3 f   -     -     -        20534    0    0 
+IdiotVig  969414528  7  2 Bc  k     kf    -        20534   55    0 
+IdiotVig  969414575  7  1 Bf  -     Q     -        20479    5    0 
+IdiotVig  969737367  6  3 f   -     -     -        20474    0    0 
+IdiotVig  969737386  6  2 Bk  b     -     -        20474   40   60 
+IdiotVig  969737404  6  1 Bf  -     -     -        20494    5    0 
+IdiotVig  969737422  6  6 f   -     -     -        20489    0    0 
+IdiotVig  969737441  6  5 f   -     -     -        20489    0    0 
+IdiotVig  969737477  6  4 c   k     k     k        20489   10    0 3c Ah
+IdiotVig  969737516  6  3 c   b     -     -        20479   50   80 
+IdiotVig  969737544  6  2 Bc  kf    -     -        20509   45    0 
+IdiotVig  969737586  6  1 Bf  -     -     -        20464    5    0 
+IdiotVig  969737614  6  6 f   -     -     -        20459    0    0 
+IdiotVig  969737621  6  5 f   -     -     -        20459    0    0 
+IdiotVig  969737654  6  4 f   -     -     -        20459    0    0 
+IdiotVig  969737676  6  3 f   -     -     -        20459    0    0 
+IdiotVig  969737712  6  2 Brc kf    -     -        20459  335    0 
+IdiotVig  969737743  6  1 Bf  -     -     -        20124    5    0 
+IdiotVig  969737785  6  6 c   k     k     k        20119   10    0 8d 9d
+IdiotVig  969737819  6  5 c   b     -     -        20109   60  100 
+IdiotVig  969737860  5  3 cc  f     -     -        20149   45    0 
+IdiotVig  969737879  5  2 Bf  -     -     -        20104   10    0 
+IdiotVig  969737887  5  1 Bf  -     -     -        20094    5    0 
+IdiotVig  969737967  5  5 r   b     -     -        20089  140  210 
+IdiotVig  969737983  5  4 f   -     -     -        20159    0    0 
+IdiotVig  969737989  5  3 f   -     -     -        20159    0    0 
+IdiotVig  969738004  5  2 Bk  k     k     k        20159   10    0 2s Kd
+IdiotVig  969738031  5  1 Bc  k     kf    -        20149   10    0 
+IdiotVig  969738067  6  6 f   -     -     -        20139    0    0 
+IdiotVig  969738091  6  5 r   b     k     f        20139  110    0 
+IdiotVig  969738113  6  4 r   r     k     k        20029  765    0 9c 9d
+IdiotVig  969738144  6  3 f   -     -     -        19264    0    0 
+IdiotVig  969738190  6  2 Bk  c     f     -        19264   40    0 
+IdiotVig  969738219  7  1 Br  k     b     -        19224  170  240 
+IdiotVig  969738247  7  7 c   c     c     k        19294  185  420 Ks 3h
+IdiotVig  969738274  7  6 f   -     -     -        19529    0    0 
+IdiotVig  969738306  7  5 rc  k     b     k        19529  270  555 Jh Js
+IdiotVig  969738340  7  4 f   -     -     -        19814    0    0 
+IdiotVig  969738378  7  3 f   -     -     -        19814    0    0 
+IdiotVig  969738417  5  1 Bk  kr    kf    -        19814  130    0 
+IdiotVig  969738471  5  1 Bc  bc    k     kc       19684  310    0 Ac 5h
+IdiotVig  969738511  5  5 f   -     -     -        19374    0    0 
+IdiotVig  969738533  5  4 r   b     k     k        19374  150    0 Ah 7h
+IdiotVig  969738559  5  3 f   -     -     -        19224    0    0 
+IdiotVig  969738570  5  2 Bf  -     -     -        19224   10    0 
+IdiotVig  969738577  5  1 Bc  kc    k     b        19214  625 1305 Ah 8h
+IdiotVig  969738608  5  5 r   k     b     -        19894  190  290 
+IdiotVig  969738637  5  4 c   c     k     b        19994  160  240 
+IdiotVig  969738661  5  3 f   -     -     -        20074    0    0 
+IdiotVig  969738690  5  2 Bf  -     -     -        20074   10    0 
+IdiotVig  969738703  5  1 Bf  -     -     -        20064    5    0 
+IdiotVig  969738714  5  5 c   r     c     k        20059  530 1080 Kh 8d
+IdiotVig  969738744  5  4 c   c     b     -        20609  130  180 
+IdiotVig  969738780  5  3 cc  kf    -     -        20659   35    0 
+IdiotVig  969738797  5  2 Bk  k     k     k        20624   10    0 4c Qs
+IdiotVig  969738850  5  1 Bc  k     k     bf       20614   50    0 
+IdiotVig  969738891  5  5 r   b     -     -        20564  150  210 
+IdiotVig  969738910  4  3 rc  k     k     k        20624   85    0 7c Qc
+IdiotVig  969738940  4  2 Bc  kr    -     -        20539  245  330 
+IdiotVig  969738966  4  1 Bc  k     k     k        20624   10    0 Ts 8h
+IdiotVig  969738982  4  4 c   c     k     bc       20614  310    0 Qs 9s
+IdiotVig  969739009  4  4 f   -     -     -        20304    0    0 
+IdiotVig  969739027  4  3 cc  k     kf    -        20304   35    0 
+IdiotVig  969739055  4  2 Br  f     -     -        20269   50    0 
+IdiotVig  969739092  4  1 Bc  k     b     -        20219   30   40 
+IdiotVig  969739110  4  4 f   -     -     -        20229    0    0 
+IdiotVig  969739140  4  3 c   r     c     c        20229 1610    0 2d Kc
+IdiotVig  969739181  4  2 BQ  -     -     -        18619   10    0 
+IdiotVig  969850690  3  1 Br  -     -     -        18514   30   40 
+IdiotVig  969850699  3  3 r   b     -     -        18524  110  150 
+IdiotVig  969850717  3  2 Bk  f     -     -        18564   10    0 
+IdiotVig  969850738  3  1 Bc  b     b     k        18554   90   90 Jh 6d
+IdiotVig  969850771  3  3 r   f     -     -        18394   35    0 
+IdiotVig  969850798  3  2 B   -     -     -        18359   10   15 
+IdiotVig  969850807  3  1 Bc  kf    -     -        18364   35    0 
+IdiotVig  969850834  5  5 c   f     -     -        18319   10    0 
+IdiotVig  969850863  5  4 r   -     -     -        18309   35   50 
+IdiotVig  969850868  5  3 f   -     -     -        18324    0    0 
+IdiotVig  969850872  5  2 Bc  f     -     -        18324   30    0 
+IdiotVig  969850883  5  1 Bc  k     b     -        18294   30   40 
+IdiotVig  969850896  5  5 c   c     f     -        18304   50    0 
+IdiotVig  969850926  6  5 f   -     -     -        18254    0    0 
+IdiotVig  969850941  6  4 rc  r     b     k        18254 3235    0 Ah Td
+IdiotVig  969850974  6  3 r   b     -     -        15019  115  160 
+IdiotVig  969851002  6  2 Bk  b     -     -        15064   50   80 
+IdiotVig  969851016  6  1 Bc  kf    -     -        15074   10    0 
+IdiotVig  969851060  7  7 c   b     -     -        15064   35   50 
+IdiotVig  969851076  7  6 f   -     -     -        15079    0    0 
+IdiotVig  969851102  7  5 c   k     f     -        15079   35    0 
+IdiotVig  969851139  7  4 c   b     -     -        15044   50   80 
+IdiotVig  969851160  7  3 f   -     -     -        15074    0    0 
+IdiotVig  969851194  7  2 Bf  -     -     -        15074   10    0 
+IdiotVig  969851235  7  1 Bc  kf    -     -        15064   10    0 
+IdiotVig  969851287  7  7 f   -     -     -        15054    0    0 
+IdiotVig  969851318  7  6 c   cf    -     Q        15054   60    0 
+IdiotVig  970028770  5  2 Bk  kf    -     -        14994   10    0 
+IdiotVig  970028787  5  1 Bc  k     k     kf       14984   35    0 
+IdiotVig  970028872  5  5 cc  c     f     -        14949  210    0 
+IdiotVig  970028952  5  4 f   -     -     -        14739    0    0 
+IdiotVig  970028962  5  3 r   bc    bc    k        14739 4235    0 7h 7d
+IdiotVig  970029019  5  2 Bk  k     kf    -        10504   10    0 
+IdiotVig  970029055  5  1 Bc  k     b     b        10494  210  320 
+IdiotVig  970029113  5  5 f   -     -     -        10604    0    0 
+IdiotVig  970029135  5  4 cc  f     -     -        10604   40    0 
+IdiotVig  970029164  5  3 f   -     -     -        10504    0    0 
+IdiotVig  970029199  5  2 Bc  kf    -     -        10504   35    0 
+IdiotVig  970029244  5  1 Br  b     k     kf       10449  210    0 
+IdiotVig  970029297  5  5 f   -     -     -        10239    0    0 
+IdiotVig  970029341  4  3 f   -     -     -        10329    0    0 
+IdiotVig  970029350  4  2 Bk  k     k     k        10329   10    0 2h 6h
+IdiotVig  970029389  4  1 Br  b     k     k        10319   90  180 Ah 7h
+IdiotVig  970029410  3  3 c   b     -     -        10409   35   50 
+IdiotVig  970029437  3  2 Bc  kc    k     kf       10424  110    0 
+IdiotVig  970029457  3  1 Bf  -     -     -        10314    5    0 
+IdiotVig  970029460  3  3 rc  b     b     -        10309 1400 1890 
+IdiotVig  970029479  3  2 Bk  b     -     -        10799   35   50 
+IdiotVig  970029491  3  1 Bc  b     -     -        10814   30   40 
+IdiotVig  970029501  3  3 r   b     -     -        10824  110  150 
+IdiotVig  970029508  3  2 Bk  k     k     k        10864   10    0 8c 6d
+IdiotVig  970029525  3  1 Br  b     -     -        10854  160  240 
+IdiotVig  970029539  3  3 f   -     -     -        10934    0    0 
+IdiotVig  970029566  3  2 B   -     -     -        10934   10   15 
+IdiotVig  970029588  3  1 B   -     -     -        10939    5   15 
+IdiotVig  970029591  2  2 r   b     k     rf       10949  810    0 
+IdiotVig  970029609  2  2 B   -     -     -        10139   10   15 
+IdiotVig  970029611  2  1 Bf  -     -     -        10144    5    0 
+IdiotVig  970029615  2  2 B   -     -     -        10139   10   15 
+IdiotVig  970029617  2  1 Bf  -     -     -        10144    5    0 
+IdiotVig  970029624  2  2 Bc  rc    f     -        10139  810    0 
+IdiotVig  970029639  2  1 Br  -     -     -         9329   30   40 
+IdiotVig  970029643  2  2 Bc  k     b     -         9339   90  120 
+IdiotVig  970029655  2  1 Bf  -     -     -         9369    5    0 
+IdiotVig  970029659  2  2 Bk  k     k     f         9364   10    0 
+IdiotVig  970029674  2  1 Br  -     -     -         9354   30   40 
+IdiotVig  970029679  2  2 Bk  k     k     k         9364   10    0 Qd 8c
+IdiotVig  970029696  2  1 Bc  b     -     -         9234   30   40 
+IdiotVig  970029704  2  2 Bc  k     f     -         9244   30    0 
+IdiotVig  970029715  2  1 Bc  b     b     b         9214  270  360 
+IdiotVig  970029730  2  2 B   -     -     -         9294   10   15 
+IdiotVig  970029732  2  1 Br  -     -     -         9299   30   40 
+IdiotVig  970029736  2  2 B   -     -     -         9309   10   15 
+IdiotVig  970029738  2  1 Bc  kf    -     -         9314   10    0 
+IdiotVig  970029747  2  2 Br  k     b     -         9304   90  120 
+IdiotVig  970029758  2  1 Br  -     -     -         9334   30   40 
+IdiotVig  970029761  2  2 B   -     -     -         9344   10   15 
+IdiotVig  970029762  2  1 Br  -     -     -         9349   30   40 
+IdiotVig  970029765  2  2 B   -     -     -         9359   10   15 
+IdiotVig  970029767  2  1 Br  k     kf    -         9364   30    0 
+IdiotVig  970029780  2  2 Br  b     -     -         9334  270  360 
+IdiotVig  970029788  2  1 Bf  -     -     -         9424    5    0 
+IdiotVig  970029791  2  2 Bk  b     -     -         9419   30   40 
+IdiotVig  970029799  2  1 Bf  -     -     -         9429    5    0 
+IdiotVig  970029802  2  2 Bk  b     -     -         9424   30   40 
+IdiotVig  970029814  2  1 Br  -     -     -         9434   30   40 
+IdiotVig  970029818  2  2 B   -     -     -         9444   10   15 
+IdiotVig  970029821  2  1 Bf  -     -     -         9449    5    0 
+IdiotVig  970029824  2  2 Bk  b     b     b         9444  270  540 2c 3c
+IdiotVig  970029846  2  1 Bcc k     bc    k         9954  270    0 Jc 9s
+IdiotVig  970029869  2  2 B   -     -     -         9664   10   15 
+IdiotVig  970029876  2  1 Bc  b     -     -         9669   30   40 
+IdiotVig  970029883  2  2 B   -     -     -         9679   10   15 
+IdiotVig  970029885  2  1 Bf  -     -     -         9684    5    0 
+IdiotVig  970029888  2  2 B   -     -     -         9679   10   15 
+IdiotVig  970029890  2  1 Br  b     k     b         9684  270  540 Js Qh
+IdiotVig  970029906  2  2 Bc  c     k     b         9954  270  540 6s Ks
+IdiotVig  970029921  2  1 Br  bc    k     kf       10224  270    0 
+IdiotVig  970029939  2  2 Bk  k     b     -         9954   30   40 
+IdiotVig  970029950  2  1 Bf  -     -     -         9964    5    0 
+IdiotVig  970029953  2  2 B   -     -     -         9959   10   15 
+IdiotVig  970029955  2  1 Bc  k     b     -         9964   30   40 
+IdiotVig  970029985  2  2 Bk  b     -     -         9974   30   40 
+IdiotVig  970029994  2  1 Bf  -     -     -         9984    5    0 
+IdiotVig  970029998  2  2 B   -     -     -         9979   10   15 
+IdiotVig  970030001  2  1 Bc  kc    k     b         9984   90  120 
+IdiotVig  970030015  2  2 Bk  k     k     k        10014   10   20 Ad 8c
+IdiotVig  970030032  2  1 Bc  kc    k     bc       10024  270    0 Qh Qd
+IdiotVig  970030060  2  2 B   -     -     -         9674   10   15 
+IdiotVig  970030065  2  1 Bf  -     -     -         9679    5    0 
+IdiotVig  970030070  2  2 Br  b     b     -         9674  270  360 
+IdiotVig  970030095  2  1 Br  -     -     -         9764   30   40 
+IdiotVig  970030098  2  2 B   -     -     -         9774   10   15 
+IdiotVig  970030100  2  1 Bf  -     -     -         9779    5    0 
+IdiotVig  970030103  2  2 Bk  b     b     -         9774   90  120 
+IdiotVig  970030111  2  1 Bc  k     k     k         9804   10    0 Ad 7h
+IdiotVig  970030123  2  2 B   -     -     -         9794   10   15 
+IdiotVig  970030128  2  1 Bc  b     -     -         9799   30   40 
+IdiotVig  970030133  2  2 B   -     -     -         9809   10   15 
+IdiotVig  970030136  2  1 Bc  k     k     k         9814   10    0 6c 7h
+IdiotVig  970030146  2  2 B   -     -     -         9804   10   15 
+IdiotVig  970030152  2  1 Bc  k     k     kf        9809   10    0 
+IdiotVig  970030164  2  2 Bk  b     -     -         9799   30   40 
+IdiotVig  970030171  2  1 Br  k     k     k         9809   30   60 3d Ac
+IdiotVig  970030183  2  2 Bk  k     f     -         9839   10    0 
+IdiotVig  970030194  2  1 Bc  k     b     -         9829   30   40 
+IdiotVig  970030202  2  2 B   -     -     -         9839   10   15 
+IdiotVig  970030207  2  1 Bf  -     -     -         9844    5    0 
+IdiotVig  970030209  2  2 Bc  r     -     -         9839  270  360 
+IdiotVig  970030218  2  1 Bf  -     -     -         9929    5    0 
+IdiotVig  970030222  2  2 Bk  b     -     -         9924   30   40 
+IdiotVig  970030229  2  1 Bf  -     -     -         9934    5    0 
+IdiotVig  970030231  2  2 Br  b     k     c         9929  270    0 9c Ac
+IdiotVig  970030246  2  1 Bf  -     -     -         9659    5    0 
+IdiotVig  970030251  2  2 B   -     -     -         9654   10   15 
+IdiotVig  970030253  2  1 Br  -     -     -         9659   30   40 
+IdiotVig  970030256  2  2 Bk  b     f     -         9669   30    0 
+IdiotVig  970030271  2  1 Br  b     b     b         9639  810 1080 
+IdiotVig  970030282  2  2 Bk  k     b     -         9909   30   40 
+IdiotVig  970030289  2  1 Br  -     -     -         9919   30   40 
+IdiotVig  970030294  2  2 Bk  b     -     -         9929   30   40 
+IdiotVig  970030304  2  1 Bc  k     b     -         9939   30   40 
+IdiotVig  970030311  2  2 Bk  k     b     b         9949   90    0 4h 9s
+IdiotVig  970030323  2  1 Bc  k     k     k         9859   10    0 Th 9s
+IdiotVig  970030333  2  2 Bk  k     b     b         9849   90  180 Kd 6d
+IdiotVig  970030349  2  1 Bcc k     k     k         9939   30    0 6h Td
+IdiotVig  970030366  2  2 Bk  k     f     -         9909   10    0 
+IdiotVig  970030379  3  1 Bc  kf    -     -         9899   10    0 
+IdiotVig  970030400  3  3 c   b     -     -         9889   40   60 
+IdiotVig  970030413  3  2 Bk  kf    -     -         9909   10    0 
+IdiotVig  970030424  3  1 Bc  k     b     -         9899   30   40 
+IdiotVig  970030435  3  3 r   b     -     -         9909  115  160 
+IdiotVig  970030446  3  2 Bk  k     k     k         9954   10   20 5d 7s
+IdiotVig  970030457  3  1 Bc  k     kc    kf        9964   40    0 
+IdiotVig  970030482  3  3 r   k     k     b         9924  110  150 
+IdiotVig  970030496  3  2 Bk  k     k     k         9964   10   20 Qs 9s
+IdiotVig  970030510  3  1 Br  b     k     k         9974   90  180 Ah Qh
+IdiotVig  970030530  3  3 cc  c     k     k        10064  110  225 Js 9c
+IdiotVig  970030547  3  2 Bk  k     kf    -        10179   10    0 
+IdiotVig  970030561  3  1 Bc  b     -     -        10169   40   60 
+IdiotVig  970030570  3  3 r   k     k     f        10189   35    0 
+IdiotVig  970030585  3  2 B   -     -     -        10154   10   15 
+IdiotVig  970030588  3  1 Bf  -     -     -        10159    5    0 
+IdiotVig  970030599  3  3 f   -     -     -        10154    0    0 
+IdiotVig  970030608  3  2 Bk  b     -     -        10154   35   50 
+IdiotVig  970030616  3  1 Bc  kf    -     -        10169   10    0 
+IdiotVig  970030627  3  3 f   -     -     -        10159    0    0 
+IdiotVig  970030639  3  2 B   -     -     -        10159   10   15 
+IdiotVig  970030643  3  1 Bc  k     k     k        10164   10    0 5d 7c
+IdiotVig  970030659  3  3 f   -     -     -        10154    0    0 
+IdiotVig  970030674  3  2 Br  b     -     -        10154   90  120 
+IdiotVig  970030685  3  1 Bc  b     b     -        10184   90  120 
+IdiotVig  970030698  3  3 r   b     -     -        10214  140  210 
+IdiotVig  970030709  3  2 Bk  k     k     k        10284   10    0 2h 9c
+IdiotVig  970030721  3  1 Bf  -     -     -        10274    5    0 
+IdiotVig  970030728  3  3 f   -     -     -        10269    0    0 
+IdiotVig  970030740  3  2 Bf  -     -     -        10269   10    0 
+IdiotVig  970030747  3  1 Br  bf    -     -        10259   90    0 
+IdiotVig  970030758  3  3 f   -     -     -        10169    0    0 
+IdiotVig  970030762  3  2 Bf  -     -     -        10169   10    0 
+IdiotVig  970030768  3  1 Bc  k     k     k        10159   10   30 3s Th
+IdiotVig  970030783  3  3 r   -     -     -        10179   35   50 
+IdiotVig  970030790  3  2 Bk  kc    k     k        10194   35    0 3c Ad
+IdiotVig  970030806  3  1 Br  -     -     -        10159   30   40 
+IdiotVig  970030813  3  3 cr  b     b     k        10169 1210    0 Kc Ad
+IdiotVig  970030835  3  2 Bc  fQ    -     -         8959   25    0 

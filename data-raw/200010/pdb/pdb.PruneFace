@@ -1,0 +1,339 @@
+PruneFace 971318386  9  8 f   -     -     -        50674    0    0 
+PruneFace 971318433  9  7 c   b     -     -        50674   50   80 
+PruneFace 971318459  9  6 f   -     -     -        50704    0    0 
+PruneFace 971318513  9  5 r   -     -     -        50704   35   50 
+PruneFace 971318530  9  4 c   b     k     k        50719   70    0 Qs 7s
+PruneFace 971318599  8  3 f   -     -     -        50649    0    0 
+PruneFace 971318632  8  2 Bk  b     -     -        50649   55   90 
+PruneFace 971318662  8  1 Bf  -     -     -        50684    5    0 
+PruneFace 971318730  8  8 r   b     -     -        50679  280  450 
+PruneFace 971318801  7  6 f   -     -     -        50849    0    0 
+PruneFace 971318823  7  5 cc  kf    -     -        50849   55    0 
+PruneFace 971318859  7  4 r   k     k     kf       50794   35    0 
+PruneFace 971318876  7  3 r   k     -     -        50759   35   85 
+PruneFace 971318892  7  2 Bk  k     k     k        50809   10    0 Js 2d
+PruneFace 971318920  7  1 Bf  -     -     -        50799    5    0 
+PruneFace 971318945  7  7 r   b     c     k        50794  725    0 3h 7h
+PruneFace 971318999  7  6 r   b     -     -        50069  150  210 
+PruneFace 971319022  7  5 c   c     f     -        50129  150    0 
+PruneFace 971319051  7  4 cc  kf    -     -        49979  195    0 
+PruneFace 971319094  6  3 cc  kf    -     -        49784   45    0 
+PruneFace 971319143  6  2 Bc  b     -     -        49739  145  220 
+PruneFace 971319180  7  1 Br  b     -     -        49814  210  320 
+PruneFace 971319214  7  7 f   -     -     -        49924    0    0 
+PruneFace 971319261  7  6 f   -     -     -        49924    0    0 
+PruneFace 971319330  6  5 r   b     -     -        49924  110  150 
+PruneFace 971319344  5  3 c   f     -     -        49964   10    0 
+PruneFace 971319369  5  2 Bc  b     kf    -        49954  145    0 
+PruneFace 971319408  5  1 Br  k     b     -        49809  485  660 
+PruneFace 971319446  6  5 r   b     b     -        49984  495  690 
+PruneFace 971319475  6  4 cc  kf    -     -        50179   45    0 
+PruneFace 971319503  7  3 f   -     -     -        50134    0    0 
+PruneFace 971319531  7  2 Bk  kf    -     -        50134   10    0 
+PruneFace 971319562  8  1 Br  b     br    -        50124 9670 6339 Ac Ad
+PruneFace 971319607  8  8 f   -     -     -        46793    0    0 
+PruneFace 971319676  8  7 r   b     b     -        46793  335  450 
+PruneFace 971319706  8  6 f   -     -     -        46908    0    0 
+PruneFace 971319724  8  5 f   -     -     -        46908    0    0 
+PruneFace 971319757  8  4 f   -     -     -        46908    0    0 
+PruneFace 971319801  8  3 f   -     -     -        46908    0    0 
+PruneFace 971319811  8  2 Bf  -     -     -        46908   10    0 
+PruneFace 971319864  8  1 Bf  -     -     -        46898    5    0 
+PruneFace 971319941  9  9 f   -     -     -        46893    0    0 
+PruneFace 971319978 10  9 f   -     -     -        46893    0    0 
+PruneFace 971320026 10  8 f   -     -     -        46893    0    0 
+PruneFace 971320071 10  7 f   -     -     -        46893    0    0 
+PruneFace 971320111 10  6 f   -     -     -        46893    0    0 
+PruneFace 971320136 10  5 f   -     -     -        46893    0    0 
+PruneFace 971320171 10  4 f   -     -     -        46893    0    0 
+PruneFace 971320214 10  3 r   b     -     -        46893  120  170 
+PruneFace 971320234 10  2 Bc  kf    -     -        46943   35    0 
+PruneFace 971320266 10  1 Bf  -     -     -        46908    5    0 
+PruneFace 971320297 10 10 r   b     -     -        46903  235  360 
+PruneFace 971320337 10  9 c   b     kc    f        47028  340    0 
+PruneFace 971320397 10  8 r   b     -     -        46688  340  550 
+PruneFace 971320431 10  7 f   -     -     -        46898    0    0 
+PruneFace 971320495 10  7 f   -     -     -        46898    0    0 
+PruneFace 971320548 10  5 r   k     k     k        46898   35  175 2c 2d
+PruneFace 971320588 10  4 c   k     k     k        47038   10    0 9s 8d
+PruneFace 971320621 10  3 f   -     -     -        47028    0    0 
+PruneFace 971320652 10  2 Br  b     -     -        47028  250  400 
+PruneFace 971320677 10  1 Bc  kr    b     -        47178 2310 3150 
+PruneFace 971320706 10 10 r   k     k     k        48018   75    0 Jd Qs
+PruneFace 971320748 10  9 rc  b     -     -        47943 2730 4120 
+PruneFace 971320776 10  8 f   -     -     -        49333    0    0 
+PruneFace 971320803 10  7 f   -     -     -        49333    0    0 
+PruneFace 971320842 10  6 c   kf    -     -        49333   10    0 
+PruneFace 971320874 10  5 f   -     -     -        49323    0    0 
+PruneFace 971320908 10  4 f   -     -     -        49323    0    0 
+PruneFace 971320945 10  3 f   -     -     -        49323    0    0 
+PruneFace 971321004  8  2 Bc  b     kc    kf       49323 1180    0 
+PruneFace 971321047  8  1 Br  b     k     kf       48143  210    0 
+PruneFace 971321085  9  8 c   b     -     -        47933  290  470 
+PruneFace 971321120  9  7 r   b     k     k        48113  405 1020 Jd Ks
+PruneFace 971321158  9  6 f   -     -     -        48728    0    0 
+PruneFace 971321199 10  6 f   -     -     -        48728    0    0 
+PruneFace 971321297 10  5 f   -     -     -        48728    0    0 
+PruneFace 971321343 10  4 r   b     -     -        48728  120  170 
+PruneFace 971321377 10  3 r   k     k     b        48778  190  310 
+PruneFace 971321412 10  2 Bf  -     -     -        48898   10    0 
+PruneFace 971321477  9  1 Bf  -     -     -        48888    5    0 
+PruneFace 971321518  9  9 f   -     -     -        48883    0    0 
+PruneFace 971321545  9  8 c   b     -     -        48883   50   80 
+PruneFace 971321574  9  7 r   b     k     f        48913  225    0 
+PruneFace 971321610  9  6 c   c     f     -        48688   40    0 
+PruneFace 971321626  9  5 r   b     -     -        48648  190  290 
+PruneFace 971321650  9  4 r   k     b     k        48748  120  255 Tc Ad
+PruneFace 971321669  9  3 f   -     -     -        48883    0    0 
+PruneFace 971321708  9  2 Bc  kc    kc    kf       48883  475    0 
+PruneFace 971321735  9  1 Br  b     -     -        48408  985 1580 
+PruneFace 971321759  9  9 c   k     f     -        49003   35    0 
+PruneFace 971321793  9  8 r   f     -     -        48968   55    0 
+PruneFace 971321817  9  7 f   -     -     -        48913    0    0 
+PruneFace 971321857  9  6 f   -     -     -        48913    0    0 
+PruneFace 971321884  9  5 f   -     -     -        48913    0    0 
+PruneFace 971321912  9  4 f   -     -     -        48913    0    0 
+PruneFace 971321948  9  3 r   b     -     -        48913  140  210 
+PruneFace 971321970  9  2 Bc  kc    k     b        48983  475  660 
+PruneFace 971321992  9  1 Bc  kf    -     -        49168   35    0 
+PruneFace 971322025  9  9 f   -     -     -        49133    0    0 
+PruneFace 971322102  9  8 r   b     -     -        49133  235  360 
+PruneFace 971322132  9  7 f   -     -     -        49258    0    0 
+PruneFace 971322164  9  6 r   b     -     -        49258  225  360 
+PruneFace 971322192  9  5 cc  b     k     b        49393 3690 5760 
+PruneFace 971322249  9  4 f   -     -     -        51463    0    0 
+PruneFace 971322261  9  3 c   kf    -     -        51463   10    0 
+PruneFace 971322305  9  2 Bk  k     k     k        51453   10   55 7h 4s
+PruneFace 971322350  9  1 Bc  b     k     b        51498  170    0 3h Ac
+PruneFace 971322403  9  9 c   k     k     k        51328   10   30 9c 3c
+PruneFace 971322433  9  8 rc  k     b     bf       51348 2700    0 
+PruneFace 971322464  9  7 r   b     -     -        48648  150  210 
+PruneFace 971322484  9  6 f   -     -     -        48708    0    0 
+PruneFace 971322503  9  5 f   -     -     -        48708    0    0 
+PruneFace 971322526  9  4 f   -     -     -        48708    0    0 
+PruneFace 971322564  9  3 r   b     -     -        48708  180  290 
+PruneFace 971322588  9  2 Bc  kf    -     -        48818   45    0 
+PruneFace 971322622  9  1 Bf  -     -     -        48773    5    0 
+PruneFace 971322646  9  9 c   b     -     -        48768   75  130 
+PruneFace 971322676  8  7 f   -     -     -        48823    0    0 
+PruneFace 971322691  8  6 r   -     -     -        48823   35   50 
+PruneFace 971322700  8  5 r   b     k     b        48838  645 1350 9s 9d
+PruneFace 971322730  8  4 c   k     k     kf       49543   10    0 
+PruneFace 971322792  8  3 f   -     -     -        49533    0    0 
+PruneFace 971322822  8  2 Bk  kf    -     -        49533   10    0 
+PruneFace 971322865  8  1 Bf  -     -     -        49523    5    0 
+PruneFace 971322890  8  8 c   k     k     f        49518   10    0 
+PruneFace 971322964  8  7 f   -     -     -        49508    0    0 
+PruneFace 971322993  8  6 r   b     -     -        49508  485  730 
+PruneFace 971323024  8  5 r   k     k     k        49753   45    0 Qs Ts
+PruneFace 971323051  8  4 f   -     -     -        49708    0    0 
+PruneFace 971323096  8  3 r   k     k     kf       49708   35    0 
+PruneFace 971323121  7  2 Bk  b     -     -        49673   35   50 
+PruneFace 971323135  7  1 Br  b     k     k        49688  430    0 2d Kd
+PruneFace 971323177  7  7 r   b     k     f        49258  235    0 
+PruneFace 971323216  6  6 c   f     -     -        49023   35    0 
+PruneFace 971323233  6  5 f   -     -     -        48988    0    0 
+PruneFace 971323253  6  4 r   -     -     -        48988   35   50 
+PruneFace 971323262  6  3 f   -     -     -        49003    0    0 
+PruneFace 971323285  6  2 Bc  b     b     k        49003  605  630 8s 7d
+PruneFace 971323311  6  1 Br  -     -     -        49028   30   40 
+PruneFace 971323329  6  6 r   b     -     -        49038  185  280 
+PruneFace 971323345  6  5 r   -     -     -        49133   35   50 
+PruneFace 971323352  6  4 r   -     -     -        49148   35   50 
+PruneFace 971323364  6  3 r   b     b     k        49163  615    0 6d 7d
+PruneFace 971323386  6  2 Br  kf    -     -        48548   50    0 
+PruneFace 971323413  6  1 Bf  -     -     -        48498    5    0 
+PruneFace 971323443  6  6 r   -     -     -        48493   35   50 
+PruneFace 971323453  6  5 r   b     -     -        48508  145  220 
+PruneFace 971323469  6  4 f   -     -     -        48583    0    0 
+PruneFace 971323487  6  3 f   -     -     -        48583    0    0 
+PruneFace 971323509  6  2 Br  k     b     b        48583  850 1800 3s 3h
+PruneFace 971323555  6  1 Bf  -     -     -        49533    5    0 
+PruneFace 971323565  6  6 c   c     k     k        49528   35   75 Td 5d
+PruneFace 971323596  6  5 r   b     -     -        49568  230  370 
+PruneFace 971323652  5  3 f   -     -     -        49708    0    0 
+PruneFace 971323656  5  2 Bk  b     -     -        49708   30   40 
+PruneFace 971323677  3  1 Br  -     -     -        49718   30   40 
+PruneFace 971323685  2  2 Q   -     -     -        49728    0    0 
+PruneFace 971410009  3  3 r   b     k     k        48818  115    0 9d Kd
+PruneFace 971410028  3  2 Bk  b     k     k        48703   40    0 3h 7c
+PruneFace 971410053  3  1 Br  b     b     bc       48663 2430    0 6s Js
+PruneFace 971410074  3  3 r   b     k     k        46233  115  240 5c Ad
+PruneFace 971410093  3  2 Bk  b     b     -        46358  130  180 
+PruneFace 971410121  4  1 Bf  -     -     -        46408    5    0 
+PruneFace 971410161  4  4 r   b     br    rA       46403 46403 46410 9s Th
+PruneFace 971410191  4  3 r   k     b     kc       46410  495    0 Ad 5d
+PruneFace 971410217  4  2 Br  b     -     -        45915  270  360 
+PruneFace 971410233  4  1 Bf  -     -     -        46005    5    0 
+PruneFace 971410257  4  4 f   -     -     -        46000    0    0 
+PruneFace 971410277  4  3 f   -     -     -        46000    0    0 
+PruneFace 971410288  4  2 Bc  f     -     -        46000   30    0 
+PruneFace 971410311  4  1 Br  -     -     -        45970   30   40 
+PruneFace 971410316  4  4 f   -     -     -        45980    0    0 
+PruneFace 971410327  4  3 f   -     -     -        45980    0    0 
+PruneFace 971410337  4  2 Bf  -     -     -        45980   10    0 
+PruneFace 971410365  4  1 Bcc k     b     b        45970 2510 3480 
+PruneFace 971410397  5  5 f   -     -     -        46940    0    0 
+PruneFace 971410405  5  5 f   -     -     -        46940    0    0 
+PruneFace 971410437  5  4 f   -     -     -        46940    0    0 
+PruneFace 971410456  5  3 cc  kc    kf    -        46940  330    0 
+PruneFace 971410493  6  2 Br  b     b     -        46610  605  840 
+PruneFace 971410511  7  1 Bc  kf    -     -        46845   35    0 
+PruneFace 971410530  7  7 c   f     -     -        46810   10    0 
+PruneFace 971410582  7  6 c   k     k     k        46800   35    0 7h 5h
+PruneFace 971410618  7  5 c   k     kf    -        46765   10    0 
+PruneFace 971410670  7  4 f   -     -     -        46755    0    0 
+PruneFace 971410676  7  3 r   kf    -     -        46755   35    0 
+PruneFace 971410710  7  2 Bf  -     -     -        46720   10    0 
+PruneFace 971410753  7  1 Br  b     b     -        46710  850 1200 
+PruneFace 971410783  8  8 f   -     -     -        47060    0    0 
+PruneFace 971410814  8  7 r   b     -     -        47060  665 1010 
+PruneFace 971410837  8  6 f   -     -     -        47405    0    0 
+PruneFace 971410874  8  5 f   -     -     -        47405    0    0 
+PruneFace 971410899  8  4 r   f     -     -        47405  120    0 
+PruneFace 971410921  8  3 c   k     b     k        47285   60  150 Qc Ts
+PruneFace 971410959  8  2 Bk  rc    kf    -        47375  610    0 
+PruneFace 971410997  8  1 Bc  kc    kf    -        46765   80    0 
+PruneFace 971411028  8  8 rc  r     b     -        46685 10320 13770 
+PruneFace 971411061  8  6 Q   -     -     -        50135    0    0 
+PruneFace 971551227  4  4 f   -     -     -        48365    0    0 
+PruneFace 971551234  4  3 rc  kr    b     k        48365 3435    0 9c As
+PruneFace 971551249  3  1 Bk  b     -     -        44930   30   40 
+PruneFace 971551258  3  1 Brr b     -     -        44940  810 1080 
+PruneFace 971551269  3  3 r   b     -     -        45210  110  150 
+PruneFace 971551275  3  2 Br  k     c     k        45250  160  360 2d Ad
+PruneFace 971551289  3  1 Bc  kf    -     -        45450   35    0 
+PruneFace 971551301  3  3 r   b     k     f        45415  110    0 
+PruneFace 971551311  3  2 Br  b     -     -        45305   90  120 
+PruneFace 971551319  3  1 Br  b     b     -        45335  400  540 
+PruneFace 971551329  3  3 r   k     f     -        45475   35    0 
+PruneFace 971551335  3  2 Br  kf    -     -        45440   40    0 
+PruneFace 971551346  3  1 Bf  -     -     -        45400    5    0 
+PruneFace 971551349  3  3 rc  b     -     -        45395  460  690 
+PruneFace 971551359  3  2 Bk  bc    kf    -        45625  110    0 
+PruneFace 971551370  3  1 Bf  -     -     -        45515    5    0 
+PruneFace 971551379  3  3 f   -     -     -        45510    0    0 
+PruneFace 971551392  3  2 Bc  kc    f     -        45510  140    0 
+PruneFace 971551410  3  1 Bc  k     b     -        45370  140  210 
+PruneFace 971551423  3  3 r   c     k     f        45440  140    0 
+PruneFace 971551444  3  2 Bf  -     -     -        45300   10    0 
+PruneFace 971551451  3  1 Bf  -     -     -        45290    5    0 
+PruneFace 971551464  3  3 r   b     -     -        45285  110  150 
+PruneFace 971551475  3  2 Bc  c     f     -        45325  160    0 
+PruneFace 971551491  3  1 Bf  -     -     -        45165    5    0 
+PruneFace 971551495  3  3 r   -     -     -        45160   35   50 
+PruneFace 971551498  3  2 B   -     -     -        45175   10   15 
+PruneFace 971551501  3  1 Bc  k     k     b        45180   40    0 8c 3c
+PruneFace 971551517  3  3 f   -     -     -        45140    0    0 
+PruneFace 971551534  3  2 Bk  b     kf    -        45140   40    0 
+PruneFace 971551557  3  1 Br  b     b     b        45100  810 1620 Js As
+PruneFace 971551573  3  3 f   -     -     -        45910    0    0 
+PruneFace 971551583  3  2 Bc  b     -     -        45910  110  150 
+PruneFace 971551592  3  1 Bf  -     -     -        45950    5    0 
+PruneFace 971551595  3  3 f   -     -     -        45945    0    0 
+PruneFace 971551598  3  2 Bf  -     -     -        45945   10    0 
+PruneFace 971551601  3  1 Brc kc    kf    -        45935  270    0 
+PruneFace 971551616  3  3 r   b     k     f        45665  115    0 
+PruneFace 971551629  3  2 Bf  -     -     -        45550   10    0 
+PruneFace 971551633  3  1 Brr b     -     -        45540  810 1080 
+PruneFace 971551646  3  3 r   -     -     -        45810   35   50 
+PruneFace 971551652  3  2 Bk  bc    kf    -        45825  110    0 
+PruneFace 971551662  3  1 Br  b     kf    -        45715  130    0 
+PruneFace 971551677  3  3 f   -     -     -        45585    0    0 
+PruneFace 971551684  3  2 Bf  -     -     -        45585   10    0 
+PruneFace 971551686  3  1 Br  b     k     b        45575  270  360 
+PruneFace 971551701  3  3 f   -     -     -        45665    0    0 
+PruneFace 971551704  3  2 Bk  k     k     k        45665   10    0 Kc 5d
+PruneFace 971551712  3  1 Bf  -     -     -        45655    5    0 
+PruneFace 971551725  3  3 f   -     -     -        45650    0    0 
+PruneFace 971551731  3  2 Bf  -     -     -        45650   10    0 
+PruneFace 971551739  3  1 Br  b     b     -        45640 1495 2070 
+PruneFace 971551752  3  3 f   -     -     -        46215    0    0 
+PruneFace 971551754  3  2 Bc  c     k     b        46215  640 1440 8s Ks
+PruneFace 971551774  3  1 Bf  -     -     -        47015    5    0 
+PruneFace 971551795  3  3 rc  c     b     k        47010 4940 10260 9h 9d
+PruneFace 971551818  3  2 Bk  b     -     -        52330   30   40 
+PruneFace 971551828  3  1 Brc kc    k     b        52340  810 1080 
+PruneFace 971551843  3  3 r   k     k     k        52610   35    0 6d Qd
+PruneFace 971551854  3  2 Bc  b     b     -        52575 1495 2070 
+PruneFace 971551871  3  1 Br  b     b     kc       53150 1600    0 6s 7d
+PruneFace 971551889  3  3 f   -     -     -        51550    0    0 
+PruneFace 971551895  2  2 BQ  -     -     -        51550   10    0 
+PruneFace 971819689 10  4 f   -     -     -        50970    0    0 
+PruneFace 971819733 10  3 cc  k     b     -        50970  220  360 
+PruneFace 971819781 10  2 B   -     -     -        51110   10   15 
+PruneFace 971819790 10  1 Bf  -     -     -        51115    5    0 
+PruneFace 971819806 10 10 r   b     -     -        51110  285  440 
+PruneFace 971819848 10  9 r   c     k     k        51265  395    0 Jh Ac
+PruneFace 971819927 10  8 r   -     -     -        50870   35   50 
+PruneFace 971819945 10  7 r   b     k     k        50885  120    0 Kc Qs
+PruneFace 971819977 10  6 r   b     k     k        50765  190  435 2c Jc
+PruneFace 971820019 10  5 r   Q     -     -        51010   35    0 
+PruneFace 971923980  8  2 Br  b     -     -        55095  185  280 
+PruneFace 971924000  8  1 Bc  kc    kf    -        55190  270    0 
+PruneFace 971924037  8  8 f   -     -     -        54920    0    0 
+PruneFace 971924081  8  7 r   f     -     -        54920   55    0 
+PruneFace 971924108  8  6 f   -     -     -        54865    0    0 
+PruneFace 971924143  8  5 rc  k     k     bc       54865 1540    0 Js Ad
+PruneFace 971924175  8  4 cc  kc    k     k        53325  150  158 9c 6h
+PruneFace 971924206  8  3 cc  kf    -     -        53333   45    0 
+PruneFace 971924252  7  2 Br  b     -     -        53288  250  400 
+PruneFace 971924285  7  1 Bf  -     -     -        53438    5    0 
+PruneFace 971924331  7  7 f   -     -     -        53433    0    0 
+PruneFace 971924359  7  6 r   b     -     -        53433  185  280 
+PruneFace 971924390  7  5 c   b     b     -        53528  210  300 
+PruneFace 971924430  7  4 r   -     -     -        53618   35   50 
+PruneFace 971924435  7  3 f   -     -     -        53633    0    0 
+PruneFace 971924464  7  2 Br  f     -     -        53633   40    0 
+PruneFace 971924500  7  1 BQ  -     -     -        53593    5    0 
+PruneFace 972341613 10  2 Bf  -     -     -       116082   10    0 
+PruneFace 972341631 10  1 Bf  -     -     -       116072    5    0 
+PruneFace 972341656 10 10 f   -     -     -       116067    0    0 
+PruneFace 972341684 10  9 f   -     -     -       116067    0    0 
+PruneFace 972341722 10  8 r   b     k     k       116067  290  705 Ks Kh
+PruneFace 972341766 10  7 f   -     -     -       116482    0    0 
+PruneFace 972341802 10  6 rc  rf    -     -       116482 4120    0 
+PruneFace 972341866 10  5 f   -     -     -       112362    0    0 
+PruneFace 972341895 10  4 f   -     -     -       112362    0    0 
+PruneFace 972341929 10  3 f   -     -     -       112362    0    0 
+PruneFace 972341972 10  2 Br  b     -     -       112362  280  450 
+PruneFace 972342021 10  1 Bf  -     -     -       112532    5    0 
+PruneFace 972342064 10 10 f   -     -     -       112527    0    0 
+PruneFace 972342092 10  9 f   -     -     -       112527    0    0 
+PruneFace 972342153 10  8 f   -     -     -       112527    0    0 
+PruneFace 972342183 10  7 r   b     bc    f       112527 2395    0 
+PruneFace 972342239 10  6 c   b     k     k       110132   60  150 Jc 7c
+PruneFace 972342279 10  5 c   k     k     k       110222   10    0 6s 7c
+PruneFace 972342336  9  4 c   k     kf    -       110212   10    0 
+PruneFace 972342386  9  3 Q   -     -     -       110202    0    0 
+PruneFace 972945503 10  8 c   f     -     -         4592   10    0 
+PruneFace 972945539 10  7 f   -     -     -         4582    0    0 
+PruneFace 972945588 10  6 r   bf    -     -         4582  200    0 
+PruneFace 972945623 10  5 c   bc    kc    k         4382  660    0 6c As
+PruneFace 972945673  8  3 cc  kf    -     -         3722  230    0 
+PruneFace 972945737  9  3 f   -     -     -         3492    0    0 
+PruneFace 972945766  9  2 BKQ -     -     -         3492   10    0 
+PruneFace 972958298  8  7 f   -     -     -         3482    0    0 
+PruneFace 972958334  8  6 cc  k     b     k         3482  360    0 7c 6s
+PruneFace 972958372  8  5 f   -     -     -         3122    0    0 
+PruneFace 972958414  8  4 cc  k     b     -         3122  285  460 
+PruneFace 972958445  8  3 cc  k     b     k         3297  530 1365 6d 9d
+PruneFace 972958492  8  2 Br  k     bf    -         4132 1090    0 
+PruneFace 972958533  8  1 Bc  kf    -     -         3042   45    0 
+PruneFace 972958561  8  8 f   -     -     -         2997    0    0 
+PruneFace 972958594  9  7 f   -     -     -         2997    0    0 
+PruneFace 972958613  9  6 f   -     -     -         2997    0    0 
+PruneFace 972958646  9  5 ccc k     k     k         2997  715    0 5c 2c
+PruneFace 972958688 10  4 c   k     k     k         2282   10    0 6d Td
+PruneFace 972958727  9  3 c   kc    kf    -         2272   65    0 
+PruneFace 972958760  9  2 Bk  k     kf    -         2207   10    0 
+PruneFace 972958789  9  1 Bf  -     -     -         2197    5    0 
+PruneFace 972958825 10 10 c   k     f     -         2192   45    0 
+PruneFace 972958864 10  9 c   c     k     k         2147   55    0 7h 8s
+PruneFace 972958893 10  8 f   -     -     -         2092    0    0 
+PruneFace 972958930 10  7 f   -     -     -         2092    0    0 
+PruneFace 972958956 10  6 f   -     -     -         2092    0    0 
+PruneFace 972958984 10  5 f   -     -     -         2092    0    0 
+PruneFace 972959000 10  4 c   k     k     f         2092   10    0 
+PruneFace 972959038 10  3 rc  f     -     -         2082  180    0 
+PruneFace 972959059 10  2 Bc  krrA  -     -         1902 1902    0 9d 6d

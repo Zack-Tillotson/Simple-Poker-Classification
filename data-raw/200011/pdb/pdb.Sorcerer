@@ -1,0 +1,890 @@
+Sorcerer  973119971  7  2 Bf  -     -     -        86863   10    0 
+Sorcerer  973120036  7  1 Bf  -     -     -        86853    5    0 
+Sorcerer  973120079  7  7 f   -     -     -        86848    0    0 
+Sorcerer  973120122  8  7 f   -     -     -        86848    0    0 
+Sorcerer  973120140  8  6 c   f     -     -        86848   21    0 
+Sorcerer  973120175  8  5 f   -     -     -        86827    0    0 
+Sorcerer  973120205  8  4 cc  c     k     k        86827  130  330 9c Tc
+Sorcerer  973120252  8  3 f   -     -     -        87027    0    0 
+Sorcerer  973120299  8  2 Bf  -     -     -        87027   10    0 
+Sorcerer  973120342  8  1 Bf  -     -     -        87017    5    0 
+Sorcerer  973120397  8  8 c   k     c     b        87012  375  510 
+Sorcerer  973120444  8  7 f   -     -     -        87147    0    0 
+Sorcerer  973120497  8  6 f   -     -     -        87147    0    0 
+Sorcerer  973120504  8  5 cc  f     -     -        87147   20    0 
+Sorcerer  973120565  8  4 f   -     -     -        87127    0    0 
+Sorcerer  973120591  8  3 cc  c     f     -        87127   30    0 
+Sorcerer  973120628  8  2 Bf  -     -     -        87097   10    0 
+Sorcerer  973120645  8  1 Bc  k     b     -        87087   40   60 
+Sorcerer  973120681  8  8 f   -     -     -        87107    0    0 
+Sorcerer  973120708  8  7 f   -     -     -        87107    0    0 
+Sorcerer  973120737  9  7 cc  cc    kf    -        87107  125    0 
+Sorcerer  973120801  9  6 c   k     k     k        86982   10    0 Ac Jd
+Sorcerer  973120820  9  5 cc  c     f     -        86972  125    0 
+Sorcerer  973120877  9  4 f   -     -     -        86847    0    0 
+Sorcerer  973120928  9  3 cc  k     k     k        86847   85  290 5s 4h
+Sorcerer  973120972  9  2 Bf  -     -     -        87052   10    0 
+Sorcerer  973121030 10  1 Bf  -     -     -        87042    5    0 
+Sorcerer  973121079 10 10 c   k     k     k        87037   35    0 Tc Kd
+Sorcerer  973121122 10  9 f   -     -     -        87002    0    0 
+Sorcerer  973121161 10  8 f   -     -     -        87002    0    0 
+Sorcerer  973121232 10  7 f   -     -     -        87002    0    0 
+Sorcerer  973121251 10  6 f   -     -     -        87002    0    0 
+Sorcerer  973121271 10  5 f   -     -     -        87002    0    0 
+Sorcerer  973121313 10  4 f   -     -     -        87002    0    0 
+Sorcerer  973121353 10  3 cc  kc    k     b        87002  745 1120 
+Sorcerer  973121404 10  2 Bf  -     -     -        87377   10    0 
+Sorcerer  973121431 10  1 Bf  -     -     -        87367    5    0 
+Sorcerer  973121464 10 10 c   k     k     f        87362   35    0 
+Sorcerer  973121513 10  9 f   -     -     -        87327    0    0 
+Sorcerer  973121541 10  8 f   -     -     -        87327    0    0 
+Sorcerer  973121570 10  7 f   -     -     -        87327    0    0 
+Sorcerer  973121582 10  6 c   r     k     b        87327 1595 2160 
+Sorcerer  973121628 10  5 f   -     -     -        87892    0    0 
+Sorcerer  973121673 10  4 ccc kf    -     -        87892  210    0 
+Sorcerer  973121770 10  3 ccc k     f     -        87682  150    0 
+Sorcerer  973121813 10  2 Bf  -     -     -        87532   10    0 
+Sorcerer  973121857 10  1 Bf  -     -     -        87522    5    0 
+Sorcerer  973121905 10 10 f   -     -     -        87517    0    0 
+Sorcerer  973121955 10  9 f   -     -     -        87517    0    0 
+Sorcerer  973121989 10  8 f   -     -     -        87517    0    0 
+Sorcerer  973122019 10  7 f   -     -     -        87517    0    0 
+Sorcerer  973122052 10  6 f   -     -     -        87517    0    0 
+Sorcerer  973122094 10  5 f   -     -     -        87517    0    0 
+Sorcerer  973122132 10  4 f   -     -     -        87517    0    0 
+Sorcerer  973122193 10  3 f   -     -     -        87517    0    0 
+Sorcerer  973122239  9  1 Bf  -     -     -        87517   10    0 
+Sorcerer  973122268  9  1 Bf  -     -     -        87507    5    0 
+Sorcerer  973122284  9  9 f   -     -     -        87502    0    0 
+Sorcerer  973122334  9  8 f   -     -     -        87502    0    0 
+Sorcerer  973122351 10  8 f   -     -     -        87502    0    0 
+Sorcerer  973122386 10  7 f   -     -     -        87502    0    0 
+Sorcerer  973122418  9  6 f   -     -     -        87502    0    0 
+Sorcerer  973122465  9  5 f   -     -     -        87502    0    0 
+Sorcerer  973122503  9  4 f   -     -     -        87502    0    0 
+Sorcerer  973122538 10  3 f   -     -     -        87502    0    0 
+Sorcerer  973122591 10  2 Bk  k     k     k        87502   10   40 5s 9s
+Sorcerer  973122638 10  1 Bc  k     b     -        87532   40   60 
+Sorcerer  973122663 10 10 f   -     -     -        87552    0    0 
+Sorcerer  973122711 10  9 f   -     -     -        87552    0    0 
+Sorcerer  973122766 10  8 r   b     -     -        87552  110  150 
+Sorcerer  973122785 10  7 f   -     -     -        87592    0    0 
+Sorcerer  973122813 10  6 f   -     -     -        87592    0    0 
+Sorcerer  973122821 10  5 c   c     b     k        87592  310  750 Js 9s
+Sorcerer  973122871 10  4 cc  bc    k     b        88032 4420 9045 Qd Ad
+Sorcerer  973122946 10  3 fQ  -     -     -        92657    0    0 
+Sorcerer  973130835  9  5 f   -     -     -        92657    0    0 
+Sorcerer  973130848  9  4 c   cc    f     -        92657  860    0 
+Sorcerer  973130911  9  3 c   k     k     f        91797   10    0 
+Sorcerer  973130977  9  2 Bf  -     -     -        91787   10    0 
+Sorcerer  973130992  9  1 Bf  -     -     -        91777    5    0 
+Sorcerer  973131009  9  9 f   -     -     -        91772    0    0 
+Sorcerer  973131034  9  8 f   -     -     -        91772    0    0 
+Sorcerer  973131068  9  7 f   -     -     -        91772    0    0 
+Sorcerer  973131097  9  6 f   -     -     -        91772    0    0 
+Sorcerer  973131108  9  5 f   -     -     -        91772    0    0 
+Sorcerer  973131131  9  4 f   -     -     -        91772    0    0 
+Sorcerer  973131159  9  3 cc  kc    kc    k        91772  645 1350 As 9s
+Sorcerer  973131190  9  2 Bc  kc    kr    bc       92477 9110 9113 Ad Tc
+Sorcerer  973131227  9  1 Bc  k     k     k        92480   35    0 9s Kh
+Sorcerer  973131253  9  9 f   -     -     -        92445    0    0 
+Sorcerer  973131294  9  8 f   -     -     -        92445    0    0 
+Sorcerer  973131324  9  7 f   -     -     -        92445    0    0 
+Sorcerer  973131355  9  6 f   -     -     -        92445    0    0 
+Sorcerer  973131376  9  5 f   -     -     -        92445    0    0 
+Sorcerer  973131400  9  4 f   -     -     -        92445    0    0 
+Sorcerer  973131423  9  3 f   -     -     -        92445    0    0 
+Sorcerer  973131445  9  2 Bk  k     kf    -        92445   10    0 
+Sorcerer  973131485  9  1 Bc  k     kf    -        92435  120    0 
+Sorcerer  973131525 10 10 f   -     -     -        92315    0    0 
+Sorcerer  973131549 10  9 c   k     k     k        92315   35  145 7h Kh
+Sorcerer  973131605  9  7 f   -     -     -        92425    0    0 
+Sorcerer  973131664  9  6 f   -     -     -        92425    0    0 
+Sorcerer  973131693 10  5 c   k     k     b        92425   75  195 Qs 9c
+Sorcerer  973131779  7  3 f   -     -     -        92545    0    0 
+Sorcerer  973131799  7  2 Bk  k     k     k        92545   10   35 5d 8s
+Sorcerer  973131838  7  1 Bc  kf    -     -        92570   35    0 
+Sorcerer  973131865  7  7 c   c     k     r        92535  690  960 
+Sorcerer  973131908  7  6 f   -     -     -        92805    0    0 
+Sorcerer  973131945  7  5 f   -     -     -        92805    0    0 
+Sorcerer  973131974  7  4 f   -     -     -        92805    0    0 
+Sorcerer  973131991  7  3 f   -     -     -        92805    0    0 
+Sorcerer  973132012  7  2 B   -     -     -        92805   10   15 
+Sorcerer  973132024  7  1 Bf  -     -     -        92810    5    0 
+Sorcerer  973132056  7  7 f   -     -     -        92805    0    0 
+Sorcerer  973132087  6  5 c   bc    c     f        92805  400    0 
+Sorcerer  973132138  6  5 f   -     -     -        92405    0    0 
+Sorcerer  973132152  6  4 c   b     b     b        92405  465    0 Jd Ah
+Sorcerer  973132201  6  3 f   -     -     -        91940    0    0 
+Sorcerer  973132222  6  2 Bf  -     -     -        91940   10    0 
+Sorcerer  973132265  6  1 Bf  -     -     -        91930    5    0 
+Sorcerer  973132297  6  6 c   k     b     -        91925   50   80 
+Sorcerer  973132319  6  5 f   -     -     -        91955    0    0 
+Sorcerer  973132342  6  4 f   -     -     -        91955    0    0 
+Sorcerer  973132366  6  3 f   -     -     -        91955    0    0 
+Sorcerer  973132391  6  2 Bf  -     -     -        91955   10    0 
+Sorcerer  973132421  6  1 Bc  kf    -     -        91945   10    0 
+Sorcerer  973132467  6  6 f   -     -     -        91935    0    0 
+Sorcerer  973132496  6  5 cc  c     c     k        91935  850    0 Qd Kc
+Sorcerer  973132532  6  4 f   -     -     -        91085    0    0 
+Sorcerer  973132563  6  3 c   b     b     k        91085  170    0 5s 5d
+Sorcerer  973132590  6  2 Bf  -     -     -        90915   10    0 
+Sorcerer  973132618  6  1 Bf  -     -     -        90905    5    0 
+Sorcerer  973132646  6  6 r   k     k     f        90900  120    0 
+Sorcerer  973132674  6  5 r   cc    k     k        90780  770 2320 Qs Qh
+Sorcerer  973132706  6  4 f   -     -     -        92330    0    0 
+Sorcerer  973132740  7  3 f   -     -     -        92330    0    0 
+Sorcerer  973132812  7  2 Bf  -     -     -        92330   10    0 
+Sorcerer  973132839  7  1 Bf  -     -     -        92320    5    0 
+Sorcerer  973132866  7  7 c   f     -     -        92315   35    0 
+Sorcerer  973132896  6  5 f   -     -     -        92280    0    0 
+Sorcerer  973132923  6  4 cc  k     k     k        92280   35    0 Jh 9d
+Sorcerer  973132955  4  2 Bf  -     -     -        92245   10    0 
+Sorcerer  973132961  6  1 Bf  -     -     -        92235    5    0 
+Sorcerer  973132988  6  6 c   f     -     -        92230   10    0 
+Sorcerer  973133004  6  5 f   -     -     -        92220    0    0 
+Sorcerer  973133024  6  4 c   b     -     -        92220  120  170 
+Sorcerer  973133040  7  4 f   -     -     -        92270    0    0 
+Sorcerer  973133050  7  3 f   -     -     -        92270    0    0 
+Sorcerer  973133076  7  2 Bc  k     b     -        92270  485  730 
+Sorcerer  973133092  7  1 Bc  kc    k     k        92515  225  540 9h 9s
+Sorcerer  973133115  7  7 f   -     -     -        92830    0    0 
+Sorcerer  973133132  7  6 f   -     -     -        92830    0    0 
+Sorcerer  973133149  7  5 f   -     -     -        92830    0    0 
+Sorcerer  973133163  7  4 fQ  -     -     -        92830    0    0 
+Sorcerer  973133475  8  8 f   -     -     -        92830    0    0 
+Sorcerer  973133498  8  7 c   k     k     k        92830   10   25 7d Qd
+Sorcerer  973133521  8  6 c   k     f     -        92845   35    0 
+Sorcerer  973133553  8  5 c   f     -     -        92810   35    0 
+Sorcerer  973133575  8  4 f   -     -     -        92775    0    0 
+Sorcerer  973133594  8  3 cc  kc    k     k        92775  285  920 2h 2c
+Sorcerer  973133638  8  2 Bc  kf    -     -        93410  120    0 
+Sorcerer  973133674  8  1 Bc  k     kf    -        93290   10    0 
+Sorcerer  973133711  8  8 c   f     -     -        93280   35    0 
+Sorcerer  973133737  8  7 f   -     -     -        93245    0    0 
+Sorcerer  973133773  8  6 c   k     c     k        93245  155    0 7h 8h
+Sorcerer  973133810  8  5 cc  k     k     k        93090   45    0 Jd Ts
+Sorcerer  973133847  8  4 f   -     -     -        93045    0    0 
+Sorcerer  973133865  8  3 f   -     -     -        93045    0    0 
+Sorcerer  973133887  8  2 Bk  kf    -     -        93045   10    0 
+Sorcerer  973133923  8  1 Bc  k     kf    -        93035   45    0 
+Sorcerer  973133963  8  8 c   k     r     -        92990  130  180 
+Sorcerer  973133993  7  6 rc  k     k     k        93040  375  765 6s 6d
+Sorcerer  973134015  7  5 f   -     -     -        93430    0    0 
+Sorcerer  973134029  7  4 cc  k     kc    k        93430  360    0 Kh Th
+Sorcerer  973134125  4  2 c   f     -     -        93070   10    0 
+Sorcerer  973134149  3  2 B   -     -     -        93060   10   15 
+Sorcerer  973134152  3  1 Bc  k     k     kf       93065   35    0 
+Sorcerer  973134173  3  3 f   -     -     -        93030    0    0 
+Sorcerer  973134176  3  2 B   -     -     -        93030   10   15 
+Sorcerer  973134178  3  1 BQ  -     -     -        93035    5    0 
+Sorcerer  973216832 10  6 f   -     -     -        93075    0    0 
+Sorcerer  973216844 10  5 f   -     -     -        93075    0    0 
+Sorcerer  973216871 10  4 f   -     -     -        93075    0    0 
+Sorcerer  973216908 10  3 c   kf    -     -        93075   10    0 
+Sorcerer  973216942 10  2 Bf  -     -     -        93065   10    0 
+Sorcerer  973216967 10  1 Bf  -     -     -        93055    5    0 
+Sorcerer  973216996 10 10 c   c     c     b        93050 4200 5880 
+Sorcerer  973217046 10  9 f   -     -     -        94730    0    0 
+Sorcerer  973217082 10  8 f   -     -     -        94730    0    0 
+Sorcerer  973217111 10  7 f   -     -     -        94730    0    0 
+Sorcerer  973217138 10  6 c   f     -     -        94730   10    0 
+Sorcerer  973217173 10  5 f   -     -     -        94720    0    0 
+Sorcerer  973217198 10  4 f   -     -     -        94720    0    0 
+Sorcerer  973217238 10  3 f   -     -     -        94720    0    0 
+Sorcerer  973217277 10  2 Bf  -     -     -        94720   10    0 
+Sorcerer  973217306 10  1 Bf  -     -     -        94710    5    0 
+Sorcerer  973217338 10 10 c   f     -     -        94705   10    0 
+Sorcerer  973217371 10  9 c   f     -     -        94695   35    0 
+Sorcerer  973217411 10  8 c   f     -     -        94660   10    0 
+Sorcerer  973217435 10  7 f   -     -     -        94650    0    0 
+Sorcerer  973217462 10  6 c   k     f     -        94650   10    0 
+Sorcerer  973217495 10  5 f   -     -     -        94640    0    0 
+Sorcerer  973217526 10  4 f   -     -     -        94640    0    0 
+Sorcerer  973217569 10  3 f   -     -     -        94640    0    0 
+Sorcerer  973217590 10  2 Bc  k     b     -        94640  145  220 
+Sorcerer  973217616 10  1 Bf  -     -     -        94715    5    0 
+Sorcerer  973217634 10 10 c   k     f     -        94710   35    0 
+Sorcerer  973217673 10  9 c   c     k     b        94675  190  270 
+Sorcerer  973217718 10  8 f   -     -     -        94755    0    0 
+Sorcerer  973217750 10  7 cc  k     f     -        94755   55    0 
+Sorcerer  973217801 10  6 cc  k     k     b        94700  185  280 
+Sorcerer  973217839 10  5 cf  -     -     -        94795   10    0 
+Sorcerer  973217874 10  4 f   -     -     -        94785    0    0 
+Sorcerer  973217919 10  3 cc  k     k     k        94785   45    0 Tc Ac
+Sorcerer  973217951 10  2 Bf  -     -     -        94740   10    0 
+Sorcerer  973217962 10  1 Bf  -     -     -        94730    5    0 
+Sorcerer  973217996 10 10 f   -     -     -        94725    0    0 
+Sorcerer  973218020 10  9 f   -     -     -        94725    0    0 
+Sorcerer  973218066  9  7 cc  f     -     -        94725   40    0 
+Sorcerer  973218093  9  6 c   k     k     k        94685   10    0 5s 4s
+Sorcerer  973218120  9  5 f   -     -     -        94675    0    0 
+Sorcerer  973218163  9  4 cc  k     k     k        94675   45    0 As Kc
+Sorcerer  973218199 10  3 f   -     -     -        94630    0    0 
+Sorcerer  973218226 10  2 Bk  k     k     k        94630   10    0 4d 8h
+Sorcerer  973218254 10  1 Bf  -     -     -        94620    5    0 
+Sorcerer  973218281 10 10 f   -     -     -        94615    0    0 
+Sorcerer  973218305 10  9 f   -     -     -        94615    0    0 
+Sorcerer  973218360  9  7 f   -     -     -        94615    0    0 
+Sorcerer  973218387  9  6 f   -     -     -        94615    0    0 
+Sorcerer  973218425  9  5 f   -     -     -        94615    0    0 
+Sorcerer  973218461  9  4 f   -     -     -        94615    0    0 
+Sorcerer  973218483  9  3 cc  f     -     -        94615   50    0 
+Sorcerer  973218499  9  2 Bf  -     -     -        94565   10    0 
+Sorcerer  973218514  9  1 Bf  -     -     -        94555    5    0 
+Sorcerer  973218522  9  9 f   -     -     -        94550    0    0 
+Sorcerer  973218551  9  8 f   -     -     -        94550    0    0 
+Sorcerer  973218583  9  7 cr  k     b     c        94550 2770 5760 Jd Jc
+Sorcerer  973218645  9  6 f   -     -     -        97540    0    0 
+Sorcerer  973218690  9  5 f   -     -     -        97540    0    0 
+Sorcerer  973218723  9  4 crc k     br    -        97540 22430 29970 
+Sorcerer  973218777  9  3 cc  kc    kf    -       105080  195    0 
+Sorcerer  973218820  9  2 Bf  -     -     -       104885   10    0 
+Sorcerer  973218867  8  1 Bc  kf    -     -       104875   35    0 
+Sorcerer  973218894  8  8 f   -     -     -       104840    0    0 
+Sorcerer  973218925  9  7 cc  f     -     -       104840   60    0 
+Sorcerer  973218965  9  6 f   -     -     -       104780    0    0 
+Sorcerer  973219002  9  6 f   -     -     -       104780    0    0 
+Sorcerer  973219038  6  3 f   -     -     -       104780    0    0 
+Sorcerer  973219055  6  2 Bc  kf    -     -       104780   35    0 
+Sorcerer  973219080  6  1 Bc  k     kf    -       104745   10    0 
+Sorcerer  973219101  6  6 f   -     -     -       104735    0    0 
+Sorcerer  973219111  6  5 c   f     -     -       104735   10    0 
+Sorcerer  973219152  6  4 f   -     -     -       104725    0    0 
+Sorcerer  973219190  6  3 f   -     -     -       104725    0    0 
+Sorcerer  973219224  6  2 Bk  kc    k     kf      104725   45    0 
+Sorcerer  973219266  6  1 Bf  -     -     -       104680    5    0 
+Sorcerer  973219332  6  6 c   c     c     b       104675  465  630 
+Sorcerer  973219371  6  5 c   k     f     -       104840   10    0 
+Sorcerer  973219397  6  4 f   -     -     -       104830    0    0 
+Sorcerer  973219404  6  3 f   -     -     -       104830    0    0 
+Sorcerer  973219433  6  2 Bc  kc    k     b       104830  455  473 Qc Kd
+Sorcerer  973219472  6  1 Bc  kr    -     -       104848  455  630 
+Sorcerer  973219497  6  6 f   Q     -     -       105023    0    0 
+Sorcerer  973478248 10  4 f   -     -     -       104943    0    0 
+Sorcerer  973478300  8  3 f   -     -     -       104943    0    0 
+Sorcerer  973478377  7  2 Bk  k     k     k       104943   10    0 4d Kh
+Sorcerer  973478405  7  1 Bf  -     -     -       104933    5    0 
+Sorcerer  973478446  8  8 c   k     k     k       104928   10    0 Ks Kc
+Sorcerer  973478478  7  6 f   -     -     -       104918    0    0 
+Sorcerer  973478505  7  5 f   -     -     -       104918    0    0 
+Sorcerer  973478545  7  4 c   k     k     k       104918   10   25 Ts Ac
+Sorcerer  973478579  7  3 f   -     -     -       104933    0    0 
+Sorcerer  973478602  7  2 Bk  k     k     kf      104933   10    0 
+Sorcerer  973478656  7  1 Bf  -     -     -       104923    5    0 
+Sorcerer  973478677  8  8 f   -     -     -       104918    0    0 
+Sorcerer  973478734  8  7 f   -     -     -       104918    0    0 
+Sorcerer  973478768  8  6 c   f     -     -       104918   10    0 
+Sorcerer  973478819  8  5 f   -     -     -       104908    0    0 
+Sorcerer  973478842  8  4 c   kc    k     kc      104908  190    0 8c 9c
+Sorcerer  973478922  7  3 f   -     -     -       104718    0    0 
+Sorcerer  973478958  8  2 Bf  -     -     -       104718   10    0 
+Sorcerer  973478980  8  1 Bf  -     -     -       104708    5    0 
+Sorcerer  973479002  8  8 c   c     k     k       104703  215    0 4c 5c
+Sorcerer  973479037  8  7 f   -     -     -       104488    0    0 
+Sorcerer  973479068  9  7 f   -     -     -       104488    0    0 
+Sorcerer  973479128  9  6 f   -     -     -       104488    0    0 
+Sorcerer  973479180  9  5 f   -     -     -       104488    0    0 
+Sorcerer  973479216  9  4 cc  k     k     b       104488  195  450 Tc Kh
+Sorcerer  973479274  9  3 f   -     -     -       104743    0    0 
+Sorcerer  973479306  9  2 Bf  -     -     -       104743   10    0 
+Sorcerer  973479347  9  1 Bf  -     -     -       104733    5    0 
+Sorcerer  973479371  9  9 c   c     k     f       104728  245    0 
+Sorcerer  973479422  9  8 rc  c     cc    -       104483 17190    0 Ad Ac
+Sorcerer  973479476  8  6 c   f     -     -        87293   10    0 
+Sorcerer  973479541  8  5 f   -     -     -        87283    0    0 
+Sorcerer  973479578  8  4 c   k     k     kf       87283   10    0 
+Sorcerer  973479635  8  3 f   -     -     -        87273    0    0 
+Sorcerer  973479673  6  2 Bk  kc    kc    k        87273  185  420 Ah Th
+Sorcerer  973479709  6  1 Bf  -     -     -        87508    5    0 
+Sorcerer  973479736  6  6 f   -     -     -        87503    0    0 
+Sorcerer  973479753  6  5 f   -     -     -        87503    0    0 
+Sorcerer  973479772  6  4 c   k     k     k        87503   10    0 8d Qd
+Sorcerer  973479795  6  3 c   k     k     f        87493   10    0 
+Sorcerer  973479854  5  2 Bk  kf    -     -        87483   10    0 
+Sorcerer  973479892  5  1 Bc  kc    k     kf       87473   50    0 
+Sorcerer  973479938  5  5 c   k     k     k        87423   10    0 Js Kd
+Sorcerer  973479979  6  5 f   -     -     -        87413    0    0 
+Sorcerer  973480013  6  4 f   -     -     -        87413    0    0 
+Sorcerer  973480036  6  3 f   -     -     -        87413    0    0 
+Sorcerer  973480077  6  2 Bf  -     -     -        87413   10    0 
+Sorcerer  973480110  6  1 Bc  bc    kc    k        87403  530    0 Js Ah
+Sorcerer  973480147  6  6 f   -     -     -        86873    0    0 
+Sorcerer  973480179  5  4 f   -     -     -        86873    0    0 
+Sorcerer  973480194  5  3 f   -     -     -        86873    0    0 
+Sorcerer  973480215  5  2 Bk  k     f     -        86873   10    0 
+Sorcerer  973480259  5  1 Bc  kf    -     -        86863   55    0 
+Sorcerer  973480298  5  5 f   -     -     -        86808    0    0 
+Sorcerer  973480313  5  4 f   -     -     -        86808    0    0 
+Sorcerer  973480347  4  2 Bk  k     k     k        86808   10    0 8s 6h
+Sorcerer  973480387  4  1 Bf  -     -     -        86798    5    0 
+Sorcerer  973480404  4  4 c   k     k     f        86793   10    0 
+Sorcerer  973480463  4  3 f   -     -     -        86783    0    0 
+Sorcerer  973480474  4  2 Bk  k     k     k        86783   10    0 Td 6c
+Sorcerer  973480526  6  1 Bf  -     -     -        86773    5    0 
+Sorcerer  973480548  6  6 f   -     -     -        86768    0    0 
+Sorcerer  973480598  6  5 f   -     -     -        86768    0    0 
+Sorcerer  973480649  6  4 c   k     k     k        86768   10   23 2s 6s
+Sorcerer  973480719  6  3 c   kf    -     -        86781   10    0 
+Sorcerer  973480765  6  2 Bc  k     k     kc       86771  145  330 7d 5c
+Sorcerer  973480799  6  1 Bf  -     -     -        86956    5    0 
+Sorcerer  973480827  6  6 f   -     -     -        86951    0    0 
+Sorcerer  973480856  6  5 c   k     k     k        86951   10   35 Qc Qs
+Sorcerer  973480926  5  4 f   -     -     -        86976    0    0 
+Sorcerer  973480945  5  3 f   -     -     -        86976    0    0 
+Sorcerer  973480982  5  2 Bf  -     -     -        86976   10    0 
+Sorcerer  973481012  6  1 Bf  -     -     -        86966    5    0 
+Sorcerer  973481040  6  6 f   -     -     -        86961    0    0 
+Sorcerer  973481061  6  5 cc  k     c     b        86961  530  720 
+Sorcerer  973481096  6  4 f   -     -     -        87151    0    0 
+Sorcerer  973481117  6  3 f   -     -     -        87151    0    0 
+Sorcerer  973481140  6  2 Bk  b     b     -        87151  130  180 
+Sorcerer  973481172  6  1 Bf  -     -     -        87201    5    0 
+Sorcerer  973481223  6  6 f   -     -     -        87196    0    0 
+Sorcerer  973481256  6  5 f   -     -     -        87196    0    0 
+Sorcerer  973481284  6  4 c   k     b     b        87196  210  300 
+Sorcerer  973481332  6  3 c   k     k     b        87286   45  105 Jh Ts
+Sorcerer  973481379  6  2 Bk  k     k     kf       87346   10    0 
+Sorcerer  973481440  6  1 Bc  k     k     k        87336   10    0 2h 7h
+Sorcerer  973481498  6  6 f   -     -     -        87326    0    0 
+Sorcerer  973481543  7  6 f   -     -     -        87326    0    0 
+Sorcerer  973481595  7  5 f   -     -     -        87326    0    0 
+Sorcerer  973481625  8  5 cc  k     f     -        87326  235    0 
+Sorcerer  973481699  8  4 f   -     -     -        87091    0    0 
+Sorcerer  973481743  9  4 f   -     -     -        87091    0    0 
+Sorcerer  973481780  9  3 c   kc    c     f        87091  210    0 
+Sorcerer  973481834  9  2 Bc  kc    k     k        86881  185  420 Ts Ac
+Sorcerer  973481871  8  1 Bf  -     -     -        87116    5    0 
+Sorcerer  973481910  8  8 f   -     -     -        87111    0    0 
+Sorcerer  973481975  7  6 r   kc    kf    -        87111  235    0 
+Sorcerer  973482065  7  5 f   -     -     -        86876    0    0 
+Sorcerer  973482147  7  4 f   -     -     -        86876    0    0 
+Sorcerer  973482191  7  3 c   kf    -     -        86876   10    0 
+Sorcerer  973482247  7  2 Bk  kf    -     -        86866   10    0 
+Sorcerer  973482266  7  1 Bf  -     Q     -        86856    5    0 
+Sorcerer  973645107  4  2 Bf  -     -     -        86451   10    0 
+Sorcerer  973645123  4  1 Bf  -     -     -        86441    5    0 
+Sorcerer  973645139  4  4 f   -     -     -        86436    0    0 
+Sorcerer  973645159  4  3 f   -     -     -        86436    0    0 
+Sorcerer  973645176  4  2 Bk  c     k     f        86436   40    0 
+Sorcerer  973645197  4  1 Bf  -     -     -        86396    5    0 
+Sorcerer  973645210  4  4 f   -     -     -        86391    0    0 
+Sorcerer  973645216  4  3 f   -     -     -        86391    0    0 
+Sorcerer  973645242  4  2 Bk  k     k     k        86391   10   25 5d 8s
+Sorcerer  973645268  4  1 Bf  -     -     -        86406    5    0 
+Sorcerer  973645281  4  4 f   -     -     -        86401    0    0 
+Sorcerer  973645288  4  3 c   k     b     -        86401   45   70 
+Sorcerer  973645317  4  2 Bc  kc    kf    -        86426  110    0 
+Sorcerer  973645349  4  1 Bf  -     -     -        86316    5    0 
+Sorcerer  973645353  4  4 c   k     c     c        86311  170  360 8c 9s
+Sorcerer  973645391  4  3 c   b     b     -        86501  150  210 
+Sorcerer  973645413  4  2 Bk  k     k     b        86561   35   50 
+Sorcerer  973645444  4  1 Bf  -     -     -        86576    5    0 
+Sorcerer  973645458  4  4 f   -     -     -        86571    0    0 
+Sorcerer  973645464  4  3 f   -     -     -        86571    0    0 
+Sorcerer  973645491  4  2 Bc  kf    -     -        86571   45    0 
+Sorcerer  973645519  4  1 Bf  -     -     -        86526    5    0 
+Sorcerer  973645529  4  4 f   -     -     -        86521    0    0 
+Sorcerer  973645538  4  3 f   -     -     -        86521    0    0 
+Sorcerer  973645571  4  2 Bf  -     -     -        86521   10    0 
+Sorcerer  973645602  4  1 Br  k     kf    -        86511  115    0 
+Sorcerer  973645634  4  4 f   -     -     -        86396    0    0 
+Sorcerer  973645638  4  3 f   Q     -     -        86396    0    0 
+Sorcerer  974333068  6  4 f   -     -     -        83597    0    0 
+Sorcerer  974333077  6  3 f   -     -     -        83597    0    0 
+Sorcerer  974333095  6  2 Bk  k     kc    kf       83597   50    0 
+Sorcerer  974333135  6  1 Bf  -     -     -        83547    5    0 
+Sorcerer  974333156  6  6 f   -     -     -        83542    0    0 
+Sorcerer  974333195  6  5 f   -     -     -        83542    0    0 
+Sorcerer  974333218  7  4 f   -     -     -        83542    0    0 
+Sorcerer  974333240  7  3 f   -     -     -        83542    0    0 
+Sorcerer  974333252  7  2 Bc  kc    bc    b        83542 3035 4050 
+Sorcerer  974333289  7  1 Bc  k     k     k        84557   10   30 2s 2c
+Sorcerer  974333330  7  7 c   f     -     -        84577   35    0 
+Sorcerer  974333347  6  5 f   -     -     -        84542    0    0 
+Sorcerer  974333378  6  5 f   -     -     -        84542    0    0 
+Sorcerer  974333401  6  4 f   -     -     -        84542    0    0 
+Sorcerer  974333434  6  3 c   k     k     k        84542   10    0 Qd 3d
+Sorcerer  974333479  6  2 Bk  kf    -     -        84532   10    0 
+Sorcerer  974333518  6  1 Bf  -     -     -        84522    5    0 
+Sorcerer  974333531  6  6 f   -     -     -        84517    0    0 
+Sorcerer  974333559  6  5 f   -     -     -        84517    0    0 
+Sorcerer  974333608  6  3 f   -     -     -        84517    0    0 
+Sorcerer  974333614  6  2 Bk  k     k     k        84517   10   25 Ac Qd
+Sorcerer  974333652  7  1 Bf  -     -     -        84532    5    0 
+Sorcerer  974333696  7  7 f   -     -     -        84527    0    0 
+Sorcerer  974333719  7  6 f   -     -     -        84527    0    0 
+Sorcerer  974333749  8  6 f   -     -     -        84527    0    0 
+Sorcerer  974333778  8  5 f   -     -     -        84527    0    0 
+Sorcerer  974333788  8  4 f   -     -     -        84527    0    0 
+Sorcerer  974333807  8  3 f   -     -     -        84527    0    0 
+Sorcerer  974333825  8  2 Bk  kf    -     -        84527   10    0 
+Sorcerer  974333866  9  1 Bf  -     -     -        84517    5    0 
+Sorcerer  974333935  9  9 f   -     -     -        84512    0    0 
+Sorcerer  974333992  9  8 f   -     -     -        84512    0    0 
+Sorcerer  974334072  9  7 f   -     -     -        84512    0    0 
+Sorcerer  974334120  9  6 f   -     -     -        84512    0    0 
+Sorcerer  974334167  9  5 f   -     -     -        84512    0    0 
+Sorcerer  974334220  9  4 f   -     -     -        84512    0    0 
+Sorcerer  974334271  9  3 f   -     -     -        84512    0    0 
+Sorcerer  974334349  9  2 Bk  k     f     -        84512   10    0 
+Sorcerer  974334371  9  1 Bf  -     -     -        84502    5    0 
+Sorcerer  974334406  9  9 f   -     -     -        84497    0    0 
+Sorcerer  974334428  9  8 f   -     -     -        84497    0    0 
+Sorcerer  974334479  9  7 f   -     -     -        84497    0    0 
+Sorcerer  974334524  9  6 f   -     -     -        84497    0    0 
+Sorcerer  974334574  9  5 f   -     -     -        84497    0    0 
+Sorcerer  974334604  9  4 f   -     -     -        84497    0    0 
+Sorcerer  974334622  8  3 f   -     -     -        84497    0    0 
+Sorcerer  974334647  8  2 Bk  kf    -     -        84497   10    0 
+Sorcerer  974334687  8  1 Bf  -     -     -        84487    5    0 
+Sorcerer  974334762  7  7 f   -     -     -        84482    0    0 
+Sorcerer  974334776  7  7 f   -     -     -        84482    0    0 
+Sorcerer  974334806  6  5 f   -     -     -        84482    0    0 
+Sorcerer  974334823  6  4 f   -     -     -        84482    0    0 
+Sorcerer  974334841  6  3 f   -     -     -        84482    0    0 
+Sorcerer  974334854  6  2 Bf  -     -     -        84482   10    0 
+Sorcerer  974334860  6  1 Bf  -     -     -        84472    5    0 
+Sorcerer  974334879  6  6 f   -     -     -        84467    0    0 
+Sorcerer  974334896  6  5 f   -     -     -        84467    0    0 
+Sorcerer  974334926  6  4 f   -     -     -        84467    0    0 
+Sorcerer  974334937  6  3 f   -     -     -        84467    0    0 
+Sorcerer  974334948  6  2 Bk  k     k     k        84467   10   30 5d Ad
+Sorcerer  974334974  6  1 Bf  -     -     -        84487    5    0 
+Sorcerer  974335005  7  7 f   -     -     -        84482    0    0 
+Sorcerer  974335026  7  6 f   -     -     -        84482    0    0 
+Sorcerer  974335056  7  5 f   -     -     -        84482    0    0 
+Sorcerer  974335079  7  4 f   -     -     -        84482    0    0 
+Sorcerer  974335114  7  3 f   -     -     -        84482    0    0 
+Sorcerer  974335125  7  2 Bf  -     -     -        84482   10    0 
+Sorcerer  974335158  7  1 Bf  -     -     -        84472    5    0 
+Sorcerer  974335172  7  7 f   -     -     -        84467    0    0 
+Sorcerer  974335234  7  6 f   -     -     -        84467    0    0 
+Sorcerer  974335280  7  5 f   -     -     -        84467    0    0 
+Sorcerer  974335303  7  4 f   -     -     -        84467    0    0 
+Sorcerer  974335315  7  3 f   -     -     -        84467    0    0 
+Sorcerer  974335342  8  2 Bc  kf    -     -        84467   35    0 
+Sorcerer  974335376  8  1 Bc  kf    -     -        84432   10    0 
+Sorcerer  974335417  9  9 f   -     -     -        84422    0    0 
+Sorcerer  974335452 10  9 c   k     f     -        84422   10    0 
+Sorcerer  974335505  8  7 c   c     f     -        84412   55    0 
+Sorcerer  974335568  9  7 f   -     -     -        84357    0    0 
+Sorcerer  974335605  9  6 f   -     -     -        84357    0    0 
+Sorcerer  974335645  9  5 f   -     -     -        84357    0    0 
+Sorcerer  974335682  9  4 cc  kf    -     -        84357   22    0 
+Sorcerer  974335751  9  3 cc  kQ    -     -        84335   55    0 
+Sorcerer  974573318  3  2 B   -     -     -        84280   10   15 
+Sorcerer  974679412  8  7 f   -     -     -        84285    0    0 
+Sorcerer  974679446  7  5 f   -     -     -        84285    0    0 
+Sorcerer  974679487  7  5 f   -     -     -        84285    0    0 
+Sorcerer  974679530  7  4 f   -     -     -        84285    0    0 
+Sorcerer  974679562  7  3 f   -     -     -        84285    0    0 
+Sorcerer  974679590  7  2 Bc  kf    -     -        84285   35    0 
+Sorcerer  974679634  7  1 Bf  -     -     -        84250    5    0 
+Sorcerer  974679661  7  7 f   -     -     -        84245    0    0 
+Sorcerer  974679678  7  6 f   -     -     -        84245    0    0 
+Sorcerer  974679721  7  5 c   kf    -     -        84245   10    0 
+Sorcerer  974679806  7  4 f   -     -     -        84235    0    0 
+Sorcerer  974679855  7  3 f   -     -     -        84235    0    0 
+Sorcerer  974679901  8  2 Bk  kc    k     b        84235  110  150 
+Sorcerer  974679931  8  1 Bf  -     -     -        84275    5    0 
+Sorcerer  974679962  8  8 f   -     -     -        84270    0    0 
+Sorcerer  974680004  8  7 r   k     f     -        84270   55    0 
+Sorcerer  974680048  8  6 cc  c     c     k        84215 1260    0 Ah 6h
+Sorcerer  974680097  9  5 cc  k     f     -        82955   50    0 
+Sorcerer  974680148  9  4 f   -     -     -        82905    0    0 
+Sorcerer  974680183  9  3 f   -     -     -        82905    0    0 
+Sorcerer  974680243  9  2 Bf  -     -     -        82905   10    0 
+Sorcerer  974680294  9  1 Br  k     kf    -        82895   50    0 
+Sorcerer  974680347  9  9 f   -     -     -        82845    0    0 
+Sorcerer  974680380  9  8 c   c     f     -        82845   55    0 
+Sorcerer  974680418  9  7 c   f     -     -        82790   35    0 
+Sorcerer  974680477  9  6 f   -     -     -        82755    0    0 
+Sorcerer  974680502  9  5 f   -     -     -        82755    0    0 
+Sorcerer  974680540  9  4 f   -     -     -        82755    0    0 
+Sorcerer  974680570  9  3 r   kf    -     -        82755   35    0 
+Sorcerer  974680624  9  2 Bk  kf    -     -        82720   10    0 
+Sorcerer  974680677  9  1 Bc  kc    kc    kr       82710 5845 11233 Qc Tc
+Sorcerer  974680751  9  9 c   k     k     k        88098   10    0 6s 8s
+Sorcerer  974680838 10  9 c   b     b     -        88088  825 1170 
+Sorcerer  974680884 10  8 c   c     f     -        88433   70    0 
+Sorcerer  974680930  9  7 f   -     -     -        88363    0    0 
+Sorcerer  974680964  9  6 f   -     -     -        88363    0    0 
+Sorcerer  974680978  9  5 r   KQ    -     -        88363   35    0 
+Sorcerer  974684349 10  7 cc  kf    -     -        88328   45    0 
+Sorcerer  974684371 10  6 f   -     -     -        88283    0    0 
+Sorcerer  974684456 10  5 c   kf    -     -        88283   10    0 
+Sorcerer  974684485 10  4 cc  kc    k     kf       88273  595    0 
+Sorcerer  974684532 10  3 f   -     -     -        87678    0    0 
+Sorcerer  974684573 10  2 Bk  k     k     k        87678   10    0 9d 6d
+Sorcerer  974684623 10  1 Bc  k     k     k        87668   35  115 5c Kc
+Sorcerer  974684664 10 10 c   c     k     f        87748   60    0 
+Sorcerer  974684713 10  9 f   -     -     -        87688    0    0 
+Sorcerer  974684733 10  8 f   -     -     -        87688    0    0 
+Sorcerer  974684785 10  7 f   -     -     -        87688    0    0 
+Sorcerer  974684829 10  6 f   -     -     -        87688    0    0 
+Sorcerer  974684877 10  5 f   -     -     -        87688    0    0 
+Sorcerer  974684897 10  4 f   -     -     -        87688    0    0 
+Sorcerer  974684960 10  3 f   -     -     -        87688    0    0 
+Sorcerer  974685041 10  2 Bcc kf    -     -        87688  660    0 
+Sorcerer  974685075 10  1 Bf  -     -     -        87028    5    0 
+Sorcerer  974685129 10 10 f   -     -     -        87023    0    0 
+Sorcerer  974685170 10  9 f   -     -     -        87023    0    0 
+Sorcerer  974685201 10  8 f   -     -     -        87023    0    0 
+Sorcerer  974685256 10  7 c   c     b     bc       87023 3970    0 Qd Ks
+Sorcerer  974685330 10  6 f   -     -     -        83053    0    0 
+Sorcerer  974685381 10  5 f   -     -     -        83053    0    0 
+Sorcerer  974685413 10  4 c   kf    -     -        83053   10    0 
+Sorcerer  974685482 10  3 cc  kf    -     -        83043   45    0 
+Sorcerer  974685529 10  2 Bk  k     k     kf       82998   10    0 
+Sorcerer  974685606 10  1 Bf  -     -     -        82988    5    0 
+Sorcerer  974685686 10 10 f   -     -     -        82983    0    0 
+Sorcerer  974685731 10  9 f   -     -     -        82983    0    0 
+Sorcerer  974685773 10  8 f   -     -     -        82983    0    0 
+Sorcerer  974685838 10  7 f   -     -     -        82983    0    0 
+Sorcerer  974685882 10  6 cc  k     k     k        82983   65  335 5c 9h
+Sorcerer  974685934 10  5 cr  b     -     -        83253 1020 1560 
+Sorcerer  974685966 10  4 r   k     kf    -        83793   35    0 
+Sorcerer  974686011 10  3 f   -     -     -        83758    0    0 
+Sorcerer  974686054 10  2 Bk  kc    kr    kc       83758 3190 6480 9d Th
+Sorcerer  974686153 10  1 Bf  -     -     -        87048    5    0 
+Sorcerer  974686207 10 10 f   -     -     -        87043    0    0 
+Sorcerer  974686232 10  9 f   -     -     -        87043    0    0 
+Sorcerer  974686270 10  8 f   -     -     -        87043    0    0 
+Sorcerer  974686337 10  7 c   cc    kc    kc       87043 3835    0 8d 5d
+Sorcerer  974686401 10  6 f   -     -     -        83208    0    0 
+Sorcerer  974686447 10  5 c   k     kf    -        83208   10    0 
+Sorcerer  974686487 10  4 c   kf    -     -        83198   10    0 
+Sorcerer  974686544 10  3 f   -     -     -        83188    0    0 
+Sorcerer  974686575 10  2 Bf  -     -     -        83188   10    0 
+Sorcerer  974686610 10  1 Bc  kf    -     -        83178   35    0 
+Sorcerer  974686662 10 10 c   f     -     -        83143   25    0 
+Sorcerer  974686690 10  9 f   -     -     -        83118    0    0 
+Sorcerer  974686719 10  8 c   k     f     -        83118   45    0 
+Sorcerer  974686776 10  7 f   -     -     -        83073    0    0 
+Sorcerer  974686837 10  6 f   -     -     -        83073    0    0 
+Sorcerer  974686948  9  5 f   -     -     -        83073    0    0 
+Sorcerer  974686976  9  5 f   -     -     -        83073    0    0 
+Sorcerer  974687032  8  3 f   -     -     -        83073    0    0 
+Sorcerer  974687066  8  2 Bc  k     kf    -        83073   45    0 
+Sorcerer  974687121  8  1 Bf  -     -     -        83028    5    0 
+Sorcerer  974687164  8  8 rc  f     -     -        83023  720    0 
+Sorcerer  974687204  8  7 c   k     f     -        82303   10    0 
+Sorcerer  974687268  8  6 f   -     -     -        82293    0    0 
+Sorcerer  974687313  8  5 f   -     -     -        82293    0    0 
+Sorcerer  974687371  8  4 f   -     -     -        82293    0    0 
+Sorcerer  974687422  8  3 f   -     -     -        82293    0    0 
+Sorcerer  974687459  8  2 Bk  k     k     f        82293   10    0 
+Sorcerer  974687478  8  1 Bf  -     -     -        82283    5    0 
+Sorcerer  974687522  8  8 f   -     -     -        82278    0    0 
+Sorcerer  974687556  9  8 f   -     -     -        82278    0    0 
+Sorcerer  974687604  9  7 f   -     -     -        82278    0    0 
+Sorcerer  974687635  9  6 f   -     -     -        82278    0    0 
+Sorcerer  974687650 10  5 f   -     -     -        82278    0    0 
+Sorcerer  974687702  9  4 f   -     -     -        82278    0    0 
+Sorcerer  974687766  9  3 f   -     -     -        82278    0    0 
+Sorcerer  974687798  9  2 Bk  kf    -     -        82278   10    0 
+Sorcerer  974687823  9  1 Bf  -     -     -        82268    5    0 
+Sorcerer  974687853  9  9 f   -     -     -        82263    0    0 
+Sorcerer  974687920  9  8 f   -     -     -        82263    0    0 
+Sorcerer  974687969  9  7 f   -     -     -        82263    0    0 
+Sorcerer  974688011  8  5 f   -     -     -        82263    0    0 
+Sorcerer  974688078  8  4 f   -     -     -        82263    0    0 
+Sorcerer  974688095  8  3 f   -     -     -        82263    0    0 
+Sorcerer  974688125  9  2 Bk  kf    -     -        82263   10    0 
+Sorcerer  974688146  9  1 Bf  -     -     -        82253    5    0 
+Sorcerer  974688178  9  9 f   -     -     -        82248    0    0 
+Sorcerer  974688212  9  8 f   -     -     -        82248    0    0 
+Sorcerer  974688252  9  7 c   kf    -     -        82248   10    0 
+Sorcerer  974688343 10  7 f   -     -     -        82238    0    0 
+Sorcerer  974688430 10  6 cc  f     -     -        82238   65    0 
+Sorcerer  974688477 10  5 f   -     -     -        82173    0    0 
+Sorcerer  974688522 10  4 cc  k     k     k        82173   70    0 9c Qd
+Sorcerer  974688608 10  3 cc  kf    -     -        82103   65    0 
+Sorcerer  974688659 10  2 Bk  k     kf    -        82038   10    0 
+Sorcerer  974688712 10  1 Bc  kf    -     -        82028   45    0 
+Sorcerer  974688768 10 10 f   -     -     -        81983    0    0 
+Sorcerer  974688826 10  9 c   k     f     -        81983   45    0 
+Sorcerer  974688877 10  8 f   -     -     -        81938    0    0 
+Sorcerer  974688904 10  7 c   k     k     c        81938   45    0 Ts Ad
+Sorcerer  974688977  9  5 f   -     -     -        81893    0    0 
+Sorcerer  974689006  9  4 c   c     k     k        81893   50    0 9h Ts
+Sorcerer  974689052  9  3 f   -     -     -        81843    0    0 
+Sorcerer  974689075  9  2 Bk  kf    -     -        81843   10    0 
+Sorcerer  974689109  9  1 Bf  -     -     -        81833    5    0 
+Sorcerer  974689141 10 10 f   -     -     -        81828    0    0 
+Sorcerer  974689184 10  9 f   -     -     -        81828    0    0 
+Sorcerer  974689232 10  8 f   -     -     -        81828    0    0 
+Sorcerer  974689285 10  7 f   -     -     -        81828    0    0 
+Sorcerer  974689370  9  6 f   -     -     -        81828    0    0 
+Sorcerer  974689391  7  4 f   -     -     -        81828    0    0 
+Sorcerer  974689431  8  3 f   -     -     -        81828    0    0 
+Sorcerer  974689453  8  2 Bf  -     -     -        81828   10    0 
+Sorcerer  974689511  8  1 Bc  kf    -     -        81818   10    0 
+Sorcerer  974689545  8  8 f   -     -     -        81808    0    0 
+Sorcerer  974689565  8  7 cc  kf    -     -        81808   50    0 
+Sorcerer  974689625  8  6 f   -     -     -        81758    0    0 
+Sorcerer  974689672  8  5 c   b     b     b        81758  595  810 
+Sorcerer  974689713  8  4 KQ  -     -     -        81973    0    0 
+Sorcerer  974689957 10 10 cc  c     c     rcA      81973 81973 82875 Tc Qd
+Sorcerer  974690041 10  9 c   k     k     k        82875   10    0 Jc 9c
+Sorcerer  974690121 10  8 f   -     -     -        82865    0    0 
+Sorcerer  974690173 10  7 c   k     k     k        82865   10    0 Th 8d
+Sorcerer  974690222 10  6 f   -     -     -        82855    0    0 
+Sorcerer  974690263 10  5 cc  kf    -     -        82855   85    0 
+Sorcerer  974690328 10  4 c   k     bc    kf       82770  250    0 
+Sorcerer  974690388 10  3 f   -     -     -        82520    0    0 
+Sorcerer  974690443 10  2 Bf  -     -     -        82520   10    0 
+Sorcerer  974690530  9  1 Bf  -     -     -        82510    5    0 
+Sorcerer  974690568  9  9 c   f     -     -        82505   35    0 
+Sorcerer  974690618 10  9 f   -     -     -        82470    0    0 
+Sorcerer  974690679 10  8 c   kf    -     -        82470   10    0 
+Sorcerer  974690769 10  7 c   k     kf    -        82460   22    0 
+Sorcerer  974690831 10  6 c   kc    kf    -        82438   55    0 
+Sorcerer  974690892 10  5 c   kcc   k     b        82383 1860 2800 
+Sorcerer  974690969  9  4 c   c     k     f        83323   30    0 
+Sorcerer  974691025  9  3 f   -     -     -        83293    0    0 
+Sorcerer  974691064  9  2 Bc  k     f     -        83293   28    0 
+Sorcerer  974691116  9  1 Bf  -     -     -        83265    5    0 
+Sorcerer  974691146  9  9 c   c     c     b        83260 3660 5100 
+Sorcerer  974691239 10  9 c   f     -     -        84700   10    0 
+Sorcerer  974691272 10  8 c   c     b     -        84690  632  978 
+Sorcerer  974691308  9  7 f   -     -     -        85036    0    0 
+Sorcerer  974691388  9  6 c   k     f     -        85036   10    0 
+Sorcerer  974691445  9  5 f   -     -     -        85026    0    0 
+Sorcerer  974691508  9  4 f   -     -     -        85026    0    0 
+Sorcerer  974691566  9  3 f   -     -     -        85026    0    0 
+Sorcerer  974691603  9  2 Bf  -     -     -        85026   10    0 
+Sorcerer  974691663  9  1 Bf  -     -     -        85016    5    0 
+Sorcerer  974691688  9  9 f   -     -     -        85011    0    0 
+Sorcerer  974691740  9  8 f   -     -     -        85011    0    0 
+Sorcerer  974691810  9  7 c   f     -     -        85011   55    0 
+Sorcerer  974691868  8  5 f   -     -     -        84956    0    0 
+Sorcerer  974691902  8  4 f   -     -     -        84956    0    0 
+Sorcerer  974691959  8  3 f   -     -     -        84956    0    0 
+Sorcerer  974691993  8  2 Bk  f     -     -        84956   10    0 
+Sorcerer  974692032  8  1 Bf  -     -     -        84946    5    0 
+Sorcerer  974692074  9  9 c   f     -     -        84941   10    0 
+Sorcerer  974692103  9  8 f   -     -     -        84931    0    0 
+Sorcerer  974692190  9  7 f   -     -     -        84931    0    0 
+Sorcerer  974692249 10  7 c   c     f     -        84931  550    0 
+Sorcerer  974692286 10  6 f   -     -     -        84381    0    0 
+Sorcerer  974692351 10  5 c   f     -     -        84381   35    0 
+Sorcerer  974692386 10  4 c   kf    -     -        84346   10    0 
+Sorcerer  974692438 10  3 c   k     kf    -        84336   10    0 
+Sorcerer  974692473 10  2 Bc  kc    k     b        84326  955 1350 
+Sorcerer  974692526 10  1 Bf  -     -     -        84721    5    0 
+Sorcerer  974692580 10 10 c   f     -     -        84716   10    0 
+Sorcerer  974692631 10  9 c   f     -     -        84706   10    0 
+Sorcerer  974692682  9  7 c   k     kf    -        84696   10    0 
+Sorcerer  974692771  7  4 f   -     -     -        84686    0    0 
+Sorcerer  974692801  7  3 c   k     b     -        84686   60  100 
+Sorcerer  974692857  6  2 Bk  k     k     f        84726   10    0 
+Sorcerer  974692898  4  1 Bf  -     -     -        84716    5    0 
+Sorcerer  974692935  4  4 f   -     -     -        84711    0    0 
+Sorcerer  974692942  4  3 f   -     -     -        84711    0    0 
+Sorcerer  974692974  4  2 Bk  k     b     -        84711   40   60 
+Sorcerer  974693008  3  1 Bc  kc    Q     -        84731   40    0 
+Sorcerer  974769376  4  4 f   -     -     -        84691    0    0 
+Sorcerer  974769385  4  3 f   -     -     -        84691    0    0 
+Sorcerer  974769400  4  2 Bk  k     b     -        84691   30   40 
+Sorcerer  974769426  4  1 Bc  kf    -     -        84701   10    0 
+Sorcerer  974769442  4  4 c   c     b     b        84691  530    0 Qc 2c
+Sorcerer  974769464  4  3 f   -     -     -        84161    0    0 
+Sorcerer  974769489  4  2 Bk  b     b     b        84161  335  450 
+Sorcerer  974769522  4  1 Bf  -     -     -        84276    5    0 
+Sorcerer  974769533  4  4 f   -     -     -        84271    0    0 
+Sorcerer  974769546  4  3 f   -     -     -        84271    0    0 
+Sorcerer  974769574  4  2 Bk  k     k     f        84271   10    0 
+Sorcerer  974769608  4  1 Bc  kc    k     k        84261   30   60 6c 4c
+Sorcerer  974769630  4  4 c   k     f     -        84291   35    0 
+Sorcerer  974769658  4  3 f   -     -     -        84256    0    0 
+Sorcerer  974769685  4  2 Bk  k     k     k        84256   10    0 7h Ks
+Sorcerer  974769720  4  1 Bf  -     -     -        84246    5    0 
+Sorcerer  974769737  4  4 c   f     -     -        84241   10    0 
+Sorcerer  974769755  4  3 c   k     k     b        84231   40   90 Kd 9c
+Sorcerer  974769780  4  2 Bk  k     k     k        84281   10    0 3s 7d
+Sorcerer  974769801  4  1 Bc  b     k     k        84271   50  120 8h Qd
+Sorcerer  974769826  4  4 c   f     -     -        84341   35    0 
+Sorcerer  974769852  4  3 c   f     -     -        84306   10    0 
+Sorcerer  974769868  4  2 Bk  kf    -     -        84296   10    0 
+Sorcerer  974769882  4  1 Br  b     -     -        84286  130  180 
+Sorcerer  974769896  4  4 c   k     b     b        84336  475  990 8c Ks
+Sorcerer  974769923  4  3 f   -     -     -        84851    0    0 
+Sorcerer  974769932  4  2 Bk  k     k     k        84851   10    0 3c 8h
+Sorcerer  974769947  4  1 Bc  k     k     k        84841   10   10 4s 5s
+Sorcerer  974769965  4  4 r   k     b     -        84841  185  280 
+Sorcerer  974769994  5  4 r   k     f     -        84936   35    0 
+Sorcerer  974770014  5  3 f   -     -     -        84901    0    0 
+Sorcerer  974770058  5  2 Bf  -     -     -        84901   10    0 
+Sorcerer  974770088  4  1 Bf  -     -     -        84891    5    0 
+Sorcerer  974770113  4  4 f   -     -     -        84886    0    0 
+Sorcerer  974770132  4  3 f   -     -     -        84886    0    0 
+Sorcerer  974770142  4  2 B   -     -     -        84886   10   15 
+Sorcerer  974770145  4  1 Bf  -     -     -        84891    5    0 
+Sorcerer  974770160  4  4 f   -     -     -        84886    0    0 
+Sorcerer  974770176  4  3 f   -     -     -        84886    0    0 
+Sorcerer  974770184  4  2 Bk  k     k     k        84886   10    0 4d Qs
+Sorcerer  974770196  4  1 Bf  -     -     -        84876    5    0 
+Sorcerer  974770206  4  4 c   f     -     -        84871   10    0 
+Sorcerer  974770229  4  3 c   k     f     -        84861   10    0 
+Sorcerer  974770256  4  2 Bk  k     k     kf       84851   10    0 
+Sorcerer  974770281  4  1 Bc  k     kf    -        84841   10    0 
+Sorcerer  974770301  4  4 f   -     -     -        84831    0    0 
+Sorcerer  974770321  4  3 f   -     -     -        84831    0    0 
+Sorcerer  974770349  4  2 Bk  k     f     -        84831   10    0 
+Sorcerer  974770374  4  1 Bf  -     -     -        84821    5    0 
+Sorcerer  974770408  4  4 c   k     b     -        84816   35   50 
+Sorcerer  974770431  4  3 f   -     -     -        84831    0    0 
+Sorcerer  974770462  4  2 Bk  kf    -     -        84831   10    0 
+Sorcerer  974770484  4  1 Bf  -     -     -        84821    5    0 
+Sorcerer  974770490  4  4 f   -     -     -        84816    0    0 
+Sorcerer  974770511  4  3 f   -     -     -        84816    0    0 
+Sorcerer  974770541  5  3 f   -     -     -        84816    0    0 
+Sorcerer  974770587  5  2 Bk  f     -     -        84816   10    0 
+Sorcerer  974770611  5  1 Bc  kf    -     -        84806   10    0 
+Sorcerer  974770644  5  5 c   c     k     k        84796  120    0 8h 9d
+Sorcerer  974770681  6  5 c   k     f     -        84676   10    0 
+Sorcerer  974770718  6  4 f   -     -     -        84666    0    0 
+Sorcerer  974770742  6  3 cc  f     -     -        84666   45    0 
+Sorcerer  974770795  7  3 f   -     -     -        84621    0    0 
+Sorcerer  974770827  7  2 Bk  kf    -     -        84621   10    0 
+Sorcerer  974770880  8  1 Bf  -     -     -        84611    5    0 
+Sorcerer  974770904  6  6 f   -     -     -        84606    0    0 
+Sorcerer  974770928  7  6 c   k     k     k        84606   10    0 4d 7d
+Sorcerer  974770970  7  5 f   -     -     -        84596    0    0 
+Sorcerer  974771012  7  4 f   -     -     -        84596    0    0 
+Sorcerer  974771049  8  4 f   -     -     -        84596    0    0 
+Sorcerer  974771066  7  2 f   -     -     -        84596    0    0 
+Sorcerer  974771091  7  2 Bc  k     k     kf       84596   35    0 
+Sorcerer  974771123  7  1 Bf  -     -     -        84561    5    0 
+Sorcerer  974771145  7  7 f   -     -     -        84556    0    0 
+Sorcerer  974771199  7  6 c   k     f     -        84556   35    0 
+Sorcerer  974771232  7  5 cc  f     -     -        84521   55    0 
+Sorcerer  974771285  9  6 c   b     -     -        84466   50   80 
+Sorcerer  974771329  9  5 f   -     -     -        84496    0    0 
+Sorcerer  974771416  9  4 c   kf    -     -        84496   10    0 
+Sorcerer  974771450 10  4 f   -     -     -        84486    0    0 
+Sorcerer  974771473 10  3 cc  kf    -     -        84486   45    0 
+Sorcerer  974771493 10  2 Bk  kf    -     -        84441   10    0 
+Sorcerer  974771533 10  1 Bc  kc    kf    -        84431   70    0 
+Sorcerer  974771568 10 10 f   -     -     -        84361    0    0 
+Sorcerer  974771617  8  7 c   f     -     -        84361   10    0 
+Sorcerer  974771658  7  6 f   -     -     -        84351    0    0 
+Sorcerer  974771700  7  5 f   -     -     -        84351    0    0 
+Sorcerer  974771721  8  4 rc  k     kc    k        84351  530    0 Kc Ks
+Sorcerer  974771768  8  3 f   -     -     -        83821    0    0 
+Sorcerer  974771811  8  2 Bf  -     -     -        83821   10    0 
+Sorcerer  974771826  8  1 Bc  k     k     k        83811   10    0 9h 5h
+Sorcerer  974771858  8  8 f   -     -     -        83801    0    0 
+Sorcerer  974771902  8  7 f   -     -     -        83801    0    0 
+Sorcerer  974771922  8  6 f   -     -     -        83801    0    0 
+Sorcerer  974771950  8  5 f   -     -     -        83801    0    0 
+Sorcerer  974771985  7  3 f   -     -     -        83801    0    0 
+Sorcerer  974772011  7  3 f   -     -     -        83801    0    0 
+Sorcerer  974772046  7  2 B   -     -     -        83801   10   15 
+Sorcerer  974772053  7  1 Bc  kf    -     -        83806   35    0 
+Sorcerer  974772072  7  7 c   k     f     -        83771   65    0 
+Sorcerer  974772149  7  6 c   c     k     k        83706  150    0 As Ks
+Sorcerer  974772186  6  5 f   -     -     -        83556    0    0 
+Sorcerer  974772210  6  4 f   -     -     -        83556    0    0 
+Sorcerer  974772251  6  3 ccc k     kf    -        83556  310    0 
+Sorcerer  974772316  6  2 Bf  -     -     -        83246   10    0 
+Sorcerer  974772340  6  1 Bc  kf    -     -        83236   35    0 
+Sorcerer  974772373  6  6 f   -     -     -        83201    0    0 
+Sorcerer  974772383  6  5 f   -     -     -        83201    0    0 
+Sorcerer  974772401  5  3 f   -     -     -        83201    0    0 
+Sorcerer  974772425  5  2 Bf  -     -     -        83201   10    0 
+Sorcerer  974772439  5  1 Bf  -     -     -        83191    5    0 
+Sorcerer  974772460  5  5 f   -     -     -        83186    0    0 
+Sorcerer  974772486  5  4 f   -     -     -        83186    0    0 
+Sorcerer  974772525  6  3 f   -     -     -        83186    0    0 
+Sorcerer  974772560  6  2 Bf  -     -     -        83186   10    0 
+Sorcerer  974772579  6  1 Bf  -     -     -        83176    5    0 
+Sorcerer  974772599  7  7 f   -     -     -        83171    0    0 
+Sorcerer  974772629  7  6 f   -     -     -        83171    0    0 
+Sorcerer  974772660  7  5 f   -     -     -        83171    0    0 
+Sorcerer  974772693  7  4 f   -     -     -        83171    0    0 
+Sorcerer  974772716  7  3 f   -     -     -        83171    0    0 
+Sorcerer  974772732  7  2 Bk  kf    -     -        83171   10    0 
+Sorcerer  974772763  7  1 Bf  -     -     -        83161    5    0 
+Sorcerer  974772828  7  7 c   c     c     b        83156  955 1440 
+Sorcerer  974772867  7  6 f   -     -     -        83641    0    0 
+Sorcerer  974772914  8  6 f   -     -     -        83641    0    0 
+Sorcerer  974772955  8  5 f   -     -     -        83641    0    0 
+Sorcerer  974772992  8  4 f   -     -     -        83641    0    0 
+Sorcerer  974773101  7  2 f   -     -     -        83641    0    0 
+Sorcerer  974773149  7  2 Bf  -     -     -        83641   10    0 
+Sorcerer  974773203  6  1 Bc  kf    -     -        83631   10    0 
+Sorcerer  974773247  6  6 c   k     c     f        83621  120    0 
+Sorcerer  974773281  6  5 r   c     c     k        83501  742 1649 Qd Qc
+Sorcerer  974773330  6  4 f   -     -     -        84408    0    0 
+Sorcerer  974773340  6  3 f   -     -     -        84408    0    0 
+Sorcerer  974773373  6  2 Bk  kf    -     -        84408   10    0 
+Sorcerer  974773414  6  1 Bc  kf    -     -        84398   10    0 
+Sorcerer  974773483  9  8 f   -     -     -        84388    0    0 
+Sorcerer  974773527  9  7 f   -     -     -        84388    0    0 
+Sorcerer  974773551  9  6 f   -     -     -        84388    0    0 
+Sorcerer  974773588  9  5 cc  k     f     -        84388   55    0 
+Sorcerer  974773644  9  4 f   -     -     -        84333    0    0 
+Sorcerer  974773697  9  3 f   -     -     -        84333    0    0 
+Sorcerer  974773743  9  2 Bk  k     kf    -        84333   10    0 
+Sorcerer  974773820 10  1 Bf  -     -     -        84323    5    0 
+Sorcerer  974773867 10 10 f   -     -     -        84318    0    0 
+Sorcerer  974773911 10 10 f   -     -     -        84318    0    0 
+Sorcerer  974773960  9  8 f   -     -     -        84318    0    0 
+Sorcerer  974773999  9  7 f   -     -     -        84318    0    0 
+Sorcerer  974774021  9  6 f   -     -     -        84318    0    0 
+Sorcerer  974774048  9  5 f   -     -     -        84318    0    0 
+Sorcerer  974774105  9  4 c   f     -     -        84318   35    0 
+Sorcerer  974774166  9  3 c   kf    -     -        84283   10    0 
+Sorcerer  974774222  9  2 Bc  kc    k     bc       84273 1225    0 Kh 5h
+Sorcerer  974774289  9  1 Bf  -     -     -        83048    5    0 
+Sorcerer  974774333  9  9 c   f     -     -        83043   55    0 
+Sorcerer  974774367  9  8 cc  f     -     -        82988   75    0 
+Sorcerer  974774405  9  7 cc  f     -     -        82913   60    0 
+Sorcerer  974774455  9  6 f   -     -     -        82853    0    0 
+Sorcerer  974774494 10  5 cc  k     k     kc       82853  157    0 3s 3d
+Sorcerer  974774680  8  3 c   k     kf    -        82696   10    0 
+Sorcerer  974774718  7  2 Bk  kf    -     -        82686   10    0 
+Sorcerer  974774752  7  1 Bf  -     -     -        82676    5    0 
+Sorcerer  974774776  7  7 f   -     -     -        82671    0    0 
+Sorcerer  974774791  7  6 f   -     -     -        82671    0    0 
+Sorcerer  974774821  7  5 f   -     -     -        82671    0    0 
+Sorcerer  974774847  7  4 f   -     -     -        82671    0    0 
+Sorcerer  974774868  8  3 f   -     -     -        82671    0    0 
+Sorcerer  974774891  8  2 B   -     -     -        82671   10   15 
+Sorcerer  974774901  8  1 Bf  -     -     -        82676    5    0 
+Sorcerer  974774930  8  8 f   -     -     -        82671    0    0 
+Sorcerer  974774961  8  7 f   -     -     -        82671    0    0 
+Sorcerer  974775019 10  8 f   -     -     -        82671    0    0 
+Sorcerer  974775085 10  7 f   -     -     -        82671    0    0 
+Sorcerer  974775114 10  6 c   k     b     -        82671   80  140 
+Sorcerer  974775181 10  5 r   k     k     k        82731   35    0 Qh Ks
+Sorcerer  974775242 10  4 cc  k     kf    -        82696   55    0 
+Sorcerer  974775289 10  3 f   -     -     -        82641    0    0 
+Sorcerer  974775325 10  2 Bf  -     -     -        82641   10    0 
+Sorcerer  974775421  9  1 Bf  -     -     -        82631    5    0 
+Sorcerer  974775447  9  9 f   -     -     -        82626    0    0 
+Sorcerer  974775472  9  8 f   -     -     -        82626    0    0 
+Sorcerer  974775512  9  7 f   -     -     -        82626    0    0 
+Sorcerer  974775559  9  6 c   f     -     -        82626   10    0 
+Sorcerer  974775592 10  6 f   -     -     -        82616    0    0 
+Sorcerer  974775633 10  5 cc  k     k     b        82616  290  470 
+Sorcerer  974775701 10  4 r   kc    k     b        82796  775 1110 
+Sorcerer  974775737 10  3 f   -     -     -        83131    0    0 
+Sorcerer  974775784 10  2 Bf  -     -     -        83131   10    0 
+Sorcerer  974775812 10  1 Bf  -     -     -        83121    5    0 
+Sorcerer  974775837 10 10 c   c     k     f        83116  405    0 
+Sorcerer  974775929 10  9 c   f     -     -        82711   10    0 
+Sorcerer  974775988 10  8 f   -     -     -        82701    0    0 
+Sorcerer  974776027 10  7 c   f     -     -        82701   10    0 
+Sorcerer  974776084 10  6 c   b     b     b        82691  860 1800 2d Td
+Sorcerer  974776193 10  5 f   -     -     -        83631    0    0 
+Sorcerer  974776228 10  4 cc  kf    -     -        83631   75    0 
+Sorcerer  974776301 10  3 r   kc    kf    -        83556  155    0 
+Sorcerer  974776353 10  2 Bk  k     kf    -        83401   10    0 
+Sorcerer  974776434 10  1 Bf  -     -     -        83391    5    0 
+Sorcerer  974776461 10 10 cc  f     -     -        83386   50    0 
+Sorcerer  974776514 10  9 c   f     -     -        83336   10    0 
+Sorcerer  974776570 10  5 Q   -     -     -        83326    0    0 

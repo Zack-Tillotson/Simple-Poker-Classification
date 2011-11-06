@@ -1,0 +1,868 @@
+cmonster  973122538 10  6 f   -     -     -         5770    0    0 
+cmonster  973122591 10  5 f   -     -     -         5770    0    0 
+cmonster  973122638 10  4 f   -     -     -         5770    0    0 
+cmonster  973122663 10  3 f   -     -     -         5770    0    0 
+cmonster  973122711 10  2 Bk  kc    k     k         5770   40   90 7c Ac
+cmonster  973122766 10  1 Bf  -     -     -         5820    5    0 
+cmonster  973122785 10 10 c   b     -     -         5815   45   70 
+cmonster  973122813 10  9 f   -     -     -         5840    0    0 
+cmonster  973122821 10  8 c   f     -     -         5840   10    0 
+cmonster  973122871 10  7 f   -     -     -         5830    0    0 
+cmonster  973122946 10  6 f   -     -     -         5830    0    0 
+cmonster  973122985 10  5 f   -     -     -         5830    0    0 
+cmonster  973123013 10  4 f   -     -     -         5830    0    0 
+cmonster  973123053  7  2 Br  b     k     b         5830 1970 2730 
+cmonster  973123104  7  1 Bf  -     -     -         6590    5    0 
+cmonster  973123138  7  7 r   k     k     k         6585   45  105 Ad As
+cmonster  973123166  7  6 f   -     -     -         6645    0    0 
+cmonster  973123207  6  5 f   -     -     -         6645    0    0 
+cmonster  973123232  4  4 f   -     -     -         6645    0    0 
+cmonster  973123243  3  3 r   -     -     -         6645   35   50 
+cmonster  973123250  2  2 B   -     -     -         6660   10   15 
+cmonster  973123251  2  1 Br  -     -     -         6665   30   40 
+cmonster  973123255  2  2 B   -     -     -         6675   10   15 
+cmonster  973123256  2  1 Br  -     -     -         6680   30   40 
+cmonster  973123259  2  2 B   -     -     -         6690   10   15 
+cmonster  973123263  2  1 Br  -     -     -         6695   30   40 
+cmonster  973123266  3  2 B   -     -     -         6705   10   15 
+cmonster  973123283  4  1 Bc  kc    b     b         6710  640 1440 4h 5h
+cmonster  973123322  4  4 f   -     -     -         7510    0    0 
+cmonster  973123331  4  3 r   -     -     -         7510   35   50 
+cmonster  973123336  4  2 Bk  k     kf    -         7525   10    0 
+cmonster  973123355  4  1 Bc  kf    -     -         7515   10    0 
+cmonster  973123369  4  4 f   -     -     -         7505    0    0 
+cmonster  973123373  4  3 f   -     -     -         7505    0    0 
+cmonster  973123395  4  2 Br  kf    -     -         7505  110    0 
+cmonster  973123415  4  1 Bf  -     -     -         7395    5    0 
+cmonster  973123434  4  4 cc  k     k     k         7390   35    0 Ah 7s
+cmonster  973123451  4  3 f   -     -     -         7355    0    0 
+cmonster  973123465  4  2 B   -     -     -         7355   10   15 
+cmonster  973123468  4  1 Bf  -     -     -         7360    5    0 
+cmonster  973123487  4  4 cc  bf    -     -         7355  110    0 
+cmonster  973123502  4  3 cc  k     f     -         7245   40    0 
+cmonster  973123521  4  2 B   -     -     -         7205   10   15 
+cmonster  973123528  4  1 Br  b     b     -         7210  270  360 
+cmonster  973123550  3  3 f   -     -     -         7300    0    0 
+cmonster  973123557  3  2 Bk  kf    -     -         7300   10    0 
+cmonster  973123577  3  1 Bf  -     -     -         7290    5    0 
+cmonster  973123580  3  3 f   -     -     -         7285    0    0 
+cmonster  973123585  3  2 Br  b     b     -         7285 1010 1350 
+cmonster  973123606  3  1 Bcc kf    -     -         7625   30    0 
+cmonster  973123617  3  3 f   -     -     -         7595    0    0 
+cmonster  973123624  3  2 B   -     -     -         7595   10   15 
+cmonster  973123628  3  1 Bf  -     -     -         7600    5    0 
+cmonster  973123632  3  3 f   -     -     -         7595    0    0 
+cmonster  973123639  3  2 Bk  kr    kf    -         7595  110    0 
+cmonster  973123661  3  1 Bc  b     -     -         7485   30   40 
+cmonster  973123678  3  3 f   -     -     -         7495    0    0 
+cmonster  973123688  3  2 B   -     -     -         7495   10   15 
+cmonster  973123692  3  1 Bf  -     -     -         7500    5    0 
+cmonster  973123704  3  3 f   -     -     -         7495    0    0 
+cmonster  973123712  3  2 B   -     -     -         7495   10   15 
+cmonster  973123716  3  1 Br  kf    -     -         7500   30    0 
+cmonster  973123734  3  3 f   -     -     -         7470    0    0 
+cmonster  973123743  3  2 Bc  kf    -     -         7470   35    0 
+cmonster  973123766  3  1 Bf  -     -     -         7435    5    0 
+cmonster  973123769  3  3 f   -     -     -         7430    0    0 
+cmonster  973123771  3  2 Bf  -     -     -         7430   10    0 
+cmonster  973123777  3  1 Bf  -     -     -         7420    5    0 
+cmonster  973123780  3  3 r   -     -     -         7415   35   50 
+cmonster  973123784  3  2 Br  b     kc    k         7430  335    0 2h 2c
+cmonster  973123813  3  1 Bc  k     k     k         7095   10   10 Qc 8c
+cmonster  973123832  3  3 cc  f     -     -         7095   40    0 
+cmonster  973123853  3  2 Bc  kf    -     -         7055   35    0 
+cmonster  973123869  3  1 Bc  kf    -     -         7020   10    0 
+cmonster  973123889  3  3 c   k     k     b         7010   35   50 
+cmonster  973123908  4  2 Bf  -     -     -         7025   10    0 
+cmonster  973123924  5  1 Bf  -     -     -         7015    5    0 
+cmonster  973123943  5  5 f   -     -     -         7010    0    0 
+cmonster  973123965  5  4 f   -     -     -         7010    0    0 
+cmonster  973123977  5  3 c   k     f     -         7010   10    0 
+cmonster  973124002  5  2 B   -     -     -         7000   10   15 
+cmonster  973124012  5  1 Bf  -     -     -         7005    5    0 
+cmonster  973124027  5  5 f   -     -     -         7000    0    0 
+cmonster  973124041  5  4 f   -     -     -         7000    0    0 
+cmonster  973124050  5  3 c   kc    b     kf        7000  150    0 
+cmonster  973124077  5  2 Bf  -     -     -         6850   10    0 
+cmonster  973124112  5  1 Bc  kf    -     -         6840   10    0 
+cmonster  973124141  5  5 c   k     k     k         6830   10   25 9s Ad
+cmonster  973124179  5  4 r   -     -     -         6845   35   50 
+cmonster  973124191  5  3 c   k     k     k         6860   10   25 As 5s
+cmonster  973124208  5  2 Bk  kf    -     -         6875   10    0 
+cmonster  973124253  5  1 Bf  -     -     -         6865    5    0 
+cmonster  973124285  5  5 f   -     -     -         6860    0    0 
+cmonster  973124323  5  4 c   b     -     -         6860   45   70 
+cmonster  973124349  5  3 f   -     -     -         6885    0    0 
+cmonster  973124359  5  2 Br  k     r     bc        6885 2430    0 Kh Qc
+cmonster  973124391  5  1 Bf  -     -     -         4455    5    0 
+cmonster  973124432  5  5 c   b     -     -         4450   50   80 
+cmonster  973124480  5  4 cc  kf    -     -         4480   55    0 
+cmonster  973124522  5  3 f   -     -     -         4425    0    0 
+cmonster  973124543  5  2 Br  b     -     -         4425  110  150 
+cmonster  973124561  5  1 Bc  b     b     -         4465  170  240 
+cmonster  973124599  5  5 f   -     -     -         4535    0    0 
+cmonster  973124605  5  4 r   b     b     k         4535  375    0 Qs Ad
+cmonster  973124644  5  3 f   -     -     -         4160    0    0 
+cmonster  973124656  5  2 Bk  k     b     -         4160   30   40 
+cmonster  973124671  5  1 Bc  kf    -     -         4170   10    0 
+cmonster  973124697  5  5 cc  f     -     -         4160   40    0 
+cmonster  973124717  5  4 f   -     -     -         4120    0    0 
+cmonster  973124729  5  3 r   b     b     b         4120 1140 1530 
+cmonster  973124767  6  2 Bk  kc    kf    -         4510   40    0 
+cmonster  973124803  5  1 Bf  -     -     -         4470    5    0 
+cmonster  973124860  5  5 c   c     f     -         4465   40    0 
+cmonster  973124897  5  4 cr  k     k     b         4425  465  630 
+cmonster  973124935  5  3 f   -     -     -         4590    0    0 
+cmonster  973124945  5  2 Bk  kr    b     b         4590 1010 2025 5s 4h
+cmonster  973124977  5  1 Bf  -     -     -         5605    5    0 
+cmonster  973124984  5  5 f   -     -     -         5600    0    0 
+cmonster  973124994  5  4 f   -     -     -         5600    0    0 
+cmonster  973125002  5  3 f   -     -     -         5600    0    0 
+cmonster  973125009  5  2 Bk  kf    -     -         5600   10    0 
+cmonster  973125024  5  1 Bf  -     -     -         5590    5    0 
+cmonster  973125047  5  5 f   -     -     -         5585    0    0 
+cmonster  973125061  5  4 r   k     k     b         5585  120  170 
+cmonster  973125086  5  3 c   k     k     b         5635   35   50 
+cmonster  973125112  5  2 Bc  k     k     k         5650   30    0 Jc Ts
+cmonster  973125139  5  1 Bf  -     -     -         5620    5    0 
+cmonster  973125168  5  5 r   r     b     k         5615 1400    0 6h 6c
+cmonster  973125212  5  4 r   k     c     f         4215  115    0 
+cmonster  973125241  5  3 f   -     -     -         4100    0    0 
+cmonster  973125271  5  2 Bk  k     b     k         4100   35    0 2d Kh
+cmonster  973125302  5  1 Bcr k     k     b         4065  270  360 
+cmonster  973125343  5  5 f   -     -     -         4155    0    0 
+cmonster  973125361  5  4 f   -     -     -         4155    0    0 
+cmonster  973125372  5  3 f   -     -     -         4155    0    0 
+cmonster  973125401  5  2 B   -     -     -         4155   10   15 
+cmonster  973125408  6  1 Bc  b     -     -         4160   30   40 
+cmonster  973125425  6  6 f   -     -     -         4170    0    0 
+cmonster  973125437  6  5 r   b     b     b         4170 1530 2070 
+cmonster  973125481  6  4 f   -     -     -         4710    0    0 
+cmonster  973125512  6  3 cc  kf    -     -         4710   45    0 
+cmonster  973125530  6  2 Bk  k     kf    -         4665   10    0 
+cmonster  973125581  7  1 Bc  b     kf    -         4655  115    0 
+cmonster  973125605  7  7 c   k     b     -         4540   50   80 
+cmonster  973125649  7  6 r   b     -     -         4570  140  210 
+cmonster  973125671  7  5 c   k     b     -         4640   45   70 
+cmonster  973125707  7  4 c   b     k     b         4665  250    0 Ad Jc
+cmonster  973125761  7  3 f   -     -     -         4415    0    0 
+cmonster  973125800  7  2 Br  b     -     -         4415  615  870 
+cmonster  973125830  7  1 Bf  -     -     -         4670    5    0 
+cmonster  973125839  7  7 f   -     -     -         4665    0    0 
+cmonster  973125876  6  5 f   -     -     -         4665    0    0 
+cmonster  973125882  6  4 f   -     -     -         4665    0    0 
+cmonster  973125915  6  3 f   -     -     -         4665    0    0 
+cmonster  973125933  6  2 Bk  k     k     kf        4665   10    0 
+cmonster  973125958  6  1 Bc  kf    -     -         4655   35    0 
+cmonster  973125992  6  6 c   k     f     -         4620   10    0 
+cmonster  973126014  6  5 f   -     -     -         4610    0    0 
+cmonster  973126027  6  4 f   -     -     -         4610    0    0 
+cmonster  973126040  6  3 f   -     -     -         4610    0    0 
+cmonster  973126067  6  2 Bf  -     -     -         4610   10    0 
+cmonster  973126080  6  1 Bf  -     -     -         4600    5    0 
+cmonster  973126093  6  6 r   k     k     b         4595  110  150 
+cmonster  973126116  6  5 c   f     -     -         4635   10    0 
+cmonster  973126132  6  4 f   -     -     -         4625    0    0 
+cmonster  973126141  6  3 cc  kc    kf    -         4625  240    0 
+cmonster  973126179  6  2 Bf  -     -     -         4385   10    0 
+cmonster  973126187  6  1 Bf  Q     -     -         4375    5    0 
+cmonster  973214885  5  3 f   -     -     -         4420    0    0 
+cmonster  973214905  5  2 Bk  kf    -     -         4420   10    0 
+cmonster  973214951  6  1 Bc  kf    -     -         4410   35    0 
+cmonster  973214965  6  6 f   -     -     -         4375    0    0 
+cmonster  973214986  6  5 c   k     k     c         4375   60  200 7s As
+cmonster  973215018  7  4 f   -     -     -         4515    0    0 
+cmonster  973215059  8  3 f   -     -     -         4515    0    0 
+cmonster  973215068  7  2 Bk  kf    -     -         4515   10    0 
+cmonster  973215086  7  1 Bf  -     -     -         4505    5    0 
+cmonster  973215103  7  7 c   f     -     -         4500   10    0 
+cmonster  973215143  8  7 f   -     -     -         4490    0    0 
+cmonster  973215174  8  6 f   -     -     -         4490    0    0 
+cmonster  973215206  7  5 f   -     -     -         4490    0    0 
+cmonster  973215232  6  4 cc  kr    bA    -         4490 4490 6765 
+cmonster  973215291  6  3 cc  k     k     kf        6765   45    0 
+cmonster  973215309  6  2 Bc  bc    kf    -         6720  475    0 
+cmonster  973215336  6  1 Bf  -     -     -         6245    5    0 
+cmonster  973215348  6  6 f   -     -     -         6240    0    0 
+cmonster  973215368  6  5 cc  br    bcA   -         6240 6240    0 3h Kh
+cmonster  973222636  5  5 f   -     -     -         7190    0    0 
+cmonster  973222672  5  4 cc  f     -     -         7190   40    0 
+cmonster  973222702  5  3 f   -     -     -         7150    0    0 
+cmonster  973222723  5  2 Bc  kc    b     -         7150  475  660 
+cmonster  973222748  5  1 Bc  k     k     k         7335   10   20 Qc 7c
+cmonster  973222765  5  5 c   k     k     k         7345   10    0 Ts Qc
+cmonster  973222791  5  4 c   k     k     b         7335   55   90 
+cmonster  973222850  5  3 f   -     -     -         7370    0    0 
+cmonster  973222877  5  2 Bf  -     -     -         7370   10    0 
+cmonster  973222881  5  1 Bc  k     b     -         7360   30   40 
+cmonster  973222894  5  5 f   -     -     -         7370    0    0 
+cmonster  973222912  5  4 f   -     -     -         7370    0    0 
+cmonster  973222932  5  4 f   -     -     -         7370    0    0 
+cmonster  973222936  4  2 Bk  k     k     k         7370   10    0 7h 8d
+cmonster  973222983  4  1 Bc  k     kc    b         7360  170  240 
+cmonster  973223031  4  4 f   -     -     -         7430    0    0 
+cmonster  973223035  4  3 c   k     k     k         7430   10    0 Kd Jh
+cmonster  973223068  4  2 Bk  k     k     k         7420   10    0 5s Qh
+cmonster  973223083  4  1 Br  k     b     k         7410  130    0 3c 2c
+cmonster  973223110  4  4 c   k     c     k         7280   50  160 3d Ac
+cmonster  973223160  4  3 c   k     f     -         7390   10    0 
+cmonster  973223184  4  2 Br  k     b     -         7380  475  660 
+cmonster  973223211  4  1 BfQ -     -     -         7565    5    0 
+cmonster  973397846 10  4 f   -     -     -         7560    0    0 
+cmonster  973397896 10  3 f   -     -     -         7560    0    0 
+cmonster  973397936 10  2 Bk  k     k     k         7560   10    0 5c 6s
+cmonster  973397982 10  1 Bf  -     -     -         7550    5    0 
+cmonster  973398052 10 10 cc  k     f     -         7545   70    0 
+cmonster  973398097 10  9 f   -     -     -         7475    0    0 
+cmonster  973398134 10  8 f   -     -     -         7475    0    0 
+cmonster  973398185 10  7 f   -     -     -         7475    0    0 
+cmonster  973398237  9  6 f   -     -     -         7475    0    0 
+cmonster  973398270  9  5 f   -     -     -         7475    0    0 
+cmonster  973398313  9  4 f   -     -     -         7475    0    0 
+cmonster  973398374  9  3 f   -     -     -         7475    0    0 
+cmonster  973398395  9  2 Bk  krf   -     -         7475  160    0 
+cmonster  973398419  9  1 Bf  -     -     -         7315    5    0 
+cmonster  973398525  8  8 cc  rA    -     -         7310 7310    0 Qd 6d
+cmonster  973476246  5  5 f   -     -     -         5500    0    0 
+cmonster  973476296  5  4 f   -     -     -         5500    0    0 
+cmonster  973476351  5  3 f   -     -     -         5500    0    0 
+cmonster  973476369  5  2 Bk  k     k     k         5500   10   20 6s 8d
+cmonster  973476389  5  1 Bf  -     -     -         5510    5    0 
+cmonster  973476396  5  5 cc  k     k     k         5505   35    0 Th Ah
+cmonster  973476431  5  4 f   -     -     -         5470    0    0 
+cmonster  973476459  5  3 f   -     -     -         5470    0    0 
+cmonster  973476472  5  2 Bf  -     -     -         5470   10    0 
+cmonster  973476490  5  1 Bc  kf    -     -         5460   10    0 
+cmonster  973476518  5  5 cc  r     brA   -         5450 5450 10940 3c 3h
+cmonster  973476562  5  4 f   -     -     -        10940    0    0 
+cmonster  973476596  5  3 f   -     -     -        10940    0    0 
+cmonster  973476638  6  2 Bc  kf    -     -        10940   35    0 
+cmonster  973476671  7  1 Bf  -     -     -        10905    5    0 
+cmonster  973476702  7  7 f   -     -     -        10900    0    0 
+cmonster  973476724  7  6 f   -     -     -        10900    0    0 
+cmonster  973476772  7  5 c   k     f     -        10900   10    0 
+cmonster  973476817  7  4 f   -     -     -        10890    0    0 
+cmonster  973476837  7  3 f   -     -     -        10890    0    0 
+cmonster  973476872  7  2 Bf  -     -     -        10890   10    0 
+cmonster  973476908  7  1 Bc  k     kc    k        10880  210  525 Kd 6d
+cmonster  973476959  7  7 c   f     -     -        11195   10    0 
+cmonster  973476999  8  7 c   c     k     k        11185  280  705 8d 8c
+cmonster  973477055  7  6 c   f     -     -        11610   35    0 
+cmonster  973477089  6  4 c   b     -     -        11575   40   60 
+cmonster  973477118  7  3 f   -     -     -        11595    0    0 
+cmonster  973477139  7  2 Bc  kf    -     -        11595   35    0 
+cmonster  973477166  7  1 Bc  kf    Q     -        11560   55    0 
+cmonster  973478677  8  4 f   -     -     -        11505    0    0 
+cmonster  973478734  8  3 f   -     -     -        11505    0    0 
+cmonster  973478768  8  2 Bk  f     -     -        11505   10    0 
+cmonster  973478819  8  1 Bf  -     -     -        11495    5    0 
+cmonster  973478842  8  8 c   f     -     -        11490   10    0 
+cmonster  973478922  7  6 c   f     -     -        11480   10    0 
+cmonster  973478958  8  6 f   -     -     -        11470    0    0 
+cmonster  973478980  8  5 f   -     -     -        11470    0    0 
+cmonster  973479002  8  4 c   f     -     -        11470   35    0 
+cmonster  973479037  8  3 f   -     -     -        11435    0    0 
+cmonster  973479068  9  2 Bk  k     k     k        11435   10    0 Qd 4h
+cmonster  973479128  9  1 Bc  kf    -     -        11425   55    0 
+cmonster  973479180  9  9 f   -     -     -        11370    0    0 
+cmonster  973479216  9  8 c   k     k     c        11370  195    0 Qh As
+cmonster  973479274  9  7 c   c     k     k        11175   50    0 6h 6d
+cmonster  973479306  9  6 f   -     -     -        11125    0    0 
+cmonster  973479347  9  5 f   -     -     -        11125    0    0 
+cmonster  973479371  9  4 f   -     -     -        11125    0    0 
+cmonster  973479422  9  3 f   -     -     -        11125    0    0 
+cmonster  973479476  8  2 Bk  b     b     -        11125  170  240 
+cmonster  973479541  8  1 Bc  k     k     k        11195   10    0 Qs 8c
+cmonster  973479578  8  8 c   k     k     b        11185   45   70 
+cmonster  973479635  8  7 c   k     k     k        11210   10    0 Tc Qs
+cmonster  973479673  6  5 f   -     -     -        11200    0    0 
+cmonster  973479709  6  4 f   -     -     -        11200    0    0 
+cmonster  973479736  6  3 c   f     -     -        11200   10    0 
+cmonster  973479753  6  2 Bk  k     k     k        11190   10   20 Qd 4s
+cmonster  973479772  6  1 Bf  -     -     -        11200    5    0 
+cmonster  973479795  6  6 f   -     -     -        11195    0    0 
+cmonster  973479854  5  4 c   r     k     k        11195  170  360 Ah As
+cmonster  973479892  5  3 c   kc    k     kf       11385   50    0 
+cmonster  973479938  5  2 Bk  k     k     k        11335   10   25 3s Kc
+cmonster  973479979  6  1 Bc  kf    -     -        11350   10    0 
+cmonster  973480013  6  6 f   -     -     -        11340    0    0 
+cmonster  973480036  6  5 cc  k     k     f        11340   50    0 
+cmonster  973480077  6  4 cc  k     f     -        11290  195    0 
+cmonster  973480110  6  3 c   f     -     -        11095   10    0 
+cmonster  973480147  6  2 Bk  c     k     k        11085   40    0 9d 3s
+cmonster  973480179  5  1 Bf  -     -     -        11045    5    0 
+cmonster  973480194  5  5 f   -     -     -        11040    0    0 
+cmonster  973480215  5  4 c   k     f     -        11040   10    0 
+cmonster  973480259  5  3 cc  b     k     k        11030  285    0 Qh Jd
+cmonster  973480298  5  2 B   -     -     -        10745   10   15 
+cmonster  973480313  5  1 Bc  b     b     k        10750  130    0 7h 9s
+cmonster  973480347  4  4 f   -     -     -        10620    0    0 
+cmonster  973480387  4  3 c   f     -     -        10620   10    0 
+cmonster  973480404  4  2 Bk  k     k     f        10610   10    0 
+cmonster  973480463  4  1 Bf  -     -     -        10600    5    0 
+cmonster  973480474  4  4 f   -     -     -        10595    0    0 
+cmonster  973480526  6  4 f   -     -     -        10595    0    0 
+cmonster  973480548  6  3 cc  k     b     k        10595  210    0 Ts Jh
+cmonster  973480598  6  2 Bk  b     b     k        10385  170  360 Kd Ks
+cmonster  973480649  6  1 Bf  -     -     -        10575    5    0 
+cmonster  973480719  6  6 c   b     b     b        10570  465    0 8d 7h
+cmonster  973480765  6  5 f   -     -     -        10105    0    0 
+cmonster  973480799  6  4 f   -     -     -        10105    0    0 
+cmonster  973480827  6  3 f   -     -     -        10105    0    0 
+cmonster  973480856  6  2 Bk  k     k     k        10105   10    0 Jd 5d
+cmonster  973480926  5  1 Bf  -     -     -        10095    5    0 
+cmonster  973480945  5  5 c   c     k     b        10090  150  210 
+cmonster  973480982  5  4 r   k     b     b        10150  355    0 As Qh
+cmonster  973481012  6  4 f   -     -     -         9795    0    0 
+cmonster  973481040  6  3 f   -     -     -         9795    0    0 
+cmonster  973481061  6  2 Br  k     b     kf        9795  170    0 
+cmonster  973481096  6  1 Bf  -     -     -         9625    5    0 
+cmonster  973481117  6  6 c   f     -     -         9620   10    0 
+cmonster  973481140  6  5 c   c     f     -         9610   40    0 
+cmonster  973481172  6  4 cc  r     b     -         9570 2980 4050 
+cmonster  973481223  6  3 f   -     -     -        10640    0    0 
+cmonster  973481256  6  2 Bk  k     k     k        10640   10   25 4c 9s
+cmonster  973481284  6  1 Bc  k     kc    kf       10655   60    0 
+cmonster  973481332  6  6 f   -     -     -        10595    0    0 
+cmonster  973481379  6  5 c   k     k     f        10595   10    0 
+cmonster  973481440  6  4 f   -     -     -        10585    0    0 
+cmonster  973481498  6  3 c   k     k     b        10585   40   60 
+cmonster  973481543  7  3 f   -     -     -        10605    0    0 
+cmonster  973481595  7  2 Bk  kf    -     -        10605   10    0 
+cmonster  973481625  8  1 Br  k     b     kf       10595 1195    0 
+cmonster  973481699  8  8 c   f     -     -         9400   10    0 
+cmonster  973481743  9  8 f   -     -     -         9390    0    0 
+cmonster  973481780  9  7 f   -     -     -         9390    0    0 
+cmonster  973481834  9  6 f   -     -     -         9390    0    0 
+cmonster  973481871  8  4 f   -     -     -         9390    0    0 
+cmonster  973481910  8  3 cc  k     b     -         9390  370  600 
+cmonster  973481975  7  2 Bf  -     -     -         9620   10    0 
+cmonster  973482065  7  1 Bc  kc    k     b         9610  210  300 
+cmonster  973482147  7  7 f   -     -     -         9700    0    0 
+cmonster  973482191  7  6 c   r     b     b         9700 2410 3240 
+cmonster  973482247  7  5 f   -     -     -        10530    0    0 
+cmonster  973482266  7  4 c   k     r     k        10530  190  202 5d Kd
+cmonster  973482324  6  3 r   b     -     -        10542  120  170 
+cmonster  973482351  6  2 Bk  k     k     b        10592   35    0 3h 9d
+cmonster  973482389  6  1 Bf  -     -     -        10557    5    0 
+cmonster  973482439  6  6 c   k     f     -        10552   10    0 
+cmonster  973482481  6  5 f   -     -     -        10542    0    0 
+cmonster  973482512  6  4 c   k     b     -        10542   50   80 
+cmonster  973482562  6  3 c   kf    -     -        10572   10    0 
+cmonster  973482631  6  2 Bk  k     kc    k        10562   35    0 Js Ad
+cmonster  973482683  6  1 Bf  -     -     -        10527    5    0 
+cmonster  973482712  6  6 f   -     -     -        10522    0    0 
+cmonster  973482744  6  5 f   -     -     -        10522    0    0 
+cmonster  973482762  6  4 KQ  -     -     -        10522    0    0 
+cmonster  973483136  7  2 Bk  k     k     k        10522   10    0 7s 7h
+cmonster  973483157  7  1 Bf  -     -     -        10512    5    0 
+cmonster  973483186  7  7 f   -     -     -        10507    0    0 
+cmonster  973483201  7  6 c   c     k     k        10507   45    0 Tc Th
+cmonster  973483225  7  5 c   k     k     f        10462   10    0 
+cmonster  973483270  7  4 f   -     -     -        10452    0    0 
+cmonster  973483307  7  3 f   -     -     -        10452    0    0 
+cmonster  973483361  7  2 Bk  k     c     k        10452   40   90 4c 4d
+cmonster  973483398  7  1 Bc  k     b     -        10502   30   40 
+cmonster  973483423  7  7 r   k     b     f        10512  285    0 
+cmonster  973483485  7  6 f   -     -     -        10227    0    0 
+cmonster  973483502  7  5 c   k     k     f        10227   10    0 
+cmonster  973483556  7  4 f   -     -     -        10217    0    0 
+cmonster  973483590  7  3 f   -     -     -        10217    0    0 
+cmonster  973483620  7  2 Bk  k     b     b        10217  130  270 3c 6c
+cmonster  973483671  7  1 Bf  -     -     -        10357    5    0 
+cmonster  973483698  7  7 c   k     f     -        10352   35    0 
+cmonster  973483727  7  6 r   b     k     f        10317  280    0 
+cmonster  973483768  7  5 f   -     -     -        10037    0    0 
+cmonster  973483791  7  4 f   -     -     -        10037    0    0 
+cmonster  973483820  7  3 f   -     -     -        10037    0    0 
+cmonster  973483853  7  2 Bk  k     k     k        10037   10    0 5s Qs
+cmonster  973483884  7  1 Bf  -     -     -        10027    5    0 
+cmonster  973483926  7  7 c   k     k     f        10022   10    0 
+cmonster  973483960  8  7 f   -     -     -        10012    0    0 
+cmonster  973483996  9  7 c   b     b     b        10012  790 1080 
+cmonster  973484042  9  6 f   -     -     -        10302    0    0 
+cmonster  973484083  9  5 f   -     -     -        10302    0    0 
+cmonster  973484108  9  4 f   -     -     -        10302    0    0 
+cmonster  973484167  9  3 c   b     b     -        10302  210  300 
+cmonster  973484222  9  2 Bk  k     b     -        10392   35   50 
+cmonster  973484273  9  1 Br  b     -     -        10407  210  320 
+cmonster  973484296  9  9 c   f     -     -        10517   10    0 
+cmonster  973484335  9  8 c   k     k     f        10507   10    0 
+cmonster  973484362  9  7 f   -     -     -        10497    0    0 
+cmonster  973484389  9  6 c   k     k     b        10497   60  100 
+cmonster  973484435  9  5 f   -     -     -        10537    0    0 
+cmonster  973484478  9  4 f   -     -     -        10537    0    0 
+cmonster  973484528  9  3 f   -     -     -        10537    0    0 
+cmonster  973484559  9  2 Br  c     rA    -        10537 10537 21554 5s 3s
+cmonster  973484620  9  1 Bf  -     -     -        21554    5    0 
+cmonster  973484665  9  9 f   -     -     -        21549    0    0 
+cmonster  973484694  9  8 cc  kf    -     -        21549   45    0 
+cmonster  973484748  9  7 f   -     -     -        21504    0    0 
+cmonster  973484797  9  6 f   -     -     -        21504    0    0 
+cmonster  973484814  9  5 f   -     -     -        21504    0    0 
+cmonster  973484854  9  4 f   -     -     -        21504    0    0 
+cmonster  973484887  9  3 c   f     -     -        21504   10    0 
+cmonster  973484920  9  2 Bk  f     -     -        21494   10    0 
+cmonster  973485003  9  1 Bc  k     k     k        21484   10    0 5d Qd
+cmonster  973485030  9  9 c   k     b     k        21474   65    0 2s 2h
+cmonster  973485102  9  8 c   k     k     k        21409   10   35 8s Js
+cmonster  973485134  9  7 cc  kc    k     k        21434  235    0 Tc Td
+cmonster  973485168  9  6 f   -     -     -        21199    0    0 
+cmonster  973485193  9  5 f   -     -     -        21199    0    0 
+cmonster  973485217  9  4 f   -     -     -        21199    0    0 
+cmonster  973485251  9  3 f   -     -     -        21199    0    0 
+cmonster  973485306  8  2 Bk  k     k     k        21199   10    0 9h Qh
+cmonster  973485335  7  1 Br  b     kf    -        21189  130    0 
+cmonster  973485367  7  7 f   -     -     -        21059    0    0 
+cmonster  973485385  7  6 f   Q     -     -        21059    0    0 
+cmonster  973565511  8  5 f   -     -     -        21059    0    0 
+cmonster  973565540  8  4 c   k     b     -        21059  180  290 
+cmonster  973565571  8  3 f   -     -     -        21169    0    0 
+cmonster  973565583  8  2 B   -     -     -        21169   10   15 
+cmonster  973565587  8  1 Bf  -     -     -        21174    5    0 
+cmonster  973565603  8  8 c   f     -     -        21169   10    0 
+cmonster  973565625  9  7 f   -     -     -        21159    0    0 
+cmonster  973565646  9  6 KQ  -     -     -        21159    0    0 
+cmonster  973565713  9  3 f   -     -     -        21159    0    0 
+cmonster  973565735  9  2 Bf  -     -     -        21159   10    0 
+cmonster  973565755 10  1 Bc  kc    kf    -        21149  185    0 
+cmonster  973565801 10 10 f   -     -     -        20964    0    0 
+cmonster  973565827 10  9 f   -     -     -        20964    0    0 
+cmonster  973565902 10  8 f   -     -     -        20964    0    0 
+cmonster  973565981  8  6 cc  f     -     -        20964  670    0 
+cmonster  973566027  8  5 f   -     -     -        20294    0    0 
+cmonster  973566095  8  4 f   -     -     -        20294    0    0 
+cmonster  973566134  8  3 f   -     -     -        20294    0    0 
+cmonster  973566188  7  2 Bf  -     -     -        20294   10    0 
+cmonster  973566234  6  1 Bc  kf    -     -        20284   35    0 
+cmonster  973566271  6  6 f   -     -     -        20249    0    0 
+cmonster  973566303  6  5 cc  bc    kf    -        20249 1165    0 
+cmonster  973566344  7  5 f   -     -     -        19084    0    0 
+cmonster  973566366  7  4 f   -     -     -        19084    0    0 
+cmonster  973566408  6  3 f   -     -     -        19084    0    0 
+cmonster  973566452  5  2 Bc  kc    b     k        19084 1580    0 Qs Ad
+cmonster  973566498  5  1 Bcc kc    kr    -        17504 10070 13680 
+cmonster  973566567  6  6 f   -     -     -        21114    0    0 
+cmonster  973566576  6  5 f   -     -     -        21114    0    0 
+cmonster  973566611  6  4 f   -     -     -        21114    0    0 
+cmonster  973566662  6  3 c   k     b     b        21114  310  480 
+cmonster  973566709  4  1 Bk  kf    -     -        21284   10    0 
+cmonster  973566726  4  1 Bf  -     -     -        21274    5    0 
+cmonster  973566735  4  4 f   -     -     -        21269    0    0 
+cmonster  973566745  4  3 rc  kf    -     -        21269  120    0 
+cmonster  973566762  4  2 Bc  k     kf    -        21149   35    0 
+cmonster  973566826  6  1 Bf  -     -     -        21114    5    0 
+cmonster  973566868  8  8 f   -     -     -        21109    0    0 
+cmonster  973566925  9  7 c   k     k     b        21109  120  170 
+cmonster  973566957  7  6 f   -     -     -        21159    0    0 
+cmonster  973566995  6  4 f   -     -     -        21159    0    0 
+cmonster  973567045  6  3 c   k     f     -        21159   10    0 
+cmonster  973567069  5  2 B   -     -     -        21149   10   15 
+cmonster  973567078  5  1 Bc  kf    -     -        21154   10    0 
+cmonster  973567104  5  5 f   -     -     -        21144    0    0 
+cmonster  973567125  5  4 f   -     -     -        21144    0    0 
+cmonster  973567136  5  3 c   k     f     -        21144   10    0 
+cmonster  973567159  5  2 Bk  k     b     -        21134   60  100 
+cmonster  973567201  5  1 Bcc kf    -     -        21174   50    0 
+cmonster  973567224  5  5 c   c     k     k        21124   50    0 Ad Jc
+cmonster  973567268  5  4 f   -     -     -        21074    0    0 
+cmonster  973567292  5  3 f   -     -     -        21074    0    0 
+cmonster  973567312  5  2 Bk  k     c     b        21074  130  180 
+cmonster  973567346  5  1 Bf  -     -     -        21124    5    0 
+cmonster  973567369  5  5 f   -     -     -        21119    0    0 
+cmonster  973567386  5  4 f   -     -     -        21119    0    0 
+cmonster  973567409  5  3 c   k     c     b        21119  210  320 
+cmonster  973567447  5  2 Bk  kf    -     -        21229   10    0 
+cmonster  973567493  5  1 Bf  -     -     -        21219    5    0 
+cmonster  973567517  5  5 f   -     -     -        21214    0    0 
+cmonster  973567560  5  4 f   -     -     -        21214    0    0 
+cmonster  973567603  5  3 c   k     k     b        21214   50   80 
+cmonster  973567676  5  2 Bk  k     k     f        21244   10    0 
+cmonster  973567717  5  1 Bc  k     b     -        21234   40   60 
+cmonster  973567771  5  5 fQ  -     -     -        21254    0    0 
+cmonster  973656322  9  5 f   -     -     -        21254    0    0 
+cmonster  973656346  9  4 f   -     -     -        21254    0    0 
+cmonster  973656390  9  3 cc  k     f     -        21254   55    0 
+cmonster  973656448  9  2 Bk  kf    -     -        21199   10    0 
+cmonster  973656470  9  1 Bf  -     -     -        21189    5    0 
+cmonster  973656497  9  9 f   -     -     -        21184    0    0 
+cmonster  973656524  9  8 c   c     f     -        21184   40    0 
+cmonster  973656556 10  7 f   -     -     -        21144    0    0 
+cmonster  973656576 10  6 f   -     -     -        21144    0    0 
+cmonster  973656598 10  5 cc  kf    -     -        21144   45    0 
+cmonster  973656624 10  4 f   -     -     -        21099    0    0 
+cmonster  973656660 10  3 f   -     -     -        21099    0    0 
+cmonster  973656704 10  2 Bk  kc    kf    -        21099   70    0 
+cmonster  973656771 10  1 Br  k     kf    -        21029  300    0 
+cmonster  973656828 10 10 c   f     -     -        20729   10    0 
+cmonster  973656877 10  9 c   r     k     b        20719  520 1080 Js 9d
+cmonster  973656939 10  8 c   b     b     -        21279  615  870 
+cmonster  973656977 10  7 cc  b     kf    -        21534  285    0 
+cmonster  973657023 10  6 c   fQ    -     -        21249   10    0 
+cmonster  973718020  2  2 Brr -     -     -        21239  810 1080 
+cmonster  973718044  2  1 Bc  kf    -     -        21509   10    0 
+cmonster  973718064  2  2 B   -     -     -        21499   10   15 
+cmonster  973718070  2  1 Bc  k     k     bf       21504   30    0 
+cmonster  973718106  3  2 Bk  k     c     k        21474   30   60 4d 8c
+cmonster  973718136  3  1 Bc  bc    kf    -        21504  130    0 
+cmonster  973718164  3  3 c   rc    b     rf       21374 9110    0 
+cmonster  973718215  3  2 Bk  k     k     k        12264   10    0 Ts 9d
+cmonster  973718241  3  1 Bf  -     -     -        12254    5    0 
+cmonster  973718262  3  3 cc  k     k     r        12249  640    0 9s Td
+cmonster  973718308  3  2 Bk  b     b     b        11609  335  450 
+cmonster  973718334  3  1 Bc  kc    kf    -        11724   40    0 
+cmonster  973718359  3  3 c   c     rc    c        11684 3035    0 5d 7c
+cmonster  973718399  3  2 Bk  kc    b     b         8649  400  540 
+cmonster  973718433  3  1 Bc  b     bc    kc        8789 1600    0 4h 9s
+cmonster  973718475  4  4 c   k     k     k         7189   10   17 Qc 9c
+cmonster  973718501  3  3 f   -     -     -         7196    0    0 
+cmonster  973718530  4  2 Bk  kf    -     -         7196   10    0 
+cmonster  973718545  4  1 Bc  kc    k     b         7186  365  510 
+cmonster  973718584  4  4 c   k     k     f         7331   10    0 
+cmonster  973718611  4  3 f   -     -     -         7321    0    0 
+cmonster  973718615  4  2 Bc  kc    kf    -         7321  100    0 
+cmonster  973718641  4  1 Bc  b     -     -         7221   30   40 
+cmonster  973718655  4  4 c   b     b     b         7231  400  540 
+cmonster  973718680  4  3 c   b     -     -         7371   40   60 
+cmonster  973718702  3  2 Bk  k     k     rrc       7391 2430    0 Kd Th
+cmonster  973718751  3  1 Bf  -     -     -         4961    5    0 
+cmonster  973718759  3  3 f   -     -     -         4956    0    0 
+cmonster  973718776  3  2 Bf  -     -     -         4956   10    0 
+cmonster  973718781  3  1 Br  -     -     -         4946   30   40 
+cmonster  973718787  3  3 r   -     -     -         4956   35   50 
+cmonster  973718794  3  2 B   -     -     -         4971   10   15 
+cmonster  973718798  3  1 Bf  Q     -     -         4976    5    0 
+cmonster  973726773  2  1 Bc  b     -     -         8816   30   40 
+cmonster  973726791  2  2 Bc  f     -     -         8826   30    0 
+cmonster  973726803  2  1 Bf  -     -     -         8796    5    0 
+cmonster  973726806  2  2 B   -     -     -         8791   10   15 
+cmonster  973726810  2  1 Bf  -     -     -         8796    5    0 
+cmonster  973726813  2  2 B   -     -     -         8791   10   15 
+cmonster  973726818  2  1 Brrc kf    -     -         8796  810    0 
+cmonster  973726838  2  2 B   -     -     -         7986   10   15 
+cmonster  973726845  2  1 Bc  k     k     k         7991   10   20 Tc 7c
+cmonster  973726866  2  2 B   -     -     -         8001   10   15 
+cmonster  973726873  2  1 Bc  b     k     k         8006   30    0 Tc Kh
+cmonster  973726899  2  2 B   -     -     -         7976   10   15 
+cmonster  973726905  2  1 Bc  k     k     b         7981   30   40 
+cmonster  973726923  2  2 B   -     -     -         7991   10   15 
+cmonster  973726928  2  1 Br  b     -     -         7996   90  120 
+cmonster  973726940  2  2 B   -     -     -         8026   10   15 
+cmonster  973726950  2  1 Bc  k     b     -         8031   30   40 
+cmonster  973726966  2  2 Bf  -     -     -         8041   10    0 
+cmonster  973726973  2  1 Bc  -     -     -         8031   10   20 
+cmonster  973726988  2  2 Bc  -     -     -         8041   30   60 
+cmonster  973727002  2  1 Bcf -     -     -         8071   10    0 
+cmonster  973727012  2  2 B   -     -     -         8061   10   15 
+cmonster  973727021  2  1 Bf  -     -     -         8066    5    0 
+cmonster  973727025  2  2 B   -     -     -         8061   10   15 
+cmonster  973727030  2  1 Bf  -     -     -         8066    5    0 
+cmonster  973727037  2  2 B   -     -     -         8061   10   15 
+cmonster  973727042  2  1 Bc  -     -     -         8066   10   20 
+cmonster  973727048  2  2 Bf  -     -     -         8076   10    0 
+cmonster  973727055  2  1 Bf  -     -     -         8066    5    0 
+cmonster  973727061  2  2 B   -     -     -         8061   10   15 
+cmonster  973727064  2  1 Bf  -     -     -         8066    5    0 
+cmonster  973727067  2  2 B   -     -     -         8061   10   15 
+cmonster  973727069  2  1 Br  -     -     -         8066   30   40 
+cmonster  973727078  2  2 Bc  k     k     c         8076   90    0 6c 6d
+cmonster  973727107  2  1 Bcc k     k     k         7986   30    0 Ad Ks
+cmonster  973727140  2  2 B   -     -     -         7956   10   15 
+cmonster  973727149  2  1 Bcc k     k     k         7961   30   60 As 7s
+cmonster  973727176  3  3 f   -     -     -         7991    0    0 
+cmonster  973727185  3  2 B   -     -     -         7991   10   15 
+cmonster  973727190  3  1 Bc  kf    -     -         7996   35    0 
+cmonster  973727215  3  3 f   -     -     -         7961    0    0 
+cmonster  973727219  3  2 B   -     -     -         7961   10   15 
+cmonster  973727225  3  1 Bf  -     -     -         7966    5    0 
+cmonster  973727230  3  3 c   k     k     k         7961   10   25 Kd Js
+cmonster  973727251  3  2 B   -     -     -         7976   10   15 
+cmonster  973727267  3  1 Bf  -     -     -         7981    5    0 
+cmonster  973727272  3  3 c   b     -     -         7976   35   50 
+cmonster  973727284  3  2 Bf  -     -     -         7991   10    0 
+cmonster  973727289  3  1 Bf  -     -     -         7981    5    0 
+cmonster  973727294  3  3 f   -     -     -         7976    0    0 
+cmonster  973727319  3  2 Bf  -     -     -         7976   10    0 
+cmonster  973727347  3  1 Bf  -     -     -         7966    5    0 
+cmonster  973727355  3  3 r   c     b     -         7961  335  450 
+cmonster  973727374  3  2 Bk  k     k     k         8076   10   20 8c 5d
+cmonster  973727393  3  1 Bf  -     -     -         8086    5    0 
+cmonster  973727400  3  3 c   k     k     b         8081   35   50 
+cmonster  973727417  3  2 Bk  k     f     -         8096   10    0 
+cmonster  973727429  3  1 Bf  -     -     -         8086    5    0 
+cmonster  973727433  3  3 f   -     -     -         8081    0    0 
+cmonster  973727438  3  2 Bf  -     -     -         8081   10    0 
+cmonster  973727447  3  1 Brr bc    k     k         8071 6760 3694 5d 4d
+cmonster  973727489  3  3 f   -     -     -         5005    0    0 
+cmonster  973727503  3  2 Bf  -     -     -         5005   10    0 
+cmonster  973727514  3  1 Bf  -     -     -         4995    5    0 
+cmonster  973727519  3  3 f   -     -     -         4990    0    0 
+cmonster  973727523  3  2 Bf  -     -     -         4990   10    0 
+cmonster  973727528  3  1 Brr krcA  -     -         4980 4980 9960 Jh Ah
+cmonster  973727560  3  3 f   -     -     -         9960    0    0 
+cmonster  973727570  3  2 Bf  -     -     -         9960   10    0 
+cmonster  973727596  4  1 Bf  -     -     -         9950    5    0 
+cmonster  973727619  4  4 f   -     -     -         9945    0    0 
+cmonster  973727636  4  3 f   -     -     -         9945    0    0 
+cmonster  973727655  4  2 Bf  -     -     -         9945   10    0 
+cmonster  973727677  4  1 Bf  -     -     -         9935    5    0 
+cmonster  973727704  4  4 cc  f     -     -         9930   50    0 
+cmonster  973727742  4  3 cc  k     k     k         9880   45  105 7h Ac
+cmonster  973727769  4  2 Bc  kf    -     -         9940   35    0 
+cmonster  973727789  4  1 Bc  k     b     k         9905   50    0 As 5s
+cmonster  973727821  4  4 c   k     b     -         9855   45   70 
+cmonster  973727856  4  3 f   -     -     -         9880    0    0 
+cmonster  973727860  4  2 Bf  -     -     -         9880   10    0 
+cmonster  973727876  4  1 Bcc k     k     k         9870   40    0 Qd 9h
+cmonster  973727905  4  4 c   k     r     b         9830  465  630 
+cmonster  973727939  4  3 f   -     -     -         9995    0    0 
+cmonster  973727953  4  2 Bc  k     k     b         9995  145  220 
+cmonster  973727981  4  1 Bcc b     -     -        10070  160  240 
+cmonster  973727998  4  4 f   Q     -     -        10150    0    0 
+cmonster  973977140  7  5 f   -     -     -        10150    0    0 
+cmonster  973977178  6  3 c   f     -     -        10150   30    0 
+cmonster  973977204  6  3 f   -     -     -        10120    0    0 
+cmonster  973977227  6  2 Bf  -     -     -        10120   10    0 
+cmonster  973977259  6  1 Bf  -     -     -        10110    5    0 
+cmonster  973977296  6  6 f   -     -     -        10105    0    0 
+cmonster  973977326  7  6 f   -     -     -        10105    0    0 
+cmonster  973977354  7  5 f   -     -     -        10105    0    0 
+cmonster  973977368  7  4 c   k     kc    b        10105  190    0 3d Jd
+cmonster  973977418  7  3 f   -     -     -         9915    0    0 
+cmonster  973977449  7  2 Bf  -     -     -         9915   10    0 
+cmonster  973977471  7  1 Bc  kf    -     -         9905   10    0 
+cmonster  973977498  6  6 f   -     -     -         9895    0    0 
+cmonster  973977502  6  5 c   c     c     b         9895  530 1080 8s 8d
+cmonster  973977553  6  4 f   -     -     -        10445    0    0 
+cmonster  973977586  6  3 c   f     -     -        10445   10    0 
+cmonster  973977620  6  2 Bf  -     -     -        10435   10    0 
+cmonster  973977658  6  1 Bf  -     -     -        10425    5    0 
+cmonster  973977674  6  6 f   -     -     -        10420    0    0 
+cmonster  973977693  6  5 f   -     -     -        10420    0    0 
+cmonster  973977717  6  4 f   -     -     -        10420    0    0 
+cmonster  973977759  6  3 f   -     -     -        10420    0    0 
+cmonster  973977784  6  2 Bk  k     b     kf       10420   55    0 
+cmonster  973977821  6  1 Bf  -     -     -        10365    5    0 
+cmonster  973977844  6  6 c   c     f     -        10360   50    0 
+cmonster  973977888  5  4 cc  k     kf    -        10310   50    0 
+cmonster  973977923  5  3 f   -     -     -        10260    0    0 
+cmonster  973977939  5  3 f   -     -     -        10260    0    0 
+cmonster  973977963  5  2 Bk  b     k     kf       10260   35    0 
+cmonster  973977987  5  1 Br  -     -     -        10225   30   40 
+cmonster  973977999  5  5 f   -     -     -        10235    0    0 
+cmonster  973978026  6  5 c   f     -     -        10235   10    0 
+cmonster  973978042  6  4 r   b     k     b        10225  375  510 
+cmonster  973978070  6  3 f   -     -     -        10360    0    0 
+cmonster  973978093  6  2 Bf  -     -     -        10360   10    0 
+cmonster  973978107  6  1 Bf  -     -     -        10350    5    0 
+cmonster  973978170  5  5 c   -     -     -        10345   10   25 
+cmonster  973978204  3  3 r   k     b     -        10360  310  420 
+cmonster  973978224  3  3 f   -     -     -        10470    0    0 
+cmonster  973978228  4  2 Bk  k     f     -        10470   10    0 
+cmonster  973978240  4  1 Bf  -     -     -        10460    5    0 
+cmonster  973978245  4  4 c   f     -     -        10455   10    0 
+cmonster  973978261  4  3 c   r     b     -        10445  400  540 
+cmonster  973978285  4  2 Bk  f     -     -        10585   10    0 
+cmonster  973978298  4  1 Bf  -     -     -        10575    5    0 
+cmonster  973978328  5  5 r   b     k     f        10570  110    0 
+cmonster  973978356  5  4 c   kc    kf    -        10460   30    0 
+cmonster  973978395  5  3 c   r     -     -        10430  110  150 
+cmonster  973978412  5  2 Bc  kr    k     k        10470  945 2160 Qd Tc
+cmonster  973978450  5  1 Bf  -     -     -        11685    5    0 
+cmonster  973978458  5  5 f   -     -     -        11680    0    0 
+cmonster  973978496  5  4 f   -     -     -        11680    0    0 
+cmonster  973978526  5  3 f   -     -     -        11680    0    0 
+cmonster  973978535  5  2 Bf  -     -     -        11680   10    0 
+cmonster  973978561  6  1 Bf  -     -     -        11670    5    0 
+cmonster  973978572  6  6 c   f     -     -        11665   10    0 
+cmonster  973978603  6  5 c   c     k     b        11655  160  240 
+cmonster  973978639  6  4 cc  f     -     -        11735   45    0 
+cmonster  973978665  6  3 f   -     -     -        11690    0    0 
+cmonster  973978684  6  2 Bf  -     -     -        11690   10    0 
+cmonster  973978703  6  1 Bf  -     -     -        11680    5    0 
+cmonster  973978755  6  6 c   b     -     -        11675   45   70 
+cmonster  973978772  6  5 f   -     -     -        11700    0    0 
+cmonster  973978802  6  4 f   -     -     -        11700    0    0 
+cmonster  973978840  6  3 cf  -     -     -        11700   10    0 
+cmonster  973978877  6  2 Br  b     -     -        11690  360  600 
+cmonster  973978939  6  1 Bf  -     -     -        11930    5    0 
+cmonster  973978967  6  6 c   b     -     -        11925   40   60 
+cmonster  973978991  6  5 f   -     -     -        11945    0    0 
+cmonster  973979028  6  4 f   -     -     -        11945    0    0 
+cmonster  973979094  6  3 cc  k     k     k        11945   55    0 Kh Tc
+cmonster  973979132  6  2 Bc  kf    -     -        11890   60    0 
+cmonster  973979185  6  1 Bf  -     -     -        11830    5    0 
+cmonster  973979212  6  6 c   k     k     k        11825   10   25 Qc 9d
+cmonster  973979251  6  5 f   -     -     -        11840    0    0 
+cmonster  973979272  6  4 r   b     b     -        11840 1140 1530 
+cmonster  973979307  6  3 f   -     -     -        12230    0    0 
+cmonster  973979334  6  2 Bf  -     -     -        12230   10    0 
+cmonster  973979381  6  1 Bc  kf    -     -        12220   10    0 
+cmonster  973979427  5  5 f   -     -     -        12210    0    0 
+cmonster  973979443  5  4 r   k     k     k        12210   35   75 Qs Qc
+cmonster  973979462  4  3 f   -     -     -        12250    0    0 
+cmonster  973979478  4  2 Bf  -     -     -        12250   10    0 
+cmonster  973979502  4  1 Br  k     b     -        12240  130  180 
+cmonster  973979535  4  4 f   -     -     -        12290    0    0 
+cmonster  973979540  4  3 f   -     -     -        12290    0    0 
+cmonster  973979545  4  2 Bf  -     -     -        12290   10    0 
+cmonster  973979567  4  1 Bc  k     k     k        12280   10   20 7h 7s
+cmonster  973979581  4  4 f   -     -     -        12290    0    0 
+cmonster  973979589  4  3 f   -     -     -        12290    0    0 
+cmonster  973979619  4  2 B   -     -     -        12290   10   15 
+cmonster  973979624  4  1 Bc  kf    -     -        12295   35    0 
+cmonster  973979638  4  4 f   -     -     -        12260    0    0 
+cmonster  973979643  3  2 Bf  -     -     -        12260   10    0 
+cmonster  973979650  3  1 Br  kf    -     -        12250  115    0 
+cmonster  973979669  3  3 f   -     -     -        12135    0    0 
+cmonster  973979674  3  2 B   -     -     -        12135   10   15 
+cmonster  973979676  3  1 Bc  b     -     -        12140  115  160 
+cmonster  973979689  3  3 f   -     -     -        12185    0    0 
+cmonster  973979693  3  2 Br  b     -     -        12185   90  120 
+cmonster  973979704  3  1 Bf  -     -     -        12215    5    0 
+cmonster  973979708  3  3 f   -     -     -        12210    0    0 
+cmonster  973979713  3  2 Bf  -     -     -        12210   10    0 
+cmonster  973979718  3  1 Bc  k     k     k        12200   10    0 5c As
+cmonster  973979735  3  3 f   -     -     -        12190    0    0 
+cmonster  973979741  3  2 B   -     -     -        12190   10   15 
+cmonster  973979745  3  1 Bc  kc    k     k        12195  115  240 Ks Td
+cmonster  973979772  3  3 f   -     -     -        12320    0    0 
+cmonster  973979778  3  2 Bk  k     f     -        12320   10    0 
+cmonster  973979788  2  1 BQ  -     -     -        12310    5    0 
+cmonster  974333652  7  6 c   k     b     k        12305   35   75 Ad 2c
+cmonster  974333696  7  5 c   k     k     b        12345   35   50 
+cmonster  974333719  7  4 f   -     -     -        12360    0    0 
+cmonster  974333749  8  4 f   -     -     -        12360    0    0 
+cmonster  974333778  8  3 f   -     -     -        12360    0    0 
+cmonster  974333788  8  2 Bf  -     -     -        12360   10    0 
+cmonster  974333807  8  1 Bf  -     -     -        12350    5    0 
+cmonster  974333825  8  8 f   -     -     -        12345    0    0 
+cmonster  974333866  9  8 c   r     b     b        12345 1410    0 7c 6d
+cmonster  974333935  9  7 f   -     -     -        10935    0    0 
+cmonster  974333992  9  6 c   f     -     -        10935   10    0 
+cmonster  974334072  9  5 f   -     -     -        10925    0    0 
+cmonster  974334120  9  4 c   k     r     c        10925  595    0 Qs 7d
+cmonster  974334167  9  3 c   k     kr    kr       10330 2660 5400 6h 4h
+cmonster  974334220  9  2 Bc  kf    -     -        13070   45    0 
+cmonster  974334271  9  1 Bc  kc    kc    kc       13025  280    0 Kd Jc
+cmonster  974334349  9  9 f   -     -     -        12745    0    0 
+cmonster  974334371  9  8 f   -     -     -        12745    0    0 
+cmonster  974334406  9  7 f   -     -     -        12745    0    0 
+cmonster  974334428  9  6 r   b     brcA  -        12745 12745 25530 8d 5d
+cmonster  974334479  9  5 f   -     -     -        25530    0    0 
+cmonster  974334524  9  4 f   -     -     -        25530    0    0 
+cmonster  974334574  9  3 f   -     -     -        25530    0    0 
+cmonster  974334604  9  2 Bf  -     -     -        25530   10    0 
+cmonster  974334622  8  1 Bf  -     -     -        25520    5    0 
+cmonster  974334647  8  8 c   b     -     -        25515   60  100 
+cmonster  974334687  8  7 c   k     f     -        25555   10    0 
+cmonster  974334762  7  5 f   -     -     -        25545    0    0 
+cmonster  974334776  7  3 Q   -     -     -        25545    0    0 
+cmonster  974762236  5  4 f   -     -     -        24325    0    0 
+cmonster  974762263  5  3 f   -     -     -        24325    0    0 
+cmonster  974762283  5  2 Bk  k     k     k        24325   10    0 9c 7h
+cmonster  974762304  5  1 Bf  -     -     -        24315    5    0 
+cmonster  974762333  5  5 c   f     -     -        24310   10    0 
+cmonster  974762359  5  4 c   k     k     b        24300   50   60 Ac 3h
+cmonster  974762400  5  3 f   -     -     -        24310    0    0 
+cmonster  974762423  5  2 Bk  k     b     -        24310   30   40 
+cmonster  974762449  6  1 Bf  -     -     -        24320    5    0 
+cmonster  974762464  6  6 c   f     -     -        24315   10    0 
+cmonster  974762499  6  5 c   f     -     -        24305   10    0 
+cmonster  974762520  6  4 f   -     -     -        24295    0    0 
+cmonster  974762531  6  3 crc kf    -     -        24295  625    0 
+cmonster  974762567  5  1 Bc  b     kf    -        23670  150    0 
+cmonster  974762613  5  1 Bf  -     -     -        23520    5    0 
+cmonster  974762628  5  5 cr  b     -     -        23515  640  960 
+cmonster  974762656  6  5 rr  b     -     -        23835 1540 2070 
+cmonster  974762682  6  4 f   -     -     -        24365    0    0 
+cmonster  974762698  6  3 f   -     -     -        24365    0    0 
+cmonster  974762714  6  2 Bf  -     -     -        24365   10    0 
+cmonster  974762746  6  1 Bf  -     -     -        24355    5    0 
+cmonster  974762754  6  6 cf  -     -     -        24350   10    0 
+cmonster  974762786  7  5 c   kf    -     -        24340   10    0 
+cmonster  974762844  7  4 f   -     -     -        24330    0    0 
+cmonster  974762881  7  3 f   -     -     -        24330    0    0 
+cmonster  974762908  7  2 Bc  kc    k     k        24330  140  315 Qh Jc
+cmonster  974762936  7  1 Bc  kf    -     -        24505   10    0 
+cmonster  974762981  7  7 c   k     c     f        24495   55    0 
+cmonster  974763029  7  6 f   -     -     -        24440    0    0 
+cmonster  974763052  6  4 c   c     f     -        24440   40    0 
+cmonster  974763101  7  4 f   -     -     -        24400    0    0 
+cmonster  974763145  7  3 f   -     -     -        24400    0    0 
+cmonster  974763155  7  2 Bc  bc    kr    b        24400 13345    0 3c 6c
+cmonster  974763210  7  1 Bcc kf    -     -        11055   40    0 
+cmonster  974763250  7  7 c   k     k     f        11015   10    0 
+cmonster  974763275  7  6 cc  k     f     -        11005   55    0 
+cmonster  974763303  8  5 f   -     -     -        10950    0    0 
+cmonster  974763343  8  4 r   b     k     f        10950  185    0 
+cmonster  974763377  8  3 cc  kf    -     -        10765   45    0 
+cmonster  974763414  8  2 Bc  kc    k     k        10720  175  560 4s Ah
+cmonster  974763462  9  1 Bf  -     -     -        11105    5    0 
+cmonster  974763484  9  9 cc  c     f     -        11100  570    0 
+cmonster  974763533  9  8 f   -     -     -        10530    0    0 
+cmonster  974763573  9  7 r   k     b     b        10530 1230    0 2d 7d
+cmonster  974763616  9  6 f   -     -     -         9300    0    0 
+cmonster  974763645  9  5 cc  k     k     k         9300   55    0 5c 6c
+cmonster  974763686  9  4 f   -     -     -         9245    0    0 
+cmonster  974763717  9  3 rc  k     k     k         9245  410 1245 Ad 5d
+cmonster  974763772  9  2 Bf  -     -     -        10080   10    0 
+cmonster  974763808  9  1 Bf  -     -     -        10070    5    0 
+cmonster  974763911  9  9 f   -     -     -        10065    0    0 
+cmonster  974763959 10  9 f   -     -     -        10065    0    0 
+cmonster  974763992 10  8 cc  k     f     -        10065  655    0 
+cmonster  974764038 10  7 cr  kf    -     -         9410 1040    0 
+cmonster  974764115 10  6 f   -     -     -         8370    0    0 
+cmonster  974764147 10  5 f   -     -     -         8370    0    0 
+cmonster  974764186 10  4 cc  kc    kc    k         8370  465  945 9h Ac
+cmonster  974764225 10  3 f   -     -     -         8850    0    0 
+cmonster  974764284 10  2 Bc  kf    -     -         8850   45    0 
+cmonster  974764349 10  1 Bc  kr    b     -         8805 3710 5600 
+cmonster  974764408 10 10 c   b     b     -        10695  210  300 
+cmonster  974764474 10  9 f   -     -     -        10785    0    0 
+cmonster  974764500 10  8 c   k     k     b        10785  185  300 
+cmonster  974764557 10  7 f   -     -     -        10900    0    0 
+cmonster  974764604 10  6 f   -     -     -        10900    0    0 
+cmonster  974764630 10  5 cc  b     -     -        10900  190  290 
+cmonster  974764655 10  4 f   -     -     -        11000    0    0 
+cmonster  974764696 10  3 c   b     -     -        11000   55   90 
+cmonster  974764728 10  2 Bk  k     kc    b        11035  190  270 
+cmonster  974764803 10  1 Bc  k     b     b        11115  170  360 8d 9d
+cmonster  974764848 10 10 c   f     -     -        11305   10    0 
+cmonster  974764888 10  9 f   -     -     -        11295    0    0 
+cmonster  974764944 10  8 cc  b     -     -        11295 1360 2100 
+cmonster  974764992  9  6 c   b     k     k        12035   80  140 Th Qd
+cmonster  974765048  7  4 c   kc    k     kf       12095   65    0 
+cmonster  974765109  7  3 f   -     -     -        12030    0    0 
+cmonster  974765154  7  2 Bk  bc    kc    kf       12030  400    0 
+cmonster  974765203  6  1 Br  k     b     b        11630 1475 1980 
+cmonster  974765238  6  6 f   -     -     -        12135    0    0 
+cmonster  974765270  6  5 f   -     -     -        12135    0    0 
+cmonster  974765315  7  5 f   -     -     -        12135    0    0 
+cmonster  974765337  7  4 f   -     -     -        12135    0    0 
+cmonster  974765346  7  3 f   -     -     -        12135    0    0 
+cmonster  974765369  7  2 Bk  kc    k     b        12135  370    0 Th Kc
+cmonster  974765445  7  1 Bf  -     -     -        11765    5    0 
+cmonster  974765489  7  7 f   -     -     -        11760    0    0 
+cmonster  974765510  7  6 c   k     k     b        11760   35   50 
+cmonster  974765536  7  5 f   -     -     -        11775    0    0 
+cmonster  974765555  7  4 f   -     -     -        11775    0    0 
+cmonster  974765584  7  3 f   -     -     -        11775    0    0 
+cmonster  974765612  6  2 Bf  -     -     -        11775   10    0 
+cmonster  974765658  6  1 Bf  -     -     -        11765    5    0 
+cmonster  974765685  6  6 f   -     -     -        11760    0    0 
+cmonster  974765728  5  4 f   -     -     -        11760    0    0 
+cmonster  974765746  5  3 f   -     -     -        11760    0    0 
+cmonster  974765768  5  2 Bk  k     f     -        11760   10    0 
+cmonster  974765798  5  1 Bf  -     -     -        11750    5    0 
+cmonster  974765819  5  5 c   b     -     -        11745   50   80 
+cmonster  974765833  5  4 c   c     c     k        11775  170    0 Ad 3d
+cmonster  974765857  5  3 c   k     kf    -        11605   10    0 
+cmonster  974765879  5  2 Bk  k     k     k        11595   10   30 4d 6s
+cmonster  974765903  5  1 Bf  -     -     -        11615    5    0 
+cmonster  974765928  6  6 c   r     bc    f        11610 1210    0 
+cmonster  974766023  6  4 f   -     -     -        10400    0    0 
+cmonster  974766051  6  3 r   k     b     -        10400  145  220 
+cmonster  974766077  6  2 Bk  k     b     -        10475   50   80 
+cmonster  974766106  6  1 BQ  -     -     -        10505    5    0 
+cmonster  975632649  2  2 Bk  k     k     rrrrA    48780 48780    0 6d Qh

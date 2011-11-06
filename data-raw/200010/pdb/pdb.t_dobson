@@ -1,0 +1,597 @@
+t_dobson  970622099  4  3 f   -     -     -         5836    0    0 
+t_dobson  970622109  4  2 B   -     -     -         5836   10   15 
+t_dobson  970622113  4  1 Bf  -     -     -         5841    5    0 
+t_dobson  970622132  4  4 r   b     -     -         5836  150  210 
+t_dobson  970622148  4  3 c   f     -     -         5896   10    0 
+t_dobson  970622161  4  2 Bf  -     -     -         5886   10    0 
+t_dobson  970622177  4  1 Bc  bf    -     -         5876   30    0 
+t_dobson  970622191  4  4 f   -     -     -         5846    0    0 
+t_dobson  970622207  4  3 c   k     bc    c         5846  335    0 Qd 8c
+t_dobson  970622235  4  2 B   -     -     -         5511   10   15 
+t_dobson  970622243  4  1 Bc  kc    k     k         5516  115    0 8h Ah
+t_dobson  970622264  4  4 f   -     -     -         5401    0    0 
+t_dobson  970622271  4  3 f   -     -     -         5401    0    0 
+t_dobson  970622285  5  2 Bk  k     kf    -         5401   10    0 
+t_dobson  970622306  5  1 Bc  bc    k     k         5391  170  360 Ad 8d
+t_dobson  970622331  5  5 f   -     -     -         5581    0    0 
+t_dobson  970622360  5  4 r   kf    -     -         5581   45    0 
+t_dobson  970622407  5  3 f   -     -     -         5536    0    0 
+t_dobson  970622437  5  2 Br  f     -     -         5536   40    0 
+t_dobson  970622474  4  1 Br  -     -     -         5496   30   40 
+t_dobson  970622489  4  4 r   b     -     -         5506  115  160 
+t_dobson  970622501  4  3 r   b     -     -         5551  140  210 
+t_dobson  970622514  4  2 Br  b     b     b         5621 1010 2025 Ah Jd
+t_dobson  970622532  4  1 Bf  -     -     -         6636    5    0 
+t_dobson  970622541  4  4 f   -     -     -         6631    0    0 
+t_dobson  970622554  4  3 f   -     -     -         6631    0    0 
+t_dobson  970622566  4  2 Bk  c     r     -         6631  270  360 
+t_dobson  970622588  4  1 Bf  -     -     -         6721    5    0 
+t_dobson  970622594  4  4 c   b     -     -         6716   35   50 
+t_dobson  970622602  4  3 f   -     -     -         6731    0    0 
+t_dobson  970622615  4  2 Bc  kc    k     b         6731  335  450 
+t_dobson  970622632  4  1 Bf  -     -     -         6846    5    0 
+t_dobson  970622638  4  4 f   -     -     -         6841    0    0 
+t_dobson  970622650  4  3 c   k     k     bc        6841  150    0 9h Th
+t_dobson  970622685  4  2 Bk  k     kf    -         6691   10    0 
+t_dobson  970622704  4  1 Bc  k     k     kf        6681   35    0 
+t_dobson  970622719  4  4 f   -     -     -         6646    0    0 
+t_dobson  970622724  4  3 c   b     -     -         6646   35   50 
+t_dobson  970622736  4  2 Br  b     b     -         6661  335  450 
+t_dobson  970622747  4  1 Bc  b     -     -         6776   30   40 
+t_dobson  970622754  4  4 r   -     -     -         6786   35   50 
+t_dobson  970622761  4  3 f   -     -     -         6801    0    0 
+t_dobson  970622764  4  2 B   -     -     -         6801   10   15 
+t_dobson  970622769  4  1 Bc  b     -     -         6806   30   40 
+t_dobson  970622782  4  4 f   -     -     -         6816    0    0 
+t_dobson  970622788  5  3 c   k     k     k         6816   10    0 Qs Td
+t_dobson  970622813  5  2 Bc  k     rc    k         6806  810    0 Jc 9d
+t_dobson  970622838  5  1 Bcc kc    k     k         5996   90  180 Qs 6c
+t_dobson  970622865  5  5 rc  rcA   -     -         6086 6086 12217 As Ah
+t_dobson  970622909  5  4 c   k     k     f        12217   10    0 
+t_dobson  970622945  5  3 c   k     k     k        12207   10   10 Jd 5d
+t_dobson  970622994  5  2 Bf  -     -     -        12207   10    0 
+t_dobson  970623037  5  1 Bf  -     -     -        12197    5    0 
+t_dobson  970623042  5  5 f   -     -     -        12192    0    0 
+t_dobson  970623046  5  4 c   b     -     -        12192   35   50 
+t_dobson  970623062  5  3 f   -     -     -        12207    0    0 
+t_dobson  970623079  5  2 Bc  kc    k     k        12207  110    0 Kc Qd
+t_dobson  970623096  5  1 Bc  kc    kc    kc       12097  400  810 9s Qh
+t_dobson  970623120  5  5 r   -     -     -        12507   35   50 
+t_dobson  970623136  5  4 f   -     -     -        12522    0    0 
+t_dobson  970623153  5  3 c   k     k     k        12522   10   30 Ts Qs
+t_dobson  970623189  5  2 Bk  k     kf    -        12542   10    0 
+t_dobson  970623221  5  1 Bc  k     kf    -        12532   10    0 
+t_dobson  970623268  4  4 f   -     -     -        12522    0    0 
+t_dobson  970623277  4  3 rc  bf    -     -        12522  375    0 
+t_dobson  970623288  4  2 Bk  k     k     k        12147   10   20 Qs 7d
+t_dobson  970623319  4  1 Bc  kc    b     -        12157  355  480 
+t_dobson  970623338  4  4 f   -     -     -        12282    0    0 
+t_dobson  970623349  3  2 Bc  kc    k     k        12282  110    0 7c Kh
+t_dobson  970623363  3  1 Br  -     -     -        12172   30   40 
+t_dobson  970623370  3  3 r   -     -     -        12182   35   50 
+t_dobson  970623373  3  2 Br  br    b     k        12197 2430    0 Th 9c
+t_dobson  970623392  3  1 Bc  k     b     b         9767  130    0 3s 4s
+t_dobson  970623419  3  3 cc  c     c     c         9637 1600    0 6d Kd
+t_dobson  970623445  3  2 B   -     -     -         8037   10   15 
+t_dobson  970623454  3  1 Bc  kc    k     kf        8042   40    0 
+t_dobson  970623492  3  3 r   k     c     f         8002  115    0 
+t_dobson  970623509  3  2 Bc  k     k     k         7887   35    0 Kc 9c
+t_dobson  970623521  3  1 Bf  -     -     -         7852    5    0 
+t_dobson  970623527  3  3 cc  f     -     -         7847   40    0 
+t_dobson  970623556  3  2 B   -     -     -         7807   10   15 
+t_dobson  970623560  3  1 Bc  kc    k     kc        7812   90  180 Td 6h
+t_dobson  970623574  3  3 c   k     k     b         7902   35   50 
+t_dobson  970623592  3  2 Bc  kf    -     -         7917   35    0 
+t_dobson  970623599  3  1 Bc  kc    k     k         7882  115  240 Ad 9c
+t_dobson  970623614  3  3 f   -     -     -         8007    0    0 
+t_dobson  970623618  3  2 Bf  -     -     -         8007   10    0 
+t_dobson  970623627  3  1 Br  -     -     -         7997   30   40 
+t_dobson  970623630  3  3 r   b     -     -         8007  140  210 
+t_dobson  970623639  3  2 Bc  kc    kc    k         8077  335  675 Ac 7c
+t_dobson  970623654  3  1 Bcc kc    k     k         8417   90  180 2d Qh
+t_dobson  970623672  3  3 cc  k     b     -         8507  130  180 
+t_dobson  970623689  3  2 B   -     -     -         8557   10   15 
+t_dobson  970623692  3  1 Bcc kc    kc    kc        8562  810 1620 5s Qs
+t_dobson  970623708  3  3 c   k     k     k         9372   10    0 5d Kd
+t_dobson  970623723  3  2 Bc  kc    krr   -         9362 9110 12600 2c 2s
+t_dobson  970623748  2  1 Bc  k     k     k        12852   10    0 6h Qs
+t_dobson  970623766  2  2 B   -     -     -        12842   10   15 
+t_dobson  970623773  2  1 Bc  k     k     k        12847   10    0 3c Qd
+t_dobson  970623789  2  2 B   -     -     -        12837   10   15 
+t_dobson  970623794  2  1 Br  -     -     -        12842   30   40 
+t_dobson  970623799  2  2 B   -     -     -        12852   10   15 
+t_dobson  970623805  2  1 Br  -     -     -        12857   30   40 
+t_dobson  970623808  2  2 B   -     -     -        12867   10   15 
+t_dobson  970623810  2  1 Br  -     -     -        12872   30   40 
+t_dobson  970623814  2  2 Bk  c     c     c        12882  270    0 5d 2d
+t_dobson  970623829  2  1 Bc  k     k     b        12612   30   40 
+t_dobson  970623855  2  2 B   -     -     -        12622   10   15 
+t_dobson  970623857  2  1 Br  -     -     -        12627   30   40 
+t_dobson  970623861  2  2 Br  b     b     b        12637  810    0 2c Qs
+t_dobson  970623884  2  1 Br  -     -     -        11827   30   40 
+t_dobson  970623892  2  2 B   -     -     -        11837   10   15 
+t_dobson  970623895  2  1 Br  b     b     -        11842  270  360 
+t_dobson  970623904  2  2 B   -     -     -        11932   10   15 
+t_dobson  970623907  2  1 Br  -     -     -        11937   30   40 
+t_dobson  970623923  2  2 B   -     -     -        11947   10   15 
+t_dobson  970623927  2  1 Bf  -     -     -        11952    5    0 
+t_dobson  970623930  2  2 Br  k     k     k        11947   30   60 Th Ks
+t_dobson  970623950  2  1 Br  b     b     b        11977  810 1620 Jd 9d
+t_dobson  970623970  3  3 r   c     c     c        12787 1010 1012 5h Ad
+t_dobson  970623992  3  2 Br  b     -     -        12789   90  120 
+t_dobson  970624009  3  1 Bf  -     -     -        12819    5    0 
+t_dobson  970624014  3  3 f   -     -     -        12814    0    0 
+t_dobson  970624017  3  2 BQ  -     -     -        12814   10    0 
+t_dobson  970675110  6  5 c   b     b     -        12804  150  210 
+t_dobson  970675145  6  4 f   -     -     -        12864    0    0 
+t_dobson  970675180  6  3 f   -     -     -        12864    0    0 
+t_dobson  970675188  6  2 Bk  kc    kc    kc       12864  595    0 6d Ac
+t_dobson  970675238  6  1 Bc  k     k     kf       12269   10    0 
+t_dobson  970675275  6  6 f   -     -     -        12259    0    0 
+t_dobson  970675304  6  5 c   kc    kc    kc       12259  860 1800 4h Kh
+t_dobson  970675352  6  4 c   k     b     -        13199   40   60 
+t_dobson  970675382  6  3 r   b     k     b        13219  495    0 9d Ad
+t_dobson  970675409  7  2 Bk  k     b     -        12724   65  110 
+t_dobson  970675444  7  1 Br  b     k     b        12769 1060    0 Kd Ks
+t_dobson  970675481  7  7 cc  f     -     -        11709   40    0 
+t_dobson  970675507  7  6 f   -     -     -        11669    0    0 
+t_dobson  970675551  7  5 cc  kc    kf    -        11669  230    0 
+t_dobson  970675598  7  4 r   b     -     -        11439  235  380 
+t_dobson  970675633  7  3 f   -     -     -        11584    0    0 
+t_dobson  970675661  7  2 Br  b     b     -        11584 1810 2430 
+t_dobson  970675694  7  1 Bc  k     k     k        12204   10    0 As 2h
+t_dobson  970675731  7  7 f   -     -     -        12194    0    0 
+t_dobson  970675769  7  6 r   b     -     -        12194  145  220 
+t_dobson  970675796  7  5 c   k     kf    -        12269   10    0 
+t_dobson  970675830  7  4 c   r     b     b        12259 2250    0 7d Td
+t_dobson  970675882  7  3 f   -     -     -        10009    0    0 
+t_dobson  970675931  6  2 Bc  kf    -     -        10009   45    0 
+t_dobson  970675961  6  1 Br  b     b     b         9964 2560 3840 
+t_dobson  970675995  6  6 c   c     c     k        11244  210  480 8d As
+t_dobson  970676031  6  5 c   f     -     Q        11514   10    0 
+t_dobson  970721138  5  4 f   -     -     -        11504    0    0 
+t_dobson  970721143  5  3 cf  -     -     -        11504   10    0 
+t_dobson  970721188  5  2 Bk  b     b     b        11494  530  720 
+t_dobson  970721227  5  1 Bf  -     -     -        11684    5    0 
+t_dobson  970721258  5  5 c   c     c     k        11679  495    0 Th 7s
+t_dobson  970721287  5  4 c   f     -     -        11184   10    0 
+t_dobson  970721318  5  3 f   -     -     -        11174    0    0 
+t_dobson  970721330  5  2 Bk  f     -     -        11174   10    0 
+t_dobson  970721344  5  1 Bc  b     b     b        11164  400  540 
+t_dobson  970721367  5  5 f   -     -     -        11304    0    0 
+t_dobson  970721391  5  4 c   kf    -     -        11304   10    0 
+t_dobson  970721409  5  3 c   b     b     b        11294  860 1200 
+t_dobson  970721449  5  2 Bc  kc    k     b        11634 1050 1600 
+t_dobson  970721490  5  1 Bc  kf    -     -        12184   10    0 
+t_dobson  970721529  5  5 c   c     c     b        12174 2595    0 9c 6d
+t_dobson  970721567  5  4 c   rc    k     k         9579 1855    0 7s Js
+t_dobson  970721611  5  3 cc  r     b     bA        7724 7724 12935 3d 3s
+t_dobson  970721656  4  2 Bk  kf    -     -        12935   10    0 
+t_dobson  970721683  5  1 Bc  b     -     -        12925   30   40 
+t_dobson  970721695  5  5 c   c     b     b        12935 1140 1530 
+t_dobson  970721717  5  4 c   k     c     f        13325  150    0 
+t_dobson  970721751  5  3 c   b     b     -        13175  170  240 
+t_dobson  970721781  4  2 Bc  kc    kc    b        13245 1010 1350 
+t_dobson  970721816  4  1 Bc  kc    k     k        13585  190  435 Jh Qc
+t_dobson  970721838  4  4 f   -     -     -        13830    0    0 
+t_dobson  970721857  4  3 cc  kc    k     kf       13830  190    0 
+t_dobson  970721890  4  2 Br  b     b     -        13640  640  960 
+t_dobson  970721931  4  1 Bc  kc    kc    k        13960   90  180 Kc 5d
+t_dobson  970721953  5  4 f   -     -     -        14050    0    0 
+t_dobson  970721960  5  3 c   k     k     b        14050   50    0 9c 6d
+t_dobson  970721990  5  2 Bk  k     b     bf       14000  110    0 
+t_dobson  970722019  5  1 Bc  kc    k     k        13890   60  150 7h Js
+t_dobson  970722061  5  5 f   -     -     -        13980    0    0 
+t_dobson  970722084  5  4 c   k     b     -        13980   40   60 
+t_dobson  970722114  5  3 f   -     -     -        14000    0    0 
+t_dobson  970722134  5  2 Bk  k     k     k        14000   10    0 3c 9s
+t_dobson  970722163  5  1 Bc  k     k     k        13990   35   80 2c Ac
+t_dobson  970722182  7  7 r   b     -     -        14035  185  280 
+t_dobson  970722208  7  6 c   f     -     -        14130   45    0 
+t_dobson  970722235  7  5 f   -     -     -        14085    0    0 
+t_dobson  970722271  7  4 f   -     -     -        14085    0    0 
+t_dobson  970722286  7  3 f   -     -     -        14085    0    0 
+t_dobson  970722343  6  1 Bc  k     k     k        14085   30    0 8h Jd
+t_dobson  970722372  6  1 Bc  b     -     -        14055  140  210 
+t_dobson  970722391  6  6 r   b     -     -        14125  235  360 
+t_dobson  970722420  6  5 f   -     -     -        14250    0    0 
+t_dobson  970722442  6  4 rc  b     b     -        14250 1010 1350 
+t_dobson  970722468  6  3 f   -     -     -        14590    0    0 
+t_dobson  970722488  6  2 Bk  kc    k     b        14590  310    0 4s Ks
+t_dobson  970722540  6  1 Bcc k     k     k        14280   50    0 Tc 8s
+t_dobson  970722588  6  6 r   r     b     k        14230 1075 2160 Jh 7c
+t_dobson  970722631  6  5 c   c     c     c        15315 2585    0 7s Kd
+t_dobson  970722669  6  4 f   -     -     -        12730    0    0 
+t_dobson  970722701  6  3 c   b     -     -        12730   35   50 
+t_dobson  970722724  6  2 Bf  Q     -     -        12745   10    0 
+t_dobson  971348737  2  1 Bf  -     -     -        12465    5    0 
+t_dobson  971348745  2  2 Bc  c     k     b        12460  270  360 
+t_dobson  971348771  2  1 Bcc kc    kr    k        12550  810    0 Js Kc
+t_dobson  971348795  2  2 Bk  b     b     -        11740   90  120 
+t_dobson  971348814  2  1 Bc  b     -     -        11770   30   40 
+t_dobson  971348820  2  2 Br  b     -     -        11780   90  120 
+t_dobson  971348830  2  1 Br  -     -     -        11810   30   40 
+t_dobson  971348833  2  2 Bk  k     k     b        11820   30   40 
+t_dobson  971348847  2  1 Bc  k     kf    -        11830   10    0 
+t_dobson  971348860  2  2 Br  b     k     f        11820   90    0 
+t_dobson  971348876  2  1 Bc  b     k     k        11730   30    0 Th Jd
+t_dobson  971348887  2  2 Bk  k     k     k        11700   10    0 4c Qs
+t_dobson  971348901  2  1 Bc  k     kc    k        11690   30    0 2h Js
+t_dobson  971348932  2  2 Bc  k     k     k        11660   30    0 5d Ts
+t_dobson  971348948  2  1 Bc  k     k     k        11630   10   20 7d Qd
+t_dobson  971348960  2  2 B   -     -     -        11640   10   15 
+t_dobson  971348963  2  1 Br  b     -     -        11645   90  120 
+t_dobson  971348970  2  2 Br  b     b     b        11675  810 1080 
+t_dobson  971348985  2  1 Br  b     -     -        11945   90  120 
+t_dobson  971348992  2  2 Br  b     -     -        11975   90  120 
+t_dobson  971349001  2  1 Bc  k     k     b        12005   30   40 
+t_dobson  971349010  2  2 Br  k     b     b        12015  270    0 7c Kc
+t_dobson  971349026  2  1 Bf  -     -     -        11745    5    0 
+t_dobson  971349032  2  2 Bk  b     -     -        11740   30   40 
+t_dobson  971349036  2  1 Br  b     b     b        11750  810    0 Ah Kc
+t_dobson  971349047  2  2 B   -     -     -        10940   10   15 
+t_dobson  971349050  2  1 Bf  -     -     -        10945    5    0 
+t_dobson  971349053  2  2 B   -     -     -        10940   10   15 
+t_dobson  971349055  2  1 Bf  -     -     -        10945    5    0 
+t_dobson  971349058  2  2 Br  k     k     b        10940   90  120 
+t_dobson  971349074  2  1 Br  b     b     k        10970  270    0 Th Qh
+t_dobson  971349086  2  2 Bk  k     b     b        10700   90  180 8h Td
+t_dobson  971349098  2  1 Br  bf    -     -        10790   90    0 
+t_dobson  971349114  2  2 Bk  k     b     -        10700   30   40 
+t_dobson  971349124  2  1 Bf  -     -     -        10710    5    0 
+t_dobson  971349126  2  2 Brc f     -     -        10705   90    0 
+t_dobson  971349137  2  1 Bf  -     -     -        10615    5    0 
+t_dobson  971349140  2  2 Bf  -     -     -        10610   10    0 
+t_dobson  971349144  2  1 Bc  k     b     -        10600   30   40 
+t_dobson  971349154  2  2 Bk  k     b     -        10610   30   40 
+t_dobson  971349165  2  1 Bf  -     -     -        10620    5    0 
+t_dobson  971349168  2  2 Bk  f     -     -        10615   10    0 
+t_dobson  971349175  2  1 Br  -     -     -        10605   30   40 
+t_dobson  971349185  2  2 B   -     -     -        10615   10   15 
+t_dobson  971349188  2  1 Bf  -     -     -        10620    5    0 
+t_dobson  971349190  2  2 Bk  k     f     -        10615   10    0 
+t_dobson  971349200  2  1 Bcc kc    k     b        10605  270  360 
+t_dobson  971349213  2  2 B   -     -     -        10695   10   15 
+t_dobson  971349216  2  1 Br  b     b     b        10700  810 1080 
+t_dobson  971349227  2  2 B   -     -     -        10970   10   15 
+t_dobson  971349230  2  1 Bf  -     -     -        10975    5    0 
+t_dobson  971349232  2  2 Bf  -     -     -        10970   10    0 
+t_dobson  971349238  2  1 Bf  -     -     -        10960    5    0 
+t_dobson  971349240  2  2 Bf  -     -     -        10955   10    0 
+t_dobson  971349243  2  1 Bf  -     -     -        10945    5    0 
+t_dobson  971349246  2  2 Bc  c     c     k        10940  270  540 Tc 8d
+t_dobson  971349258  2  1 Brc bf    -     -        11210  270    0 
+t_dobson  971349271  2  2 Bf  -     -     -        10940   10    0 
+t_dobson  971349277  2  1 Bcc k     k     k        10930   30   60 Jh 7d
+t_dobson  971349288  2  2 Bc  f     -     -        10960   30    0 
+t_dobson  971349297  2  1 Bcc b     k     b        10930  270  360 
+t_dobson  971349313  2  2 Br  b     b     b        11020 2430 3240 
+t_dobson  971349333  2  1 Bcc kc    kc    k        11830  270  540 3h Kh
+t_dobson  971349349  2  2 Brr k     k     k        12100  810 1620 Kc Kh
+t_dobson  971349365  2  1 Bf  -     -     -        12910    5    0 
+t_dobson  971349370  2  2 Brr k     b     -        12905 2430 3240 
+t_dobson  971349386  2  1 Bcc kf    -     -        13715   30    0 
+t_dobson  971349394  2  2 Bf  -     -     -        13685   10    0 
+t_dobson  971349397  2  1 Bcc kc    k     b        13675  270  360 
+t_dobson  971349412  2  2 B   -     -     -        13765   10   15 
+t_dobson  971349414  2  1 Brc b     b     b        13770 2430 2430 2s 2c
+t_dobson  971349432  2  2 Bk  b     bc    r        13770 2430 3240 
+t_dobson  971349451  2  1 Bc  kc    kc    k        14580   90  180 2c Qs
+t_dobson  971349465  2  2 Bc  k     k     k        14670   30    0 4c 5h
+t_dobson  971349476  2  1 Bcc kc    kc    kc       14640  810    0 4s Qd
+t_dobson  971349490  2  2 Bc  f     -     -        13830   30    0 
+t_dobson  971349500  2  1 Bf  -     -     -        13800    5    0 
+t_dobson  971349502  2  2 Bf  -     -     -        13795   10    0 
+t_dobson  971349505  2  1 Bf  -     -     -        13785    5    0 
+t_dobson  971349507  2  2 Br  k     c     k        13780  270    0 Tc Th
+t_dobson  971349521  2  1 Bcc kf    -     -        13510   30    0 
+t_dobson  971349531  2  2 B   -     -     -        13480   10   15 
+t_dobson  971349535  2  1 Bf  -     -     -        13485    5    0 
+t_dobson  971349538  2  2 Bc  f     -     -        13480   30    0 
+t_dobson  971349543  2  1 Bf  -     -     -        13450    5    0 
+t_dobson  971349546  2  2 Bf  -     -     -        13445   10    0 
+t_dobson  971349548  2  1 Bcr k     kc    b        13435  810 1080 
+t_dobson  971349565  2  2 Bf  -     -     -        13705   10    0 
+t_dobson  971349570  2  1 Bf  -     -     -        13695    5    0 
+t_dobson  971349572  2  2 Bc  k     k     b        13690   90  120 
+t_dobson  971349584  2  1 Bcc kc    kf    -        13720   90    0 
+t_dobson  971349596  2  2 Brc f     -     -        13630  270    0 
+t_dobson  971349605  2  1 Bcc k     k     b        13360   90  180 9d Qc
+t_dobson  971349618  2  2 Bc  c     b     -        13450  270  360 
+t_dobson  971349629  2  1 Brc k     k     k        13540   90  180 Kc Qc
+t_dobson  971349641  2  2 Bc  c     c     b        13630  810 1080 
+t_dobson  971349654  2  1 Bf  -     -     -        13900    5    0 
+t_dobson  971349657  2  2 Bc  f     -     -        13895   30    0 
+t_dobson  971349664  2  1 Bcc k     k     k        13865   30   60 Kh Qd
+t_dobson  971349675  2  2 Bc  c     c     f        13895  270    0 
+t_dobson  971349686  2  1 Bcc k     k     kc       13625   90    0 Ks 7c
+t_dobson  971349701  2  2 B   -     -     -        13535   10   15 
+t_dobson  971349706  2  1 Br  -     -     -        13540   30   40 
+t_dobson  971349711  2  2 Bc  c     c     k        13550  270    0 4h 2c
+t_dobson  971349722  2  1 Bcc kc    k     b        13280  270  540 6h 5c
+t_dobson  971349738  2  2 Bc  c     k     k        13550   90    0 6c 7h
+t_dobson  971349751  2  1 Brc k     k     k        13460   90    0 4s 4c
+t_dobson  971349765  2  2 Bk  k     k     k        13370   10    0 Qd 2d
+t_dobson  971349776  2  1 Brr b     -     -        13360  810 1080 
+t_dobson  971349786  2  2 Bf  -     -     -        13630   10    0 
+t_dobson  971349790  2  1 Brr b     b     -        13620 2430 3240 
+t_dobson  971349801  2  2 Bk  k     k     k        14430   10    0 9s Qc
+t_dobson  971349811  2  1 Bcc k     b     -        14420   90  120 
+t_dobson  971349822  2  2 B   -     -     -        14450   10   15 
+t_dobson  971349825  2  1 Bf  -     -     -        14455    5    0 
+t_dobson  971349828  2  2 Bc  k     k     b        14450   90   90 9s Jh
+t_dobson  971349840  2  1 Br  -     -     -        14450   30   40 
+t_dobson  971349845  2  2 Bc  c     k     k        14460   90  180 9d Td
+t_dobson  971349856  2  1 Bcc k     k     k        14550   30    0 Qd 9d
+t_dobson  971349869  2  2 Bf  -     -     -        14520   10    0 
+t_dobson  971349874  3  1 BQ  -     -     -        14510    5    0 
+t_dobson  971412666  7  5 f   -     -     -        14505    0    0 
+t_dobson  971412691  7  4 c   c     r     -        14505  605  840 
+t_dobson  971412718  7  3 f   -     -     -        14740    0    0 
+t_dobson  971412727  7  2 Bc  kc    kc    k        14740  335    0 2c Ts
+t_dobson  971412749  7  1 Bf  -     -     -        14405    5    0 
+t_dobson  971412766  8  7 f   -     -     -        14400    0    0 
+t_dobson  971412794  8  6 f   -     -     -        14400    0    0 
+t_dobson  971412829  8  5 f   -     -     -        14400    0    0 
+t_dobson  971412886  8  4 c   b     -     -        14400   50   80 
+t_dobson  971412906  8  2 f   -     -     -        14430    0    0 
+t_dobson  971412973  8  2 Bk  kf    -     -        14430   10    0 
+t_dobson  971413020  9  1 Br  b     -     -        14420  250  400 
+t_dobson  971413051  8  8 f   -     -     -        14570    0    0 
+t_dobson  971413082  8  7 f   -     -     -        14570    0    0 
+t_dobson  971413092  8  6 f   -     -     -        14570    0    0 
+t_dobson  971413111  8  5 f   -     -     -        14570    0    0 
+t_dobson  971413131  8  5 r   -     -     -        14570   35   50 
+t_dobson  971413139  7  3 r   bc    kc    kc       14585 4435 8910 Js Td
+t_dobson  971413171  6  2 Bk  k     r     b        19060  400  540 
+t_dobson  971413213  6  1 Bc  kc    k     k        19200  115    0 Jh 9c
+t_dobson  971413233  6  6 c   k     b     -        19085   35   50 
+t_dobson  971413249  6  5 c   c     b     b        19100  690  960 
+t_dobson  971413278  6  4 cc  kf    -     -        19370   45    0 
+t_dobson  971413298  7  4 c   b     -     -        19325   35   50 
+t_dobson  971413317  7  3 f   -     -     -        19340    0    0 
+t_dobson  971413325  7  2 Bc  b     -     -        19340  110  150 
+t_dobson  971413338  7  1 Br  b     b     bf       19380  810    0 
+t_dobson  971413384  7  7 c   b     -     -        18570   40   60 
+t_dobson  971413404  7  6 cc  k     k     f        18590   40    0 
+t_dobson  971413434  7  5 c   f     -     -        18550   35    0 
+t_dobson  971413461  7  4 c   b     b     k        18515  375  765 Kd Tc
+t_dobson  971413492  7  3 cc  kc    k     bc       18905 1410    0 7h Jh
+t_dobson  971413518  7  2 Bf  -     -     -        17495   10    0 
+t_dobson  971413538  7  1 Bf  -     -     -        17485    5    0 
+t_dobson  971413560  7  7 r   b     -     -        17480  225  360 
+t_dobson  971413583  7  6 r   f     -     -        17615  120    0 
+t_dobson  971413607  7  5 c   b     k     k        17495   45  105 Tc 9h
+t_dobson  971413645  7  4 r   k     c     b        17555  335  450 
+t_dobson  971413671  7  3 r   bc    f     -        17670  735    0 
+t_dobson  971413735  7  2 Bk  k     b     b        16935  170  240 
+t_dobson  971413788  7  1 Br  kr    b     b        17005 3640 4860 
+t_dobson  971413819  7  7 r   b     -     -        18225  115  160 
+t_dobson  971413833  7  6 c   kf    -     -        18270   10    0 
+t_dobson  971413862  7  5 f   -     -     -        18260    0    0 
+t_dobson  971413892  7  4 f   -     -     -        18260    0    0 
+t_dobson  971413952  7  3 c   b     b     -        18260  150  210 
+t_dobson  971414010  7  2 Bk  k     k     k        18320   10    0 9c 6c
+t_dobson  971414036  7  1 Br  b     -     -        18310   90  120 
+t_dobson  971414049  7  7 f   -     -     -        18340    0    0 
+t_dobson  971414068  7  6 f   -     -     -        18340    0    0 
+t_dobson  971414095  7  5 f   -     -     -        18340    0    0 
+t_dobson  971414126  7  4 f   -     -     -        18340    0    0 
+t_dobson  971414162  7  3 f   -     -     -        18340    0    0 
+t_dobson  971414205  7  2 Bf  -     -     -        18340   10    0 
+t_dobson  971414245  7  1 Bc  b     b     b        18330  640  720 7s 4d
+t_dobson  971414267  7  7 r   c     c     b        18410 1865 2520 
+t_dobson  971414305  7  6 f   -     -     -        19065    0    0 
+t_dobson  971414345  7  5 cc  c     k     r        19065 11915 24300 Th 9d
+t_dobson  971414404  7  4 f   Q     -     -        31450    0    0 
+t_dobson  971549819  2  1 Br  -     -     -        31090   30   40 
+t_dobson  971549832  2  2 B   -     -     -        31080   10   15 
+t_dobson  971549833  2  1 Br  bf    -     -        31085   90    0 
+t_dobson  971549841  2  2 Bc  c     b     k        30995  270  540 Kh 2d
+t_dobson  971549862  2  1 Br  -     -     -        31265   30   40 
+t_dobson  971549871  2  2 Br  b     -     -        31275  270  360 
+t_dobson  971549881  2  1 Bc  k     k     k        31365   10   20 3h 9h
+t_dobson  971549891  3  3 r   b     -     -        31375  110  150 
+t_dobson  971549903  3  2 Bf  -     -     -        31415   10    0 
+t_dobson  971549914  3  1 Bf  -     -     -        31405    5    0 
+t_dobson  971549939  3  3 cc  b     -     -        31400  160  240 
+t_dobson  971549963  3  2 B   -     -     -        31480   10   15 
+t_dobson  971549969  3  1 Br  b     -     -        31485   90  120 
+t_dobson  971549977  3  3 r   -     -     -        31515   35   50 
+t_dobson  971549984  3  2 BQ  -     -     -        31530   10    0 
+t_dobson  971554530  2  2 Br  b     -     -        30880   90  120 
+t_dobson  971554542  3  1 Bf  -     -     -        30890    5    0 
+t_dobson  971554547  3  3 f   -     -     -        30885    0    0 
+t_dobson  971554554  3  2 Br  b     b     -        30885  270  360 
+t_dobson  971554578  3  1 Bcc kf    -     -        30975   30    0 
+t_dobson  971554593  4  3 r   b     -     -        30945  120  170 
+t_dobson  971554607  4  2 Bf  -     -     -        30995   10    0 
+t_dobson  971554638  4  1 Br  b     -     -        30985  355  480 
+t_dobson  971554661  5  5 f   -     -     -        31110    0    0 
+t_dobson  971554682  5  4 cc  kc    b     -        31110  465  630 
+t_dobson  971554710  5  3 r   b     -     -        31275  120  170 
+t_dobson  971554720  5  2 B   -     -     -        31325   10   15 
+t_dobson  971554725  5  1 Br  kf    -     -        31330   30    0 
+t_dobson  971554742  5  5 f   -     -     -        31300    0    0 
+t_dobson  971554781  5  4 cc  kf    -     -        31300   45    0 
+t_dobson  971554804  4  2 Brf -     -     -        31255   45    0 
+t_dobson  971554820  4  1 Bcc b     b     -        31210  640  960 
+t_dobson  971554847  4  4 fQ  -     -     -        31530    0    0 
+t_dobson  971858139  2  2 B   -     -     -        31490   10   15 
+t_dobson  971858145  2  1 Bf  -     -     -        31495    5    0 
+t_dobson  971858149  2  2 B   -     -     -        31490   10   15 
+t_dobson  971858151  2  1 Br  b     b     -        31495  270  360 
+t_dobson  971858176  2  2 Bc  k     k     f        31585   30    0 
+t_dobson  971858194  2  1 Br  b     -     -        31555   90  120 
+t_dobson  971858216  2  2 Br  f     -     -        31585   30    0 
+t_dobson  971858231  2  1 Br  -     -     -        31555   30   40 
+t_dobson  971858236  2  2 B   -     -     -        31565   10   15 
+t_dobson  971858239  2  1 Br  -     -     -        31570   30   40 
+t_dobson  971858245  2  2 Bc  b     c     k        31580  270  540 Tc 3d
+t_dobson  971858270  2  1 Br  bc    kc    kc       31850 2430 4860 3h 2h
+t_dobson  971858297  2  2 Br  k     c     c        34280  375    0 8h As
+t_dobson  971858332  2  1 Br  k     k     kc       33905   60  120 5s Kd
+t_dobson  971858357  2  2 Bc  c     k     r        33965  810 1080 
+t_dobson  971858385  2  1 Bc  k     kf    -        34235   10    0 
+t_dobson  971858399  2  2 B   -     -     -        34225   10   15 
+t_dobson  971858403  2  1 Br  b     b     kf       34230  270    0 
+t_dobson  971858424  2  2 Bc  k     k     b        33960   90    0 6d 8c
+t_dobson  971858446  2  1 Brf -     -     -        33870   30    0 
+t_dobson  971858455  2  2 B   -     -     -        33840   10   15 
+t_dobson  971858460  2  1 Br  b     -     -        33845   90  120 
+t_dobson  971858472  2  2 B   -     -     -        33875   10   15 
+t_dobson  971858476  2  1 Br  b     b     -        33880  270  360 
+t_dobson  971858490  2  2 B   -     -     -        33970   10   15 
+t_dobson  971858494  2  1 Br  -     -     -        33975   30   40 
+t_dobson  971858499  2  2 Br  b     b     -        33985  810 1480 Qd Qc
+t_dobson  971933664  9  2 Bf  -     -     -        34655   10    0 
+t_dobson  971933699  9  1 Brc k     k     k        34645  775 1665 Ks Qc
+t_dobson  971933753  9  9 f   -     -     -        35535    0    0 
+t_dobson  971933806  9  8 cc  c     r     -        35535 3970 5400 
+t_dobson  971933845  9  7 f   -     -     -        36965    0    0 
+t_dobson  971933891  9  6 f   -     -     -        36965    0    0 
+t_dobson  971933935 10  5 f   -     -     -        36965    0    0 
+t_dobson  971933972 10  4 f   -     -     -        36965    0    0 
+t_dobson  971933996 10  3 f   -     -     -        36965    0    0 
+t_dobson  971934048 10  2 Brc k     k     k        36965  840 1800 Ac Qh
+t_dobson  971934092 10  1 Bf  -     -     -        37925    5    0 
+t_dobson  971934125 10 10 f   -     -     -        37920    0    0 
+t_dobson  971934142 10  9 c   f     -     -        37920   10    0 
+t_dobson  971934191 10  8 f   -     -     -        37910    0    0 
+t_dobson  971934218 10  7 rf  -     -     -        37910   45    0 
+t_dobson  971934329 10  6 f   -     -     -        37865    0    0 
+t_dobson  971934393 10  5 f   -     -     -        37865    0    0 
+t_dobson  971934462 10  4 f   -     -     -        37865    0    0 
+t_dobson  971934486 10  3 f   -     -     -        37865    0    0 
+t_dobson  971934516 10  2 Bc  kc    k     k        37865  275    0 8d 5d
+t_dobson  971934570 10  1 Bf  -     -     -        37590    5    0 
+t_dobson  971934634 10 10 r   b     -     -        37585  110  150 
+t_dobson  971934663 10  9 c   k     k     f        37625   10    0 
+t_dobson  971934711 10  8 f   -     -     -        37615    0    0 
+t_dobson  971934744 10  7 crc b     -     -        37615 2395 3240 
+t_dobson  971934767 10  6 f   -     -     -        38460    0    0 
+t_dobson  971934817 10  5 cc  k     k     b        38460  385    0 8h 7h
+t_dobson  971934892 10  4 ccc bf    -     -        38075 4300    0 
+t_dobson  971934946 10  3 cc  kf    -     -        33775   45    0 
+t_dobson  971934978 10  2 Bk  kf    -     -        33730   10    0 
+t_dobson  971935022 10  1 BQ  -     -     -        33720    5    0 
+t_dobson  972082319  2  1 BK  -     -     -        31405    5   15 
+t_dobson  972583873  6  6 f   -     -     -        31620    0    0 
+t_dobson  972583911  7  5 f   -     -     -        31620    0    0 
+t_dobson  972583949  7  4 cf  -     -     -        31620   10    0 
+t_dobson  972583968  7  3 rc  k     b     -        31610 1330 2220 
+t_dobson  972584008  7  2 Bc  k     kf    -        32500   65    0 
+t_dobson  972584052  7  1 Bc  k     k     kc       32435  190  435 6c 8s
+t_dobson  972584079  7  7 c   c     b     -        32680  170  240 
+t_dobson  972584114  7  6 c   f     -     -        32750   10    0 
+t_dobson  972584134  7  5 r   b     -     -        32740  190  290 
+t_dobson  972584161  7  4 c   b     k     b        32840  260  600 Jd Kd
+t_dobson  972584204  7  3 f   -     -     -        33180    0    0 
+t_dobson  972584236  7  2 Bf  -     -     -        33180   10    0 
+t_dobson  972584257  7  1 Bc  b     b     -        33170  170  240 
+t_dobson  972584280  7  7 f   -     -     -        33240    0    0 
+t_dobson  972584309  7  6 r   b     -     -        33240  150  210 
+t_dobson  972584332  7  5 f   -     -     -        33300    0    0 
+t_dobson  972584366  7  4 f   -     -     -        33300    0    0 
+t_dobson  972584385  7  3 f   -     -     -        33300    0    0 
+t_dobson  972584421  7  2 Br  k     kc    kf       33300 2005    0 
+t_dobson  972584459  7  1 Bc  kf    -     -        31295   45    0 
+t_dobson  972584480  7  7 r   b     k     b        31250  335    0 7h 6h
+t_dobson  972584503  8  6 f   -     -     -        30915    0    0 
+t_dobson  972584533  8  5 c   f     -     -        30915   10    0 
+t_dobson  972584577  8  4 f   -     -     -        30905    0    0 
+t_dobson  972584610  8  3 f   -     -     -        30905    0    0 
+t_dobson  972584642  8  2 Bf  -     -     -        30905   10    0 
+t_dobson  972584694  8  1 Bcc b     b     b        30895 9360 5132 7c 9s
+t_dobson  972584756  9  9 f   -     -     -        26667    0    0 
+t_dobson  972584816  9  8 c   c     c     f        26667  515    0 
+t_dobson  972584841  9  7 c   k     b     b        26152  965 1380 
+t_dobson  972584880  8  5 f   -     -     -        26567    0    0 
+t_dobson  972584902  8  4 c   b     -     -        26567   55   90 
+t_dobson  972584915  8  3 cc  k     k     k        26602   65  330 Ks 3s
+t_dobson  972584973  7  1 Br  b     k     k        26867  250    0 5h Qh
+t_dobson  972585040  9  1 Bc  k     b     k        26617  330    0 2d 7c
+t_dobson  972585076  8  8 r   b     -     -        26287  130  180 
+t_dobson  972585092  8  8 c   k     k     b        26337  120    0 9s 5c
+t_dobson  972585116  8  7 c   f     -     -        26217   35    0 
+t_dobson  972585134  8  6 f   -     -     -        26182    0    0 
+t_dobson  972585150  8  5 c   f     -     -        26182   45    0 
+t_dobson  972585203  7  3 f   -     -     -        26137    0    0 
+t_dobson  972585230  7  2 Bk  krr   -     -        26137 1010 1350 
+t_dobson  972585263  8  1 Br  k     b     b        26477  690 1440 Ac 8c
+t_dobson  972585284  8  8 c   f     -     -        27227   10    0 
+t_dobson  972585319  8  7 f   -     -     -        27217    0    0 
+t_dobson  972585348  7  5 r   b     -     -        27217  180  290 
+t_dobson  972585375  7  4 c   k     b     b        27327  370  600 
+t_dobson  972585408  8  4 c   r     k     f        27557  230    0 
+t_dobson  972585470  8  3 c   f     -     -        27327   10    0 
+t_dobson  972585507  8  1 Bk  k     kf    -        27317   10    0 
+t_dobson  972585547  8  1 Bc  k     b     b        27307  260  400 
+t_dobson  972585589  8  8 c   f     -     -        27447   35    0 
+t_dobson  972585630  8  7 r   b     -     -        27412  150  210 
+t_dobson  972585669  8  6 r   b     b     -        27472  970 1480 
+t_dobson  972585695  8  5 r   b     -     -        27982  270  450 
+t_dobson  972585730  8  4 c   f     -     -        28162   10    0 
+t_dobson  972585756  9  4 f   -     -     -        28152    0    0 
+t_dobson  972585788  9  3 c   k     c     r        28152  660  900 
+t_dobson  972585825  9  2 Br  b     -     -        28392  210  320 
+t_dobson  972585887  9  1 Br  b     b     b        28502  810    0 Qc 6h
+t_dobson  972585908  9  9 r   b     -     -        27692  240  370 
+t_dobson  972585962  9  8 c   c     b     kf       27822 1215    0 
+t_dobson  972586019  9  7 c   c     k     r        26607 2050 4185 As Qs
+t_dobson  972586058  9  6 f   -     -     -        28742    0    0 
+t_dobson  972586100  9  5 rc  f     -     -        28742  150    0 
+t_dobson  972586132  9  4 c   k     c     k        28592  155  480 9c Qh
+t_dobson  972586161  9  3 c   c     c     b        28917 1570 3600 3s 7s
+t_dobson  972586215  9  2 Bk  kf    -     -        30947   10    0 
+t_dobson  972586254  8  1 Bc  k     k     kf       30937   55    0 
+t_dobson  972586295  8  8 r   -     -     -        30882   35   50 
+t_dobson  972586312  8  7 rc  k     kf    -        30897  160    0 
+t_dobson  972586341  8  6 c   k     b     b        30737  260    0 Qh 2s
+t_dobson  972586389  8  5 r   f     -     -        30477   35    0 
+t_dobson  972586418  8  4 c   k     f     -        30442   10    0 
+t_dobson  972586443  8  3 r   b     -     -        30432  180  290 
+t_dobson  972586467  8  2 Bc  f     -     -        30542   35    0 
+t_dobson  972586498  8  1 Bc  kc    k     b        30507  260    0 Td 4s
+t_dobson  972586539  8  8 r   b     b     bf       30247 2240    0 
+t_dobson  972586582  8  7 c   c     k     f        28007   75    0 
+t_dobson  972586632  8  6 cc  kf    -     -        27932   55    0 
+t_dobson  972586663  7  4 r   b     b     k        27877  785 1800 3h 6s
+t_dobson  972586688  7  3 r   kf    -     -        28892   35    0 
+t_dobson  972586730  7  2 Bk  kf    -     -        28857   10    0 
+t_dobson  972586761  7  1 Br  b     b     kf       28847  850    0 
+t_dobson  972586796  6  6 r   b     b     b        27997 1075 1440 
+t_dobson  972586822  6  5 f   -     -     -        28362    0    0 
+t_dobson  972586845  6  4 f   -     -     -        28362    0    0 
+t_dobson  972586872  5  2 r   b     -     -        28362  150  240 
+t_dobson  972586892  5  2 Br  k     b     b        28452  270  360 
+t_dobson  972586931  5  1 Br  b     b     -        28542  520  720 
+t_dobson  972586957  4  4 f   -     -     -        28742    0    0 
+t_dobson  972586960  4  3 r   b     b     -        28742  475  660 
+t_dobson  972586978  4  2 B   -     -     -        28927   10   15 
+t_dobson  972586981  4  1 Br  b     b     b        28932 1600    0 Kd 9h
+t_dobson  972587001  4  4 r   b     b     k        27332  770    0 Ad Kd
+t_dobson  972587032  4  3 r   b     -     -        26562  115  160 
+t_dobson  972587050  4  2 Br  b     b     b        26607  810 1080 
+t_dobson  972587072  5  1 Br  b     b     b        26877 1210 1620 
+t_dobson  972587094  5  5 rc  r     -     -        27287 8315 17046 Ac Ah
+t_dobson  972587162  4  3 r   -     -     -        36018   35   50 
+t_dobson  972587179  4  2 Br  b     b     b        36033 1010    0 Ac Qd
+t_dobson  972587209  4  1 Br  -     -     -        35023   30   40 
+t_dobson  972587215  4  4 r   -     -     -        35033   35   50 
+t_dobson  972587223  4  3 r   b     b     -        35048  335  450 
+t_dobson  972587245  4  2 Br  b     b     k        35163  335    0 Jd As
+t_dobson  972587273  4  1 Br  kf    -     -        34828   50    0 
+t_dobson  972587295  4  4 r   -     -     -        34778   35   50 
+t_dobson  972587298  4  3 r   k     f     -        34793   35    0 
+t_dobson  972587322  4  2 Br  b     -     -        34758   90  120 
+t_dobson  972587333  4  1 Brc k     k     b        34788  850 1280 
+t_dobson  972587374  4  4 r   b     -     -        35218  490  740 
+t_dobson  972587388  4  3 r   k     b     b        35468  335    0 4d 5s
+t_dobson  972587403  4  2 Br  b     b     -        35133  270  360 
+t_dobson  972587432  4  1 Bc  b     -     -        35223   40   60 
+t_dobson  972587449  4  4 f   -     -     -        35243    0    0 
+t_dobson  972587455  4  3 f   -     -     -        35243    0    0 
+t_dobson  972587457  4  2 Bk  k     kf    -        35243   10    0 
+t_dobson  972587491  4  1 Br  -     -     -        35233   30   40 
+t_dobson  972587498  4  4 f   Q     -     -        35243    0    0 

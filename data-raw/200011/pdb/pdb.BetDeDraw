@@ -1,0 +1,520 @@
+BetDeDraw 973654415  5  3 f   -     -     -         3177    0    0 
+BetDeDraw 973654450  5  2 Bk  b     c     f         3177   90    0 
+BetDeDraw 973654480  5  1 Bc  kf    -     -         3087   35    0 
+BetDeDraw 973654510  5  5 f   -     -     -         3052    0    0 
+BetDeDraw 973654530  5  4 f   -     -     -         3052    0    0 
+BetDeDraw 973654546  5  3 f   -     -     -         3052    0    0 
+BetDeDraw 973654559  5  2 Bk  b     -     -         3052   30   40 
+BetDeDraw 973654580  5  1 Bc  kf    -     -         3062   10    0 
+BetDeDraw 973654601  5  5 f   -     -     -         3052    0    0 
+BetDeDraw 973654607  5  4 f   -     -     -         3052    0    0 
+BetDeDraw 973654627  5  3 f   -     -     -         3052    0    0 
+BetDeDraw 973654655  5  2 BQ  -     -     -         3052   10    0 
+BetDeDraw 973654837  4  2 B   -     -     -         3042   10   15 
+BetDeDraw 973654848  4  1 Bf  -     -     -         3047    5    0 
+BetDeDraw 973654874  4  4 c   b     -     -         3042   35   50 
+BetDeDraw 973654895  4  3 f   -     -     -         3057    0    0 
+BetDeDraw 973654919  4  2 Bk  k     kf    -         3057   10    0 
+BetDeDraw 973654946  4  1 Bc  k     k     k         3047   10   30 Kh 8d
+BetDeDraw 973655000  4  4 c   k     b     k         3067   40   90 Jd Qs
+BetDeDraw 973655050  4  3 c   b     -     -         3117   35   50 
+BetDeDraw 973655062  4  2 Bk  kc    krc   kf        3132 1010    0 
+BetDeDraw 973655102  5  1 Bcc kf    -     -         2122   40    0 
+BetDeDraw 973655154  5  5 f   -     -     -         2082    0    0 
+BetDeDraw 973655198  4  3 f   -     -     -         2082    0    0 
+BetDeDraw 973655204  4  3 c   k     b     -         2082   40   60 
+BetDeDraw 973655243  5  2 Bk  Q     -     -         2102   10    0 
+BetDeDraw 974331899  6  3 f   -     -     -         3687    0    0 
+BetDeDraw 974331908  6  2 Bf  -     -     -         3687   10    0 
+BetDeDraw 974331913  6  1 Bf  -     -     -         3677    5    0 
+BetDeDraw 974331918  6  6 f   -     -     -         3672    0    0 
+BetDeDraw 974331928  6  5 c   kf    -     -         3672   10    0 
+BetDeDraw 974331941  6  4 c   -     -     -         3662   10   25 
+BetDeDraw 974331974  6  3 f   -     -     -         3677    0    0 
+BetDeDraw 974332044  3  1 Bk  k     kc    k         3677   30   60 4s 4d
+BetDeDraw 974332069  3  1 Bf  -     -     -         3707    5    0 
+BetDeDraw 974332079  3  3 c   k     k     k         3702   10    0 7s 8s
+BetDeDraw 974332097  3  2 B   -     -     -         3692   10   15 
+BetDeDraw 974332103  2  1 Bc  k     k     k         3697   10   10 7d 5c
+BetDeDraw 974332118  2  2 B   -     -     -         3697   10   15 
+BetDeDraw 974332123  2  1 Bf  -     -     -         3702    5    0 
+BetDeDraw 974332125  2  2 B   -     -     -         3697   10   15 
+BetDeDraw 974332129  2  1 Bc  k     k     k         3702   10   10 Ac 2h
+BetDeDraw 974332151  2  2 Bc  k     k     k         3702   30    0 9c 8c
+BetDeDraw 974332171  2  1 Bf  -     -     -         3672    5    0 
+BetDeDraw 974332175  2  2 Bk  b     -     -         3667   30   40 
+BetDeDraw 974332205  2  1 Bc  k     k     k         3677   10   20 9s Ad
+BetDeDraw 974332218  2  2 Bk  k     b     b         3687   90  120 
+BetDeDraw 974332236  2  1 Bf  -     -     -         3717    5    0 
+BetDeDraw 974332240  2  2 B   -     -     -         3712   10   15 
+BetDeDraw 974332241  2  1 Bc  k     b     -         3717   30   40 
+BetDeDraw 974332256  2  2 Bc  f     -     -         3727   30    0 
+BetDeDraw 974332264  2  1 Bf  -     -     -         3697    5    0 
+BetDeDraw 974332266  2  2 Bk  b     b     -         3692   90  120 
+BetDeDraw 974332283  2  1 Bc  k     k     k         3722   10    0 8c 6h
+BetDeDraw 974332302  2  2 B   -     -     -         3712   10   15 
+BetDeDraw 974332306  2  1 Bf  -     -     -         3717    5    0 
+BetDeDraw 974332308  2  2 Bk  k     k     f         3712   10    0 
+BetDeDraw 974332334  2  1 Bc  b     -     -         3702   30   40 
+BetDeDraw 974332347  2  2 B   -     -     -         3712   10   15 
+BetDeDraw 974332350  2  1 Br  b     -     -         3717   90  120 
+BetDeDraw 974332360  2  2 Bk  k     f     -         3747   10    0 
+BetDeDraw 974332373  2  1 Bc  k     k     k         3737   10   20 Qs 9d
+BetDeDraw 974332386  2  2 Bk  b     k     k         3747   30   60 9c 4c
+BetDeDraw 974332404  2  1 Br  -     -     -         3777   30   40 
+BetDeDraw 974332412  2  2 Bc  f     -     -         3787   30    0 
+BetDeDraw 974332421  2  1 Bc  k     k     k         3757   10    0 7s 5c
+BetDeDraw 974332433  2  2 B   -     -     -         3747   10   15 
+BetDeDraw 974332435  2  1 Bf  -     -     -         3752    5    0 
+BetDeDraw 974332438  2  2 Bk  f     -     -         3747   10    0 
+BetDeDraw 974332446  2  1 Bc  k     b     -         3737   30   40 
+BetDeDraw 974332457  2  2 B   -     -     -         3747   10   15 
+BetDeDraw 974332461  2  1 Bc  b     -     -         3752   30   40 
+BetDeDraw 974332473  2  2 B   -     -     -         3762   10   15 
+BetDeDraw 974332475  2  1 Bc  k     kc    k         3767   30    0 4d 5c
+BetDeDraw 974332496  2  2 B   -     -     -         3737   10   15 
+BetDeDraw 974332500  2  1 Bcc kc    kf    -         3742   90    0 
+BetDeDraw 974332515  3  2 B   -     -     -         3652   10   15 
+BetDeDraw 974332520  3  1 Bf  -     -     -         3657    5    0 
+BetDeDraw 974332522  3  3 c   k     k     f         3652   10    0 
+BetDeDraw 974332542  3  2 Bk  k     k     kc        3642   35    0 3c Th
+BetDeDraw 974332563  3  1 Bf  -     -     -         3607    5    0 
+BetDeDraw 974332582  3  3 f   -     -     -         3602    0    0 
+BetDeDraw 974332589  3  2 B   -     -     -         3602   10   15 
+BetDeDraw 974332597  3  1 Bc  k     kc    kc        3607  355    0 6c 5c
+BetDeDraw 974332614  3  3 f   -     -     -         3252    0    0 
+BetDeDraw 974332621  3  2 B   -     -     -         3252   10   15 
+BetDeDraw 974332624  3  1 Bc  kc    k     k         3257   30   60 Ks 3s
+BetDeDraw 974332638  3  3 c   k     k     k         3287   10    0 Jc Ts
+BetDeDraw 974332654  3  2 B   -     -     -         3277   10   15 
+BetDeDraw 974332660  3  1 Bf  -     -     -         3282    5    0 
+BetDeDraw 974332672  3  3 c   k     b     -         3277   35   50 
+BetDeDraw 974332684  3  2 Bk  k     k     k         3292   10    0 3h 8d
+BetDeDraw 974332695  4  1 Bc  kf    -     -         3282   10    0 
+BetDeDraw 974332712  4  4 f   -     -     -         3272    0    0 
+BetDeDraw 974332718  4  3 f   -     -     -         3272    0    0 
+BetDeDraw 974332720  4  2 Bk  k     k     k         3272   10   20 9s Qc
+BetDeDraw 974332733  4  1 Bc  k     k     b         3282   30   40 
+BetDeDraw 974332748  4  4 f   -     -     -         3292    0    0 
+BetDeDraw 974332772  4  3 c   k     k     kf        3292   10    0 
+BetDeDraw 974332801  4  2 Bk  k     k     k         3282   10   13 3c 4h
+BetDeDraw 974332828  4  1 Bf  -     -     -         3285    5    0 
+BetDeDraw 974332849  5  5 c   b     b     -         3280  160  240 
+BetDeDraw 974332934  5  4 r   b     -     -         3360  150  210 
+BetDeDraw 974332947  6  4 f   -     -     -         3420    0    0 
+BetDeDraw 974332977  6  3 cc  kf    -     -         3420   45    0 
+BetDeDraw 974333018  5  2 Bk  kf    -     -         3375   10    0 
+BetDeDraw 974333050  5  1 Bc  b     kf    -         3365   40    0 
+BetDeDraw 974333068  6  6 f   -     -     -         3325    0    0 
+BetDeDraw 974333077  6  5 f   -     -     -         3325    0    0 
+BetDeDraw 974333095  6  4 c   k     b     b         3325  170  240 
+BetDeDraw 974333135  6  3 f   -     -     -         3395    0    0 
+BetDeDraw 974333156  6  2 Bc  k     k     k         3395   35   75 Qc 8s
+BetDeDraw 974333195  6  1 Bf  -     -     -         3435    5    0 
+BetDeDraw 974333218  7  6 f   -     -     -         3430    0    0 
+BetDeDraw 974333240  7  5 f   -     -     -         3430    0    0 
+BetDeDraw 974333252  7  4 f   -     -     -         3430    0    0 
+BetDeDraw 974333289  7  3 c   k     k     k         3430   10    0 4h 7h
+BetDeDraw 974333330  7  2 BQ  -     -     -         3420   10    0 
+BetDeDraw 974333608  6  5 r   -     -     -         3410   35   50 
+BetDeDraw 974333614  6  4 f   -     -     -         3425    0    0 
+BetDeDraw 974333652  7  3 f   -     -     -         3425    0    0 
+BetDeDraw 974333696  7  2 Bk  k     k     kf        3425   10    0 
+BetDeDraw 974333719  7  1 Bc  k     bf    -         3415   40    0 
+BetDeDraw 974333749  8  8 f   -     -     -         3375    0    0 
+BetDeDraw 974333778  8  7 f   -     -     -         3375    0    0 
+BetDeDraw 974333788  8  6 r   b     -     -         3375  375  510 
+BetDeDraw 974333807  8  5 c   kf    -     -         3510   10    0 
+BetDeDraw 974333825  8  4 f   -     -     -         3500    0    0 
+BetDeDraw 974333866  9  3 f   -     -     -         3500    0    0 
+BetDeDraw 974333935  9  2 Br  c     f     -         3500  490    0 
+BetDeDraw 974333992  9  1 Bf  -     -     -         3010    5    0 
+BetDeDraw 974334072  9  9 c   c     c     rA        3005 3005 6050 Td Ac
+BetDeDraw 974334120  9  8 c   k     f     -         6050   10    0 
+BetDeDraw 974334167  9  7 f   -     -     -         6040    0    0 
+BetDeDraw 974334220  9  6 f   -     -     -         6040    0    0 
+BetDeDraw 974334271  9  5 c   b     b     b         6040  280  600 6d Ad
+BetDeDraw 974334349  9  4 f   -     -     -         6360    0    0 
+BetDeDraw 974334371  9  3 c   k     b     b         6360  285  440 
+BetDeDraw 974334406  9  2 Bk  k     f     -         6515   10    0 
+BetDeDraw 974334428  9  1 Bf  -     -     -         6505    5    0 
+BetDeDraw 974334479  9  9 c   f     -     -         6500   45    0 
+BetDeDraw 974334524  9  8 f   -     -     -         6455    0    0 
+BetDeDraw 974334574  9  7 f   -     -     -         6455    0    0 
+BetDeDraw 974334604  9  7 f   -     -     -         6455    0    0 
+BetDeDraw 974334622  8  5 f   -     -     -         6455    0    0 
+BetDeDraw 974334647  8  4 c   kf    -     -         6455   10    0 
+BetDeDraw 974334687  8  3 c   k     b     kc        6445  230  495 Qc Qd
+BetDeDraw 974334762  7  1 Bf  -     -     -         6710   10    0 
+BetDeDraw 974334776  7  1 Bc  b     kf    -         6700   30    0 
+BetDeDraw 974334806  6  6 r   c     f     -         6670  110    0 
+BetDeDraw 974334823  6  5 f   -     -     -         6560    0    0 
+BetDeDraw 974334841  6  4 f   -     -     -         6560    0    0 
+BetDeDraw 974334854  6  3 r   -     -     -         6560   35   50 
+BetDeDraw 974334860  6  2 B   -     -     -         6575   10   15 
+BetDeDraw 974334879  6  1 Bc  kf    -     -         6580   10    0 
+BetDeDraw 974334896  6  6 f   -     -     -         6570    0    0 
+BetDeDraw 974334926  6  5 f   -     -     -         6570    0    0 
+BetDeDraw 974334937  6  4 f   -     -     -         6570    0    0 
+BetDeDraw 974334948  6  3 f   -     -     -         6570    0    0 
+BetDeDraw 974334974  6  2 Bk  k     k     k         6570   10   25 8s Qh
+BetDeDraw 974335005  7  1 Bf  -     -     -         6585    5    0 
+BetDeDraw 974335026  7  7 f   -     -     -         6580    0    0 
+BetDeDraw 974335056  7  6 c   c     f     -         6580   40    0 
+BetDeDraw 974335079  7  5 f   -     -     -         6540    0    0 
+BetDeDraw 974335114  7  4 r   -     -     -         6540   35   50 
+BetDeDraw 974335125  7  3 f   -     -     -         6555    0    0 
+BetDeDraw 974335158  7  2 Bk  kf    -     -         6555   10    0 
+BetDeDraw 974335172  7  1 Bc  k     kf    -         6545   10    0 
+BetDeDraw 974335234  7  7 f   -     -     -         6535    0    0 
+BetDeDraw 974335280  7  6 c   c     b     -         6535  160  240 
+BetDeDraw 974335303  7  5 cc  f     -     -         6615   40    0 
+BetDeDraw 974335315  7  4 f   -     -     -         6575    0    0 
+BetDeDraw 974335342  8  4 f   -     -     -         6575    0    0 
+BetDeDraw 974335376  8  3 f   -     -     -         6575    0    0 
+BetDeDraw 974335417  9  2 Bk  b     k     k         6575   45  105 Qs Ac
+BetDeDraw 974335452 10  1 Bf  -     -     -         6635    5    0 
+BetDeDraw 974335505  8  8 c   c     c     k         6630  235  540 Qs Td
+BetDeDraw 974335568  9  8 f   -     -     -         6935    0    0 
+BetDeDraw 974335605  9  7 f   -     -     -         6935    0    0 
+BetDeDraw 974335645  9  6 c   k     kf    -         6935   10    0 
+BetDeDraw 974335682  9  5 r   bc    kc    kf        6925  589    0 
+BetDeDraw 974335751  9  4 f   -     -     -         6336    0    0 
+BetDeDraw 974335776  8  2 Bf  -     -     -         6336   10    0 
+BetDeDraw 974335837  8  1 Bc  kc    kf    -         6326  495    0 
+BetDeDraw 974335917  8  8 cc  k     f     -         5831   50    0 
+BetDeDraw 974335988  7  6 c   b     k     b         5781  210  300 
+BetDeDraw 974336046  8  6 f   -     -     -         5871    0    0 
+BetDeDraw 974336079  8  5 f   -     -     -         5871    0    0 
+BetDeDraw 974336114  8  4 f   -     -     -         5871    0    0 
+BetDeDraw 974336167  8  3 f   -     -     -         5871    0    0 
+BetDeDraw 974336177  8  2 Bf  -     -     -         5871   10    0 
+BetDeDraw 974336227  8  1 Bc  kf    -     -         5861   10    0 
+BetDeDraw 974336257  8  3 Q   -     -     -         5851    0    0 
+BetDeDraw 974396145  2  1 Bf  -     -     -         5851    5    0 
+BetDeDraw 974396155  2  2 B   -     -     -         5846   10   15 
+BetDeDraw 974396158  2  1 Bcc k     k     k         5851   30    0 Ac Qh
+BetDeDraw 974396180  2  2 B   -     -     -         5821   10   15 
+BetDeDraw 974396185  2  1 Bf  -     -     -         5826    5    0 
+BetDeDraw 974396189  2  2 B   -     -     -         5821   10   15 
+BetDeDraw 974396191  2  1 Bc  b     -     -         5826   30   40 
+BetDeDraw 974396197  2  2 B   -     -     -         5836   10   15 
+BetDeDraw 974396200  2  1 Bf  -     -     -         5841    5    0 
+BetDeDraw 974396201  2  2 Bf  -     -     -         5836   10    0 
+BetDeDraw 974396205  2  1 Bcc kf    -     -         5826   30    0 
+BetDeDraw 974396214  2  2 Bf  -     -     -         5796   10    0 
+BetDeDraw 974396216  2  1 Bf  -     -     -         5786    5    0 
+BetDeDraw 974396218  2  2 Bk  k     k     -         5781   10   20 
+BetDeDraw 974396233  2  1 Bcc kc    k     krrA      5791 5791 11582 Qc Kc
+BetDeDraw 974396268  2  2 Bc  k     k     -        11582   30   60 
+BetDeDraw 974396289  2  1 Bcc k     -     -        11612   30   60 
+BetDeDraw 974396299  2  2 Bf  -     -     -        11642   10    0 
+BetDeDraw 974396303  2  1 Bcc kf    -     -        11632   30    0 
+BetDeDraw 974396314  2  2 Bf  -     -     -        11602   10    0 
+BetDeDraw 974396316  2  1 Bcc bf    -     -        11592   90    0 
+BetDeDraw 974396329  2  2 Bf  -     -     -        11502   10    0 
+BetDeDraw 974396331  2  1 Bf  -     -     -        11492    5    0 
+BetDeDraw 974396334  2  2 Bc  c     -     -        11487   90  180 
+BetDeDraw 974396342  2  1 Bf  -     -     -        11577    5    0 
+BetDeDraw 974396346  2  2 Bf  -     -     -        11572   10    0 
+BetDeDraw 974396349  2  1 Bcc kc    k     -        11562   90  180 
+BetDeDraw 974396360  2  2 Bf  -     -     -        11652   10    0 
+BetDeDraw 974396365  2  1 Bf  -     -     -        11642    5    0 
+BetDeDraw 974396368  2  2 Bf  -     -     -        11637   10    0 
+BetDeDraw 974396371  2  1 Bcc kc    kc    k        11627  270  540 
+BetDeDraw 974396387  2  2 Bf  -     -     -        11897   10    0 
+BetDeDraw 974396390  2  1 Bf  -     -     -        11887    5    0 
+BetDeDraw 974396393  2  2 Bc  f     -     -        11882   30    0 
+BetDeDraw 974396398  2  1 Bcc k     -     -        11852   30   60 
+BetDeDraw 974396406  2  2 Bc  f     -     -        11882   30    0 
+BetDeDraw 974396414  2  1 Bcc kf    -     -        11852   30    0 
+BetDeDraw 974396422  2  2 Bf  -     -     -        11822   10    0 
+BetDeDraw 974396424  2  1 Bcc k     k     -        11812   30   60 
+BetDeDraw 974396436  2  2 Bc  -     -     -        11842   30   60 
+BetDeDraw 974396440  2  1 Bc  -     -     -        11872   10   20 
+BetDeDraw 974396443  2  2 Bc  c     c     k        11882  270    0 Qc Js
+BetDeDraw 974396458  2  1 Bf  -     -     -        11612    5    0 
+BetDeDraw 974396463  2  2 Bf  -     -     -        11607   10    0 
+BetDeDraw 974396466  2  1 Bcc kc    k     -        11597   90  180 
+BetDeDraw 974396477  2  2 Bf  -     -     -        11687   10    0 
+BetDeDraw 974396481  2  1 Bc  -     -     -        11677   10   20 
+BetDeDraw 974396483  2  2 Bc  f     -     -        11687   30    0 
+BetDeDraw 974396488  2  1 Bf  -     -     -        11657    5    0 
+BetDeDraw 974396492  2  2 Bc  -     -     -        11652   30   60 
+BetDeDraw 974396498  2  1 Bf  -     -     -        11682    5    0 
+BetDeDraw 974396501  2  2 B   -     -     -        11677   10   15 
+BetDeDraw 974396504  2  1 Bcc k     b     -        11682   90  120 
+BetDeDraw 974396516  2  2 B   -     -     -        11712   10   15 
+BetDeDraw 974396518  2  1 Bc  -     -     -        11717   10   20 
+BetDeDraw 974396522  2  2 B   -     -     -        11727   10   15 
+BetDeDraw 974396524  2  1 Bcc krc   kc    kc       11732 7290 14580 Ks Kd
+BetDeDraw 974396546  2  2 Bc  c     c     f        19022  270    0 
+BetDeDraw 974396563  2  1 Bcc k     -     -        18752   30   60 
+BetDeDraw 974396570  2  2 Bc  -     -     -        18782   30   60 
+BetDeDraw 974396574  2  1 Bf  -     -     -        18812    5    0 
+BetDeDraw 974396577  2  2 Bf  -     -     -        18807   10    0 
+BetDeDraw 974396583  2  1 Bcc kc    b     -        18797  270  360 
+BetDeDraw 974396596  3  3 cc  c     f     -        18887  130    0 
+BetDeDraw 974396608  3  2 Bc  k     f     -        18757   35    0 
+BetDeDraw 974396621  3  1 Bcc kc    kf    -        18722   90    0 
+BetDeDraw 974396644  3  3 f   -     -     -        18632    0    0 
+BetDeDraw 974396653  3  2 Bc  k     -     -        18632   35   75 
+BetDeDraw 974396661  3  1 Bcc bc    k     k        18672  270  540 
+BetDeDraw 974396688  3  3 f   -     -     -        18942    0    0 
+BetDeDraw 974396695  3  2 Bc  kc    kc    k        18942  335  675 
+BetDeDraw 974396711  3  1 Bcc kc    kc    k        19282  270  540 Ac 5c
+BetDeDraw 974396730  3  3 cc  c     k     k        19552  160  360 Qd Jh
+BetDeDraw 974396751  3  2 Bc  kf    -     -        19752   35    0 
+BetDeDraw 974396765  3  1 Bf  -     -     -        19717    5    0 
+BetDeDraw 974396769  3  3 cc  f     -     -        19712   40    0 
+BetDeDraw 974396783  3  2 Bc  kf    -     -        19672   35    0 
+BetDeDraw 974396799  3  1 Bcc kf    -     -        19637  140    0 
+BetDeDraw 974396813  3  3 cc  f     -     -        19497   40    0 
+BetDeDraw 974396823  3  2 Bc  kf    -     -        19457   35    0 
+BetDeDraw 974396840  3  1 Bf  -     -     -        19422    5    0 
+BetDeDraw 974396843  3  3 f   -     -     -        19417    0    0 
+BetDeDraw 974396848  3  2 Bc  kc    k     -        19417  110  225 
+BetDeDraw 974396859  3  1 Bcc kc    k     k        19532   90  180 Js Ks
+BetDeDraw 974396871  3  3 cc  c     c     k        19622  520    0 8d 6h
+BetDeDraw 974396891  3  2 Bc  c     b     -        19102  455  630 
+BetDeDraw 974396907  3  1 Brc b     -     -        19277  270  360 
+BetDeDraw 974396918  3  3 f   -     -     -        19367    0    0 
+BetDeDraw 974396935  3  2 Bc  k     -     -        19367   35   75 
+BetDeDraw 974396941  3  1 Bf  -     -     -        19407    5    0 
+BetDeDraw 974396945  3  3 f   -     -     -        19402    0    0 
+BetDeDraw 974396952  3  2 Bc  kf    -     -        19402   35    0 
+BetDeDraw 974396961  3  1 Bcc kc    k     k        19367   90  180 8c Qh
+BetDeDraw 974396976  3  3 cc  f     -     -        19457   40    0 
+BetDeDraw 974396988  3  2 Bc  kc    kc    k        19417  335  675 
+BetDeDraw 974397003  3  1 Bf  -     -     -        19757    5    0 
+BetDeDraw 974397019  3  3 f   -     -     -        19752    0    0 
+BetDeDraw 974397030  3  2 Bf  -     -     -        19752   10    0 
+BetDeDraw 974397033  3  1 Bf  -     -     -        19742    5    0 
+BetDeDraw 974397036  3  3 f   -     -     -        19737    0    0 
+BetDeDraw 974397050  3  2 Bf  -     -     -        19737   10    0 
+BetDeDraw 974397058  3  1 Bcc k     -     -        19727   30   60 
+BetDeDraw 974397066  3  3 f   -     -     -        19757    0    0 
+BetDeDraw 974397071  3  2 Bf  -     -     -        19757   10    0 
+BetDeDraw 974397079  3  1 Bc  -     -     -        19747   10   20 
+BetDeDraw 974397082  3  3 cc  f     -     -        19757   35    0 
+BetDeDraw 974397091  3  2 B   -     -     -        19722   10   15 
+BetDeDraw 974397094  3  1 Bcc kf    -     -        19727   30    0 
+BetDeDraw 974397103  3  3 f   -     -     -        19697    0    0 
+BetDeDraw 974397109  3  2 Bc  b     -     -        19697  110  150 
+BetDeDraw 974397116  3  1 Bcc bc    kc    k        19737  810    0 Ah 3c
+BetDeDraw 974397135  3  3 f   -     -     -        18927    0    0 
+BetDeDraw 974397142  3  2 Bf  -     -     -        18927   10    0 
+BetDeDraw 974397145  3  1 Bc  -     -     -        18917   10   20 
+BetDeDraw 974397149  3  3 f   -     -     -        18927    0    0 
+BetDeDraw 974397152  3  2 Bc  c     b     -        18927  180  270 
+BetDeDraw 974397165  3  1 Bf  -     -     -        19017    5    0 
+BetDeDraw 974397171  3  3 f   -     -     -        19012    0    0 
+BetDeDraw 974397186  3  2 Bc  c     k     c        19012  560    0 7h 7d
+BetDeDraw 974397204  3  1 Bf  -     -     -        18452    5    0 
+BetDeDraw 974397220  3  3 f   -     -     -        18447    0    0 
+BetDeDraw 974397222  3  2 Bf  -     -     -        18447   10    0 
+BetDeDraw 974397226  3  1 Brc kc    kc    k        18437  810 1620 
+BetDeDraw 974397241  3  3 cc  c     c     c        19247 1600 3240 6h Jh
+BetDeDraw 974397257  3  2 Bc  cc    k     b        20887 1190 1890 
+BetDeDraw 974397279  4  1 Bf  -     -     -        21587    5    0 
+BetDeDraw 974397287  4  4 cc  c     r     -        21582 1600 2160 
+BetDeDraw 974397301  4  3 f   -     -     -        22142    0    0 
+BetDeDraw 974397319  4  2 Bc  kf    -     -        22142   35    0 
+BetDeDraw 974397326  4  1 Bf  -     -     -        22107    5    0 
+BetDeDraw 974397334  4  4 f   -     -     -        22102    0    0 
+BetDeDraw 974397348  4  3 f   -     -     -        22102    0    0 
+BetDeDraw 974397360  4  2 Bc  kf    -     -        22102   35    0 
+BetDeDraw 974397369  4  1 Bcc k     -     -        22067   30   60 
+BetDeDraw 974397377  4  4 f   -     -     -        22097    0    0 
+BetDeDraw 974397383  4  3 cc  kf    -     -        22097   45    0 
+BetDeDraw 974397407  4  2 Bf  -     -     -        22052   10    0 
+BetDeDraw 974397412  4  1 Bcc kc    k     k        22042   90    0 4h 3h
+BetDeDraw 974397427  4  4 f   -     -     -        21952    0    0 
+BetDeDraw 974397442  4  4 f   -     -     -        21952    0    0 
+BetDeDraw 974397462  4  3 f   -     -     -        21952    0    0 
+BetDeDraw 974397464  3  1 Bk  k     k     k        21952   10    0 9c Jh
+BetDeDraw 974397481  3  1 Bcc kc    kc    k        21942  270    0 6c 5d
+BetDeDraw 974397499  3  3 f   -     -     -        21672    0    0 
+BetDeDraw 974397507  3  2 B   -     -     -        21672   10   15 
+BetDeDraw 974397509  3  1 Bf  -     -     -        21677    5    0 
+BetDeDraw 974397512  3  3 c   b     -     -        21672   40   60 
+BetDeDraw 974397522  3  2 Bk  k     b     -        21692   30   40 
+BetDeDraw 974397543  3  1 Br  bf    -     -        21702  130    0 
+BetDeDraw 974397558  4  3 f   -     -     -        21572    0    0 
+BetDeDraw 974397570  4  2 Bk  k     k     k        21572   10   30 Td 5c
+BetDeDraw 974397587  4  1 Bf  -     -     -        21592    5    0 
+BetDeDraw 974397597  4  4 c   c     b     -        21587  130  180 
+BetDeDraw 974397614  4  3 c   f     -     -        21637   10    0 
+BetDeDraw 974397623  4  2 Bk  k     b     -        21627   35   50 
+BetDeDraw 974397634  4  1 Bc  kf    -     -        21642   35    0 
+BetDeDraw 974397644  4  4 c   r     -     -        21607  110  150 
+BetDeDraw 974397652  4  3 c   k     b     -        21647   40   60 
+BetDeDraw 974397670  4  2 Bf  -     -     -        21667   10    0 
+BetDeDraw 974397674  4  1 Bc  kf    -     -        21657   10    0 
+BetDeDraw 974397683  4  4 c   c     c     c        21647  465  945 Kh Ts
+BetDeDraw 974397706  4  3 f   -     -     -        22127    0    0 
+BetDeDraw 974397719  4  2 Bk  kf    -     -        22127   10    0 
+BetDeDraw 974397751  6  1 Bf  -     -     -        22117    5    0 
+BetDeDraw 974397764  6  6 f   -     -     -        22112    0    0 
+BetDeDraw 974397778  6  5 f   -     -     -        22112    0    0 
+BetDeDraw 974397818  5  3 f   -     -     -        22112    0    0 
+BetDeDraw 974397834  5  3 c   b     -     -        22112   35   50 
+BetDeDraw 974397848  5  2 Bf  -     -     -        22127   10    0 
+BetDeDraw 974397852  5  1 Bf  -     -     -        22117    5    0 
+BetDeDraw 974397869  5  5 f   -     -     -        22112    0    0 
+BetDeDraw 974397894  5  4 f   -     -     -        22112    0    0 
+BetDeDraw 974397913  5  3 f   -     -     -        22112    0    0 
+BetDeDraw 974397937  5  2 Bk  kf    -     -        22112   10    0 
+BetDeDraw 974397967  5  1 Bc  k     -     -        22102   35   80 
+BetDeDraw 974397977  4  4 f   -     -     -        22147    0    0 
+BetDeDraw 974397980  4  3 f   -     -     -        22147    0    0 
+BetDeDraw 974397990  4  2 Bc  kf    -     -        22147   35    0 
+BetDeDraw 974397999  4  1 Bc  k     -     -        22112   35   80 
+BetDeDraw 974398011  3  3 f   -     -     -        22157    0    0 
+BetDeDraw 974398017  2  2 Bc  c     k     k        22157   90    0 Jc Qc
+BetDeDraw 974398032  2  1 Bf  -     -     -        22067    5    0 
+BetDeDraw 974398038  2  2 B   -     -     -        22062   10   15 
+BetDeDraw 974398040  2  1 Bcc k     -     -        22067   30   60 
+BetDeDraw 974398048  2  2 B   -     -     -        22097   10   15 
+BetDeDraw 974398050  2  1 Bf  -     -     -        22102    5    0 
+BetDeDraw 974398053  2  2 Bf  -     -     -        22097   10    0 
+BetDeDraw 974398057  2  1 Bf  -     -     -        22087    5    0 
+BetDeDraw 974398060  2  2 Bc  c     b     -        22082  270  360 
+BetDeDraw 974398070  2  1 Bcc kc    k     k        22172   90  180 3s 6s
+BetDeDraw 974398086  2  2 Bc  f     -     -        22262   30    0 
+BetDeDraw 974398094  2  1 Bcc kc    kc    kc       22232  810    0 Ks Ts
+BetDeDraw 974398108  2  2 B   -     -     -        21422   10   15 
+BetDeDraw 974398113  2  1 Bcc kc    kc    kf       21427  270    0 
+BetDeDraw 974398128  2  2 Bc  f     -     -        21157   30    0 
+BetDeDraw 974398135  2  1 Brc k     k     k        21127   90  180 Ad 4s
+BetDeDraw 974398149  2  2 Bf  -     -     -        21217   10    0 
+BetDeDraw 974398157  2  1 Bf  -     -     -        21207    5    0 
+BetDeDraw 974398159  2  2 B   -     -     -        21202   10   15 
+BetDeDraw 974398160  2  1 Bf  -     -     -        21207    5    0 
+BetDeDraw 974398162  2  2 Bc  c     b     -        21202  270  360 
+BetDeDraw 974398170  2  1 Bcc kf    -     -        21292   30    0 
+BetDeDraw 974398177  2  2 Bf  -     -     -        21262   10    0 
+BetDeDraw 974398180  2  1 Bf  -     -     -        21252    5    0 
+BetDeDraw 974398184  2  2 B   -     -     -        21247   10   15 
+BetDeDraw 974398187  2  1 Bf  -     -     -        21252    5    0 
+BetDeDraw 974398190  2  2 B   -     -     -        21247   10   15 
+BetDeDraw 974398193  2  1 Bf  -     -     -        21252    5    0 
+BetDeDraw 974398196  2  2 Bc  -     -     -        21247   30   60 
+BetDeDraw 974398203  2  1 Bf  -     -     -        21277    5    0 
+BetDeDraw 974398206  2  2 Bf  -     -     -        21272   10    0 
+BetDeDraw 974398211  2  1 Bc  -     -     -        21262   10   20 
+BetDeDraw 974398213  2  2 Bc  c     r     -        21272  810 1080 
+BetDeDraw 974398225  2  1 Bcc kf    -     -        21542   30    0 
+BetDeDraw 974398234  2  2 Bf  -     -     -        21512   10    0 
+BetDeDraw 974398237  2  1 Bc  -     -     -        21502   10   20 
+BetDeDraw 974398240  2  2 B   -     -     -        21512   10   15 
+BetDeDraw 974398242  2  1 Bf  -     -     -        21517    5    0 
+BetDeDraw 974398246  2  2 B   -     -     -        21512   10   15 
+BetDeDraw 974398255  2  1 Bcc kc    k     k        21517   90  180 Td 8c
+BetDeDraw 974398273  2  2 B   -     -     -        21607   10   15 
+BetDeDraw 974398279  2  1 Bcc k     -     -        21612   30   60 
+BetDeDraw 974398285  2  2 Bc  -     -     -        21642   30   60 
+BetDeDraw 974398290  2  1 Bf  -     -     -        21672    5    0 
+BetDeDraw 974398293  2  2 Bc  -     -     -        21667   30   60 
+BetDeDraw 974398297  2  1 Bf  -     -     -        21697    5    0 
+BetDeDraw 974398299  2  2 Bf  -     -     -        21692   10    0 
+BetDeDraw 974398302  2  1 Bc  -     -     -        21682   10   20 
+BetDeDraw 974398305  2  2 B   -     -     -        21692   10   15 
+BetDeDraw 974398309  2  1 Bc  -     -     -        21697   10   20 
+BetDeDraw 974398313  2  2 B   -     -     -        21707   10   15 
+BetDeDraw 974398316  2  1 Bf  -     -     -        21712    5    0 
+BetDeDraw 974398318  2  2 Bf  -     -     -        21707   10    0 
+BetDeDraw 974398321  2  1 Bc  -     -     -        21697   10   20 
+BetDeDraw 974398324  2  2 Bf  -     -     -        21707   10    0 
+BetDeDraw 974398329  2  1 Bc  -     -     -        21697   10   20 
+BetDeDraw 974398333  2  2 B   -     -     -        21707   10   15 
+BetDeDraw 974398338  2  1 Bcc kc    k     b        21712  270  360 
+BetDeDraw 974398352  2  2 B   -     -     -        21802   10   15 
+BetDeDraw 974398355  2  1 Bf  -     -     -        21807    5    0 
+BetDeDraw 974398357  2  2 Bc  c     -     -        21802   90  180 
+BetDeDraw 974398365  2  1 Bf  -     -     -        21892    5    0 
+BetDeDraw 974398367  2  2 Bf  -     -     -        21887   10    0 
+BetDeDraw 974398370  2  1 Bcc k     kc    kf       21877   90    0 
+BetDeDraw 974398389  2  2 Bf  -     -     -        21787   10    0 
+BetDeDraw 974398391  2  1 Bf  -     -     -        21777    5    0 
+BetDeDraw 974398393  2  2 Brc k     c     c        21772 2430    0 3s 3h
+BetDeDraw 974398413  2  1 Bc  -     -     -        19342   10   20 
+BetDeDraw 974398423  2  2 Bc  -     -     -        19352   30   60 
+BetDeDraw 974398431  2  1 Bc  -     -     -        19382   10   20 
+BetDeDraw 974398434  2  2 B   -     -     -        19392   10   15 
+BetDeDraw 974398436  2  1 Bf  -     -     -        19397    5    0 
+BetDeDraw 974398437  2  2 B   -     -     -        19392   10   15 
+BetDeDraw 974398439  2  1 Bf  -     -     -        19397    5    0 
+BetDeDraw 974398442  2  2 Bf  -     -     -        19392   10    0 
+BetDeDraw 974398446  2  1 Bf  -     -     -        19382    5    0 
+BetDeDraw 974398448  2  2 Bc  -     -     -        19377   30   60 
+BetDeDraw 974398454  2  1 Bcrr bc    k     k        19407 7290 14580 Ac As
+BetDeDraw 974398479  2  2 B   -     -     -        26697   10   15 
+BetDeDraw 974398483  2  1 Bcc kc    kc    k        26702  270    0 Qs 7s
+BetDeDraw 974398502  2  2 B   -     -     -        26432   10   15 
+BetDeDraw 974398507  2  1 Bf  -     -     -        26437    5    0 
+BetDeDraw 974398509  2  2 B   -     -     -        26432   10   15 
+BetDeDraw 974398510  2  1 Bf  -     -     -        26437    5    0 
+BetDeDraw 974398511  2  2 B   -     -     -        26432   10   15 
+BetDeDraw 974398513  2  1 Bf  -     -     -        26437    5    0 
+BetDeDraw 974398517  2  2 B   -     -     -        26432   10   15 
+BetDeDraw 974398519  2  1 Bc  -     -     -        26437   10   20 
+BetDeDraw 974398524  2  2 B   -     -     -        26447   10   15 
+BetDeDraw 974398526  2  1 Bf  -     -     -        26452    5    0 
+BetDeDraw 974398528  2  2 Bc  -     -     -        26447   30   60 
+BetDeDraw 974398534  2  1 Bcc k     -     -        26477   30   60 
+BetDeDraw 974398544  2  2 Bc  -     -     -        26507   30   60 
+BetDeDraw 974398548  2  1 Bcc kf    -     -        26537   30    0 
+BetDeDraw 974398559  2  2 Bc  c     c     c        26507  810    0 Kc Ad
+BetDeDraw 974398573  2  1 Bcc kf    -     -        25697   30    0 
+BetDeDraw 974398586  2  2 B   -     -     -        25667   10   15 
+BetDeDraw 974398588  2  1 Bc  -     -     -        25672   10   20 
+BetDeDraw 974398590  2  2 Bf  -     -     -        25682   10    0 
+BetDeDraw 974398593  2  1 Bf  -     -     -        25672    5    0 
+BetDeDraw 974398595  2  2 B   -     -     -        25667   10   15 
+BetDeDraw 974398598  2  1 Bf  -     -     -        25672    5    0 
+BetDeDraw 974398601  2  2 B   -     -     -        25667   10   15 
+BetDeDraw 974398604  2  1 Bf  -     -     -        25672    5    0 
+BetDeDraw 974398607  2  2 Bc  -     -     -        25667   30   60 
+BetDeDraw 974398613  2  1 Bc  -     -     -        25697   10   20 
+BetDeDraw 974398617  2  2 Bc  rc    rrA   -        25707 25707 51414 6c 5c
+BetDeDraw 974398635  2  1 Bcc kc    kf    -        51414   90    0 
+BetDeDraw 974398649  2  2 Bc  c     c     -        51324  270  540 
+BetDeDraw 974398659  2  1 Bf  -     -     -        51594    5    0 
+BetDeDraw 974398663  2  2 Bc  c     f     -        51589   90    0 
+BetDeDraw 974398672  2  1 Bf  -     -     -        51499    5    0 
+BetDeDraw 974398675  2  2 Bf  -     -     -        51494   10    0 
+BetDeDraw 974398681  2  1 Bf  -     -     -        51484    5    0 
+BetDeDraw 974398686  2  2 Bc  f     -     -        51479   30    0 
+BetDeDraw 974398707  2  1 Bcc kf    -     -        51449   30    0 
+BetDeDraw 974398718  2  2 Bc  c     c     c        51419  810 1620 Ks Kc
+BetDeDraw 974398728  2  1 Bcc kc    kc    kf       52229  270    0 
+BetDeDraw 974398750  2  2 Bf  -     -     -        51959   10    0 
+BetDeDraw 974398754  2  1 Bcc kf    -     -        51949   30    0 
+BetDeDraw 974398763  2  2 Bc  c     c     -        51919  270  540 
+BetDeDraw 974398773  2  1 Bf  -     -     -        52189    5    0 
+BetDeDraw 974398778  2  2 Bc  c     r     -        52184  810 1080 
+BetDeDraw 974398788  2  1 Bf  -     -     -        52454    5    0 
+BetDeDraw 974398791  2  2 Bc  -     -     -        52449   30   60 
+BetDeDraw 975012225  2  2 Bk  f     -     -         3263   10    0 
+BetDeDraw 975012241  2  1 Bcc kf    -     -         3253   30    0 
+BetDeDraw 975012249  2  2 Bf  -     -     -         3223   10    0 
+BetDeDraw 975012253  3  1 Bf  -     -     -         3213    5    0 
+BetDeDraw 975012257  3  3 c   f     -     -         3208   10    0 
+BetDeDraw 975012283  3  2 Br  rc    c     -         3198 3085    0 Th Td
+BetDeDraw 975012316  3  1 Bf  -     -     -          113    5    0 
+BetDeDraw 975012337  3  3 c   k     k     k          108   10    0 8c 7c
+BetDeDraw 975012383  4  2 Bf  -     -     -           98   10    0 
+BetDeDraw 975012398  4  1 Bf  -     -     -           88    5    0 
+BetDeDraw 975012420  4  4 f   -     -     -           83    0    0 
+BetDeDraw 975012461  4  3 f   -     -     -           83    0    0 
+BetDeDraw 975012467  4  2 Bc  bA    -     -           83   83  166 Qd Ks
+BetDeDraw 975012512  4  1 Bf  -     -     -          166    5    0 
+BetDeDraw 975012521  4  4 f   -     -     -          161    0    0 
+BetDeDraw 975012571  4  3 f   -     -     -          161    0    0 
+BetDeDraw 975012601  4  2 Bf  -     -     -          161   10    0 
+BetDeDraw 975012609  4  1 Bc  kf    -     -          151   10    0 
+BetDeDraw 975012633  4  4 f   -     -     -          141    0    0 
+BetDeDraw 975012638  4  3 cc  cA    -     -          141  141  322 Ks 4s
+BetDeDraw 975012686  4  2 Bf  -     -     -          322   10    0 
+BetDeDraw 975012706  4  1 Br  bA    -     -          312  312    0 2d 2h

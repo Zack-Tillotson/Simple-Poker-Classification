@@ -1,0 +1,98 @@
+PruneTang 974092748 10  6 f   -     -     -         6139    0    0 
+PruneTang 974092787 10  5 c   f     -     -         6139   35    0 
+PruneTang 974092845 10  4 c   kf    -     -         6104   10    0 
+PruneTang 974092907 10  3 c   cc    b     -         6094 1390 2280 
+PruneTang 974092971 10  2 Bf  -     -     -         6984   10    0 
+PruneTang 974093002 10  1 Bf  -     -     -         6974    5    0 
+PruneTang 974093027 10 10 f   -     -     -         6969    0    0 
+PruneTang 974093080 10  9 f   -     -     -         6969    0    0 
+PruneTang 974093129  9  7 c   kf    -     -         6969   40    0 
+PruneTang 974093168 10  7 c   f     -     -         6929   35    0 
+PruneTang 974093182 10  6 f   -     -     -         6894    0    0 
+PruneTang 974093216 10  5 f   -     -     -         6894    0    0 
+PruneTang 974093250 10  4 c   k     f     -         6894   10    0 
+PruneTang 974093283 10  3 cc  b     -     -         6884  225  360 
+PruneTang 974093315 10  2 Bc  f     -     -         7019   70    0 
+PruneTang 974093359 10  1 Bf  -     -     -         6949    5    0 
+PruneTang 974093410 10 10 f   -     -     -         6944    0    0 
+PruneTang 974093465 10  9 f   -     -     -         6944    0    0 
+PruneTang 974093539 10  8 cc  f     -     -         6944  245    0 
+PruneTang 974093596 10  7 f   -     -     -         6699    0    0 
+PruneTang 974093625 10  6 c   k     f     -         6699   10    0 
+PruneTang 974093678 10  5 c   f     -     -         6689   35    0 
+PruneTang 974093710 10  4 f   -     -     -         6654    0    0 
+PruneTang 974093754 10  3 c   kf    -     -         6654   10    0 
+PruneTang 974093798 10  2 Bk  b     b     -         6644  210  320 
+PruneTang 974093839 10  1 Bf  -     -     -         6754    5    0 
+PruneTang 974093871 10 10 c   f     -     -         6749   10    0 
+PruneTang 974093905 10  9 f   -     -     -         6739    0    0 
+PruneTang 974093938 10  8 cc  f     -     -         6739   55    0 
+PruneTang 974093979 10  7 c   k     k     f         6684   10    0 
+PruneTang 974094042  9  6 cc  k     k     k         6674   65    0 As 5s
+PruneTang 974094085  9  5 f   -     -     -         6609    0    0 
+PruneTang 974094149 10  4 f   -     -     -         6609    0    0 
+PruneTang 974094156 10  3 f   -     -     -         6609    0    0 
+PruneTang 974094200 10  2 Bf  -     -     -         6609   10    0 
+PruneTang 974094230 10  1 Bc  kc    k     k         6599  995 2415 Js Jc
+PruneTang 974094370  9  9 f   -     -     -         8019    0    0 
+PruneTang 974094395 10  9 c   c     c     c         8019 1165    0 Th Ks
+PruneTang 974094445 10  8 c   c     k     k         6854   80    0 Ts Jh
+PruneTang 974094521 10  7 f   -     -     -         6774    0    0 
+PruneTang 974094562 10  6 c   c     f     -         6774   45    0 
+PruneTang 974094590 10  5 f   -     -     -         6729    0    0 
+PruneTang 974094629 10  4 f   -     -     -         6729    0    0 
+PruneTang 974094668 10  3 c   kc    kc    kf        6729  230    0 
+PruneTang 974094738 10  2 Bf  -     -     -         6499   10    0 
+PruneTang 974094793 10  1 Bf  -     -     -         6489    5    0 
+PruneTang 974094825 10 10 c   b     b     k         6484  185  420 Th 9d
+PruneTang 974094868 10  9 f   -     -     -         6719    0    0 
+PruneTang 974094918 10  8 c   k     kf    -         6719   10    0 
+PruneTang 974094962 10  7 f   -     -     -         6709    0    0 
+PruneTang 974095006 10  6 f   -     -     -         6709    0    0 
+PruneTang 974095040 10  5 f   -     -     -         6709    0    0 
+PruneTang 974095116 10  4 cc  b     b     b         6709 1865 2520 
+PruneTang 974095167 10  3 c   f     -     -         7364   10    0 
+PruneTang 974095190 10  2 Bf  -     -     -         7354   10    0 
+PruneTang 974095221 10  1 Bf  -     -     -         7344    5    0 
+PruneTang 974095272 10 10 f   -     -     -         7339    0    0 
+PruneTang 974095316 10  9 f   -     -     -         7339    0    0 
+PruneTang 974095340 10  8 f   -     -     -         7339    0    0 
+PruneTang 974095428 10  7 f   -     -     -         7339    0    0 
+PruneTang 974095480 10  6 f   -     -     -         7339    0    0 
+PruneTang 974095532 10  5 cc  k     c     b         7339 1375 1980 
+PruneTang 974095621 10  4 f   -     -     -         7944    0    0 
+PruneTang 974095677 10  3 f   -     -     -         7944    0    0 
+PruneTang 974095735 10  2 Bk  k     k     k         7944   10    0 7h 3h
+PruneTang 974095763 10  1 Bc  k     k     k         7934   35    0 9c Jd
+PruneTang 974095804 10 10 f   -     -     -         7899    0    0 
+PruneTang 974095863 10  9 c   f     -     -         7899   10    0 
+PruneTang 974095908 10  8 c   f     -     -         7889   10    0 
+PruneTang 974095949 10  7 c   f     -     -         7879   10    0 
+PruneTang 974095997 10  6 c   f     -     -         7869   10    0 
+PruneTang 974096044 10  5 f   -     -     -         7859    0    0 
+PruneTang 974096085 10  4 cc  k     k     k         7859   60    0 2c 4c
+PruneTang 974096130 10  3 f   -     -     -         7799    0    0 
+PruneTang 974096179 10  2 Bf  -     -     -         7799   10    0 
+PruneTang 974096215 10  1 Bf  -     -     -         7789    5    0 
+PruneTang 974096269 10 10 f   -     -     -         7784    0    0 
+PruneTang 974096399  8  7 f   -     -     -         7784    0    0 
+PruneTang 974096474  7  6 f   -     -     -         7784    0    0 
+PruneTang 974096533  8  6 f   -     -     -         7784    0    0 
+PruneTang 974096576  8  5 f   -     -     -         7784    0    0 
+PruneTang 974096620  8  4 f   -     -     -         7784    0    0 
+PruneTang 974096671  8  3 c   b     k     kf        7784   55    0 
+PruneTang 974096703  8  2 Bf  -     -     -         7729   10    0 
+PruneTang 974096752  8  1 Bf  -     -     -         7719    5    0 
+PruneTang 974096778  8  8 f   -     -     -         7714    0    0 
+PruneTang 974096852  8  7 f   -     -     -         7714    0    0 
+PruneTang 974096893  8  6 c   c     c     r         7714 1010 1350 
+PruneTang 974096935  8  5 f   -     -     -         8054    0    0 
+PruneTang 974097003  8  4 f   -     -     -         8054    0    0 
+PruneTang 974097022  8  3 f   -     -     -         8054    0    0 
+PruneTang 974097037  8  2 Bk  k     k     k         8054   10    0 8h Th
+PruneTang 974097061  8  1 Bf  -     -     -         8044    5    0 
+PruneTang 974097070  8  8 c   f     -     -         8039   10    0 
+PruneTang 974097093  8  7 c   k     k     k         8029   10    0 Qh Ts
+PruneTang 974097111  8  6 f   -     -     -         8019    0    0 
+PruneTang 974097137  8  5 f   -     -     -         8019    0    0 
+PruneTang 974097178  8  3 Q   -     -     -         8019    0    0 

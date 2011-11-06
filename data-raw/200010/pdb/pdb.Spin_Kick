@@ -1,0 +1,372 @@
+Spin_Kick 971312713  7  3 c   k     k     kf        3110   10    0 
+Spin_Kick 971312736  7  2 B   -     -     -         3100   10   15 
+Spin_Kick 971312741  7  1 Bc  k     b     b         3105  160  240 
+Spin_Kick 971312767  7  7 c   f     -     -         3165   10    0 
+Spin_Kick 971312795  7  6 r   b     -     -         3155  235  360 
+Spin_Kick 971312827  7  5 f   -     -     -         3280    0    0 
+Spin_Kick 971312855  8  4 f   -     -     -         3280    0    0 
+Spin_Kick 971312906  8  3 f   -     -     -         3395    0    0 
+Spin_Kick 971312925  8  2 Bk  k     k     k         3395   10    0 7c Js
+Spin_Kick 971312951  8  1 Bf  -     -     -         3385    5    0 
+Spin_Kick 971312963  8  8 f   -     -     -         3380    0    0 
+Spin_Kick 971312978  8  7 f   -     -     -         3380    0    0 
+Spin_Kick 971313017  8  6 f   -     -     -         3380    0    0 
+Spin_Kick 971313043  8  5 c   b     b     -         3380  260  400 
+Spin_Kick 971313076  8  4 f   -     -     -         3510    0    0 
+Spin_Kick 971313132  7  3 cc  kf    -     -         3480   50    0 
+Spin_Kick 971313162  6  2 Bk  kf    -     -         3430   10    0 
+Spin_Kick 971313219  5  1 Bf  -     -     -         3420    5    0 
+Spin_Kick 971313238  5  5 c   f     -     -         3415   10    0 
+Spin_Kick 971313276  6  5 c   rf    -     -         3405  150    0 
+Spin_Kick 971313310  6  4 c   kf    -     -         3255   10    0 
+Spin_Kick 971313358  6  3 f   -     -     -         3245    0    0 
+Spin_Kick 971313380  6  2 Bk  kf    -     -         3245   10    0 
+Spin_Kick 971313412  7  1 Bc  b     b     b         3235  850 1920 2h Ac
+Spin_Kick 971313459  7  7 c   k     k     k         4305   10    0 4h Ad
+Spin_Kick 971313491  7  6 f   -     -     -         4295    0    0 
+Spin_Kick 971313520  7  5 c   f     -     -         4295   35    0 
+Spin_Kick 971313541  7  4 c   b     bc    kc        4260 1610    0 As Qc
+Spin_Kick 971313587  7  3 c   f     -     -         2640   10    0 
+Spin_Kick 971313629  7  2 Bk  b     b     b         2530  955    0 8s 8c
+Spin_Kick 971313671  7  1 Bf  -     -     -         1575    5    0 
+Spin_Kick 971313716  6  6 c   k     k     k         1570   10    0 5s Kd
+Spin_Kick 971313747  5  5 f   -     -     -         1510    0    0 
+Spin_Kick 971313783  5  4 f   -     -     -         1555    0    0 
+Spin_Kick 971313805  5  3 f   -     -     -         1555    0    0 
+Spin_Kick 971313867  5  2 Bk  k     k     k         1655   10    0 Qc Js
+Spin_Kick 971313898  5  1 Bf  -     -     -         1645    5    0 
+Spin_Kick 971313924  5  5 r   k     f     -         1640   45    0 
+Spin_Kick 971313961  6  5 c   r     -     -         1595  130  180 
+Spin_Kick 971314004  6  4 f   -     -     -         1645    0    0 
+Spin_Kick 971314033  6  3 f   -     -     -         1645    0    0 
+Spin_Kick 971314061  6  2 Bf  -     -     -         1645   10    0 
+Spin_Kick 971314074  6  1 Bc  kr    bf    -         1635  270    0 
+Spin_Kick 971314100  5  5 f   -     -     -         1365    0    0 
+Spin_Kick 971314109  5  4 f   -     -     -         1365    0    0 
+Spin_Kick 971314117  5  3 c   f     -     -         1365   10    0 
+Spin_Kick 971314143  5  2 Bc  kf    -     -         1415   45    0 
+Spin_Kick 971314179  5  1 Bc  kf    -     -         1530   35    0 
+Spin_Kick 971314226  5  5 c   b     -     -         1495   40   60 
+Spin_Kick 971314258  4  3 c   b     -     -         1515   40   60 
+Spin_Kick 971314285  4  2 B   -     -     -         1535   10   15 
+Spin_Kick 971314290  4  1 Bf  -     -     -         1540    5    0 
+Spin_Kick 971314296  4  4 c   k     k     k         1535   10   25 Jc Ts
+Spin_Kick 971314334  5  4 f   -     -     -         1550    0    0 
+Spin_Kick 971314351  5  3 f   -     -     -         1550    0    0 
+Spin_Kick 971314396  5  2 Bf  -     -     -         1605   10    0 
+Spin_Kick 971314405  5  1 Bf  -     -     -         1595    5    0 
+Spin_Kick 971314427  5  5 f   -     -     -         1590    0    0 
+Spin_Kick 971314462  5  4 f   -     -     -         1650    0    0 
+Spin_Kick 971314502  5  3 f   -     -     -         1650    0    0 
+Spin_Kick 971314536  5  2 Bk  kc    b     brA       1530 1530 3075 8s 9c
+Spin_Kick 971314572  5  1 Bc  k     k     k         3075   10    0 2c Jc
+Spin_Kick 971314653  6  5 f   -     -     -         3065    0    0 
+Spin_Kick 971314684  6  4 cc  f     -     -         3015   45    0 
+Spin_Kick 971314702  6  3 r   kf    -     -         2970   35    0 
+Spin_Kick 971314740  6  2 Bc  k     k     b         2935  185  280 
+Spin_Kick 971314767  6  1 Bc  kf    -     -         3030   10    0 
+Spin_Kick 971314790  6  6 f   -     -     -         3020    0    0 
+Spin_Kick 971314814  7  6 f   -     -     -         3010    0    0 
+Spin_Kick 971314826  7  5 f   -     -     -         3010    0    0 
+Spin_Kick 971314867  7  4 f   -     -     -         3010    0    0 
+Spin_Kick 971314909  9  3 c   k     b     k         3010   50  120 6s 7s
+Spin_Kick 971314957  9  2 Bf  -     -     -         3080   10    0 
+Spin_Kick 971314992  9  1 Bc  k     k     k         3190   10    0 3c 5h
+Spin_Kick 971315020  9  9 r   b     b     -         3180  955 1350 
+Spin_Kick 971315107  8  7 f   -     -     -         3570    0    0 
+Spin_Kick 971315147  8  6 c   k     k     kf        3570   10    0 
+Spin_Kick 971315211  8  5 c   c     f     -         3600  155    0 
+Spin_Kick 971315236  8  4 c   kf    -     -         3445   10    0 
+Spin_Kick 971315288  8  3 f   -     -     -         3435    0    0 
+Spin_Kick 971315324  8  2 Bk  k     kf    -         3530   10    0 
+Spin_Kick 971315366  8  1 Br  b     b     -         3520  850   67 Kc Ac
+Spin_Kick 971315421  8  8 r   k     r     k         2847 2075 4320 Jc Jh
+Spin_Kick 971315478  8  7 f   -     -     -         5087    0    0 
+Spin_Kick 971315527  7  5 f   -     -     -         5087    0    0 
+Spin_Kick 971315629  7  4 f   -     -     -         5077    0    0 
+Spin_Kick 971315658  8  4 f   -     -     -         5077    0    0 
+Spin_Kick 971315724  8  3 f   -     -     -         5077    0    0 
+Spin_Kick 971315756  9  2 Bc  bc    krA   -         5077 5077 10634 2c 2d
+Spin_Kick 971315812  9  1 Bf  -     -     -        10574    5    0 
+Spin_Kick 971315850  9  9 f   -     -     Q        10569    0    0 
+Spin_Kick 971326910  2  2 B   -     -     -         9574   10   15 
+Spin_Kick 971326915  2  1 Bf  -     -     -         9579    5    0 
+Spin_Kick 971326919  2  2 Bk  b     -     -         9574   30   40 
+Spin_Kick 971326932  2  1 Bc  k     b     b         9584   90  120 
+Spin_Kick 971326942  2  2 B   -     -     -         9609   10   15 
+Spin_Kick 971326943  2  1 Br  -     -     -         9614   30   40 
+Spin_Kick 971326948  2  2 Bk  r     b     -         9624  270  360 
+Spin_Kick 971326959  2  1 Bf  -     -     -         9714    5    0 
+Spin_Kick 971326962  2  2 B   -     -     -         9709   10   15 
+Spin_Kick 971326965  2  1 Bf  -     -     -         9714    5    0 
+Spin_Kick 971326967  2  2 B   -     -     -         9709   10   15 
+Spin_Kick 971326968  2  1 Bc  k     k     k         9714   10   20 Qh 9h
+Spin_Kick 971326979  2  2 Bk  b     k     c         9724   90    0 Qc Th
+Spin_Kick 971326997  2  1 Bc  b     -     -         9634   30   40 
+Spin_Kick 971327006  2  2 B   -     -     -         9644   10   15 
+Spin_Kick 971327008  2  1 Bc  kf    -     -         9649   10    0 
+Spin_Kick 971327015  2  2 B   -     -     -         9639   10   15 
+Spin_Kick 971327017  2  1 Bc  k     b     -         9644   30   40 
+Spin_Kick 971327027  2  2 B   -     -     -         9654   10   15 
+Spin_Kick 971327031  2  1 Bcc kc    k     k         9659   90    0 6c 3h
+Spin_Kick 971327048  2  2 B   -     -     -         9569   10   15 
+Spin_Kick 971327056  2  1 Bf  -     -     -         9574    5    0 
+Spin_Kick 971327058  2  2 B   -     -     -         9569   10   15 
+Spin_Kick 971327062  2  1 Bc  kc    br    b         9574 2430    0 4c 5s
+Spin_Kick 971327078  2  2 B   -     -     -         7144   10   15 
+Spin_Kick 971327083  2  1 Bc  kc    k     k         7149   30    0 3d 2c
+Spin_Kick 971327100  2  2 B   -     -     -         7119   10   15 
+Spin_Kick 971327106  2  1 Bc  k     kc    k         7124   30    0 Kc Qh
+Spin_Kick 971327117  2  2 Bk  k     k     k         7094   10    0 6c 4s
+Spin_Kick 971327132  3  1 Bf  -     -     -         7084    5    0 
+Spin_Kick 971327141  3  3 c   bc    f     -         7079  110    0 
+Spin_Kick 971327156  3  2 B   -     -     -         6969   10   15 
+Spin_Kick 971327159  3  1 Bf  -     -     -         6974    5    0 
+Spin_Kick 971327169  3  3 c   b     -     -         6969   35   50 
+Spin_Kick 971327179  3  2 Bk  k     k     k         6984   10    0 8s 5d
+Spin_Kick 971327199  3  1 Bf  -     -     -         6974    5    0 
+Spin_Kick 971327213  3  3 r   b     b     b         6969 1010    0 Th Ad
+Spin_Kick 971327231  3  2 Bk  k     k     k         5959   10    0 6h 3s
+Spin_Kick 971327246  3  1 Bc  k     b     -         5949   30   40 
+Spin_Kick 971327258  3  3 f   -     -     -         5959    0    0 
+Spin_Kick 971327267  3  2 Br  b     -     -         5959   90  120 
+Spin_Kick 971327274  3  1 Bc  k     k     k         5989   10    0 Th 6d
+Spin_Kick 971327285  3  3 c   c     k     k         5979   40    0 8d Ts
+Spin_Kick 971327301  3  2 Bk  k     k     k         5939   10   25 2h 7s
+Spin_Kick 971327312  3  1 Bc  b     k     b         5954  455  630 
+Spin_Kick 971327332  3  3 c   b     c     b         6129  335  337 Kh 9h
+Spin_Kick 971327350  3  2 Bk  f     -     -         6131   10    0 
+Spin_Kick 971327361  3  1 Bc  b     -     -         6121   30   40 
+Spin_Kick 971327368  3  3 f   -     -     -         6131    0    0 
+Spin_Kick 971327371  3  2 B   -     -     -         6131   10   15 
+Spin_Kick 971327375  3  1 Bf  -     -     -         6136    5    0 
+Spin_Kick 971327378  3  3 f   -     -     -         6131    0    0 
+Spin_Kick 971327385  3  2 Bk  k     k     k         6131   10    0 3c 6h
+Spin_Kick 971327397  3  1 Bc  k     b     -         6121   30   40 
+Spin_Kick 971327410  3  3 f   -     -     -         6131    0    0 
+Spin_Kick 971327412  3  2 Bk  b     b     -         6131  130  180 
+Spin_Kick 971327431  3  1 Bc  kf    -     -         6181   10    0 
+Spin_Kick 971327440  3  3 c   k     k     k         6171   10   25 Th Js
+Spin_Kick 971327455  3  2 B   -     -     -         6186   10   15 
+Spin_Kick 971327461  3  1 Bf  -     -     -         6191    5    0 
+Spin_Kick 971327463  3  3 r   -     -     -         6186   35   50 
+Spin_Kick 971327469  3  2 Bk  f     -     -         6201   10    0 
+Spin_Kick 971327475  3  1 Bf  -     -     -         6191    5    0 
+Spin_Kick 971327478  3  3 c   c     f     -         6186   35    0 
+Spin_Kick 971327488  3  2 Bk  k     k     b         6151   40   90 9c 3d
+Spin_Kick 971327504  3  1 Bf  -     -     -         6201    5    0 
+Spin_Kick 971327509  3  3 c   k     k     k         6196   10    0 5d Td
+Spin_Kick 971327519  3  2 B   -     -     -         6186   10   15 
+Spin_Kick 971327523  3  1 Bc  b     b     -         6191   90  120 
+Spin_Kick 971327531  3  3 cc  f     -     -         6221   35    0 
+Spin_Kick 971327538  3  2 Bk  k     b     k         6186   35   75 6d Qh
+Spin_Kick 971327553  3  1 Bc  k     k     k         6226   10    0 4d 3c
+Spin_Kick 971327565  3  3 f   -     -     -         6216    0    0 
+Spin_Kick 971327570  3  2 B   -     -     -         6216   10   15 
+Spin_Kick 971327572  3  1 Bc  b     -     -         6221   30   40 
+Spin_Kick 971327579  3  3 c   k     c     k         6231   35    0 Js Qc
+Spin_Kick 971327589  3  2 Bk  k     k     k         6196   10    0 9s 4c
+Spin_Kick 971327610  3  1 Bc  b     -     -         6186   30   40 
+Spin_Kick 971327618  3  3 c   k     f     -         6196   10    0 
+Spin_Kick 971327646  2  1 B   -     -     -         6186   10   10 
+Spin_Kick 971327650  2  1 Bc  k     k     k         6186   10   20 6h 6s
+Spin_Kick 971327678  2  2 B   -     -     -         6196   10   15 
+Spin_Kick 971327682  2  1 Br  b     -     -         6201   90  120 
+Spin_Kick 971327687  2  2 Bk  c     k     f         6231   30    0 
+Spin_Kick 971327699  2  1 Bf  -     -     -         6201    5    0 
+Spin_Kick 971327701  2  2 Bk  k     k     k         6196   10    0 Ts 2s
+Spin_Kick 971327713  2  1 Bc  kc    k     b         6186   90  180 Th 6h
+Spin_Kick 971327731  2  2 Bk  k     k     k         6276   10   10 9h Ts
+Spin_Kick 971327744  2  1 Bc  b     -     -         6276   30   40 
+Spin_Kick 971327754  2  2 B   -     -     -         6286   10   15 
+Spin_Kick 971327757  2  1 Br  -     -     -         6291   30   40 
+Spin_Kick 971327761  2  2 Bk  k     k     k         6301   10    0 4h Js
+Spin_Kick 971327783  2  1 Bf  -     -     -         6291    5    0 
+Spin_Kick 971327788  2  2 B   -     -     -         6286   10   15 
+Spin_Kick 971327790  2  1 Bf  -     -     -         6291    5    0 
+Spin_Kick 971327792  2  2 B   -     -     -         6286   10   15 
+Spin_Kick 971327793  2  1 Bf  -     -     -         6291    5    0 
+Spin_Kick 971327796  2  2 B   -     -     -         6286   10   15 
+Spin_Kick 971327800  2  1 Bc  k     b     -         6291   30   40 
+Spin_Kick 971327810  2  2 B   -     -     -         6301   10   15 
+Spin_Kick 971327812  2  1 Bf  -     -     -         6306    5    0 
+Spin_Kick 971327815  2  2 Bk  k     k     k         6301   10   20 Ad 9h
+Spin_Kick 971327827  2  1 Bc  k     b     bc        6311  270    0 As 3s
+Spin_Kick 971327841  2  2 B   -     -     -         6041   10   15 
+Spin_Kick 971327846  2  1 Br  -     -     -         6046   30   40 
+Spin_Kick 971327850  2  2 Bk  f     -     -         6056   10    0 
+Spin_Kick 971327857  2  1 Bc  k     b     -         6046   30   40 
+Spin_Kick 971327866  2  2 B   -     -     -         6056   10   15 
+Spin_Kick 971327867  2  1 Bf  -     -     -         6061    5    0 
+Spin_Kick 971327870  2  2 Bk  k     k     k         6056   10   20 Tc Qc
+Spin_Kick 971327881  2  1 Bf  -     -     -         6066    5    0 
+Spin_Kick 971327886  2  2 B   -     -     -         6061   10   15 
+Spin_Kick 971327888  2  1 Bf  -     -     -         6066    5    0 
+Spin_Kick 971327890  2  2 B   -     -     -         6061   10   15 
+Spin_Kick 971327892  2  1 Bc  b     -     -         6066   30   40 
+Spin_Kick 971327898  2  2 B   -     -     -         6076   10   15 
+Spin_Kick 971327902  2  1 Bc  k     k     k         6081   10   10 Td 9s
+Spin_Kick 971327909  2  2 Bk  b     b     -         6081   90  120 
+Spin_Kick 971327923  2  1 Bc  k     b     -         6111   30   40 
+Spin_Kick 971327932  2  2 Bk  b     k     c         6121   90    0 5s Ac
+Spin_Kick 971327945  2  1 Br  -     -     -         6031   30   40 
+Spin_Kick 971327951  2  2 Bk  b     b     -         6041   90  120 
+Spin_Kick 971327961  2  1 Bf  -     -     -         6071    5    0 
+Spin_Kick 971327964  2  2 B   -     -     -         6066   10   15 
+Spin_Kick 971327966  2  1 Bc  k     b     -         6071   30   40 
+Spin_Kick 971327975  2  2 Bk  k     b     -         6081   30   40 
+Spin_Kick 971327984  2  1 Bf  -     -     -         6091    5    0 
+Spin_Kick 971327986  2  2 Bk  k     k     k         6086   10   20 7h 7d
+Spin_Kick 971327999  2  1 Bc  k     b     -         6096   30   40 
+Spin_Kick 971328011  2  2 B   -     -     -         6106   10   15 
+Spin_Kick 971328012  2  1 Bf  -     -     -         6111    5    0 
+Spin_Kick 971328014  2  2 B   -     -     -         6106   10   15 
+Spin_Kick 971328016  2  1 Bc  k     k     k         6111   10   20 2h Ac
+Spin_Kick 971328030  2  2 B   -     -     -         6121   10   15 
+Spin_Kick 971328034  2  1 Bc  k     b     -         6126   30   40 
+Spin_Kick 971328043  2  2 B   -     -     -         6136   10   15 
+Spin_Kick 971328045  2  1 Bf  -     -     -         6141    5    0 
+Spin_Kick 971328047  2  2 B   -     -     -         6136   10   15 
+Spin_Kick 971328049  2  1 Bc  kc    k     k         6141   30    0 3h 3s
+Spin_Kick 971328061  2  2 B   -     -     -         6111   10   15 
+Spin_Kick 971328066  2  1 Bc  k     k     k         6116   10   20 4h 5h
+Spin_Kick 971328075  2  2 B   -     -     -         6126   10   15 
+Spin_Kick 971328080  2  1 Bf  -     -     -         6131    5    0 
+Spin_Kick 971328083  2  2 B   -     -     -         6126   10   15 
+Spin_Kick 971328085  2  1 Bc  b     -     -         6131   30   40 
+Spin_Kick 971328090  2  2 B   -     -     -         6141   10   15 
+Spin_Kick 971328092  2  1 Bf  -     -     -         6146    5    0 
+Spin_Kick 971328094  2  2 Bk  f     -     -         6141   10    0 
+Spin_Kick 971328099  2  1 Bc  k     b     -         6131   30   40 
+Spin_Kick 971328109  2  2 B   -     -     -         6141   10   15 
+Spin_Kick 971328111  2  1 Bf  -     -     -         6146    5    0 
+Spin_Kick 971328113  2  2 B   -     -     -         6141   10   15 
+Spin_Kick 971328115  2  1 Bc  k     kf    -         6146   10    0 
+Spin_Kick 971328125  2  2 B   -     -     -         6136   10   15 
+Spin_Kick 971328127  2  1 Bc  k     k     k         6141   10   10 5s 2s
+Spin_Kick 971328138  2  2 Bk  k     k     k         6141   10   20 4c Qd
+Spin_Kick 971328154  2  1 Bc  kc    k     kf        6151   30    0 
+Spin_Kick 971328170  2  2 Bk  b     -     -         6121   30   40 
+Spin_Kick 971328178  2  1 Bf  -     -     -         6131    5    0 
+Spin_Kick 971328180  2  2 B   -     -     -         6126   10   15 
+Spin_Kick 971328182  2  1 Bf  -     -     -         6131    5    0 
+Spin_Kick 971328184  2  2 Bk  b     -     -         6126   30   40 
+Spin_Kick 971328191  2  1 Bc  kc    k     k         6136   30    0 5c 3h
+Spin_Kick 971328204  3  3 cc  f     -     -         6106   40    0 
+Spin_Kick 971328233  3  2 Bf  -     -     -         6066   10    0 
+Spin_Kick 971328247  3  1 Bc  kc    k     k         6056   30    0 7h 6h
+Spin_Kick 971328268  4  4 f   -     -     -         6026    0    0 
+Spin_Kick 971328287  4  3 c   c     c     k         6026   85   90 Td 8s
+Spin_Kick 971328307  4  2 Bc  kf    -     -         6031   35    0 
+Spin_Kick 971328330  4  1 Bf  -     -     -         5996    5    0 
+Spin_Kick 971328341  4  4 f   -     -     -         5991    0    0 
+Spin_Kick 971328363  4  3 f   -     -     -         5991    0    0 
+Spin_Kick 971328383  4  2 Bc  b     r     b         5991 1620    0 2h 6s
+Spin_Kick 971328409  4  1 Bc  k     k     k         4371   35   80 3s 4h
+Spin_Kick 971328432  4  4 c   k     k     c         4416   50    0 Ts 3c
+Spin_Kick 971328477  4  3 f   -     -     -         4366    0    0 
+Spin_Kick 971328499  4  2 Bk  kc    k     k         4366   45    0 Qs 5c
+Spin_Kick 971328528  3  1 Bf  -     -     -         4321    5    0 
+Spin_Kick 971328541  3  3 f   -     -     -         4316    0    0 
+Spin_Kick 971328553  3  2 Bk  f     -     -         4316   10    0 
+Spin_Kick 971328564  4  1 Bf  -     -     -         4306    5    0 
+Spin_Kick 971328575  4  4 c   b     -     -         4301  120  170 
+Spin_Kick 971328589  4  3 cc  c     k     k         4351  110  225 Jc 3c
+Spin_Kick 971328605  4  2 B   -     -     -         4466   10   15 
+Spin_Kick 971328615  4  1 Bf  -     -     -         4471    5    0 
+Spin_Kick 971328624  3  3 c   k     f     -         4466   10    0 
+Spin_Kick 971328634  3  3 cc  f     -     -         4456   40    0 
+Spin_Kick 971328645  3  2 Bc  k     c     f         4416   90    0 
+Spin_Kick 971328662  3  1 Bf  -     -     -         4326    5    0 
+Spin_Kick 971328673  3  3 f   -     -     -         4321    0    0 
+Spin_Kick 971328675  3  2 Bc  kc    kc    k         4321  222    0 Qh Td
+Spin_Kick 971328695  3  1 Bf  -     -     -         4099    5    0 
+Spin_Kick 971328718  3  3 cc  f     -     -         4094   40    0 
+Spin_Kick 971328733  3  2 B   -     -     -         4054   10   15 
+Spin_Kick 971328738  3  1 Br  b     -     -         4059   90  120 
+Spin_Kick 971328749  3  3 cc  c     b     -         4089  400  540 
+Spin_Kick 971328778  3  2 Bc  k     kf    -         4229   35    0 
+Spin_Kick 971328791  3  1 Bf  -     -     -         4194    5    0 
+Spin_Kick 971328814  3  3 f   -     -     -         4189    0    0 
+Spin_Kick 971328818  3  2 Bc  kf    -     -         4189   35    0 
+Spin_Kick 971328828  3  1 Bc  k     b     -         4154   30   40 
+Spin_Kick 971328838  3  3 cc  k     k     k         4164   40    0 Ah 5d
+Spin_Kick 971328854  3  2 Bc  kf    -     -         4124   35    0 
+Spin_Kick 971328867  3  1 Br  b     b     -         4089  270  360 
+Spin_Kick 971328879  3  3 f   -     -     -         4179    0    0 
+Spin_Kick 971328882  3  2 Bc  k     c     b         4179  270  360 
+Spin_Kick 971328910  3  1 Bc  kf    -     -         4269   35    0 
+Spin_Kick 971328924  3  3 f   -     -     -         4234    0    0 
+Spin_Kick 971328926  3  2 Bf  -     -     -         4234   10    0 
+Spin_Kick 971328932  3  1 Bf  -     -     -         4224    5    0 
+Spin_Kick 971328957  3  3 f   -     -     -         4219    0    0 
+Spin_Kick 971328965  3  2 Bc  kc    kf    -         4219  110    0 
+Spin_Kick 971328979  3  1 Bc  kc    k     kf        4109   40    0 
+Spin_Kick 971329014  3  3 cc  f     -     -         4069   40    0 
+Spin_Kick 971329024  4  2 Bk  f     -     -         4029   10    0 
+Spin_Kick 971329048  4  1 Bf  -     -     -         4019    5    0 
+Spin_Kick 971329053  4  4 f   -     -     -         4014    0    0 
+Spin_Kick 971329063  4  3 c   k     k     k         4014   10   35 2h 2c
+Spin_Kick 971329093  4  2 Bc  k     k     k         4039   35   75 9h Ad
+Spin_Kick 971329110  4  1 Bc  b     b     k         4079   90   90 9h 5h
+Spin_Kick 971329135  4  4 c   f     -     -         4079   10    0 
+Spin_Kick 971329172  4  3 cc  b     -     -         4069  160  240 
+Spin_Kick 971329209  4  2 Bc  k     b     -         4149  110  150 
+Spin_Kick 971329221  4  1 Bf  -     -     -         4189    5    0 
+Spin_Kick 971329255  4  4 c   k     k     k         4184   35    0 7h 6h
+Spin_Kick 971329271  4  3 cc  c     c     k         4149  640    0 9d Qd
+Spin_Kick 971329299  5  2 Bc  kc    b     -         3509  455  630 
+Spin_Kick 971329322  5  1 Bc  kc    k     b         3684  355  480 
+Spin_Kick 971329339  5  5 c   f     -     -         3809   35    0 
+Spin_Kick 971329390  5  4 f   -     -     -         3774    0    0 
+Spin_Kick 971329409  5  3 f   -     -     -         3774    0    0 
+Spin_Kick 971329417  5  2 Bk  b     bc    kf        3774  335    0 
+Spin_Kick 971329455  5  1 Bc  k     kf    -         3439   35    0 
+Spin_Kick 971329506  5  5 c   f     -     -         3404   45    0 
+Spin_Kick 971329546  5  4 f   -     -     -         3359    0    0 
+Spin_Kick 971329558  4  2 Bk  b     b     b         3359  400  540 
+Spin_Kick 971329579  4  1 Bf  -     -     -         3499    5    0 
+Spin_Kick 971329586  4  4 f   -     -     -         3494    0    0 
+Spin_Kick 971329613  4  3 f   -     -     -         3494    0    0 
+Spin_Kick 971329626  4  2 Bf  -     -     -         3494   10    0 
+Spin_Kick 971329639  4  1 Bf  -     -     -         3484    5    0 
+Spin_Kick 971329651  4  4 f   -     -     -         3479    0    0 
+Spin_Kick 971329681  4  3 c   k     k     b         3479   50  120 Jd 3d
+Spin_Kick 971329718  4  2 Bc  f     -     -         3549   40    0 
+Spin_Kick 971329737  4  1 Bc  kf    -     -         3509   45    0 
+Spin_Kick 971329766  4  4 r   b     k     k         3464  115  120 Ah Qd
+Spin_Kick 971329781  4  3 cc  c     c     f         3469  400    0 
+Spin_Kick 971329802  4  2 Bf  -     -     -         3069   10    0 
+Spin_Kick 971329814  4  1 Bf  -     -     -         3059    5    0 
+Spin_Kick 971329823  4  4 r   -     -     -         3054   35   50 
+Spin_Kick 971329833  4  3 cc  r     c     k         3069 1010    0 4h Th
+Spin_Kick 971329860  4  2 Bk  kf    -     -         2059   10    0 
+Spin_Kick 971329880  4  1 Br  bcA   -     -         2049 2049    0 Jh Kh
+Spin_Kick 972622337 10  6 f   -     -     -         5406    0    0 
+Spin_Kick 972622373 10  5 f   -     -     -         5406    0    0 
+Spin_Kick 972622396 10  4 f   -     -     -         5406    0    0 
+Spin_Kick 972622449 10  3 f   -     -     -         5406    0    0 
+Spin_Kick 972622514 10  2 Bf  -     -     -         5406   10    0 
+Spin_Kick 972622564 10  1 Bf  -     -     -         5396    5    0 
+Spin_Kick 972622592 10 10 c   f     -     -         5391   55    0 
+Spin_Kick 972622661 10  9 f   -     -     -         5336    0    0 
+Spin_Kick 972622710 10  8 f   -     -     -         5336    0    0 
+Spin_Kick 972622774 10  7 c   kf    -     -         5336   10    0 
+Spin_Kick 972622843 10  6 f   -     -     -         5326    0    0 
+Spin_Kick 972622891  9  5 f   -     -     -         5326    0    0 
+Spin_Kick 972622918  9  4 f   -     -     -         5326    0    0 
+Spin_Kick 972622971  9  3 f   -     -     -         5326    0    0 
+Spin_Kick 972623011  9  2 Bk  kf    -     -         5326   10    0 
+Spin_Kick 972623061 10  1 Bf  -     -     -         5316    5    0 
+Spin_Kick 972623103 10 10 f   -     -     -         5311    0    0 
+Spin_Kick 972623160 10  9 cc  kf    -     -         5311   35    0 
+Spin_Kick 972623211 10  8 f   -     -     -         5216    0    0 
+Spin_Kick 972623250 10  7 f   -     -     -         5216    0    0 
+Spin_Kick 972623307 10  6 f   -     -     -         5216    0    0 
+Spin_Kick 972623334 10  5 cc  k     k     kc        5216  120    0 Td 9s
+Spin_Kick 972623374 10  4 f   -     -     -         5076    0    0 
+Spin_Kick 972623407 10  3 f   -     -     -         5076    0    0 
+Spin_Kick 972623449 10  2 Bf  -     -     -         5076   10    0 
+Spin_Kick 972623489 10  1 Bc  k     k     k         5066   10    0 2h 6h
+Spin_Kick 972623524 10 10 f   -     -     -         5056    0    0 
+Spin_Kick 972623568  9  8 cc  c     cA    -         5046 5046    0 8d Kd

@@ -1,0 +1,902 @@
+FeltShark 967843929  3  3 f   -     -     -        29041    0    0 
+FeltShark 967843949  3  2 B   -     -     -        29041   10   15 
+FeltShark 967843952  3  1 Bc  b     -     -        29046   30   40 
+FeltShark 967843963  3  3 c   c     b     k        29056  130  270 Tc Kc
+FeltShark 967843988  3  2 Bk  k     f     -        29196   10    0 
+FeltShark 967844030  3  1 Bc  k     k     b        29186   30   40 
+FeltShark 967844050  3  3 cc  k     f     -        29196   40    0 
+FeltShark 967844066  3  2 Bk  k     k     f        29156   10    0 
+FeltShark 967844101  3  1 Bc  k     k     k        29146   10    0 7d 5h
+FeltShark 967844123  3  3 c   k     f     -        29136   10    0 
+FeltShark 967844156  4  2 Bk  f     -     -        29126   10    0 
+FeltShark 967844200  4  1 Bc  k     k     kf       29116   10    0 
+FeltShark 967844230  4  4 c   k     b     k        29106   35    0 8d 5s
+FeltShark 967844252  4  3 f   -     -     -        29071    0    0 
+FeltShark 967844259  4  2 Bk  kf    -     -        29071   10    0 
+FeltShark 967844275  4  1 Bf  -     -     -        29061    5    0 
+FeltShark 967844282  4  4 c   b     -     -        29056   35   50 
+FeltShark 967844308  4  3 c   b     k     k        29071   50   60 Qd 9c
+FeltShark 967844344  4  2 Bk  f     -     -        29081   10    0 
+FeltShark 967844383  3  1 Bc  k     k     k        29071   10    0 Ac Kh
+FeltShark 967844401  3  3 f   -     -     -        29061    0    0 
+FeltShark 967844421  3  2 Bf  -     -     -        29061   10    0 
+FeltShark 967844455  3  1 Bcc kr    b     k        29051  810 1620 Jh 4h
+FeltShark 967844491  4  3 cc  k     k     k        29861   80  250 Ks 4c
+FeltShark 967844539  5  2 Bc  kf    -     -        30031   45    0 
+FeltShark 967844580  5  1 Bc  k     k     k        29986   10   40 Jc 6c
+FeltShark 967844616  5  5 r   k     k     k        30016   35   80 6h As
+FeltShark 967844634  5  4 f   -     -     -        30061    0    0 
+FeltShark 967844666  5  3 f   -     -     -        30061    0    0 
+FeltShark 967844700  5  2 Bc  kf    -     -        30061   35    0 
+FeltShark 967844712  5  1 Bf  -     -     -        30026    5    0 
+FeltShark 967844719  5  5 cc  f     -     -        30021   50    0 
+FeltShark 967844729  5  4 f   -     -     -        29971    0    0 
+FeltShark 967844756  5  3 f   -     -     -        29971    0    0 
+FeltShark 967844769  5  2 Bc  k     b     -        29971  140  210 
+FeltShark 967844791  5  1 Bf  -     -     -        30041    5    0 
+FeltShark 967844807  5  5 f   -     -     -        30036    0    0 
+FeltShark 967844811  5  4 f   -     -     -        30036    0    0 
+FeltShark 967844817  5  3 f   -     -     -        30036    0    0 
+FeltShark 967844843  5  2 Bk  k     kf    -        30036   10    0 
+FeltShark 967844860  5  1 Bcc kf    -     -        30026   30    0 
+FeltShark 967844871  5  5 c   b     -     -        29996   40   60 
+FeltShark 967844883  5  4 cc  b     kc    kf       30016  775    0 
+FeltShark 967844915  5  3 f   -     -     -        29241    0    0 
+FeltShark 967844919  5  2 Bk  kf    -     -        29241   10    0 
+FeltShark 967844938  5  1 Bcc k     k     k        29231   30    0 Td Ks
+FeltShark 967844955  5  5 c   b     b     k        29201  130  270 As Ah
+FeltShark 967844976  5  4 f   -     -     -        29341    0    0 
+FeltShark 967844992  5  3 cc  kf    -     -        29341   45    0 
+FeltShark 967845007  5  2 Bf  -     -     -        29296   10    0 
+FeltShark 967845024  5  1 Bc  kf    -     -        29286   10    0 
+FeltShark 967845042  5  5 c   f     -     -        29276   10    0 
+FeltShark 967845057  5  4 f   -     -     -        29266    0    0 
+FeltShark 967845062  5  3 cc  k     k     k        29266   45  105 6h 6d
+FeltShark 967845084  5  2 Bk  k     k     k        29326   10   30 Kc 9s
+FeltShark 967845133  5  1 Bc  k     k     kf       29346   10    0 
+FeltShark 967845162  6  6 f   -     -     -        29336    0    0 
+FeltShark 967845184  6  5 f   -     -     -        29336    0    0 
+FeltShark 967845210  5  4 c   b     -     -        29336   35   50 
+FeltShark 967845223  5  3 f   -     -     -        29351    0    0 
+FeltShark 967845227  5  2 Bf  -     -     -        29351   10    0 
+FeltShark 967845240  5  1 Bc  b     -     -        29341   40   60 
+FeltShark 967845253  6  6 f   -     -     -        29361    0    0 
+FeltShark 967845279  6  5 cc  kf    -     -        29361   45    0 
+FeltShark 967845296  5  3 cc  k     k     b        29316  150  210 
+FeltShark 967845316  5  2 Bf  -     -     -        29376   10    0 
+FeltShark 967845342  5  1 Bf  -     -     -        29366    5    0 
+FeltShark 967845366  5  5 f   -     -     -        29361    0    0 
+FeltShark 967845383  5  4 f   -     -     -        29361    0    0 
+FeltShark 967845388  5  3 f   -     -     -        29361    0    0 
+FeltShark 967845395  5  2 Bk  b     -     -        29361   35   50 
+FeltShark 967845408  5  1 Bf  -     -     -        29376    5    0 
+FeltShark 967845430  5  5 f   -     -     -        29371    0    0 
+FeltShark 967845440  5  4 f   -     -     -        29371    0    0 
+FeltShark 967845465  6  4 f   -     -     -        29371    0    0 
+FeltShark 967845500  6  3 f   -     -     -        29371    0    0 
+FeltShark 967845510  6  2 Bf  -     -     -        29371   10    0 
+FeltShark 967845539  6  1 Bc  kf    -     -        29361   10    0 
+FeltShark 967845558  6  6 c   f     -     -        29351   10    0 
+FeltShark 967845577  6  5 f   -     -     -        29341    0    0 
+FeltShark 967845609  6  4 f   -     -     -        29341    0    0 
+FeltShark 967845622  6  3 f   -     -     -        29341    0    0 
+FeltShark 967845639  6  2 Bc  kf    -     -        29341   35    0 
+FeltShark 967845657  6  1 Bc  kf    -     -        29306   10    0 
+FeltShark 967845683  6  6 f   -     -     -        29296    0    0 
+FeltShark 967845695  6  5 cc  k     b     -        29296  150  210 
+FeltShark 967845712  6  4 f   -     -     -        29356    0    0 
+FeltShark 967845736  6  3 f   -     -     -        29356    0    0 
+FeltShark 967845760  6  2 Bf  -     -     -        29356   10    0 
+FeltShark 967845780  6  1 Bc  kf    -     -        29346   10    0 
+FeltShark 967845801  6  6 f   -     -     -        29336    0    0 
+FeltShark 967845813  6  5 f   -     -     -        29336    0    0 
+FeltShark 967845834  6  4 c   k     k     k        29336   10   25 Jh Ah
+FeltShark 967845854  7  3 cc  f     -     -        29351   50    0 
+FeltShark 967845883  7  2 Bc  k     kf    -        29301   35    0 
+FeltShark 967845932  8  1 Bc  k     kf    -        29266   10    0 
+FeltShark 967845975  8  8 f   -     -     -        29256    0    0 
+FeltShark 967846023  8  7 c   k     k     kf       29256   35    0 
+FeltShark 967846099  8  6 f   -     -     -        29221    0    0 
+FeltShark 967846129  8  5 f   -     -     -        29221    0    0 
+FeltShark 967846150  8  4 f   -     -     -        29221    0    0 
+FeltShark 967846165  8  3 f   -     -     -        29221    0    0 
+FeltShark 967846190  8  2 Bk  b     b     -        29221  170  240 
+FeltShark 967846222  9  1 Bc  kf    -     -        29291   45    0 
+FeltShark 967846274 10 10 f   -     -     -        29246    0    0 
+FeltShark 967846315 10  9 c   f     -     -        29246   10    0 
+FeltShark 967846358 10  8 f   -     -     -        29236    0    0 
+FeltShark 967846383 10  7 f   -     -     -        29236    0    0 
+FeltShark 967846407  9  5 f   -     -     -        29236    0    0 
+FeltShark 967846434  9  4 cc  f     -     -        29236   50    0 
+FeltShark 967846469  9  3 f   -     -     -        29186    0    0 
+FeltShark 967846501  9  2 Bk  b     b     k        29186  210    0 6s 3s
+FeltShark 967846538  9  1 Bc  kf    -     -        28976   10    0 
+FeltShark 967846558  9  9 c   c     bc    k        28966  660 1350 Ah Qc
+FeltShark 967846596  9  8 f   -     -     -        29656    0    0 
+FeltShark 967846638  9  7 f   -     -     -        29656    0    0 
+FeltShark 967846703 10  7 f   -     -     -        29656    0    0 
+FeltShark 967846776 10  6 f   -     -     -        29656    0    0 
+FeltShark 967846812 10  5 f   -     -     -        29656    0    0 
+FeltShark 967846862 10  4 f   -     -     -        29656    0    0 
+FeltShark 967846911  9  4 c   c     k     k        29656   40    0 Kh Qh
+FeltShark 967846937  8  2 Bf  -     -     -        29616   10    0 
+FeltShark 967846961  8  1 Bf  -     -     -        29606    5    0 
+FeltShark 967846986  8  8 f   -     -     -        29601    0    0 
+FeltShark 967847031  8  7 f   -     -     -        29601    0    0 
+FeltShark 967847040  8  6 f   -     -     -        29601    0    0 
+FeltShark 967847067  8  5 f   -     -     -        29601    0    0 
+FeltShark 967847108  8  4 f   -     -     -        29601    0    0 
+FeltShark 967847127  8  3 f   -     -     -        29601    0    0 
+FeltShark 967847155  8  2 Bk  f     -     -        29601   10    0 
+FeltShark 967847175  8  1 Bf  -     -     -        29591    5    0 
+FeltShark 967847194  8  8 c   f     -     -        29586   10    0 
+FeltShark 967847220  8  7 f   -     -     -        29576    0    0 
+FeltShark 967847252  8  5 f   -     -     -        29576    0    0 
+FeltShark 967847285  8  4 f   -     -     -        29576    0    0 
+FeltShark 967847377  9  3 f   -     -     -        29576    0    0 
+FeltShark 967847415  9  2 Bc  kf    -     -        29576   45    0 
+FeltShark 967847459  9  1 Bf  -     -     -        29531    5    0 
+FeltShark 967847502  9  9 f   -     -     -        29526    0    0 
+FeltShark 967847554  8  7 cf  -     -     -        29526   10    0 
+FeltShark 967847580  8  6 f   -     -     -        29516    0    0 
+FeltShark 967847611  8  5 f   -     -     -        29516    0    0 
+FeltShark 967847640  8  4 cc  f     -     -        29516  149    0 
+FeltShark 967847730  8  3 f   -     -     -        29367    0    0 
+FeltShark 967847774  8  2 Bk  kf    -     -        29367   10    0 
+FeltShark 967847805  8  1 Bf  -     -     -        29357    5    0 
+FeltShark 967847857  9  9 c   f     -     -        29352   10    0 
+FeltShark 967847895  9  8 cf  -     -     -        29342   10    0 
+FeltShark 967847933  9  7 f   -     -     -        29332    0    0 
+FeltShark 967847957  9  6 c   b     k     k        29332   45  105 Ac 3c
+FeltShark 967847982  9  5 cf  -     -     -        29392   35    0 
+FeltShark 967848016  9  4 f   -     -     -        29357    0    0 
+FeltShark 967848046  9  3 f   -     -     -        29357    0    0 
+FeltShark 967848085  8  2 Bf  -     -     -        29357   10    0 
+FeltShark 967848110  8  1 Bf  -     -     -        29347    5    0 
+FeltShark 967848151  8  8 cf  -     -     -        29342   10    0 
+FeltShark 967848229  8  7 f   -     -     -        29332    0    0 
+FeltShark 967848251  8  6 cc  kc    kf    -        29332 1145    0 
+FeltShark 967848336  8  4 f   -     -     -        28187    0    0 
+FeltShark 967848354  8  3 f   -     -     -        28187    0    0 
+FeltShark 967848374  8  2 Bk  k     b     -        28187   35   50 
+FeltShark 967848387  8  1 Bc  kf    -     -        28202   10    0 
+FeltShark 967848414  8  8 c   k     k     f        28192   10    0 
+FeltShark 967848448  8  7 f   -     -     -        28182    0    0 
+FeltShark 967848498  7  5 f   -     -     -        28182    0    0 
+FeltShark 967848523  7  5 f   -     -     -        28182    0    0 
+FeltShark 967848554  7  4 f   -     -     -        28182    0    0 
+FeltShark 967848589  7  3 f   -     -     -        28182    0    0 
+FeltShark 967848617  7  2 Bc  k     f     -        28182   35    0 
+FeltShark 967848644  6  1 Bc  k     kf    -        28147   10    0 
+FeltShark 967848670  6  6 c   b     f     -        28137   70    0 
+FeltShark 967848716  6  5 cc  kc    kc    k        28067  465    0 4c 2c
+FeltShark 967848746  6  4 c   c     c     b        27602  530  720 
+FeltShark 967848783  6  3 c   kf    -     -        27792   10    0 
+FeltShark 967848814  6  2 Bk  f     -     -        27782   10    0 
+FeltShark 967848831  6  1 Bc  kf    -     -        27772   10    0 
+FeltShark 967848856  6  6 f   -     -     -        27762    0    0 
+FeltShark 967848879  6  5 cc  k     k     k        27762   65    0 7s 6s
+FeltShark 967848924  6  4 f   -     -     -        27697    0    0 
+FeltShark 967848964  6  4 f   -     -     -        27697    0    0 
+FeltShark 967848973  5  2 Bf  -     -     -        27697   10    0 
+FeltShark 967849040  5  1 Bc  kf    -     -        27687   10    0 
+FeltShark 967849078  6  5 c   f     -     -        27677   35    0 
+FeltShark 967849105  6  4 c   kc    kr    b        27642 1410 1890 
+FeltShark 967849149  6  3 f   -     -     -        28122    0    0 
+FeltShark 967849178  6  2 Bc  k     k     k        28122   35    0 9d Qd
+FeltShark 967849211  6  1 Bc  k     kf    -        28087   10    0 
+FeltShark 967849230  6  6 f   -     -     -        28077    0    0 
+FeltShark 967849261  6  5 cc  k     k     k        28077   60    0 9h Ac
+FeltShark 967849294  6  4 cc  bf    -     -        28017  185    0 
+FeltShark 967849333  6  3 f   -     -     -        27832    0    0 
+FeltShark 967849348  6  2 Bk  f     -     -        27832   10    0 
+FeltShark 967849379  6  1 Bc  k     k     k        27822   10    0 2s 9s
+FeltShark 967849417  7  7 f   -     -     -        27812    0    0 
+FeltShark 967849450  7  6 f   -     -     -        27812    0    0 
+FeltShark 967849464  7  5 f   -     -     -        27812    0    0 
+FeltShark 967849488  7  4 f   -     -     -        27812    0    0 
+FeltShark 967849512  7  3 f   -     -     -        27812    0    0 
+FeltShark 967849544  7  2 Bf  -     -     -        27812   10    0 
+FeltShark 967849569  7  1 Bc  kf    -     -        27802   10    0 
+FeltShark 967849611  7  7 f   -     -     -        27792    0    0 
+FeltShark 967849640  7  6 f   -     -     -        27792    0    0 
+FeltShark 967849660  7  5 f   -     -     -        27792    0    0 
+FeltShark 967849682  6  3 f   -     -     -        27792    0    0 
+FeltShark 967849688  5  2 Bk  f     -     -        27792   10    0 
+FeltShark 967849731  5  1 Bcc k     kf    -        27782   40    0 
+FeltShark 967849752  5  5 c   f     -     -        27742   10    0 
+FeltShark 967849771  5  4 f   -     -     -        27732    0    0 
+FeltShark 967849784  5  3 c   bf    -     -        27732   50    0 
+FeltShark 967849806  5  2 B   -     -     -        27682   10   15 
+FeltShark 967849810  5  1 Bc  kf    -     -        27687   10    0 
+FeltShark 967849849  5  5 r   b     k     f        27677  185    0 
+FeltShark 967849882  5  4 c   b     b     k        27492  150  315 Ac Js
+FeltShark 967849910  6  4 c   b     b     k        27657  210  480 8h 6h
+FeltShark 967849951  6  3 f   -     -     -        27927    0    0 
+FeltShark 967849958  6  2 Bk  kf    -     -        27927   10    0 
+FeltShark 967849982  6  1 Bc  k     k     k        27917   10    0 6d 5s
+FeltShark 967850010  6  6 f   -     -     -        27907    0    0 
+FeltShark 967850037  4  3 f   -     -     -        27907    0    0 
+FeltShark 967850047  4  3 f   -     -     -        27907    0    0 
+FeltShark 967850057  5  3 f   -     -     -        27907    0    0 
+FeltShark 967850078  5  2 Bf  -     -     -        27907   10    0 
+FeltShark 967850100  5  1 Bc  k     kf    -        27897   35    0 
+FeltShark 967850124  5  5 f   -     -     -        27862    0    0 
+FeltShark 967850136  5  4 f   -     -     -        27862    0    0 
+FeltShark 967850169  5  3 f   -     -     -        27862    0    0 
+FeltShark 967850173  5  2 Bc  k     kf    -        27862   35    0 
+FeltShark 967850193  5  1 Bc  kf    -     -        27827   10    0 
+FeltShark 967850211  5  5 c   f     -     -        27817   35    0 
+FeltShark 967850223  5  4 c   b     b     b        27782  605  840 
+FeltShark 967850249  4  3 c   f     -     -        28017   10    0 
+FeltShark 967850272  4  2 Bk  kf    -     -        28007   10    0 
+FeltShark 967850299  4  1 Bc  b     b     -        27997  170  240 
+FeltShark 967850313  4  4 c   f     -     -        28067   10    0 
+FeltShark 967850336  4  3 f   -     -     -        28057    0    0 
+FeltShark 967850354  4  2 Bf  -     -     -        28057   10    0 
+FeltShark 967850372  3  1 BQ  -     -     -        28047    5    0 
+FeltShark 967851821  6  2 Bc  kf    -     -        28042   35    0 
+FeltShark 967851842  6  1 Bc  kf    -     -        28007   10    0 
+FeltShark 967851879  6  6 f   -     -     -        27997    0    0 
+FeltShark 967851902  6  5 c   b     k     f        27997   40    0 
+FeltShark 967851958  6  4 f   -     -     -        27957    0    0 
+FeltShark 967852004  5  3 f   -     -     -        27957    0    0 
+FeltShark 967852031  5  2 Bf  -     -     -        27957   10    0 
+FeltShark 967852041  5  1 Bc  kf    -     -        27947   10    0 
+FeltShark 967852057  5  5 f   -     -     -        27937    0    0 
+FeltShark 967852084  5  4 cc  k     kf    -        27937   45    0 
+FeltShark 967852105  5  3 f   -     -     -        27892    0    0 
+FeltShark 967852110  5  2 Bc  k     b     -        27892  110  150 
+FeltShark 967852126  6  1 Bc  kc    kf    -        27932  115    0 
+FeltShark 967852148  6  6 c   b     b     -        27817  170  240 
+FeltShark 967852179  6  5 c   bc    k     k        27887  130  135 8h 5h
+FeltShark 967852206  6  4 f   -     -     -        27892    0    0 
+FeltShark 967852225  6  3 f   -     -     -        27892    0    0 
+FeltShark 967852258  6  2 Bk  b     -     -        27892   45   70 
+FeltShark 967852277  6  1 Bf  -     -     -        27917    5    0 
+FeltShark 967852285  6  6 f   -     -     -        27912    0    0 
+FeltShark 967852305  8  5 f   -     -     -        27912    0    0 
+FeltShark 967852361  8  4 f   -     -     -        27912    0    0 
+FeltShark 967852419  8  3 f   -     -     -        27912    0    0 
+FeltShark 967852482  7  2 Bk  k     k     b        27912   65  165 3h 6d
+FeltShark 967852531  7  1 Bc  k     k     k        28012   10    0 Qh 3h
+FeltShark 967852580  6  6 f   -     -     -        28002    0    0 
+FeltShark 967852605  6  6 cc  f     -     -        28002   50    0 
+FeltShark 967852646  6  5 c   b     k     k        27952   40   90 Qh Js
+FeltShark 967852674  6  4 f   -     -     -        28002    0    0 
+FeltShark 967852698  6  3 f   -     -     -        28002    0    0 
+FeltShark 967852748  7  2 Bc  kf    -     -        28002   45    0 
+FeltShark 967852789  7  1 Bc  k     k     k        27957   10    0 Qh Ad
+FeltShark 967852820  7  7 f   -     -     -        27947    0    0 
+FeltShark 967852850  7  6 f   -     -     -        27947    0    0 
+FeltShark 967852881  7  5 f   -     -     -        27947    0    0 
+FeltShark 967852917  7  4 f   -     -     -        27947    0    0 
+FeltShark 967852954  7  3 f   -     -     -        27947    0    0 
+FeltShark 967852982  7  2 Bk  kf    -     -        27947   10    0 
+FeltShark 967853031  7  1 Bf  -     -     -        27937    5    0 
+FeltShark 967853056  7  7 c   f     -     -        27932   10    0 
+FeltShark 967853116  7  6 cc  f     -     -        27922   50    0 
+FeltShark 967853157  7  5 cc  k     k     k        27872   60    0 4s Qs
+FeltShark 967853191  6  4 f   -     -     -        27812    0    0 
+FeltShark 967853211  6  3 c   bc    k     k        27812  190  405 Kc Ah
+FeltShark 967853235  6  2 Bk  k     b     k        28027   50  160 Jd As
+FeltShark 967853279  6  1 Bc  kf    -     -        28137   10    0 
+FeltShark 967853318  6  6 f   -     -     -        28127    0    0 
+FeltShark 967853339  6  5 cc  r     -     -        28127 1750 2520 
+FeltShark 967853370  6  4 f   -     -     -        28897    0    0 
+FeltShark 967853389  6  3 c   k     k     k        28897   10    0 9c Ts
+FeltShark 967853415  5  2 Bk  k     kf    -        28887   10    0 
+FeltShark 967853434  4  1 Bf  -     -     -        28877    5    0 
+FeltShark 967853457  5  5 r   k     k     f        28872   35    0 
+FeltShark 967853482  5  4 f   -     -     -        28837    0    0 
+FeltShark 967853503  5  3 c   k     k     k        28837   10    0 8d 7s
+FeltShark 967853535  5  2 Bf  -     -     -        28827   10    0 
+FeltShark 967853555  4  1 Bc  kc    kr    b        28817 1600 2160 
+FeltShark 967853592  4  4 f   -     -     -        29377    0    0 
+FeltShark 967853610  4  3 f   -     -     -        29377    0    0 
+FeltShark 967853617  4  2 Bc  k     kf    -        29377   35    0 
+FeltShark 967853652  4  1 Bf  -     -     -        29342    5    0 
+FeltShark 967853667  4  4 r   b     -     -        29337  115  160 
+FeltShark 967853679  3  2 c   kc    kr    -        29382  400  540 
+FeltShark 967853704  3  2 Bk  k     kf    -        29522   10    0 
+FeltShark 967853727  3  1 Bc  kc    kc    k        29512  130  270 4h 4c
+FeltShark 967853758  3  3 f   -     -     -        29652    0    0 
+FeltShark 967853789  3  2 Bf  -     -     -        29652   10    0 
+FeltShark 967853806  3  1 Bf  -     -     -        29642    5    0 
+FeltShark 967853813  3  3 r   k     k     k        29637   35  105 9d Ad
+FeltShark 967853833  3  2 Bk  k     kf    -        29707   10    0 
+FeltShark 967853854  3  1 Brc kf    -     -        29697   90    0 
+FeltShark 967853868  3  3 r   k     k     k        29607   35    0 Ah 5d
+FeltShark 967853889  3  2 Bk  f     -     -        29572   10    0 
+FeltShark 967853918  3  1 Bc  k     k     k        29562   10   20 Td Ks
+FeltShark 967853933  3  3 cc  k     b     -        29572  160  240 
+FeltShark 967853956  3  2 Bf  -     -     -        29652   10    0 
+FeltShark 967853962  3  1 Bc  kf    -     -        29642   35    0 
+FeltShark 967853975  3  3 cc  b     -     -        29607  160  240 
+FeltShark 967853990  3  2 Bf  -     -     -        29687   10    0 
+FeltShark 967854006  3  1 BQ  -     -     -        29677    5    0 
+FeltShark 967854184  3  2 Bk  kc    k     k        29672   35    0 6d 4h
+FeltShark 967854204  3  1 Bf  -     -     -        29637    5    0 
+FeltShark 967854210  3  3 c   k     k     k        29632   10   30 6h 8h
+FeltShark 967854228  3  2 Bc  k     kf    -        29652   35    0 
+FeltShark 967854243  3  1 Bf  -     -     -        29617    5    0 
+FeltShark 967854268  3  3 r   -     -     -        29612   35   50 
+FeltShark 967854275  3  2 Bc  kf    -     -        29627   35    0 
+FeltShark 967854288  3  1 Bf  -     -     -        29592    5    0 
+FeltShark 967854292  3  3 rc  c     k     k        29587  355    0 9s Ac
+FeltShark 967854325  3  2 Bk  k     kf    -        29232   10    0 
+FeltShark 967854343  3  1 Bc  k     k     k        29222   10   20 4h 5s
+FeltShark 967854359  3  3 c   k     k     k        29232   10    0 Js 3s
+FeltShark 967854375  3  2 Bc  f     -     -        29222   30    0 
+FeltShark 967854386  3  1 Bc  b     -     -        29192   40   60 
+FeltShark 967854396  3  3 f   -     -     -        29212    0    0 
+FeltShark 967854420  3  2 Bf  -     -     -        29212   10    0 
+FeltShark 967854429  4  1 Bc  kc    kc    kf       29202  160    0 
+FeltShark 967854469  5  5 f   -     -     -        29042    0    0 
+FeltShark 967854487  5  4 f   -     -     -        29042    0    0 
+FeltShark 967854518  5  3 f   -     -     -        29042    0    0 
+FeltShark 967854544  5  2 Bk  k     kf    -        29042   10    0 
+FeltShark 967854572  5  1 Bf  -     -     -        29032    5    0 
+FeltShark 967854587  5  5 f   -     -     -        29027    0    0 
+FeltShark 967854610  6  5 c   c     f     -        29027   60    0 
+FeltShark 967854653  6  4 f   -     -     -        28967    0    0 
+FeltShark 967854678  6  3 f   -     -     -        28967    0    0 
+FeltShark 967854698  6  2 Bf  -     -     -        28967   10    0 
+FeltShark 967854730  6  1 Bf  -     -     -        28957    5    0 
+FeltShark 967854766  6  6 c   k     k     f        28952   10    0 
+FeltShark 967854787  6  5 f   -     -     -        28942    0    0 
+FeltShark 967854800  6  4 c   k     kf    -        28942   10    0 
+FeltShark 967854846  6  3 c   kf    -     -        28932   10    0 
+FeltShark 967854869  6  2 Bk  k     b     kf       28922   45    0 
+FeltShark 967854898  6  1 Bc  k     kf    -        28877   10    0 
+FeltShark 967854927  6  6 f   -     -     -        28867    0    0 
+FeltShark 967854933  6  5 f   -     -     -        28867    0    0 
+FeltShark 967854954  6  4 c   f     -     -        28867   10    0 
+FeltShark 967854980  5  2 Bk  k     k     k        28857   10    0 7h 5s
+FeltShark 967854997  5  1 Bc  kf    -     -        28847   10    0 
+FeltShark 967855014  5  5 c   k     f     -        28837   10    0 
+FeltShark 967855039  4  4 c   k     k     f        28827   10    0 
+FeltShark 967855068  4  3 f   -     -     -        28817    0    0 
+FeltShark 967855086  4  2 Bk  k     b     -        28817   35   50 
+FeltShark 967855110  3  1 Bf  -     -     -        28832    5    0 
+FeltShark 967855117  3  3 c   k     k     k        28827   10    0 6s 5h
+FeltShark 967855132  3  2 Bf  -     -     -        28817   10    0 
+FeltShark 967855156  4  1 Bc  k     k     k        28807   10   20 9s Ts
+FeltShark 967855191  4  4 f   -     -     -        28817    0    0 
+FeltShark 967855198  4  3 c   b     -     -        28817   35   50 
+FeltShark 967855221  4  2 Bc  c     f     -        28832   90    0 
+FeltShark 967855237  4  1 Bc  kf    -     -        28742   10    0 
+FeltShark 967855253  4  4 r   f     -     -        28732   45    0 
+FeltShark 967855279  4  3 f   Q     -     -        28687    0    0 
+FeltShark 967858765  5  4 f   -     -     -        28687    0    0 
+FeltShark 967858788  5  3 f   -     -     -        28687    0    0 
+FeltShark 967858809  5  2 Bk  kf    -     -        28687   10    0 
+FeltShark 967858825  5  1 Bc  kf    -     -        28677   10    0 
+FeltShark 967858844  5  5 f   -     -     -        28667    0    0 
+FeltShark 967858859  6  5 c   k     b     -        28667  150  230 
+FeltShark 967858882  6  4 f   -     -     -        28747    0    0 
+FeltShark 967858915  6  3 f   -     -     -        28747    0    0 
+FeltShark 967858943  6  2 Bc  kf    -     -        28747   35    0 
+FeltShark 967858960  6  1 Bc  kf    -     -        28712   10    0 
+FeltShark 967858982  6  6 c   f     -     -        28702   35    0 
+FeltShark 967859015  6  5 c   b     -     -        28667   45   70 
+FeltShark 967859031  5  4 f   -     -     -        28692    0    0 
+FeltShark 967859057  5  3 f   -     -     -        28692    0    0 
+FeltShark 967859091  5  2 Bk  k     b     kc       28692  210    0 7d Qc
+FeltShark 967859125  5  1 Bf  -     -     -        28482    5    0 
+FeltShark 967859134  5  5 c   c     k     f        28477   40    0 
+FeltShark 967859165  5  4 f   -     -     -        28437    0    0 
+FeltShark 967859182  5  3 c   k     kf    -        28437   10    0 
+FeltShark 967859205  5  2 Bk  k     k     k        28427   10   25 4d 8h
+FeltShark 967859218  5  1 Bc  k     k     kf       28442   10    0 
+FeltShark 967859253  5  5 c   b     k     f        28432   50    0 
+FeltShark 967859288  5  4 f   -     -     -        28382    0    0 
+FeltShark 967859311  5  3 c   k     k     kf       28382   10    0 
+FeltShark 967859340  6  2 Bk  k     k     k        28372   10    0 7c 4d
+FeltShark 967859360  6  1 Bc  k     b     k        28362   40   90 Ts Jh
+FeltShark 967859389  6  6 c   c     c     k        28412  150    0 8d 3d
+FeltShark 967859426  6  5 c   f     -     -        28262   10    0 
+FeltShark 967859473  6  4 f   -     -     -        28252    0    0 
+FeltShark 967859511  6  3 f   -     -     -        28252    0    0 
+FeltShark 967859532  5  2 Bk  k     k     f        28252   10    0 
+FeltShark 967859548  5  1 Bf  -     -     -        28242    5    0 
+FeltShark 967859573  6  6 c   c     f     -        28237   55    0 
+FeltShark 967859607  6  5 f   -     -     -        28182    0    0 
+FeltShark 967859623  6  4 f   -     -     -        28182    0    0 
+FeltShark 967859633  7  3 f   -     -     -        28182    0    0 
+FeltShark 967859670  7  2 Bf  -     -     -        28182   10    0 
+FeltShark 967859698  7  1 Bf  -     -     -        28172    5    0 
+FeltShark 967859711  6  6 c   k     f     -        28167   10    0 
+FeltShark 967859730  6  5 f   -     -     -        28157    0    0 
+FeltShark 967859748  6  4 cc  k     f     -        28157   40    0 
+FeltShark 967859780  6  3 c   kf    -     -        28117   10    0 
+FeltShark 967859804  6  2 Bk  k     k     k        28107   10    0 9c Qd
+FeltShark 967859825  6  1 Bf  -     -     -        28097    5    0 
+FeltShark 967859848  6  6 f   -     -     -        28092    0    0 
+FeltShark 967859877  6  5 f   -     -     -        28092    0    0 
+FeltShark 967859903  5  3 c   b     -     -        28092   30   40 
+FeltShark 967859919  5  3 c   b     -     -        28102   35   50 
+FeltShark 967859929  5  2 Bc  k     kf    -        28117   45    0 
+FeltShark 967864661  8  6 f   -     -     -        28072    0    0 
+FeltShark 967864689  8  5 f   -     -     -        28072    0    0 
+FeltShark 967864729  8  4 f   -     -     -        28072    0    0 
+FeltShark 967864750  9  3 f   -     -     -        28072    0    0 
+FeltShark 967864781  9  2 Bf  -     -     -        28072   10    0 
+FeltShark 967864833  8  1 Bf  -     -     -        28062    5    0 
+FeltShark 967864839  8  8 f   -     -     -        28057    0    0 
+FeltShark 967864844  8  7 cc  k     k     k        28057   45    0 Tc 7c
+FeltShark 967864871  8  6 f   -     -     -        28012    0    0 
+FeltShark 967864894  8  5 f   -     -     -        28012    0    0 
+FeltShark 967864930  8  4 f   -     -     -        28012    0    0 
+FeltShark 967864959  8  3 f   -     -     -        28012    0    0 
+FeltShark 967865010  8  2 Bk  k     k     kf       28012   10    0 
+FeltShark 967865073  9  1 Bc  b     b     k        28002  210  480 4h 3d
+FeltShark 967865094  9  9 f   -     -     -        28272    0    0 
+FeltShark 967865119  9  8 f   -     -     -        28272    0    0 
+FeltShark 967865139  9  7 fQ  -     -     -        28272    0    0 
+FeltShark 967865462  9  6 f   -     -     -        28272    0    0 
+FeltShark 967865491  9  5 f   -     -     -        28272    0    0 
+FeltShark 967865519  8  3 f   -     -     -        28272    0    0 
+FeltShark 967865551  8  2 Bk  b     k     c        28272   90    0 8h Qh
+FeltShark 967865575  8  1 Bf  -     -     -        28182    5    0 
+FeltShark 967865594  8  8 cf  -     -     -        28177   10    0 
+FeltShark 967865626  8  7 c   b     k     f        28167   50    0 
+FeltShark 967865657  8  6 f   -     -     -        28117    0    0 
+FeltShark 967865685  8  5 cc  kc    k     k        28117  185  420 Js Kc
+FeltShark 967865714  7  3 f   -     -     -        28352    0    0 
+FeltShark 967865730  7  2 Bk  kf    -     -        28352   10    0 
+FeltShark 967865744  7  1 Bf  -     -     -        28342    5    0 
+FeltShark 967865747  7  7 f   -     -     -        28337    0    0 
+FeltShark 967865785  8  7 c   b     k     k        28337   50    0 5d Ad
+FeltShark 967865810  9  7 f   -     -     -        28287    0    0 
+FeltShark 967865849  9  6 f   -     -     -        28287    0    0 
+FeltShark 967865879  9  5 c   k     k     k        28287   10    0 6s As
+FeltShark 967865904  9  4 f   -     -     -        28277    0    0 
+FeltShark 967865966  9  3 f   -     -     -        28277    0    0 
+FeltShark 967866003  9  2 Bf  -     -     -        28277   10    0 
+FeltShark 967866016  9  1 Bf  -     -     -        28267    5    0 
+FeltShark 967866056  9  5 Q   -     -     -        28262    0    0 
+FeltShark 967868799 10  3 f   -     -     -        28262    0    0 
+FeltShark 967868824 10  2 Bf  -     -     -        28262   10    0 
+FeltShark 967868856 10  1 Bf  -     -     -        28252    5    0 
+FeltShark 967868898 10 10 c   k     k     k        28247   10    0 9s 6d
+FeltShark 967869000 10  9 fQ  -     -     -        28237    0    0 
+FeltShark 967998702  6  2 Bk  f     -     -        28307   10    0 
+FeltShark 967998715  6  1 Bc  kf    -     -        28297   10    0 
+FeltShark 967998745  6  6 f   -     -     -        28287    0    0 
+FeltShark 967998764  6  5 cc  kf    -     -        28287   45    0 
+FeltShark 967998788  6  4 f   -     -     -        28242    0    0 
+FeltShark 967998806  6  3 f   -     -     -        28242    0    0 
+FeltShark 967998825  5  2 Bf  -     -     -        28242   10    0 
+FeltShark 967998843  5  1 Bf  -     -     -        28232    5    0 
+FeltShark 967998887  5  5 c   f     -     -        28227   10    0 
+FeltShark 967998916  5  4 c   b     kf    -        28217   60    0 
+FeltShark 967998948  5  3 f   -     -     -        28157    0    0 
+FeltShark 967998997  5  2 Bk  k     b     -        28157   30   40 
+FeltShark 967999018  5  1 Br  -     -     -        28167   30   40 
+FeltShark 967999024  5  5 c   k     f     -        28177   10    0 
+FeltShark 967999045  5  4 c   f     -     -        28167   10    0 
+FeltShark 967999058  5  3 f   -     -     -        28157    0    0 
+FeltShark 967999068  5  2 Bf  -     -     -        28157   10    0 
+FeltShark 967999076  5  1 Bf  -     -     -        28147    5    0 
+FeltShark 967999092  5  5 f   -     -     -        28142    0    0 
+FeltShark 967999113  5  4 c   f     -     -        28142   10    0 
+FeltShark 967999131  5  3 f   -     -     -        28132    0    0 
+FeltShark 967999169  5  2 Bc  kf    -     -        28132   45    0 
+FeltShark 967999188  5  1 Bf  -     -     -        28087    5    0 
+FeltShark 967999207  5  5 c   b     bc    c        28082 2010 2025 Kd 9d
+FeltShark 967999264  5  4 f   -     -     -        28097    0    0 
+FeltShark 967999303  6  3 cc  kf    -     -        28097   45    0 
+FeltShark 967999332  6  2 Bk  kf    -     -        28052   10    0 
+FeltShark 967999354  6  1 Bc  b     kc    k        28042  130  400 Kc Qd
+FeltShark 967999412  6  6 cc  c     f     -        28312  130    0 
+FeltShark 967999442  6  5 f   -     -     -        28182    0    0 
+FeltShark 967999460  6  4 f   -     -     -        28182    0    0 
+FeltShark 967999476  6  3 f   -     -     -        28182    0    0 
+FeltShark 967999493  6  2 B   -     -     -        28182   10   15 
+FeltShark 967999498  6  1 Bc  kf    -     -        28187   10    0 
+FeltShark 967999525  6  6 c   k     f     -        28177   10    0 
+FeltShark 967999549  6  5 c   b     -     -        28167   40   60 
+FeltShark 967999591  6  4 f   -     -     -        28187    0    0 
+FeltShark 967999626  6  3 cc  kf    -     -        28187   45    0 
+FeltShark 967999650  6  2 Bk  kf    -     -        28142   10    0 
+FeltShark 967999663  6  1 Bf  -     -     -        28132    5    0 
+FeltShark 967999682  6  6 f   -     -     -        28127    0    0 
+FeltShark 967999687  6  5 f   -     -     -        28127    0    0 
+FeltShark 967999706  6  4 f   -     -     -        28127    0    0 
+FeltShark 967999724  6  3 f   -     -     -        28127    0    0 
+FeltShark 967999759  6  2 Bk  k     c     k        28127   40   90 Kh 9s
+FeltShark 967999787  6  1 Bcf -     -     -        28177   10    0 
+FeltShark 967999829  6  6 f   -     -     -        28167    0    0 
+FeltShark 967999855  6  5 cc  kf    -     -        28167   45    0 
+FeltShark 967999876  6  4 f   -     -     -        28122    0    0 
+FeltShark 967999914  6  3 c   b     k     k        28122   40   90 Qd Ad
+FeltShark 967999938  6  2 Bk  kf    -     -        28172   10    0 
+FeltShark 967999952  6  1 Bf  -     -     -        28162    5    0 
+FeltShark 967999977  6  6 c   c     c     k        28157  645    0 9h 7h
+FeltShark 968000009  6  5 cc  kf    -     -        27512   65    0 
+FeltShark 968000057  6  4 c   c     c     k        27447  130  270 Ah 4h
+FeltShark 968000082  6  3 f   -     -     -        27587    0    0 
+FeltShark 968000106  6  2 Bk  f     -     -        27587   10    0 
+FeltShark 968000143  6  1 Bc  kf    -     -        27577   10    0 
+FeltShark 968000158  5  5 c   b     k     b        27567  150  210 
+FeltShark 968000196  5  4 f   -     -     -        27627    0    0 
+FeltShark 968000217  5  3 cc  k     f     -        27627   45    0 
+FeltShark 968000234  5  2 Bk  b     k     k        27582   40   90 9s Kd
+FeltShark 968000253  5  1 Bc  k     b     -        27632   40   60 
+FeltShark 968000272  5  5 f   -     -     -        27652    0    0 
+FeltShark 968000287  5  4 c   f     -     -        27652   10    0 
+FeltShark 968000300  5  3 c   b     -     -        27642   45   70 
+FeltShark 968000316  5  2 Bc  k     kf    -        27667   35    0 
+FeltShark 968000349  5  1 Bc  b     k     kf       27632   40    0 
+FeltShark 968000377  5  5 f   -     -     -        27592    0    0 
+FeltShark 968000393  5  4 f   -     -     -        27592    0    0 
+FeltShark 968000423  5  3 f   -     -     -        27592    0    0 
+FeltShark 968000436  5  2 Bc  kf    -     -        27592   35    0 
+FeltShark 968000449  5  1 Bf  -     -     -        27557    5    0 
+FeltShark 968000463  5  5 f   -     -     -        27552    0    0 
+FeltShark 968000467  5  4 c   k     k     f        27552   10    0 
+FeltShark 968000483  5  3 c   f     -     -        27542   10    0 
+FeltShark 968000496  5  2 Bk  f     -     -        27532   10    0 
+FeltShark 968000513  5  1 Bf  -     -     -        27522    5    0 
+FeltShark 968000518  5  5 cc  f     -     -        27517   50    0 
+FeltShark 968000535  5  4 f   -     -     -        27467    0    0 
+FeltShark 968000567  5  3 f   -     -     -        27467    0    0 
+FeltShark 968000581  5  2 Bc  b     -     -        27467   90  120 
+FeltShark 968000596  5  1 Bf  -     -     -        27497    5    0 
+FeltShark 968000609  5  5 cc  b     -     -        27492  130  180 
+FeltShark 968000629  4  3 f   -     -     -        27542    0    0 
+FeltShark 968000640  4  2 Bc  kf    -     -        27542   35    0 
+FeltShark 968000661  4  1 Bf  -     -     -        27507    5    0 
+FeltShark 968000698  4  4 f   -     -     -        27502    0    0 
+FeltShark 968000704  4  3 f   -     -     -        27502    0    0 
+FeltShark 968000708  4  2 B   -     -     -        27502   10   15 
+FeltShark 968000711  4  1 Bf  -     -     -        27507    5    0 
+FeltShark 968000732  4  4 c   f     -     -        27502   10    0 
+FeltShark 968000743  4  3 f   -     -     -        27492    0    0 
+FeltShark 968000759  4  2 Bf  -     -     -        27492   10    0 
+FeltShark 968000766  4  1 Bc  k     k     k        27482   10   20 8s 9h
+FeltShark 968000792  4  4 c   f     -     -        27492   10    0 
+FeltShark 968000806  4  3 f   -     -     -        27482    0    0 
+FeltShark 968000831  4  2 Bk  b     -     -        27482   30   40 
+FeltShark 968000843  4  1 Bf  -     -     -        27492    5    0 
+FeltShark 968000847  4  4 c   c     k     k        27487   50    0 5s 6d
+FeltShark 968000870  4  3 f   -     -     -        27437    0    0 
+FeltShark 968000875  4  2 Bk  k     k     k        27437   10   20 Ad 4d
+FeltShark 968000895  4  1 Bf  -     -     -        27447    5    0 
+FeltShark 968000903  4  4 c   b     -     -        27442   35   50 
+FeltShark 968000913  4  3 f   -     -     -        27457    0    0 
+FeltShark 968000936  4  2 B   -     -     -        27457   10   15 
+FeltShark 968000940  4  1 Bf  -     -     -        27462    5    0 
+FeltShark 968000942  4  4 f   -     -     -        27457    0    0 
+FeltShark 968000966  4  3 cc  kc    k     k        27457  115    0 Js Tc
+FeltShark 968000991  4  2 Bf  -     -     -        27342   10    0 
+FeltShark 968001009  3  1 Bcf -     -     -        27332   35    0 
+FeltShark 968001024  3  3 Q   -     -     -        27297    0    0 
+FeltShark 968083665  5  4 r   -     -     -        27297   35   50 
+FeltShark 968083676  5  3 f   -     -     -        27312    0    0 
+FeltShark 968083703  5  2 Bk  k     k     k        27312   10   25 5h 7c
+FeltShark 968083722  5  1 Bcc kf    -     -        27327   40    0 
+FeltShark 968083758  5  5 f   -     -     -        27287    0    0 
+FeltShark 968083837  4  3 c   k     k     f        27287   10    0 
+FeltShark 968083865  4  3 f   -     -     -        27277    0    0 
+FeltShark 968083877  4  2 Bf  -     -     -        27277   10    0 
+FeltShark 968083886  4  1 Br  b     -     -        27267   90  120 
+FeltShark 968083896  4  4 c   b     -     -        27297   35   50 
+FeltShark 968083907  4  3 f   -     -     -        27312    0    0 
+FeltShark 968083910  4  2 Bk  k     k     kc       27312   35    0 Tc 4c
+FeltShark 968083927  4  1 Bf  -     -     -        27277    5    0 
+FeltShark 968083950  4  4 f   -     -     -        27272    0    0 
+FeltShark 968083957  4  3 f   -     -     -        27272    0    0 
+FeltShark 968083970  4  2 Bc  kc    k     bf       27272  335    0 
+FeltShark 968084003  4  1 Bf  -     -     -        26937    5    0 
+FeltShark 968084040  4  4 c   k     b     -        26932  145  220 
+FeltShark 968084073  4  3 c   f     -     -        27007   10    0 
+FeltShark 968084083  4  2 Bf  -     -     -        26997   10    0 
+FeltShark 968084111  4  1 Bf  -     -     -        26987    5    0 
+FeltShark 968084123  4  4 f   -     -     -        26982    0    0 
+FeltShark 968084127  4  3 f   -     -     -        26982    0    0 
+FeltShark 968084145  4  2 Bk  k     k     k        26982   10   30 Jd 7s
+FeltShark 968084166  4  1 Bc  kf    -     -        27002   10    0 
+FeltShark 968084196  4  4 f   -     -     -        26992    0    0 
+FeltShark 968084222  5  3 f   -     -     -        26992    0    0 
+FeltShark 968084242  5  2 Bf  -     -     -        26992   10    0 
+FeltShark 968084247  5  1 Bf  -     -     -        26982    5    0 
+FeltShark 968084257  5  5 f   -     -     -        26977    0    0 
+FeltShark 968084269  5  4 f   -     -     -        26977    0    0 
+FeltShark 968084300  5  3 f   -     -     -        26977    0    0 
+FeltShark 968084328  5  2 Bk  k     kf    -        26977   10    0 
+FeltShark 968084351  5  1 Bf  -     -     -        26967    5    0 
+FeltShark 968084369  5  5 cc  k     k     k        26962   40    0 3c Kc
+FeltShark 968084399  4  3 f   -     -     -        26922    0    0 
+FeltShark 968084406  4  2 Bf  -     -     -        26922   10    0 
+FeltShark 968084413  5  1 Bc  kf    -     -        26912   10    0 
+FeltShark 968084434  5  5 f   -     Q     -        26902    0    0 
+FeltShark 969240842 10  8 f   -     -     -        26892    0    0 
+FeltShark 969240881 10  7 c   k     k     b        26892   60  100 
+FeltShark 969240930 10  6 f   -     -     -        26932    0    0 
+FeltShark 969240955 10  5 f   -     -     -        26932    0    0 
+FeltShark 969241001 10  4 f   -     -     -        26932    0    0 
+FeltShark 969241026 10  3 f   -     -     -        26932    0    0 
+FeltShark 969241064 10  2 Bk  kf    -     -        26932   10    0 
+FeltShark 969241100 10  1 Bf  -     -     -        26922    5    0 
+FeltShark 969241119 10 10 f   -     -     -        26917    0    0 
+FeltShark 969241194 10  9 f   -     -     -        26917    0    0 
+FeltShark 969241229 10  8 f   -     -     -        26917    0    0 
+FeltShark 969241256 10  7 cc  kf    -     -        26917   55    0 
+FeltShark 969241283 10  6 f   -     -     -        26862    0    0 
+FeltShark 969241321 10  5 c   k     k     f        26862   10    0 
+FeltShark 969241350 10  4 f   -     -     -        26852    0    0 
+FeltShark 969241398 10  3 f   -     -     -        26852    0    0 
+FeltShark 969241430 10  2 Bc  kf    -     -        26852   55    0 
+FeltShark 969241488 10  1 Bf  -     -     -        26797    5    0 
+FeltShark 969241506 10 10 f   -     -     -        26792    0    0 
+FeltShark 969241545 10  9 f   -     -     -        26792    0    0 
+FeltShark 969241595 10  8 f   -     -     -        26792    0    0 
+FeltShark 969241641 10  7 f   -     -     -        26792    0    0 
+FeltShark 969241648 10  6 f   -     -     -        26792    0    0 
+FeltShark 969241714 10  5 cc  k     kc    kf       26792  530    0 
+FeltShark 969241821 10  4 cc  k     b     k        26262  235  540 Kc Kd
+FeltShark 969241879 10  3 c   k     kf    -        26567   10    0 
+FeltShark 969241919 10  2 Bk  kf    -     -        26557   10    0 
+FeltShark 969241979 10  1 Bf  -     -     -        26547    5    0 
+FeltShark 969242048 10 10 f   -     -     -        26542    0    0 
+FeltShark 969242086 10  9 f   -     -     -        26542    0    0 
+FeltShark 969242136 10  8 f   -     -     -        26542    0    0 
+FeltShark 969242180 10  7 f   -     -     -        26542    0    0 
+FeltShark 969242226 10  6 cc  kf    -     -        26542   75    0 
+FeltShark 969242283 10  5 c   f     -     -        26467   10    0 
+FeltShark 969242306 10  4 cc  k     k     k        26457   55  235 6c 5c
+FeltShark 969242335 10  3 c   k     k     kf       26637   10    0 
+FeltShark 969242418 10  2 Bk  k     b     -        26627   50   80 
+FeltShark 969242446 10  1 Bf  -     -     -        26657    5    0 
+FeltShark 969242462  9  9 f   -     -     -        26652    0    0 
+FeltShark 969242508 10  9 c   k     k     kf       26652   10    0 
+FeltShark 969242609 10  8 f   -     -     -        26642    0    0 
+FeltShark 969242664 10  7 f   -     -     -        26642    0    0 
+FeltShark 969242710 10  6 f   -     -     -        26642    0    0 
+FeltShark 969242727 10  5 f   -     -     -        26642    0    0 
+FeltShark 969242786 10  4 f   -     -     -        26642    0    0 
+FeltShark 969242813 10  3 f   -     -     -        26642    0    0 
+FeltShark 969242834 10  2 Bk  k     kf    -        26642   10    0 
+FeltShark 969242873 10  1 Bf  -     -     -        26632    5    0 
+FeltShark 969242892 10 10 f   -     -     -        26627    0    0 
+FeltShark 969242937 10  9 f   -     -     -        26627    0    0 
+FeltShark 969242976 10  8 f   -     -     -        26627    0    0 
+FeltShark 969243012 10  7 cc  kf    -     -        26627   65    0 
+FeltShark 969243051 10  6 f   -     -     -        26562    0    0 
+FeltShark 969243078 10  5 f   -     -     -        26562    0    0 
+FeltShark 969243108 10  4 f   -     -     -        26562    0    0 
+FeltShark 969243171 10  3 c   b     kf    -        26562   55    0 
+FeltShark 969243204 10  2 Bf  -     -     -        26507   10    0 
+FeltShark 969243236 10  1 Bc  kf    -     -        26497   10    0 
+FeltShark 969243266  9  9 c   f     -     -        26487   10    0 
+FeltShark 969243298  9  8 f   -     -     -        26477    0    0 
+FeltShark 969243348  9  7 f   -     -     -        26477    0    0 
+FeltShark 969243403  9  6 f   -     -     -        26477    0    0 
+FeltShark 969243435  9  5 f   -     -     -        26477    0    0 
+FeltShark 969243463  9  4 f   -     -     -        26477    0    0 
+FeltShark 969243491  9  3 KQ  -     -     -        26477    0    0 
+FeltShark 969243596 10 10 f   -     -     -        26477    0    0 
+FeltShark 969243609 10  9 f   -     -     -        26477    0    0 
+FeltShark 969243646 10  8 f   -     -     -        26477    0    0 
+FeltShark 969243680 10  7 f   -     -     -        26477    0    0 
+FeltShark 969243719 10  6 f   -     -     -        26477    0    0 
+FeltShark 969243750 10  5 f   -     -     -        26477    0    0 
+FeltShark 969243790 10  4 f   -     -     -        26477    0    0 
+FeltShark 969243860 10  3 f   -     -     -        26477    0    0 
+FeltShark 969243911 10  2 Bk  f     -     -        26477   10    0 
+FeltShark 969243939 10  1 Bf  -     -     -        26467    5    0 
+FeltShark 969243992 10 10 f   -     -     -        26462    0    0 
+FeltShark 969244019 10  9 f   -     -     -        26462    0    0 
+FeltShark 969244063 10  8 f   -     -     -        26462    0    0 
+FeltShark 969244123 10  7 f   -     -     -        26462    0    0 
+FeltShark 969244163 10  6 f   -     -     -        26462    0    0 
+FeltShark 969244234 10  5 c   k     k     k        26462   10   45 Js Ac
+FeltShark 969244272 10  4 cc  kf    -     -        26497   55    0 
+FeltShark 969244322 10  3 f   -     -     -        26442    0    0 
+FeltShark 969244332 10  2 Bk  k     kf    -        26442   10    0 
+FeltShark 969244371 10  1 Bf  -     -     -        26432    5    0 
+FeltShark 969244388 10 10 c   c     f     -        26427  290    0 
+FeltShark 969244431 10  9 c   f     -     -        26137   35    0 
+FeltShark 969244442 10  8 f   -     -     -        26102    0    0 
+FeltShark 969244481 10  7 f   -     -     -        26102    0    0 
+FeltShark 969244529 10  6 f   -     -     -        26102    0    0 
+FeltShark 969244565 10  5 f   -     -     -        26102    0    0 
+FeltShark 969244615 10  4 f   -     -     -        26102    0    0 
+FeltShark 969244650 10  3 c   k     k     kf       26102   10    0 
+FeltShark 969244706 10  2 Bk  k     k     kf       26092   10    0 
+FeltShark 969244742 10  1 Bf  -     -     -        26082    5    0 
+FeltShark 969244760 10 10 c   k     k     f        26077   10    0 
+FeltShark 969244799 10  9 f   -     -     -        26067    0    0 
+FeltShark 969244815 10  8 f   -     -     -        26067    0    0 
+FeltShark 969244847 10  7 c   b     -     -        26067   75  130 
+FeltShark 969244880 10  6 f   -     -     -        26122    0    0 
+FeltShark 969244897 10  5 f   -     -     -        26122    0    0 
+FeltShark 969244920 10  4 cf  -     -     -        26122   10    0 
+FeltShark 969244964 10  3 f   -     -     -        26112    0    0 
+FeltShark 969245012 10  2 Bk  kf    -     -        26112   10    0 
+FeltShark 969245032 10  1 Bf  -     -     -        26102    5    0 
+FeltShark 969245077 10 10 f   -     -     -        26097    0    0 
+FeltShark 969245116 10  9 f   -     -     -        26097    0    0 
+FeltShark 969245150 10  8 f   -     -     -        26097    0    0 
+FeltShark 969245183 10  7 f   -     -     -        26097    0    0 
+FeltShark 969245230 10  6 f   -     -     -        26097    0    0 
+FeltShark 969245277 10  5 f   -     -     -        26097    0    0 
+FeltShark 969245314 10  4 f   -     -     -        26097    0    0 
+FeltShark 969245359 10  3 f   -     -     -        26097    0    0 
+FeltShark 969245384 10  2 Bk  f     -     -        26097   10    0 
+FeltShark 969245417 10  1 Bc  kf    -     -        26087   10    0 
+FeltShark 969245457 10 10 f   -     -     -        26077    0    0 
+FeltShark 969245484 10  9 f   -     -     -        26077    0    0 
+FeltShark 969245532 10  8 f   -     -     -        26077    0    0 
+FeltShark 969245568 10  7 f   -     -     -        26077    0    0 
+FeltShark 969245615 10  6 f   -     -     -        26077    0    0 
+FeltShark 969245664 10  5 f   -     -     -        26077    0    0 
+FeltShark 969245686 10  4 f   -     -     -        26077    0    0 
+FeltShark 969245739 10  3 f   -     -     -        26077    0    0 
+FeltShark 969245791 10  2 Bk  k     kf    -        26077   10    0 
+FeltShark 969245832 10  1 Bf  -     -     -        26067    5    0 
+FeltShark 969245861 10 10 f   -     -     -        26062    0    0 
+FeltShark 969245922 10  9 f   -     -     -        26062    0    0 
+FeltShark 969245962 10  8 f   -     -     -        26062    0    0 
+FeltShark 969245994 10  7 f   -     -     -        26062    0    0 
+FeltShark 969246032 10  6 f   -     -     -        26062    0    0 
+FeltShark 969246076 10  5 f   -     -     -        26062    0    0 
+FeltShark 969246121 10  4 f   -     -     -        26062    0    0 
+FeltShark 969246185 10  3 f   -     -     -        26062    0    0 
+FeltShark 969246243 10  2 Bk  kf    -     -        26062   10    0 
+FeltShark 969246277 10  1 Bf  -     -     -        26052    5    0 
+FeltShark 969246323 10 10 f   -     -     -        26047    0    0 
+FeltShark 969246384 10  9 f   -     -     -        26047    0    0 
+FeltShark 969246427 10  8 f   -     -     -        26047    0    0 
+FeltShark 969246479 10  7 f   -     -     -        26047    0    0 
+FeltShark 969246509 10  6 f   -     -     -        26047    0    0 
+FeltShark 969246566 10  5 f   -     -     -        26047    0    0 
+FeltShark 969246585 10  4 f   -     -     -        26047    0    0 
+FeltShark 969246616 10  3 f   -     -     -        26047    0    0 
+FeltShark 969246646 10  2 Bk  k     k     b        26047   55  180 Jc 6d
+FeltShark 969246688 10  1 Bf  -     -     -        26172    5    0 
+FeltShark 969246746 10 10 c   k     f     -        26167   10    0 
+FeltShark 969246829 10  9 f   -     -     -        26157    0    0 
+FeltShark 969246882 10  8 c   k     f     -        26157   10    0 
+FeltShark 969246933 10  7 f   -     -     -        26147    0    0 
+FeltShark 969246975 10  6 f   -     -     -        26147    0    0 
+FeltShark 969247002 10  5 f   Q     -     -        26147    0    0 
+FeltShark 969421675  9  5 f   -     -     -        26147    0    0 
+FeltShark 969421704  9  4 f   -     -     -        26147    0    0 
+FeltShark 969421754  9  3 f   -     -     -        26147    0    0 
+FeltShark 969421823  9  2 Bk  k     b     b        26147  335  520 
+FeltShark 969421869  9  1 Bf  -     -     -        26332    5    0 
+FeltShark 969421924  9  8 c   f     -     -        26327   10    0 
+FeltShark 969421943  9  7 f   -     -     -        26317    0    0 
+FeltShark 969421986  9  6 f   -     -     -        26317    0    0 
+FeltShark 969422041  9  5 f   -     -     -        26317    0    0 
+FeltShark 969422083  9  4 c   k     k     k        26317   35  175 Td Th
+FeltShark 969422122 10  3 f   -     -     -        26457    0    0 
+FeltShark 969422160 10  2 Bf  -     -     -        26457   10    0 
+FeltShark 969422209 10  1 Bc  kf    -     -        26447   45    0 
+FeltShark 969422241 10 10 f   -     -     -        26402    0    0 
+FeltShark 969422302 10  9 f   -     -     -        26402    0    0 
+FeltShark 969422353 10  8 f   -     -     -        26402    0    0 
+FeltShark 969422384 10  7 f   -     -     -        26402    0    0 
+FeltShark 969422416 10  6 cc  kf    -     -        26402   55    0 
+FeltShark 969422443 10  5 f   -     -     -        26347    0    0 
+FeltShark 969422495 10  4 f   -     -     -        26347    0    0 
+FeltShark 969422516 10  3 f   -     -     -        26347    0    0 
+FeltShark 969422580 10  2 Bf  -     -     -        26347   10    0 
+FeltShark 969422618 10  1 Bc  kf    -     -        26337   10    0 
+FeltShark 969422651 10 10 c   k     k     k        26327   45    0 Tc Kc
+FeltShark 969422692 10  9 c   kf    -     -        26282   10    0 
+FeltShark 969422774 10  8 f   -     -     -        26272    0    0 
+FeltShark 969422817 10  7 f   -     -     -        26272    0    0 
+FeltShark 969422881 10  6 f   -     -     -        26272    0    0 
+FeltShark 969422916 10  5 f   -     -     -        26272    0    0 
+FeltShark 969422939 10  4 f   -     -     -        26272    0    0 
+FeltShark 969422987 10  3 f   -     -     -        26272    0    0 
+FeltShark 969423018 10  2 Bk  k     b     bc       26272  725  743 2s As
+FeltShark 969423057  9  1 Bc  kf    -     -        26290   10    0 
+FeltShark 969423097  9  9 f   -     -     -        26280    0    0 
+FeltShark 969423156  9  8 f   -     -     -        26280    0    0 
+FeltShark 969423175  9  7 c   k     k     k        26280   45    0 2s 2c
+FeltShark 969423206  9  6 c   k     f     -        26235   10    0 
+FeltShark 969423252  9  5 f   -     -     -        26225    0    0 
+FeltShark 969423280  8  3 f   -     -     -        26225    0    0 
+FeltShark 969423297  8  2 Bk  kf    -     -        26225   10    0 
+FeltShark 969423340  8  1 Bc  k     b     -        26215   40   60 
+FeltShark 969423364  8  8 f   -     -     -        26235    0    0 
+FeltShark 969423404  8  7 f   -     -     -        26235    0    0 
+FeltShark 969423450  8  6 c   b     k     f        26235   50    0 
+FeltShark 969423524  8  5 f   -     -     -        26185    0    0 
+FeltShark 969423585  8  4 f   -     -     -        26185    0    0 
+FeltShark 969423613  8  3 f   -     -     -        26185    0    0 
+FeltShark 969423644  8  2 Bk  k     k     k        26185   10   25 Kh Ah
+FeltShark 969423671  8  1 Bf  -     -     -        26200    5    0 
+FeltShark 969423684  8  8 c   f     -     -        26195   10    0 
+FeltShark 969423721  8  7 f   -     -     -        26185    0    0 
+FeltShark 969423737  8  6 cc  b     b     k        26185  850 1800 Ts 9d
+FeltShark 969423787  9  6 f   -     -     -        27135    0    0 
+FeltShark 969423805  9  5 cc  kc    k     k        27135  235  540 Tc As
+FeltShark 969423837  9  4 cc  kf    -     -        27440   45    0 
+FeltShark 969423868  9  3 f   -     -     -        27395    0    0 
+FeltShark 969423944  9  2 Bf  -     -     -        27395   10    0 
+FeltShark 969424033  9  1 Bc  kc    kc    kc       27385  110  265 6c 9c
+FeltShark 969424147  8  8 c   k     k     f        27540   35    0 
+FeltShark 969424206  9  8 f   -     -     -        27505    0    0 
+FeltShark 969424250  9  7 cc  c     f     -        27505  377    0 
+FeltShark 969424346  8  5 f   -     -     -        27128    0    0 
+FeltShark 969424425  8  4 c   k     b     k        27128   45  105 9c 9d
+FeltShark 969424456  8  3 f   -     -     -        27188    0    0 
+FeltShark 969424498  8  2 BQ  -     -     -        27188   10    0 
+FeltShark 969767137  4  3 f   -     -     -        49328    0    0 
+FeltShark 969767152  4  2 B   -     -     -        49328   10   15 
+FeltShark 969767158  4  1 Bcc k     k     k        49333   50    0 Jh Jd
+FeltShark 969767181  4  4 c   b     -     -        49283   35   50 
+FeltShark 969767195  4  3 cc  b     k     k        49298  110  225 Qd Jh
+FeltShark 969767215  4  2 Bf  -     -     -        49413   10    0 
+FeltShark 969767234  4  1 Bc  kf    -     -        49403   10    0 
+FeltShark 969767259  4  4 c   k     f     -        49393   10    0 
+FeltShark 969767273  4  3 f   -     -     -        49383    0    0 
+FeltShark 969767278  4  2 B   -     -     -        49383   10   15 
+FeltShark 969767280  4  1 Bf  -     -     -        49388    5    0 
+FeltShark 969767302  4  4 f   -     -     -        49383    0    0 
+FeltShark 969767313  4  3 f   -     -     -        49383    0    0 
+FeltShark 969767318  4  2 Bk  k     k     b        49383   35   50 
+FeltShark 969767333  4  1 Bf  -     -     -        49398    5    0 
+FeltShark 969767346  4  4 c   k     b     -        49393   35   50 
+FeltShark 969767359  4  3 c   k     k     k        49408   10    0 Ac 5h
+FeltShark 969767376  4  2 Bk  k     k     k        49398   10   25 8c 9c
+FeltShark 969767396  4  1 Bc  k     kf    -        49413   10    0 
+FeltShark 969767423  4  4 cc  f     -     -        49403   40    0 
+FeltShark 969767446  4  3 cc  k     f     -        49363   45    0 
+FeltShark 969767463  4  2 Bf  -     -     -        49318   10    0 
+FeltShark 969767468  4  1 Bf  -     -     -        49308    5    0 
+FeltShark 969767479  4  4 c   k     k     f        49303   35    0 
+FeltShark 969767507  4  3 f   -     -     -        49268    0    0 
+FeltShark 969767516  4  2 Bk  b     k     f        49268   30    0 
+FeltShark 969767538  4  1 Bc  k     kf    -        49238   10    0 
+FeltShark 969767561  4  4 f   -     -     -        49228    0    0 
+FeltShark 969767568  4  3 c   k     f     -        49228   10    0 
+FeltShark 969767579  4  2 Bk  k     b     -        49218   30   40 
+FeltShark 969767595  3  1 Bc  kf    -     -        49228   10    0 
+FeltShark 969767605  3  3 c   k     k     k        49218   10   25 5h 4c
+FeltShark 969767617  3  2 Bk  f     -     -        49233   10    0 
+FeltShark 969767633  3  1 Bf  -     -     -        49223    5    0 
+FeltShark 969767641  3  3 f   -     -     -        49218    0    0 
+FeltShark 969767651  3  2 Bk  k     f     -        49218   10    0 
+FeltShark 969767662  3  1 Bf  -     -     -        49208    5    0 
+FeltShark 969767665  3  3 c   b     -     -        49203   35   50 
+FeltShark 969767673  3  2 Bf  -     -     -        49218   10    0 
+FeltShark 969767678  3  1 Bc  k     b     -        49208   30   40 
+FeltShark 969767688  3  3 f   -     -     -        49218    0    0 
+FeltShark 969767699  3  2 B   -     -     -        49218   10   15 
+FeltShark 969767706  3  1 Bc  kc    k     k        49223  115  240 Js Jd
+FeltShark 969767724  3  3 cc  c     c     b        49348 1010 2025 8h 7s
+FeltShark 969767749  3  2 Bc  kf    -     -        50363   35    0 
+FeltShark 969767766  3  1 Bf  -     -     -        50328    5    0 
+FeltShark 969767772  3  3 f   -     -     -        50323    0    0 
+FeltShark 969767789  3  2 Bk  f     -     -        50323   10    0 
+FeltShark 969767805  3  1 Bc  kf    -     -        50313   10    0 
+FeltShark 969767816  3  3 c   k     f     -        50303   10    0 
+FeltShark 969767828  3  2 Bk  f     -     -        50293   10    0 
+FeltShark 969767837  3  1 Bc  k     k     k        50283   10    0 6h 7h
+FeltShark 969767849  3  3 f   -     -     -        50273    0    0 
+FeltShark 969767854  3  2 B   -     -     -        50273   10   15 
+FeltShark 969767856  3  1 Bc  b     -     -        50278   30   40 
+FeltShark 969767863  3  3 f   -     -     -        50288    0    0 
+FeltShark 969767876  3  2 Bk  k     f     -        50288   10    0 
+FeltShark 969767888  3  1 Bf  -     -     -        50278    5    0 
+FeltShark 969767893  3  3 f   -     -     -        50273    0    0 
+FeltShark 969767902  3  2 Bk  k     kf    -        50273   10    0 
+FeltShark 969767918  3  1 Bf  -     -     -        50263    5    0 
+FeltShark 969767923  3  3 c   k     k     k        50258   10    0 Jh 5h
+FeltShark 969767938  3  2 B   -     -     -        50248   10   15 
+FeltShark 969767944  3  1 Bf  -     -     -        50253    5    0 
+FeltShark 969767949  3  3 r   k     f     -        50248   35    0 
+FeltShark 969767960  3  2 Bf  -     -     -        50213   10    0 
+FeltShark 969767969  3  1 Bf  -     -     -        50203    5    0 
+FeltShark 969767973  3  3 c   b     -     -        50198   35   50 
+FeltShark 969767981  3  2 Bk  k     k     k        50213   10   30 5h 4c
+FeltShark 969767996  3  1 Bc  k     kc    k        50233  115  240 9s 9h
+FeltShark 969768013  3  3 cf  -     -     -        50358   10    0 
+FeltShark 969768023  3  2 BQ  -     -     -        50348   10    0 

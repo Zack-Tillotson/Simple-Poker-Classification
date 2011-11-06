@@ -1,0 +1,791 @@
+bossman   975078028  2  1 Br  -     -     -         3545   30   40 
+bossman   975078036  2  2 Bf  -     -     -         3555   10    0 
+bossman   975078040  2  1 Bf  -     -     -         3545    5    0 
+bossman   975078042  2  2 Bk  k     b     -         3540   30   40 
+bossman   975078052  2  1 Bf  -     -     -         3550    5    0 
+bossman   975078054  2  2 B   -     -     -         3545   10   15 
+bossman   975078057  2  1 Bc  k     b     -         3550   30   40 
+bossman   975078073  2  2 Bf  -     -     -         3560   10    0 
+bossman   975078076  2  1 Bc  kf    -     -         3550   10    0 
+bossman   975078082  2  2 Br  b     -     -         3540   40   60 
+bossman   975078093  2  1 Bc  k     k     k         3560   10    0 5c 6c
+bossman   975078101  2  2 B   -     -     -         3550   10   15 
+bossman   975078106  2  1 Bf  -     -     -         3555    5    0 
+bossman   975078108  2  2 B   -     -     -         3550   10   15 
+bossman   975078110  2  1 Bf  -     -     -         3555    5    0 
+bossman   975078112  2  2 Br  k     f     -         3550   50    0 
+bossman   975078141  2  1 Br  k     b     -         3500   90  120 
+bossman   975078150  2  2 Bf  -     -     -         3530   10    0 
+bossman   975078155  2  1 Bf  -     -     -         3520    5    0 
+bossman   975078157  2  2 Bf  -     -     -         3515   10    0 
+bossman   975078159  2  1 Br  -     -     -         3505   30   40 
+bossman   975078161  2  2 B   -     -     -         3515   10   15 
+bossman   975078163  2  1 Bc  kc    kf    -         3520   30    0 
+bossman   975078174  2  2 B   -     -     -         3490   10   15 
+bossman   975078177  2  1 Br  b     -     -         3495   90  120 
+bossman   975078187  2  2 B   -     -     -         3525   10   15 
+bossman   975078189  2  1 Bf  -     -     -         3530    5    0 
+bossman   975078192  2  2 Bf  -     -     -         3525   10    0 
+bossman   975078197  2  1 Bf  -     -     -         3515    5    0 
+bossman   975078200  2  2 B   -     -     -         3510   10   15 
+bossman   975078203  2  1 Bc  bc    k     k         3515   90  180 2h 6h
+bossman   975078217  2  2 Bk  k     k     k         3605   10   20 8c 5h
+bossman   975078232  2  1 Bf  -     -     -         3615    5    0 
+bossman   975078236  2  2 Bc  c     f     -         3610   90    0 
+bossman   975078244  2  1 Bf  -     -     -         3520    5    0 
+bossman   975078245  2  2 B   -     -     -         3515   10   15 
+bossman   975078246  2  1 Bf  -     -     -         3520    5    0 
+bossman   975078249  2  2 B   -     -     -         3515   10   15 
+bossman   975078251  2  1 Bf  -     -     -         3520    5    0 
+bossman   975078253  2  2 B   -     -     -         3515   10   15 
+bossman   975078270  2  1 Brc kf    -     -         3520   90    0 
+bossman   975078276  2  2 Bf  -     -     -         3430   10    0 
+bossman   975078280  2  1 Br  -     -     -         3420   30   40 
+bossman   975078282  2  2 Bc  c     c     f         3430  270    0 
+bossman   975078318  2  1 Bf  -     -     -         3160    5    0 
+bossman   975078320  2  2 Bc  rf    -     -         3155  270    0 
+bossman   975078330  2  1 Br  -     -     -         2885   30   40 
+bossman   975078335  2  2 Bc  r     k     b         2895  810 1080 
+bossman   975078358  2  1 Bf  -     -     -         3165    5    0 
+bossman   975078360  2  2 B   -     -     -         3160   10   15 
+bossman   975078363  2  1 Bc  b     kc    kc        3165  270  540 Ks 9d
+bossman   975078380  2  2 B   -     -     -         3435   10   15 
+bossman   975078386  2  1 Bcc kc    kf    -         3440   90    0 
+bossman   975078414  2  2 B   -     -     -         3350   10   15 
+bossman   975080532  2  1 Bf  -     -     -         3620    5    0 
+bossman   975080535  2  2 B   -     -     -         3595   10   15 
+bossman   975080537  2  1 Bc  k     kf    -         3600   10    0 
+bossman   975080545  2  2 B   -     -     -         3590   10   15 
+bossman   975080547  2  1 Bcc k     kf    -         3595   30    0 
+bossman   975080558  2  2 B   -     -     -         3565   10   15 
+bossman   975080562  2  1 Bf  -     -     -         3570    5    0 
+bossman   975080564  2  2 B   -     -     -         3565   10   15 
+bossman   975080566  2  1 Bf  -     -     -         3570    5    0 
+bossman   975080568  2  2 B   -     -     -         3565   10   15 
+bossman   975080570  2  1 Bc  b     -     -         3570   30   40 
+bossman   975080578  2  2 Bc  f     -     -         3580   30    0 
+bossman   975080583  2  1 Bf  -     -     -         3550    5    0 
+bossman   975080585  2  2 Bf  -     -     -         3545   10    0 
+bossman   975080589  2  1 Bcc kf    -     -         3535   30    0 
+bossman   975080597  2  2 B   -     -     -         3505   10   15 
+bossman   975080600  2  1 Bf  -     -     -         3510    5    0 
+bossman   975080602  2  2 Bf  -     -     -         3505   10    0 
+bossman   975080606  2  1 Bc  b     -     -         3495   30   40 
+bossman   975080614  2  2 B   -     -     -         3505   10   15 
+bossman   975080616  2  1 Bc  k     kf    -         3510   10    0 
+bossman   975080625  2  2 B   -     -     -         3500   10   15 
+bossman   975080628  2  1 Br  b     -     -         3505   90  120 
+bossman   975080634  2  2 B   -     -     -         3535   10   15 
+bossman   975080636  2  1 Bf  -     -     -         3540    5    0 
+bossman   975080640  2  2 B   -     -     -         3535   10   15 
+bossman   975080642  2  1 Br  -     -     -         3540   30   40 
+bossman   975080647  2  2 Bc  f     -     -         3550   30    0 
+bossman   975080654  2  1 Bf  -     -     -         3520    5    0 
+bossman   975080656  2  2 B   -     -     -         3515   10   15 
+bossman   975080659  2  1 Bc  k     k     k         3520   10   20 2c Ah
+bossman   975080668  2  2 Bf  -     -     -         3530   10    0 
+bossman   975080674  2  1 Br  kc    kr    -         3520  810 1080 
+bossman   975080703  3  3 c   c     c     c         3790  335  675 Jd Ts
+bossman   975080716  3  2 Bk  k     c     b         4130   90  180 6c 3d
+bossman   975080731  3  1 Bc  kf    -     -         4220   10    0 
+bossman   975080742  3  3 f   -     -     -         4210    0    0 
+bossman   975080754  3  2 B   -     -     -         4210   10   15 
+bossman   975080757  3  1 Bc  kf    -     -         4215   10    0 
+bossman   975080764  3  3 f   -     -     -         4205    0    0 
+bossman   975080766  3  2 B   -     -     -         4205   10   15 
+bossman   975080768  3  1 Bf  -     -     -         4210    5    0 
+bossman   975080770  3  3 f   -     -     -         4205    0    0 
+bossman   975080772  3  2 Bk  b     -     -         4205   30   40 
+bossman   975080779  3  1 Bf  -     -     -         4215    5    0 
+bossman   975080781  3  3 cc  f     -     -         4210   40    0 
+bossman   975080790  3  2 Bf  -     -     -         4170   10    0 
+bossman   975080795  3  1 Bc  k     k     k         4160   10    0 6h 5s
+bossman   975080805  3  3 f   -     -     -         4150    0    0 
+bossman   975080816  3  2 Bf  -     -     -         4150   10    0 
+bossman   975080828  3  1 Bcc kc    kc    k         4140  270    0 Kh 9c
+bossman   975080842  3  3 f   -     -     -         3870    0    0 
+bossman   975080846  3  2 B   -     -     -         3870   10   15 
+bossman   975080849  3  1 Bcc k     k     b         3875   90  120 
+bossman   975080862  3  3 c   b     -     -         3905   35   50 
+bossman   975080869  3  2 Bc  k     k     k         3920   30    0 7h 6s
+bossman   975080878  3  1 Bf  -     -     -         3890    5    0 
+bossman   975080883  3  3 rc  k     k     f         3885  110    0 
+bossman   975080894  3  2 B   -     -     -         3775   10   15 
+bossman   975080897  3  1 Bf  -     -     -         3780    5    0 
+bossman   975080899  3  3 f   -     -     -         3775    0    0 
+bossman   975080901  3  2 B   -     -     -         3775   10   15 
+bossman   975080903  3  1 Bcc kc    k     bf        3780  270    0 
+bossman   975080918  3  3 f   -     -     -         3510    0    0 
+bossman   975080933  3  2 B   -     -     -         3510   10   15 
+bossman   975080938  3  1 Br  -     -     -         3515   30   40 
+bossman   975080942  3  3 f   -     -     -         3525    0    0 
+bossman   975080946  3  2 Brc c     cA    -         3525 3525    0 Kd Ac
+bossman   975113752  5  4 f   -     -     -         3070    0    0 
+bossman   975113790  5  3 f   -     -     -         3070    0    0 
+bossman   975113840  5  2 Bk  kf    -     -         3070   10    0 
+bossman   975113850  5  1 Bf  -     -     -         3060    5    0 
+bossman   975113856  5  5 f   -     -     -         3055    0    0 
+bossman   975113893  5  4 f   -     -     -         3055    0    0 
+bossman   975113914  5  3 f   -     -     -         3055    0    0 
+bossman   975113939  5  2 Bf  -     -     -         3055   10    0 
+bossman   975113967  5  1 Bc  b     b     b         3045  270  540 9c Td
+bossman   975113988  5  5 f   -     -     -         3315    0    0 
+bossman   975114023  6  5 f   -     -     -         3315    0    0 
+bossman   975114053  6  4 f   -     -     -         3315    0    0 
+bossman   975114072  6  3 c   f     -     -         3315   10    0 
+bossman   975114117  6  2 Br  k     kf    -         3305   35    0 
+bossman   975114141  6  1 Bf  -     -     -         3270    5    0 
+bossman   975114167  6  6 f   -     -     -         3265    0    0 
+bossman   975114193  6  5 f   -     -     -         3265    0    0 
+bossman   975114242  6  4 c   r     b     -         3265  400  540 
+bossman   975114294  6  3 f   -     -     -         3405    0    0 
+bossman   975114338  6  2 Bf  -     -     -         3405   10    0 
+bossman   975114359  6  1 Bf  -     -     -         3395    5    0 
+bossman   975114406  6  6 f   -     -     -         3390    0    0 
+bossman   975114471  5  4 r   b     -     -         3390   90  120 
+bossman   975114485  5  4 f   -     -     -         3420    0    0 
+bossman   975114494  5  3 f   -     -     -         3420    0    0 
+bossman   975114542  5  2 Bk  f     -     -         3420   10    0 
+bossman   975114554  5  1 Bf  -     -     -         3410    5    0 
+bossman   975114583  5  5 f   -     -     -         3405    0    0 
+bossman   975114595  5  4 f   -     -     -         3405    0    0 
+bossman   975114620  5  3 f   -     -     -         3405    0    0 
+bossman   975114630  5  2 Bc  kc    k     kf        3405  185    0 
+bossman   975114661  5  1 Bc  k     kf    -         3220   35    0 
+bossman   975114681  5  5 f   -     -     -         3185    0    0 
+bossman   975114702  5  4 f   -     -     -         3185    0    0 
+bossman   975114723  5  3 f   -     -     -         3185    0    0 
+bossman   975114743  5  2 Bf  -     -     -         3185   10    0 
+bossman   975114781  5  1 Bf  -     -     -         3175    5    0 
+bossman   975114802  5  5 f   -     -     -         3170    0    0 
+bossman   975114818  5  4 cc  k     k     k         3170   45    0 6c 9c
+bossman   975114846  5  3 cc  kc    k     k         3125  195    0 7s Ah
+bossman   975114870  5  2 Bc  f     -     -         2930   30    0 
+bossman   975114893  5  1 Bc  kf    -     -         2900   35    0 
+bossman   975114935  5  5 f   -     -     -         2865    0    0 
+bossman   975114945  5  4 f   -     -     -         2865    0    0 
+bossman   975114968  5  3 cc  k     f     -         2865   45    0 
+bossman   975114985  5  2 Bc  kc    k     k         2820  185    0 8h Ah
+bossman   975115010  5  1 Bf  -     -     -         2635    5    0 
+bossman   975115023  5  5 f   -     -     -         2630    0    0 
+bossman   975115028  5  4 cc  f     -     -         2630  150    0 
+bossman   975115047  5  3 cc  k     f     -         2480   40    0 
+bossman   975115072  5  2 Bc  kc    k     b         2440  335  450 
+bossman   975115094  5  1 Bf  -     -     -         2555    5    0 
+bossman   975115113  5  5 c   f     -     -         2550  120    0 
+bossman   975115150  5  4 rr  b     -     -         2430 1140 1530 
+bossman   975115166  5  3 f   -     -     -         2820    0    0 
+bossman   975115184  5  2 Bk  f     -     -         2820   10    0 
+bossman   975115195  5  1 Bf  -     -     -         2810    5    0 
+bossman   975115209  5  5 f   -     -     -         2805    0    0 
+bossman   975115218  5  4 f   -     -     -         2805    0    0 
+bossman   975115225  5  3 f   -     -     -         2805    0    0 
+bossman   975115252  5  2 Bf  -     -     -         2805   10    0 
+bossman   975115282  5  1 Bc  k     b     -         2795  115  160 
+bossman   975115302  5  5 r   -     -     -         2840  120  170 
+bossman   975115320  5  4 c   k     k     k         2890   10   25 4h Ac
+bossman   975115351  5  3 f   -     -     -         2905    0    0 
+bossman   975115370  5  2 Bf  -     -     -         2905   10    0 
+bossman   975115403  5  1 Bf  -     -     -         2895    5    0 
+bossman   975115437  5  5 f   -     -     -         2890    0    0 
+bossman   975115463  5  4 f   -     -     -         2890    0    0 
+bossman   975115470  5  3 f   -     -     -         2890    0    0 
+bossman   975115481  5  2 Bc  kf    -     -         2890  120    0 
+bossman   975115500  5  1 Bf  -     -     -         2770    5    0 
+bossman   975115518  5  5 f   -     -     -         2765    0    0 
+bossman   975115542  5  4 f   -     -     -         2765    0    0 
+bossman   975115571  6  3 f   -     -     -         2765    0    0 
+bossman   975115616  7  3 c   kf    -     -         2765   10    0 
+bossman   975115637  7  2 Bf  -     -     -         2755   10    0 
+bossman   975115668  7  1 Bc  kc    k     k         2745  105    0 Ad Kh
+bossman   975115704  7  7 c   r     k     c         2640 1050    0 Td As
+bossman   975115742  7  6 c   k     f     -         1590   10    0 
+bossman   975115768  7  5 c   f     -     -         1580   10    0 
+bossman   975115797  7  4 r   f     -     -         1570   45    0 
+bossman   975115838  7  3 f   -     -     -         1525    0    0 
+bossman   975115852  7  2 Bc  kf    -     -         1525   35    0 
+bossman   975115872  7  1 Brc b     kcA   -         1490 1490    0 Jh Qd
+bossman   975336813  4  4 f   -     -     -         4330    0    0 
+bossman   975336832  4  3 r   k     k     k         4330   35    0 7c 9s
+bossman   975336851  4  2 Bk  b     k     k         4295   45    0 8c Jh
+bossman   975336867  4  1 Bc  kc    krrA  -         4250 4250 8660 8h 7s
+bossman   975336895  4  4 f   -     -     -         8660    0    0 
+bossman   975336911  4  3 r   b     k     k         8660  145  330 7h 7d
+bossman   975336928  4  2 Bk  b     b     k         8845  185  210 2d As
+bossman   975336957  4  1 Bc  k     b     b         8870  455  630 
+bossman   975336975  5  4 rc  k     k     k         9045  200    0 7c 7d
+bossman   975337004  5  3 r   b     k     kf        8845  175    0 
+bossman   975337031  5  2 Bk  kf    -     -         8670   10    0 
+bossman   975337043  5  1 Bf  -     -     -         8660    5    0 
+bossman   975337069  5  5 f   -     -     -         8655    0    0 
+bossman   975337098  5  4 f   -     -     -         8655    0    0 
+bossman   975337116  5  3 cc  c     c     k         8655  860    0 Kh 8c
+bossman   975337142  5  2 Bk  k     kc    k         7795   45    0 7c 5c
+bossman   975337168  5  1 Bc  kf    -     -         7750   10    0 
+bossman   975337190  5  5 r   k     b     -         7740  150  210 
+bossman   975337202  5  4 c   f     -     -         7800   10    0 
+bossman   975337217  5  3 f   -     -     -         7790    0    0 
+bossman   975337232  5  2 Bk  c     k     k         7790   40  120 Ts 6h
+bossman   975337256  5  1 Bc  kf    -     -         7870   10    0 
+bossman   975337271  5  5 f   -     -     -         7860    0    0 
+bossman   975337290  5  4 r   b     -     -         7860  110  150 
+bossman   975337299  5  3 f   -     -     -         7900    0    0 
+bossman   975337308  5  2 Bc  k     k     k         7900   45  140 2h Jh
+bossman   975337331  5  1 Bc  kc    k     k         7995  115    0 5h 5d
+bossman   975337349  5  5 c   k     b     k         7880   50   60 Ah 8c
+bossman   975337383  5  4 f   -     -     -         7890    0    0 
+bossman   975337404  5  3 f   -     -     -         7890    0    0 
+bossman   975337428  5  2 Bk  k     k     k         7890   10    0 9d Td
+bossman   975337454  5  1 Bc  kf    -     -         7880   10    0 
+bossman   975337479  5  5 r   k     k     f         7870   35    0 
+bossman   975337507  5  4 f   -     -     -         7835    0    0 
+bossman   975337534  5  3 fQ  -     -     -         7835    0    0 
+bossman   975337886  5  3 f   -     -     -         7835    0    0 
+bossman   975337914  5  2 Bk  k     k     k         7835   10   25 9d 7s
+bossman   975337932  5  1 Bf  -     -     -         7850    5    0 
+bossman   975337978  5  5 c   k     f     -         7845   10    0 
+bossman   975337991  5  4 f   -     -     -         7835    0    0 
+bossman   975338009  5  3 cc  kf    -     -         7835   45    0 
+bossman   975338023  5  2 Bk  k     k     k         7790   10   13 Ts 8d
+bossman   975338034  5  1 Bc  k     k     k         7793   10    0 2c 4c
+bossman   975338061  5  5 f   -     -     -         7783    0    0 
+bossman   975338077  5  4 f   -     -     -         7783    0    0 
+bossman   975338115  5  3 f   -     -     -         7783    0    0 
+bossman   975338153  5  2 Bk  kf    -     -         7783   10    0 
+bossman   975338171  5  1 Bf  -     -     -         7773    5    0 
+bossman   975338197  5  5 f   -     -     -         7768    0    0 
+bossman   975338225  5  4 f   -     -     -         7768    0    0 
+bossman   975338229  5  3 r   b     kf    -         7768  120    0 
+bossman   975338245  5  2 Bk  b     k     k         7648   50    0 Ts Qs
+bossman   975338271  4  1 Bf  -     -     -         7598    5    0 
+bossman   975338278  4  4 r   b     -     -         7593  225  360 
+bossman   975338304  4  3 c   k     k     k         7728   10   25 3h Th
+bossman   975338318  4  2 Bk  k     k     k         7743   10    0 2c Jh
+bossman   975338342  4  1 Bf  -     -     -         7733    5    0 
+bossman   975338349  4  4 rc  f     -     -         7728  155    0 
+bossman   975338371  4  3 f   -     -     -         7573    0    0 
+bossman   975338375  4  2 Bk  f     -     -         7573   10    0 
+bossman   975338400  4  1 Bc  k     kf    -         7563   10    0 
+bossman   975338412  4  4 rc  c     f     -         7553  485    0 
+bossman   975338433  4  3 r   b     k     k         7068  120    0 8d Jd
+bossman   975338452  4  2 Bk  bc    kf    -         6948  110    0 
+bossman   975338469  4  1 Br  b     -     -         6838   90  120 
+bossman   975338479  4  4 f   -     -     -         6868    0    0 
+bossman   975338483  4  3 r   b     k     b         6868  375  510 
+bossman   975338508  4  2 B   -     -     -         7003   10   15 
+bossman   975338512  4  1 Br  b     -     -         7008   90  120 
+bossman   975338524  4  4 f   -     -     -         7038    0    0 
+bossman   975338561  4  3 f   -     -     -         7038    0    0 
+bossman   975338580  4  2 Bk  k     k     c         7038   30   60 6s 7s
+bossman   975338599  4  1 Bf  -     -     -         7068    5    0 
+bossman   975338629  4  4 f   -     -     -         7063    0    0 
+bossman   975338651  4  3 r   -     -     -         7063   35   50 
+bossman   975338655  4  2 Bk  kc    kf    -         7078   40    0 
+bossman   975338671  4  1 Bf  -     -     -         7038    5    0 
+bossman   975338700  4  4 cc  f     -     -         7033   50    0 
+bossman   975338736  4  3 f   -     -     -         6983    0    0 
+bossman   975338760  4  2 Bk  k     b     -         6983   40   60 
+bossman   975338776  4  1 Bcc k     k     kf        7003   40    0 
+bossman   975338803  4  4 f   -     -     -         6963    0    0 
+bossman   975338815  4  3 r   b     -     -         6963  145  220 
+bossman   975338834  4  2 Bk  kf    -     -         7038   10    0 
+bossman   975338846  4  1 Bf  -     -     -         7028    5    0 
+bossman   975338863  4  4 f   -     -     -         7023    0    0 
+bossman   975338874  4  3 r   -     -     -         7023   35   50 
+bossman   975338881  4  2 Bk  k     kf    -         7038   10    0 
+bossman   975338905  4  1 Bc  k     k     kf        7028   10    0 
+bossman   975338931  4  4 f   -     -     -         7018    0    0 
+bossman   975338945  4  3 f   -     -     -         7018    0    0 
+bossman   975338951  4  2 Bk  k     k     f         7018   10    0 
+bossman   975338969  4  1 Bc  kf    -     -         7008   10    0 
+bossman   975338994  4  4 f   -     -     -         6998    0    0 
+bossman   975338997  4  3 f   -     -     -         6998    0    0 
+bossman   975339003  4  2 B   -     -     -         6998   10   15 
+bossman   975339007  4  1 Bc  b     b     k         7003   90  180 9h Qh
+bossman   975339028  4  4 c   f     -     -         7093   10    0 
+bossman   975339040  4  3 r   k     f     -         7083   35    0 
+bossman   975339057  4  2 Bk  k     f     -         7048   10    0 
+bossman   975339072  4  1 Bf  -     -     -         7038    5    0 
+bossman   975339076  4  4 r   -     -     -         7033   35   50 
+bossman   975339079  4  3 r   -     -     -         7048   35   50 
+bossman   975339083  4  2 Bk  b     -     -         7063   30   40 
+bossman   975339093  4  1 Br  k     k     k         7073   40    0 7h 8h
+bossman   975339110  4  4 r   -     -     -         7033   35   50 
+bossman   975339117  4  3 f   -     -     -         7048    0    0 
+bossman   975339142  4  2 Bk  kf    -     -         7048   10    0 
+bossman   975339176  4  1 Bf  -     -     -         7038    5    0 
+bossman   975339182  4  4 f   -     -     -         7033    0    0 
+bossman   975339200  4  3 c   k     kf    -         7033   10    0 
+bossman   975339213  4  2 Bk  b     -     -         7023   40   60 
+bossman   975339226  4  1 Bf  -     -     -         7043    5    0 
+bossman   975339235  4  4 c   k     k     k         7038   10    0 5s 4c
+bossman   975339250  4  3 r   b     -     -         7028  110  150 
+bossman   975339264  4  2 Bk  kf    -     -         7068   10    0 
+bossman   975339272  4  1 Bc  k     k     k         7058   10   20 Ah Kd
+bossman   975339290  4  4 f   -     -     -         7068    0    0 
+bossman   975339297  4  3 rc  kf    -     -         7068  120    0 
+bossman   975339322  4  2 Bk  kf    -     -         6948   10    0 
+bossman   975339339  4  1 Bc  k     k     kf        6938   10    0 
+bossman   975339359  4  4 rc  k     k     k         6928  115    0 4d 9d
+bossman   975339379  4  3 c   f     -     -         6813   10    0 
+bossman   975339391  4  2 Bk  b     -     -         6803   40   60 
+bossman   975339403  4  1 Bf  -     -     -         6823    5    0 
+bossman   975339406  4  4 c   b     -     -         6818   35   50 
+bossman   975339417  4  3 f   -     -     -         6833    0    0 
+bossman   975339447  4  2 Brc kc    kf    -         6833 1010    0 
+bossman   975339464  4  1 Br  b     k     k         5823  210  480 9d 7s
+bossman   975339490  4  4 r   b     k     b         6093  355  480 
+bossman   975339521  4  3 f   -     -     -         6218    0    0 
+bossman   975339535  4  2 B   -     -     -         6218   10   15 
+bossman   975339539  4  1 Bf  -     -     -         6223    5    0 
+bossman   975339564  4  4 r   b     b     k         6218  355    0 4s 8h
+bossman   975339594  4  3 rc  kf    -     -         5863  120    0 
+bossman   975339626  4  2 B   -     -     -         5743   10   15 
+bossman   975339633  4  1 Br  b     -     -         5748  250  400 
+bossman   975339648  4  4 r   k     k     b         5898  115  160 
+bossman   975339667  4  3 f   -     -     -         5943    0    0 
+bossman   975339688  4  2 Bk  f     -     -         5943   10    0 
+bossman   975339696  4  1 Bc  b     k     k         5933   40    0 4s 8h
+bossman   975339721  4  4 f   -     -     -         5893    0    0 
+bossman   975339737  4  3 r   k     kf    -         5893   35    0 
+bossman   975339748  4  2 Bk  k     k     k         5858   10   25 8s Kh
+bossman   975339765  4  1 Bf  -     -     -         5873    5    0 
+bossman   975339792  4  4 r   b     k     k         5868  190    0 2s Tc
+bossman   975339821  4  3 r   b     b     -         5678  375  510 
+bossman   975339842  4  2 Bk  k     bc    kc        5813  530  540 7d Tc
+bossman   975339869  4  1 Br  b     b     -         5823  270  360 
+bossman   975339887  4  4 f   -     -     -         5913    0    0 
+bossman   975339891  4  3 c   k     k     k         5913   10    0 8s 7h
+bossman   975339903  4  2 Bk  b     -     -         5903   35   50 
+bossman   975339914  4  1 Br  k     kf    -         5918   40    0 
+bossman   975339945  4  4 f   -     -     -         5878    0    0 
+bossman   975339952  4  3 f   -     -     -         5878    0    0 
+bossman   975339960  4  2 Bk  k     k     kf        5878   10    0 
+bossman   975339986  4  1 Bc  k     b     kc        5868  130    0 9d 6d
+bossman   975340006  4  4 rc  f     -     -         5738  155    0 
+bossman   975340021  4  3 r   b     -     -         5583  115  160 
+bossman   975340031  4  2 B   -     -     -         5628   10   15 
+bossman   975340035  4  1 Bc  kf    -     -         5633   10    0 
+bossman   975340069  4  4 r   b     k     k         5623  190  435 Qd Kd
+bossman   975340145  4  3 c   f     -     -         5868   10    0 
+bossman   975340163  4  2 B   -     -     -         5858   10   15 
+bossman   975340166  4  1 Br  -     -     -         5863   30   40 
+bossman   975340172  4  4 c   k     k     k         5873   10   25 Ts 6s
+bossman   975340192  4  3 cf  -     -     -         5888   10    0 
+bossman   975340201  4  2 Bk  k     kf    -         5878   10    0 
+bossman   975340217  4  1 Bc  b     -     -         5868   50   80 
+bossman   975340226  4  4 f   -     -     -         5898    0    0 
+bossman   975340232  4  3 f   -     -     -         5898    0    0 
+bossman   975340237  4  2 Bk  f     -     -         5898   10    0 
+bossman   975340245  4  1 Br  k     kf    -         5888   40    0 
+bossman   975340260  4  4 c   b     k     b         5848  110  225 2h 7h
+bossman   975340286  4  3 f   -     -     -         5963    0    0 
+bossman   975340293  4  2 B   -     -     -         5963   10   15 
+bossman   975340304  4  1 Bf  -     -     -         5968    5    0 
+bossman   975340324  4  4 r   -     -     -         5963   35   50 
+bossman   975340330  4  3 f   -     -     -         5978    0    0 
+bossman   975340333  4  2 Bk  b     -     -         5978   30   40 
+bossman   975340346  3  1 Bc  -     -     -         5988   10   20 
+bossman   975340385  3  2 f   -     -     -         5998    0    0 
+bossman   975340389  3  2 Bk  k     k     k         5998   10   25 8c 9c
+bossman   975340404  3  1 Br  kc    kf    -         6013  130    0 
+bossman   975340422  3  3 r   -     -     -         5883   35   50 
+bossman   975340427  3  2 Bk  bc    kf    -         5898  130    0 
+bossman   975340461  3  1 Bc  kc    kf    -         5768   40    0 
+bossman   975340496  4  4 f   -     -     -         5728    0    0 
+bossman   975340501  4  3 f   -     -     -         5728    0    0 
+bossman   975340514  4  2 Br  b     k     k         5728  130  270 Jc 9c
+bossman   975340538  3  1 Bc  b     -     -         5868   40   60 
+bossman   975340554  3  3 f   -     -     -         5888    0    0 
+bossman   975340560  3  2 Bk  b     k     k         5888   30   60 Kd Tc
+bossman   975340583  3  1 Br  b     -     -         5918  130  180 
+bossman   975340595  2  2 f   -     -     -         5968    0    0 
+bossman   975340597  2  2 Bk  b     b     -         5968   90  120 
+bossman   975340607  2  1 Bf  -     -     -         5998    5    0 
+bossman   975340610  2  2 Br  -     -     -         5993   30   40 
+bossman   975340613  2  1 Bc  k     kc    kc        6003   90  180 Td 9s
+bossman   975340627  2  2 Bk  c     c     f         6093   90    0 
+bossman   975340646  2  1 Br  b     -     -         6003   90  120 
+bossman   975340654  2  2 B   -     -     -         6033   10   15 
+bossman   975340657  2  1 Bf  -     -     -         6038    5    0 
+bossman   975340659  2  2 Bk  f     -     -         6033   10    0 
+bossman   975340666  2  1 Br  -     -     -         6023   30   40 
+bossman   975340670  2  2 Bk  k     f     -         6033   10    0 
+bossman   975340681  3  1 Br  b     -     -         6023  160  240 
+bossman   975340694  3  3 r   k     c     k         6103  110  225 Td Th
+bossman   975340716  3  2 Bk  kc    kf    -         6218   40    0 
+bossman   975340734  3  1 Bf  -     -     -         6178    5    0 
+bossman   975340736  3  3 r   -     -     -         6173   35   50 
+bossman   975340739  3  2 Br  b     b     bc        6188 2430    0 Ks Qh
+bossman   975340768  3  1 Br  b     b     -         3758  270  360 
+bossman   975340780  3  3 r   c     c     f         3848  335    0 
+bossman   975340801  3  2 Br  b     k     c         3513  270  540 9h Qh
+bossman   975340825  3  1 Br  kf    -     -         3783   30    0 
+bossman   975340839  3  3 r   -     -     -         3753   35   50 
+bossman   975340846  3  2 Br  b     brA   -         3768 3768 7576 4c Ac
+bossman   975340870  3  1 Brc kf    -     -         7576   90    0 
+bossman   975340884  3  3 r   b     -     -         7486  110  150 
+bossman   975340893  3  2 Bk  k     k     k         7526   10    0 9s 4c
+bossman   975340902  3  1 Br  k     kc    k         7516   90    0 2c 2h
+bossman   975340920  3  3 f   -     -     -         7426    0    0 
+bossman   975340938  3  2 B   -     -     -         7426   10   15 
+bossman   975340948  3  1 Bf  -     -     -         7431    5    0 
+bossman   975340954  3  3 r   b     k     k         7426  140    0 8h 9s
+bossman   975340969  3  2 Bk  f     -     -         7286   10    0 
+bossman   975340984  3  1 Bc  k     k     k         7276   10   30 9d 6h
+bossman   975340997  3  3 r   k     k     b         7296  115  240 Qs Qh
+bossman   975341010  3  2 B   -     -     -         7421   10   15 
+bossman   975341019  3  1 Bc  b     k     kf        7426   40    0 
+bossman   975341035  3  3 f   -     -     -         7386    0    0 
+bossman   975341048  3  2 Bk  b     -     -         7386   30   40 
+bossman   975341058  3  1 Bc  kf    -     -         7396   10    0 
+bossman   975341065  3  3 f   -     -     -         7386    0    0 
+bossman   975341084  3  2 Bc  k     c     f         7386   90    0 
+bossman   975341104  4  1 Bf  -     -     -         7296    5    0 
+bossman   975341116  5  5 r   f     -     -         7291   45    0 
+bossman   975341137  5  4 f   -     -     -         7246    0    0 
+bossman   975341161  5  3 f   -     -     -         7246    0    0 
+bossman   975341166  5  2 Bc  kc    kc    kf        7246  335    0 
+bossman   975341185  5  1 Bc  k     b     -         6911   40   60 
+bossman   975341201  5  5 r   b     k     k         6931  150  315 Ah 6s
+bossman   975341224  5  4 f   -     -     -         7096    0    0 
+bossman   975341259  5  3 r   k     k     k         7096   35   75 Ad 3c
+bossman   975341277  5  2 Bk  k     k     kf        7136   10    0 
+bossman   975341308  5  1 Bc  b     kf    -         7126   60    0 
+bossman   975341331  5  5 r   f     -     -         7066   45    0 
+bossman   975341344  5  4 r   -     -     -         7021   35   50 
+bossman   975341352  5  3 f   -     -     -         7036    0    0 
+bossman   975341380  5  2 Bk  b     -     -         7036   35   50 
+bossman   975341395  5  1 Bf  -     -     -         7051    5    0 
+bossman   975341418  5  5 r   -     -     -         7046   35   50 
+bossman   975341426  5  4 r   k     k     k         7061   45    0 7h Ac
+bossman   975341445  5  3 r   b     b     k         7016  595 1260 4d 5d
+bossman   975341468  5  2 Bk  k     f     -         7681   10    0 
+bossman   975341489  5  1 Bc  b     -     -         7671   40   60 
+bossman   975341502  5  5 r   b     -     -         7691  115  160 
+bossman   975341514  5  4 cc  c     f     -         7736  110    0 
+bossman   975341528  5  3 f   -     -     -         7626    0    0 
+bossman   975341544  4  2 Bk  kf    -     -         7626   10    0 
+bossman   975341551  4  1 Bc  k     k     k         7616   10    0 8s Qh
+bossman   975341567  4  4 c   f     -     -         7606   10    0 
+bossman   975341591  4  3 r   -     -     -         7596   35   50 
+bossman   975341598  4  2 Bk  b     -     -         7611   40   60 
+bossman   975341614  4  1 Bc  k     k     b         7631   30   40 
+bossman   975341635  5  5 f   -     -     -         7641    0    0 
+bossman   975341645  5  4 r   -     -     -         7641   35   50 
+bossman   975341655  5  3 f   -     -     -         7656    0    0 
+bossman   975341676  6  2 Bk  b     b     k         7656   90    0 6d Ac
+bossman   975341706  6  1 Bf  -     -     -         7566    5    0 
+bossman   975341724  6  6 r   b     -     -         7561  150  210 
+bossman   975341741  6  5 r   -     -     -         7621   35   50 
+bossman   975341746  6  4 r   k     k     k         7636   35    0 Kd 7d
+bossman   975341772  6  3 c   k     f     -         7601   10    0 
+bossman   975341804  5  2 Bk  b     b     kc        7591  465  945 6d Tc
+bossman   975341825  5  1 Bf  -     -     -         8071    5    0 
+bossman   975341870  6  6 r   k     c     r         8066 4355 7438 As Qd
+bossman   975341906  5  4 r   -     -     -        11149   35   50 
+bossman   975341919  5  3 c   f     -     -        11164   10    0 
+bossman   975341929  5  2 Br  k     k     k        11154   30   60 As 9c
+bossman   975341948  5  1 Bc  k     k     k        11184   10    0 4c 2c
+bossman   975341973  5  5 f   -     -     -        11174    0    0 
+bossman   975341982  5  4 f   -     -     -        11174    0    0 
+bossman   975341995  5  3 r   k     b     k        11174  110    0 2d Ah
+bossman   975342014  5  2 Bk  kf    -     -        11064   10    0 
+bossman   975342043  4  1 Bc  kc    kf    -        11054  150    0 
+bossman   975342059  4  4 f   -     -     -        10904    0    0 
+bossman   975342062  4  3 r   k     k     k        10904   35    0 7c 6c
+bossman   975342072  4  2 Bk  k     k     k        10869   10    0 5h Js
+bossman   975342083  4  1 Br  -     -     -        10859   30   40 
+bossman   975342090  4  4 f   -     -     -        10869    0    0 
+bossman   975342093  4  3 f   -     -     -        10869    0    0 
+bossman   975342104  4  2 Bk  k     k     k        10869   10    0 Qs 6d
+bossman   975342125  5  1 Bf  -     -     -        10859    5    0 
+bossman   975342140  5  5 f   -     -     -        10854    0    0 
+bossman   975342150  5  4 f   -     -     -        10854    0    0 
+bossman   975342162  5  3 f   -     -     -        10854    0    0 
+bossman   975342179  5  2 Bc  kf    -     -        10854   35    0 
+bossman   975342192  5  1 Bf  -     -     -        10819    5    0 
+bossman   975342195  5  5 r   k     c     k        10814  190    0 9h 8h
+bossman   975342222  5  4 f   -     -     -        10624    0    0 
+bossman   975342272  5  3 r   -     -     -        10624   35   50 
+bossman   975342281  5  2 Bc  kf    -     -        10639   35    0 
+bossman   975342295  4  1 Br  -     -     -        10604   30   40 
+bossman   975342300  4  4 r   k     f     -        10614   45    0 
+bossman   975342315  5  4 f   -     -     -        10569    0    0 
+bossman   975342348  4  3 rc  c     c     k        10569 1075 2160 9h Tc
+bossman   975342363  4  2 B   -     -     -        11654   10   15 
+bossman   975342368  4  1 Bf  -     -     -        11659    5    0 
+bossman   975342405  5  4 f   -     -     -        11654    0    0 
+bossman   975342411  5  3 r   kc    k     k        11654  120  255 2s 6s
+bossman   975342431  5  2 Bk  k     f     -        11789   10    0 
+bossman   975342458  5  1 Bf  -     -     -        11779    5    0 
+bossman   975342462  5  5 r   k     f     -        11774   55    0 
+bossman   975342506  5  4 r   k     k     k        11719   35   75 Jd Ad
+bossman   975342522  5  3 r   b     k     c        11759  615    0 8h 5h
+bossman   975342559  5  2 Bc  k     b     k        11144  140  315 9d Js
+bossman   975342584  5  1 Bf  -     -     -        11319    5    0 
+bossman   975342613  5  5 rc  Q     -     -        11314  665    0 
+bossman   975374694  2  1 Bc  kc    kf    -        10649   30    0 
+bossman   975374716  2  2 Bk  k     k     b        10619   30   40 
+bossman   975374730  2  1 Brc kc    k     b        10629  810 1620 Kc Qs
+bossman   975374745  2  2 Bc  f     -     -        11439   30    0 
+bossman   975374768  2  1 Bf  -     -     -        11409    5    0 
+bossman   975374770  2  2 B   -     -     -        11404   10   15 
+bossman   975374772  2  1 Br  k     k     k        11409   30   60 Ah 9d
+bossman   975374780  2  2 B   -     -     -        11439   10   15 
+bossman   975374785  2  1 Bc  kf    -     -        11444   10    0 
+bossman   975374805  2  2 B   -     -     -        11434   10   15 
+bossman   975374807  2  1 Bf  -     -     -        11439    5    0 
+bossman   975374809  2  2 Bk  k     k     k        11434   10    0 Td 9d
+bossman   975374818  2  1 Bc  b     k     kf       11424   30    0 
+bossman   975374833  2  2 Bk  c     c     f        11394   90    0 
+bossman   975374857  2  1 Br  -     -     -        11304   30   40 
+bossman   975374861  2  2 Bk  k     k     f        11314   10    0 
+bossman   975374873  2  1 Bf  -     -     -        11304    5    0 
+bossman   975374875  2  2 B   -     -     -        11299   10   15 
+bossman   975374876  2  1 Bf  -     -     -        11304    5    0 
+bossman   975374877  2  2 Bk  f     -     -        11299   10    0 
+bossman   975374883  2  1 Bf  -     -     -        11289    5    0 
+bossman   975374885  2  2 B   -     -     -        11284   10   15 
+bossman   975374887  2  1 Bf  -     -     -        11289    5    0 
+bossman   975374891  2  2 Bk  k     k     k        11284   10    0 2s 4h
+bossman   975374901  2  1 Bf  -     -     -        11274    5    0 
+bossman   975374905  2  2 B   -     -     -        11269   10   15 
+bossman   975374909  2  1 Br  -     -     -        11274   30   40 
+bossman   975374912  2  2 Bk  k     b     -        11284   30   40 
+bossman   975374921  2  1 Bc  kf    -     -        11294   10    0 
+bossman   975374940  3  3 c   k     k     k        11284   10   25 2s Ac
+bossman   975375274  3  3 r   -     -     -        11299   35   50 
+bossman   975375282  3  2 B   -     -     -        11314   10   15 
+bossman   975375285  3  1 Bc  k     k     k        11319   10    0 4s 9s
+bossman   975375298  3  3 c   f     -     -        11309   10    0 
+bossman   975375308  3  2 Bc  k     f     -        11299   40    0 
+bossman   975375322  3  1 Bf  -     -     -        11259    5    0 
+bossman   975375337  3  3 r   k     k     f        11254   35    0 
+bossman   975375364  3  2 B   -     -     -        11219   10   15 
+bossman   975375368  3  1 Bc  k     k     k        11224   10   20 Kh 6c
+bossman   975375381  3  3 f   -     -     -        11234    0    0 
+bossman   975375401  3  2 Bk  f     -     -        11234   10    0 
+bossman   975375427  3  1 Bf  -     -     -        11224    5    0 
+bossman   975375433  3  3 f   -     -     -        11219    0    0 
+bossman   975375437  3  2 B   -     -     -        11219   10   15 
+bossman   975375443  3  1 Bf  -     -     -        11224    5    0 
+bossman   975375447  3  3 c   f     -     -        11219   10    0 
+bossman   975375458  3  2 Bk  k     k     k        11209   10   20 7d Ac
+bossman   975375479  3  1 Brc kc    k     k        11219   95  200 Jc Jd
+bossman   975375507  3  3 r   -     -     -        11324   35   50 
+bossman   975375516  3  2 Bk  r     b     k        11339  145  300 3h Qh
+bossman   975375541  3  1 Bc  kf    -     -        11494   10    0 
+bossman   975375602  3  3 c   f     -     -        11484   10    0 
+bossman   975375610  3  2 Br  b     k     c        11474   60    0 Td Kc
+bossman   975375632  3  1 Bc  b     k     b        11414   40   80 Th 2h
+bossman   975375646  3  3 f   -     -     -        11454    0    0 
+bossman   975375651  3  2 Br  b     kc    k        11454  214    0 Js Ah
+bossman   975375678  3  1 Br  k     k     k        11240   22   54 8d Td
+bossman   975375697  3  3 f   -     -     -        11272    0    0 
+bossman   975375715  3  2 B   -     -     -        11272   10   15 
+bossman   975375720  3  1 Bf  -     -     -        11277    5    0 
+bossman   975375724  3  3 f   -     -     -        11272    0    0 
+bossman   975375739  3  2 Bk  k     k     k        11272   10   30 2h 8d
+bossman   975375755  3  1 Br  b     -     -        11292   90  120 
+bossman   975375765  3  3 f   -     -     -        11322    0    0 
+bossman   975375767  3  2 Bf  -     -     -        11322   10    0 
+bossman   975375772  3  1 Brc kf    -     -        11312   85    0 
+bossman   975375792  3  3 r   -     -     -        11227   35   50 
+bossman   975375794  3  2 B   -     -     -        11242   10   15 
+bossman   975375799  3  1 Bf  -     -     -        11247    5    0 
+bossman   975375812  3  3 f   -     -     -        11242    0    0 
+bossman   975375814  3  2 Brc f     -     -        11242  150    0 
+bossman   975375830  3  1 Bf  -     -     -        11092    5    0 
+bossman   975375832  3  3 r   bc    k     k        11087  209    0 3s 4s
+bossman   975375866  3  2 Br  bc    b     -        10878 2080 2880 
+bossman   975375903  3  1 Bf  -     -     -        11678    5    0 
+bossman   975375920  3  3 f   -     -     -        11673    0    0 
+bossman   975375947  3  2 Bc  f     -     -        11673   40    0 
+bossman   975375956  3  1 Bc  b     k     b        11633   90  120 
+bossman   975375971  3  3 f   -     -     -        11663    0    0 
+bossman   975375973  3  2 B   -     -     -        11663   10   15 
+bossman   975375977  3  1 Br  -     -     -        11668   30   40 
+bossman   975375986  4  4 rc  r     c     b        11678 1935 2875 
+bossman   975376034  4  3 cc  k     b     k        12618  210  480 6h 4h
+bossman   975376053  4  2 Bf  -     -     -        12888   10    0 
+bossman   975376061  4  1 Br  -     -     -        12878   22   32 
+bossman   975376069  4  4 rr  c     k     r        12888 4620 9450 8d 8c
+bossman   975376123  4  3 c   r     k     k        17718  160  360 Js Qc
+bossman   975376146  4  2 Bk  b     -     -        17918   30   40 
+bossman   975376163  4  1 Brc k     kc    k        17928  310    0 4h 3h
+bossman   975376204  4  4 f   -     -     -        17618    0    0 
+bossman   975376233  5  4 r   k     k     k        17618   35    0 Ks 8s
+bossman   975376263  5  3 f   -     -     -        17583    0    0 
+bossman   975376278  5  2 Bk  k     b     b        17583  110  150 
+bossman   975376301  5  1 Br  k     k     k        17623   60  130 6s 6d
+bossman   975376316  5  5 r   k     k     c        17693  150    0 Jc Jh
+bossman   975376334  5  4 f   -     -     -        17543    0    0 
+bossman   975376372  6  4 r   b     -     -        17543  150  210 
+bossman   975376391  6  3 f   -     -     -        17603    0    0 
+bossman   975376411  6  2 Br  k     b     k        17603  160    0 5s 5d
+bossman   975376439  6  1 Bf  -     -     -        17443    5    0 
+bossman   975376460  6  6 f   -     -     -        17438    0    0 
+bossman   975376510  7  6 f   -     -     -        17438    0    0 
+bossman   975376576  7  5 f   -     -     -        17438    0    0 
+bossman   975376605  8  5 f   -     -     -        17438    0    0 
+bossman   975376623  8  4 f   -     -     -        17438    0    0 
+bossman   975376654  8  3 f   -     -     -        17438    0    0 
+bossman   975376715  9  3 f   -     -     -        17438    0    0 
+bossman   975376750  9  2 Bk  cf    -     -        17438   35    0 
+bossman   975376789  9  1 Bf  -     -     -        17403    5    0 
+bossman   975376833  9  9 f   -     -     -        17398    0    0 
+bossman   975376868  9  8 c   k     k     k        17398   10   10 As 6d
+bossman   975376938  9  7 f   -     -     -        17398    0    0 
+bossman   975376995  9  6 f   -     -     -        17398    0    0 
+bossman   975377057  9  5 f   -     -     -        17398    0    0 
+bossman   975377114  8  4 c   kf    -     -        17398   10    0 
+bossman   975377179  8  4 f   -     -     -        17388    0    0 
+bossman   975377243  8  3 f   -     -     -        17388    0    0 
+bossman   975377269  8  2 Bk  kf    -     -        17388   10    0 
+bossman   975377287  7  1 Bf  -     -     -        17378    5    0 
+bossman   975377354  7  7 f   -     -     -        17373    0    0 
+bossman   975377398  7  6 f   -     -     -        17373    0    0 
+bossman   975377432  7  5 f   -     -     -        17373    0    0 
+bossman   975377458  8  5 f   -     -     -        17373    0    0 
+bossman   975377486  7  3 f   -     -     -        17373    0    0 
+bossman   975377512  7  2 Bk  r     -     -        17373  130  180 
+bossman   975377528  7  1 Bc  k     k     k        17423   55    0 9d Qd
+bossman   975377566  7  7 f   -     -     -        17368    0    0 
+bossman   975377582  7  6 c   b     b     -        17368  190  270 
+bossman   975377601  8  5 c   kf    -     -        17448   35    0 
+bossman   975377632  8  4 f   -     -     -        17413    0    0 
+bossman   975377650  8  3 f   -     -     -        17413    0    0 
+bossman   975377681  7  1 B   -     -     -        17413   10   10 
+bossman   975377693  7  1 Bf  -     -     -        17413    5    0 
+bossman   975377757  7  7 f   -     -     -        17408    0    0 
+bossman   975377770  7  6 c   f     -     -        17408   10    0 
+bossman   975377787  7  5 f   -     -     -        17398    0    0 
+bossman   975377806  7  4 c   b     k     k        17398   50    0 9h Ts
+bossman   975377843  7  3 f   -     -     -        17348    0    0 
+bossman   975377866  7  2 Bk  kc    k     kf       17348   50    0 
+bossman   975377908  7  1 Bc  b     b     -        17298  210  320 
+bossman   975377940  7  7 f   -     -     -        17408    0    0 
+bossman   975377963  7  6 c   f     -     -        17408   10    0 
+bossman   975377999  7  5 c   f     -     -        17398   35    0 
+bossman   975378051  7  4 f   -     -     -        17363    0    0 
+bossman   975378073  7  3 fQ  -     -     -        17363    0    0 
+bossman   975378377  6  6 c   b     b     -        17363  420  600 
+bossman   975378402  6  5 f   -     -     -        17543    0    0 
+bossman   975378425  6  4 c   f     -     -        17543   10    0 
+bossman   975378453  6  3 c   b     b     -        17533  135  225 
+bossman   975378475  6  2 Bc  kc    kf    -        17623  140    0 
+bossman   975378491  6  1 Bf  -     -     -        17483    5    0 
+bossman   975378527  6  6 c   f     -     -        17478   10    0 
+bossman   975378545  7  5 f   -     -     -        17468    0    0 
+bossman   975378566  7  4 f   -     -     -        17468    0    0 
+bossman   975378589  7  3 f   -     -     -        17468    0    0 
+bossman   975378622  6  2 Bk  kf    -     -        17468   10    0 
+bossman   975378658  6  1 Bf  -     -     -        17458    5    0 
+bossman   975378684  6  6 c   b     b     b        17453  259  543 9d Ts
+bossman   975378720  7  5 f   -     -     -        17737    0    0 
+bossman   975378746  7  4 f   -     -     -        17737    0    0 
+bossman   975378763  7  3 f   -     -     -        17737    0    0 
+bossman   975378804  8  2 Bk  f     -     -        17737   10    0 
+bossman   975378835  8  1 Bc  b     k     b        17727  210    0 7s 7c
+bossman   975378859  8  8 f   -     -     -        17517    0    0 
+bossman   975378895  8  7 r   k     f     -        17517   55    0 
+bossman   975378935  9  7 rc  bc    kf    -        17462 3480    0 
+bossman   975378974 10  7 f   -     -     -        13982    0    0 
+bossman   975379006  9  5 r   b     b     -        13982  465  630 
+bossman   975379027  9  4 f   -     -     -        14147    0    0 
+bossman   975379075  9  3 f   -     -     -        14147    0    0 
+bossman   975379104  9  2 Bk  k     k     k        14147   10    0 8c 4s
+bossman   975379134  8  1 Bc  kf    -     -        14137   10    0 
+bossman   975379186  8  8 r   b     k     k        14127  150  315 Tc 7s
+bossman   975379217  8  7 r   k     k     k        14292  120    0 9s 8s
+bossman   975379256  9  7 f   -     -     -        14172    0    0 
+bossman   975379307  9  6 f   -     -     -        14172    0    0 
+bossman   975379356  9  5 r   c     b     b        14172 3275 4560 
+bossman   975379434  9  4 f   -     -     -        15457    0    0 
+bossman   975379477  9  3 c   r     -     -        15457  110  160 
+bossman   975379542  9  2 Bc  kc    kc    k        15507  396  867 Td 5d
+bossman   975379585  9  1 Bf  -     -     -        15978    5    0 
+bossman   975379614  9  9 c   c     c     c        15973 1055    0 9d Ad
+bossman   975379666  9  8 r   -     -     -        14918   35   50 
+bossman   975379702  9  7 f   -     -     -        14933    0    0 
+bossman   975379761  8  5 f   -     -     -        14933    0    0 
+bossman   975379805  8  5 f   -     -     -        14933    0    0 
+bossman   975379831  8  4 f   -     -     -        14933    0    0 
+bossman   975379858  8  3 cc  b     k     k        14933  290    0 5c Ac
+bossman   975379896  8  2 Brr k     k     k        14643 1060    0 9d 9c
+bossman   975379934  8  1 Br  b     kc    k        13583 2530 2850 Th Td
+bossman   975379990  9  9 f   -     -     -        13903    0    0 
+bossman   975380014  9  8 f   -     -     -        13903    0    0 
+bossman   975380048  9  7 f   -     -     -        13903    0    0 
+bossman   975380062  9  6 c   c     c     c        13903  465  945 Jc As
+bossman   975380091  9  5 f   -     -     -        14383    0    0 
+bossman   975380135 10  5 f   -     -     -        14383    0    0 
+bossman   975380151 10  4 f   -     -     -        14383    0    0 
+bossman   975380195 10  3 f   -     -     -        14383    0    0 
+bossman   975380267 10  2 Bf  -     -     -        14383   10    0 
+bossman   975380299 10  1 Bc  kf    -     -        14373   10    0 
+bossman   975380319 10 10 c   k     f     -        14363   10    0 
+bossman   975380341 10  9 f   -     -     -        14353    0    0 
+bossman   975380364 10  8 c   f     -     -        14353   35    0 
+bossman   975380390 10  7 f   -     -     -        14318    0    0 
+bossman   975380450 10  6 f   -     -     -        14318    0    0 
+bossman   975380479 10  5 f   -     -     -        14318    0    0 
+bossman   975380514 10  4 f   -     -     -        14318    0    0 
+bossman   975380568 10  3 f   -     -     -        14318    0    0 
+bossman   975380616 10  2 Bk  k     kc    kf       14318   70    0 
+bossman   975380679 10  1 Bc  k     kc    k        14248   50  120 9h 8d
+bossman   975380717 10 10 f   -     -     -        14318    0    0 
+bossman   975380753 10  9 cc  c     k     k        14318  260  600 8h Th
+bossman   975380798 10  8 f   -     -     -        14658    0    0 
+bossman   975380821 10  7 c   br    k     kf       14658  360    0 
+bossman   975380868 10  6 f   -     -     -        14298    0    0 
+bossman   975380905 10  5 f   -     -     -        14298    0    0 
+bossman   975380966 10  4 cc  kc    kr    k        14298 3880 8100 Ts Jh
+bossman   975381039 10  3 f   -     -     -        18518    0    0 
+bossman   975381102 10  2 Br  b     b     k        18518  335    0 Qc Kd
+bossman   975381140 10  1 Bf  -     -     -        18183    5    0 
+bossman   975381172  9  9 c   f     -     -        18178   10    0 
+bossman   975381219  9  8 f   -     -     -        18168    0    0 
+bossman   975381267  9  7 f   -     -     -        18168    0    0 
+bossman   975381304  9  6 f   -     -     -        18168    0    0 
+bossman   975381346  9  5 f   -     -     -        18168    0    0 
+bossman   975381373  9  4 f   -     -     -        18168    0    0 
+bossman   975381407  9  3 cc  b     b     c        18168 2385 4860 Jh Qh
+bossman   975381443  9  2 Bk  k     kf    -        20643   10    0 
+bossman   975381497  9  1 Bf  -     -     -        20633    5    0 
+bossman   975381534  9  9 c   c     k     k        20628   40    0 7d Jd
+bossman   975381583  9  8 f   -     -     -        20588    0    0 
+bossman   975381622  9  7 c   f     -     -        20588   35    0 
+bossman   975381653  9  6 f   -     -     -        20553    0    0 
+bossman   975381670  9  5 cc  c     f     -        20553  400    0 
+bossman   975381710  9  4 f   -     -     -        20153    0    0 
+bossman   975381728  8  3 c   bc    kc    kr       20153 8480 1001 Ah Kc
+bossman   975381775  8  2 Br  kf    -     -        12674   70    0 
+bossman   975381813  8  1 Bc  kf    -     -        12604   35    0 
+bossman   975381855  8  8 cc  c     k     k        12569  370    0 Qs 9c
+bossman   975381898  8  7 f   -     -     -        12199    0    0 
+bossman   975381930  8  6 r   r     b     b        12199 7845 15444 8h 6h
+bossman   975381957  7  4 f   -     -     -        19798    0    0 
+bossman   975382024  8  3 c   k     b     -        19798   40   60 
+bossman   975382053  8  2 Bc  b     -     -        19818  145  220 
+bossman   975382071  8  1 Bf  -     -     -        19893    5    0 
+bossman   975382105  7  7 f   -     -     -        19888    0    0 
+bossman   975382146  8  7 f   -     -     -        19888    0    0 
+bossman   975382226  8  6 f   -     -     -        19888    0    0 
+bossman   975382233  8  5 f   -     -     -        19888    0    0 
+bossman   975382257  8  4 c   r     k     k        19888  150    0 Ts Kd
+bossman   975382286  8  3 f   -     -     -        19738    0    0 
+bossman   975382317  8  2 Bk  k     k     k        19738   10   13 5d As
+bossman   975382344  8  1 Bc  kf    -     -        19741   90    0 
+bossman   975382399  8  8 r   b     -     -        19651  135  230 
+bossman   975382491  7  6 f   -     -     -        19746    0    0 
+bossman   975382527  7  5 c   f     -     -        19746   10    0 
+bossman   975382597  9  5 f   -     -     -        19736    0    0 
+bossman   975382622  9  4 f   -     -     -        19736    0    0 
+bossman   975382679  9  3 c   b     -     -        19736   60  100 
+bossman   975382726  9  2 Bk  f     -     -        19776   10    0 
+bossman   975382769  9  1 Bf  -     -     -        19766    5    0 
+bossman   975382830  9  9 r   c     c     f        19761  547    0 
+bossman   975382877  9  8 f   -     -     -        19214    0    0 
+bossman   975382927 10  3 Q   -     -     -        19214    0    0 

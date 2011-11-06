@@ -1,0 +1,367 @@
+brothert  972582881  2  2 B   -     -     -        72747   10   15 
+brothert  972582883  2  1 Bc  k     kf    -        72752   10    0 
+brothert  972582898  2  2 B   -     -     -        72742   10   15 
+brothert  972582900  2  1 Bf  -     -     -        72747    5    0 
+brothert  972582902  2  2 B   -     -     -        72742   10   15 
+brothert  972582903  2  1 Br  k     k     k        72747   30   60 Ks 7s
+brothert  972582915  2  2 B   -     -     -        72777   10   15 
+brothert  972582919  2  1 Br  b     b     -        72782  270  360 
+brothert  972582928  2  2 B   -     -     -        72872   10   15 
+brothert  972582930  2  1 Bf  -     -     -        72877    5    0 
+brothert  972582932  2  2 Bf  -     -     -        72872   10    0 
+brothert  972582936  2  1 Bc  kf    -     -        72862   10    0 
+brothert  972582948  2  2 Bk  f     -     -        72852   10    0 
+brothert  972582961  3  1 Bc  b     b     b        72842  400  540 
+brothert  972582976  3  3 f   -     -     -        72982    0    0 
+brothert  972582991  3  2 Bk  b     b     c        72982  400    0 As 8h
+brothert  972583014  4  1 Br  -     -     -        72582   30   40 
+brothert  972583033  4  4 c   k     b     -        72592   40   60 
+brothert  972583065  4  3 cc  r     bc    b        72612 19360 38880 5s 5d
+brothert  972583128  4  2 B   -     -     -        92132   10   15 
+brothert  972583140  4  1 Bc  kc    kc    kc       92137 1075    0 8s 7s
+brothert  972583216  4  4 c   b     k     b        91062  110  150 
+brothert  972583251  4  3 f   -     -     -        91102    0    0 
+brothert  972583260  4  2 Bf  -     -     -        91102   10    0 
+brothert  972583283  4  1 Bc  kf    -     -        91092   35    0 
+brothert  972583294  4  4 rc  b     -     -        91057  465  630 
+brothert  972583313  4  3 cc  k     b     -        91222  160  240 
+brothert  972583329  4  2 Bf  -     -     -        91302   10    0 
+brothert  972583338  4  1 Bcc kf    -     -        91292  349    0 
+brothert  972583371  3  3 f   -     -     -        90943    0    0 
+brothert  972583379  3  3 f   -     -     -        90943    0    0 
+brothert  972583385  3  2 Bc  k     k     k        90943   35    0 Ah 7h
+brothert  972583399  3  1 Bf  -     -     -        90908    5    0 
+brothert  972583407  4  3 f   -     -     -        90903    0    0 
+brothert  972583411  4  2 Bf  -     -     -        90903   10    0 
+brothert  972583429  4  1 Bcc kf    -     -        90893   30    0 
+brothert  972583446  4  4 rc  k     f     -        90863  150    0 
+brothert  972583462  4  3 f   -     -     -        90713    0    0 
+brothert  972583468  4  2 Bk  b     k     b        90713   90  120 
+brothert  972583482  4  1 Bc  k     b     -        90743  115  160 
+brothert  972583493  4  4 rr  b     -     -        90788 1010 1350 
+brothert  972583504  4  3 f   -     -     -        91128    0    0 
+brothert  972583512  4  2 Bf  -     -     -        91128   10    0 
+brothert  972583525  4  1 Bf  -     -     -        91118    5    0 
+brothert  972583530  4  4 f   -     -     -        91113    0    0 
+brothert  972583543  4  3 f   -     -     -        91113    0    0 
+brothert  972583551  4  2 Bc  kf    -     -        91113   35    0 
+brothert  972583559  4  1 Bf  -     -     -        91078    5    0 
+brothert  972583562  4  4 f   -     -     -        91073    0    0 
+brothert  972583567  4  3 f   -     -     -        91073    0    0 
+brothert  972583582  4  2 Bf  -     -     -        91073   10    0 
+brothert  972583587  4  1 Bf  -     -     -        91063    5    0 
+brothert  972583600  5  5 rc  b     -     -        91058  335  450 
+brothert  972583613  5  4 f   -     -     -        91173    0    0 
+brothert  972583631  5  3 f   -     -     -        91173    0    0 
+brothert  972583662  5  2 Bf  -     -     -        91173   10    0 
+brothert  972583695  5  1 Bc  k     b     k        91163   40    0 5h Ts
+brothert  972583712  5  5 f   -     -     -        91123    0    0 
+brothert  972583719  5  4 rc  c     f     -        91123  355    0 
+brothert  972583738  5  3 f   -     -     -        90768    0    0 
+brothert  972583757  5  2 Bk  k     k     b        90768   35   50 
+brothert  972583773  5  1 Bc  b     b     b        90783 1985 2700 
+brothert  972583805  5  5 f   -     -     -        91498    0    0 
+brothert  972583823  5  4 f   -     -     -        91498    0    0 
+brothert  972583845  5  3 rc  kr    k     k        91498 1140    0 8s 8d
+brothert  972583873  6  2 Bc  k     kf    -        90358   35    0 
+brothert  972583911  7  1 Bc  kc    b     kf       90323  400    0 
+brothert  972583949  7  7 r   b     -     -        89923  535  810 
+brothert  972583968  7  6 cc  k     f     -        90198  220    0 
+brothert  972584008  7  5 cc  k     c     c        89978 1385 2970 9d Jd
+brothert  972584052  7  4 cc  k     k     b        91563  190    0 Ad 7d
+brothert  972584079  7  3 f   -     -     -        91373    0    0 
+brothert  972584114  7  2 Bk  b     -     -        91373   60  100 
+brothert  972584134  7  1 Bc  kf    -     -        91413   45    0 
+brothert  972584161  7  7 c   f     -     -        91368   10    0 
+brothert  972584204  7  6 f   -     -     -        91358    0    0 
+brothert  972584236  7  5 rr  b     k     k        91358 1140    0 Kh Ad
+brothert  972584257  7  4 f   -     -     -        90218    0    0 
+brothert  972584280  7  3 cc  k     b     -        90218  280  450 
+brothert  972584309  7  2 Bc  kf    -     -        90388   45    0 
+brothert  972584332  7  1 Bc  kf    -     -        90343   10    0 
+brothert  972584366  7  7 f   -     -     -        90333    0    0 
+brothert  972584385  7  6 cc  c     f     -        90333  450    0 
+brothert  972584421  7  5 cc  k     f     -        89883  400    0 
+brothert  972584459  7  4 f   -     -     -        89483    0    0 
+brothert  972584480  7  3 f   -     -     -        89483    0    0 
+brothert  972584503  8  2 Bc  kf    -     -        89483   35    0 
+brothert  972584533  8  1 Bc  kf    -     -        89448   10    0 
+brothert  972584577  8  8 cc  b     b     -        89438  955 1350 
+brothert  972584610  8  7 f   -     -     -        89833    0    0 
+brothert  972584642  8  6 cc  k     k     b        89833  285  460 
+brothert  972584694  8  5 f   -     -     -        90008    0    0 
+brothert  972584756  9  5 cc  kf    -     -        90008   55    0 
+brothert  972584816  9  4 f   -     -     -        89953    0    0 
+brothert  972584841  9  3 cc  k     kf    -        89953   45    0 
+brothert  972584880  8  2 Bk  kc    kf    -        89908   50    0 
+brothert  972584902  8  1 Bf  -     -     -        89858    5    0 
+brothert  972584915  8  8 r   k     k     k        89853   65    0 3d 3h
+brothert  972584973  7  6 cc  c     k     k        89788  250    0 3h Ah
+brothert  972585040  9  6 cc  k     f     -        89538   55    0 
+brothert  972585076  8  4 f   -     -     -        89483    0    0 
+brothert  972585092  8  4 f   -     -     -        89483    0    0 
+brothert  972585116  8  3 f   -     -     -        89483    0    0 
+brothert  972585134  8  2 Bc  k     k     k        89483   35   75 Ts 8s
+brothert  972585150  8  1 Bc  kc    kc    k        89523 1125    0 7d Kd
+brothert  972585203  7  7 f   -     -     -        88398    0    0 
+brothert  972585230  7  6 f   -     -     -        88398    0    0 
+brothert  972585263  8  5 f   -     -     -        88398    0    0 
+brothert  972585284  8  4 f   -     -     -        88398    0    0 
+brothert  972585319  8  3 c   b     k     c        88398  130  270 6h As
+brothert  972585348  7  2 Bc  kf    -     -        88538   35    0 
+brothert  972585375  7  1 Bc  k     kf    -        88503   10    0 
+brothert  972585408  8  8 f   -     -     -        88493    0    0 
+brothert  972585470  8  7 c   c     b     -        88493  170  240 
+brothert  972585507  8  6 c   k     kc    k        88563   50    0 4d Ah
+brothert  972585547  8  6 c   k     c     f        88513   60    0 
+brothert  972585589  8  5 r   b     k     k        88453  180  435 9s 9d
+brothert  972585630  8  4 f   -     -     -        88708    0    0 
+brothert  972585669  8  3 cc  kf    -     -        88708   45    0 
+brothert  972585695  8  2 Bc  kf    -     -        88663   45    0 
+brothert  972585730  8  1 Bc  b     kc    k        88618  170  360 Ks 9s
+brothert  972585756  9  9 c   c     b     k        88808  130    0 6d Ac
+brothert  972585788  9  8 f   -     -     -        88678    0    0 
+brothert  972585825  9  7 f   -     -     -        88678    0    0 
+brothert  972585887  9  6 f   -     -     -        88678    0    0 
+brothert  972585908  9  5 f   -     -     -        88678    0    0 
+brothert  972585962  9  4 f   -     -     -        88678    0    0 
+brothert  972586019  9  3 r   b     k     bc       88678 2050    0 Qh Kh
+brothert  972586058  9  2 Bc  k     k     kf       86628   45    0 
+brothert  972586100  9  1 Br  b     k     k        86583  610  690 4c Ac
+brothert  972586132  9  9 f   -     -     -        86663    0    0 
+brothert  972586161  9  8 c   c     f     -        86663   70    0 
+brothert  972586215  9  7 f   -     -     -        86593    0    0 
+brothert  972586254  8  6 r   k     k     c        86593  330    0 Jc Kd
+brothert  972586295  8  5 f   -     -     -        86263    0    0 
+brothert  972586312  8  4 cc  k     kf    -        86263  160    0 
+brothert  972586341  8  3 f   -     -     -        86103    0    0 
+brothert  972586389  8  2 Bc  b     -     -        86103  175  280 
+brothert  972586418  8  1 Bc  k     b     -        86208   50   80 
+brothert  972586443  8  8 c   f     -     -        86238   35    0 
+brothert  972586467  8  7 f   -     -     -        86203    0    0 
+brothert  972586498  8  6 c   kf    -     -        86203   10    0 
+brothert  972586539  8  5 f   -     -     -        86193    0    0 
+brothert  972586582  8  4 c   b     k     f        86193   75    0 
+brothert  972586632  8  3 cc  kf    -     -        86118   55    0 
+brothert  972586663  7  2 Bf  -     -     -        86063   10    0 
+brothert  972586688  7  1 Bc  kc    k     k        86053  175    0 Kc Th
+brothert  972586730  7  7 c   f     -     -        85878   10    0 
+brothert  972586761  7  6 cc  c     c     f        85868  850    0 
+brothert  972586796  6  4 f   -     -     -        85018    0    0 
+brothert  972586822  6  3 r   k     k     k        85018   35   75 Ac 5c
+brothert  972586845  6  2 Bf  -     -     Q        85058   10    0 
+brothert  972943466  2  2 Bc  f     -     -        84438   30    0 
+brothert  972943474  3  1 Br  b     -     -        84408   90  120 
+brothert  972943482  3  3 c   b     bc    k        84438  400    0 5h Jh
+brothert  972943512  3  2 Bc  kc    k     k        84038  110  225 7h 7s
+brothert  972943532  3  1 Bf  -     -     -        84153    5    0 
+brothert  972943537  3  3 f   -     -     -        84148    0    0 
+brothert  972943552  3  2 Bc  b     -     -        84148   90  120 
+brothert  972943564  3  1 Bc  k     k     k        84178   10   20 9s 4c
+brothert  972943578  3  3 f   -     -     -        84188    0    0 
+brothert  972943583  3  2 Bk  k     k     b        84188   35   50 
+brothert  972943597  3  1 Bc  kc    k     k        84203   30    0 7h Qs
+brothert  972943615  3  3 f   -     -     -        84173    0    0 
+brothert  972943623  3  2 Bf  -     -     -        84173   10    0 
+brothert  972943628  3  1 Bc  b     -     -        84163   30   40 
+brothert  972943637  3  3 c   k     k     k        84173   10    0 7d Kd
+brothert  972943653  3  2 Bk  b     -     -        84163   40   60 
+brothert  972943668  3  1 Bc  kf    -     -        84183   10    0 
+brothert  972943678  3  3 f   -     -     -        84173    0    0 
+brothert  972943693  4  2 Bf  -     -     -        84173   10    0 
+brothert  972943712  4  1 Br  -     -     -        84163   30   40 
+brothert  972943717  4  4 f   -     -     -        84173    0    0 
+brothert  972943727  4  3 c   b     b     -        84173  150  210 
+brothert  972943743  4  2 Bf  -     -     -        84233   10    0 
+brothert  972943750  4  1 Bc  kf    -     -        84223   10    0 
+brothert  972943761  4  4 r   k     k     b        84213  375  510 
+brothert  972943782  4  3 f   -     -     -        84348    0    0 
+brothert  972943794  4  2 Brc r     -     -        84348 2430 3240 
+brothert  972943815  4  1 Bc  k     b     kc       85158   90    0 8c 5d
+brothert  972943836  4  4 f   -     -     -        85068    0    0 
+brothert  972943851  4  3 r   b     kc    k        85068  475    0 As Th
+brothert  972943870  5  2 Bc  kc    k     kf       84593  140    0 
+brothert  972943896  5  1 Br  br    kc    k        84453 9715    0 Ac Ts
+brothert  972943921  5  5 f   -     -     -        74738    0    0 
+brothert  972943932  5  4 c   b     b     -        74738  150  210 
+brothert  972943948  6  4 cc  k     kr    b        74798 1410 1890 
+brothert  972943975  5  3 cc  kc    k     kr       75278 1410 2835 4c Kc
+brothert  972944001  5  2 Bc  c     k     k        76703  160    0 Kd 8d
+brothert  972944030  5  1 Bc  kf    -     -        76543   10    0 
+brothert  972944054  6  5 f   -     -     -        76533    0    0 
+brothert  972944080  6  4 f   -     -     -        76533    0    0 
+brothert  972944102  6  3 rc  b     -     -        76533  375  510 
+brothert  972944116  6  2 Bk  k     kr    b        76668  465  630 
+brothert  972944148  6  1 Bf  -     -     -        76833    5    0 
+brothert  972944173  6  6 c   k     b     -        76828  120  170 
+brothert  972944192  6  5 f   -     -     -        76878    0    0 
+brothert  972944206  6  4 c   b     -     -        76878   35   50 
+brothert  972944221  6  3 cf  -     -     -        76893   10    0 
+brothert  972944236  6  2 Bc  kf    -     -        76883   55    0 
+brothert  972944296  6  1 Bc  b     kc    kc       76828 1820 3780 9c Js
+brothert  972944325  6  6 c   k     k     k        78788   10    0 Qh 9h
+brothert  972944347  6  5 f   -     -     -        78778    0    0 
+brothert  972944368  6  4 f   -     -     -        78778    0    0 
+brothert  972944375  6  3 cc  k     c     c        78778  955    0 Jh Qs
+brothert  972944403  7  2 Bc  kf    -     -        77823   45    0 
+brothert  972944447  7  1 Bf  -     -     -        77778    5    0 
+brothert  972944471  7  7 f   -     -     -        77773    0    0 
+brothert  972944494  7  6 r   k     kc    kr       77773 1140 2295 Th Td
+brothert  972944519  7  5 f   -     -     -        78928    0    0 
+brothert  972944536  7  4 cf  -     -     -        78928   10    0 
+brothert  972944559  6  2 Bf  -     -     -        78918   10    0 
+brothert  972944608  4  1 Bcc b     -     -        78908   90  120 
+brothert  972944621  3  3 c   k     b     -        78938   35   50 
+brothert  972944635  3  2 B   -     -     -        78953   10   15 
+brothert  972944638  3  1 Bf  -     -     -        78958    5    0 
+brothert  972944644  3  3 r   c     b     -        78953  355  480 
+brothert  972944660  3  2 B   -     -     -        79078   10   15 
+brothert  972944663  3  1 Bc  b     -     -        79083   30   40 
+brothert  972944674  4  4 cc  k     k     k        79093   50  200 Qd 6d
+brothert  972944703  4  3 c   b     -     -        79243   40   60 
+brothert  972944724  4  2 B   -     -     -        79263   10   15 
+brothert  972944731  4  1 Bc  kc    k     br       79268 1210    0 6s 8d
+brothert  972944763  4  4 c   b     -     -        78058   35   50 
+brothert  972944774  4  3 r   -     -     -        78073   35   50 
+brothert  972944785  4  2 Bk  k     kf    -        78088   10    0 
+brothert  972944810  5  1 Bf  -     -     -        78078    5    0 
+brothert  972944827  5  5 f   -     -     -        78073    0    0 
+brothert  972944844  5  4 f   -     -     -        78073    0    0 
+brothert  972944868  6  3 f   -     -     -        78073    0    0 
+brothert  972944884  7  2 Bk  k     k     k        78073   10    0 3d 9d
+brothert  972944909  7  1 Bf  -     -     -        78063    5    0 
+brothert  972944920  7  7 c   f     -     -        78058   10    0 
+brothert  972944942  7  6 f   -     -     -        78048    0    0 
+brothert  972944958  7  5 r   b     b     -        78048  335  450 
+brothert  972944976  7  4 f   -     -     -        78163    0    0 
+brothert  972944983  7  3 r   b     k     k        78163  175    0 Ks Ah
+brothert  972945009  7  2 Bc  kf    -     -        77988   35    0 
+brothert  972945036  7  1 Bc  kf    -     -        77953   10    0 
+brothert  972945067  8  8 f   -     -     -        77943    0    0 
+brothert  972945086  8  7 r   b     b     c        77943 4645 9315 Qc Qs
+brothert  972945122  8  6 c   k     k     k        82613   10    0 Td 9h
+brothert  972945147  8  5 f   -     -     -        82603    0    0 
+brothert  972945179  8  4 f   -     -     -        82603    0    0 
+brothert  972945212  8  3 f   -     -     -        82603    0    0 
+brothert  972945240  8  2 Bc  b     kc    kc       82603 1010    0 7c 6d
+brothert  972945270  8  1 Bc  k     kr    b        81593 1530 3105 Tc Jc
+brothert  972945309  8  8 f   -     -     -        83168    0    0 
+brothert  972945336  8  7 c   k     k     b        83168   45   70 
+brothert  972945368  8  6 f   -     -     -        83193    0    0 
+brothert  972945391  8  5 c   k     b     -        83193   45   70 
+brothert  972945412  8  4 c   kf    -     -        83218   10    0 
+brothert  972945434  8  3 f   -     -     -        83208    0    0 
+brothert  972945463  8  2 Bk  kc    kc    kf       83208  110    0 
+brothert  972945503 10  1 Bc  kf    -     -        83098   10    0 
+brothert  972945539 10 10 c   r     k     k        83088  235    0 8d 9d
+brothert  972945588 10  9 f   -     -     -        82853    0    0 
+brothert  972945623 10  8 f   -     -     -        82853    0    0 
+brothert  972945673  8  5 rc  kf    -     -        82853  230    0 
+brothert  972945737  9  6 cc  k     b     b        82623  765 1080 
+brothert  972945766  9  5 f   -     -     -        82938    0    0 
+brothert  972945834  9  3 f   -     -     -        82938    0    0 
+brothert  972945870  8  3 f   -     -     -        82938    0    0 
+brothert  972945904  8  2 B   -     -     -        82938   10   15 
+brothert  972945915  9  1 Bc  kf    -     -        82943   10    0 
+brothert  972945934  9  9 f   -     -     -        82933    0    0 
+brothert  972945976  9  8 c   kf    -     -        82933   10    0 
+brothert  972946018  9  7 c   b     k     c        82923  460    0 9s 8c
+brothert  972946080  9  6 f   -     -     -        82463    0    0 
+brothert  972946113  9  5 f   -     -     -        82463    0    0 
+brothert  972946124  9  4 f   -     -     -        82463    0    0 
+brothert  972946144 10  3 f   -     -     -        82463    0    0 
+brothert  972946187 10  2 Bf  -     -     -        82463   10    0 
+brothert  972946221 10  1 Bc  k     kc    k        82453   50    0 8s 4s
+brothert  972946256 10 10 f   -     -     -        82403    0    0 
+brothert  972946288 10  9 c   f     -     -        82403   10    0 
+brothert  972946329 10  8 r   k     k     b        82393  235  360 
+brothert  972946388 10  7 c   c     k     k        82518   50  160 9h Ad
+brothert  972946425 10  6 f   -     -     -        82628    0    0 
+brothert  972946475 10  5 f   -     -     -        82628    0    0 
+brothert  972946501 10  4 f   -     -     -        82628    0    0 
+brothert  972946545 10  3 f   -     -     -        82628    0    0 
+brothert  972946578 10  2 Bk  kf    -     -        82628   10    0 
+brothert  972946608 10  1 Bc  k     kf    -        82618   10    0 
+brothert  972946671 10 10 f   -     -     -        82608    0    0 
+brothert  972946710 10  9 f   -     -     -        82608    0    0 
+brothert  972946738 10  8 cc  k     b     -        82608  395  660 
+brothert  972946782 10  7 cc  k     kf    -        82873   45    0 
+brothert  972946829 10  7 f   -     -     -        82828    0    0 
+brothert  972946868 10  5 c   b     r     k        82828  530 1080 8d Qd
+brothert  972946926 10  4 cc  k     c     b        83378  975 2070 4h 3h
+brothert  972946968 10  3 f   -     -     -        84473    0    0 
+brothert  972946996 10  2 Bk  kf    -     -        84473   10    0 
+brothert  972947028 10  1 Bf  -     -     -        84463    5    0 
+brothert  972947077 10 10 f   -     -     -        84458    0    0 
+brothert  972947108 10  9 f   -     -     -        84458    0    0 
+brothert  972947118  9  8 f   -     -     -        84458    0    0 
+brothert  972947165  9  7 f   -     -     -        84458    0    0 
+brothert  972947195  9  6 f   -     -     -        84458    0    0 
+brothert  972947236  9  5 r   b     -     -        84458  110  150 
+brothert  972947260  9  4 f   -     -     -        84498    0    0 
+brothert  972947283  9  3 cc  kc    k     k        84498  345  870 Ad Js
+brothert  972947330  9  2 Bc  c     b     k        85023  850 1800 Kd 6d
+brothert  972947375  9  1 Bc  k     k     k        85973   10   20 Js Tc
+brothert  972947403  9  9 c   f     -     -        85983   10    0 
+brothert  972947424  9  8 f   -     -     -        85973    0    0 
+brothert  972947449  9  7 c   f     -     -        85973   10    0 
+brothert  972947479  9  6 f   -     -     -        85963    0    0 
+brothert  972947517  9  5 c   b     b     -        85963  190  270 
+brothert  972947556  9  4 cc  kc    b     k        86043  745 1680 Td Kd
+brothert  972947606  9  3 f   -     -     -        86978    0    0 
+brothert  972947645  9  2 Bk  kc    k     kf       86978   65    0 
+brothert  972947688  9  1 Bc  k     kf    -        86913   10    0 
+brothert  972947719  9  9 f   -     -     -        86903    0    0 
+brothert  972947729  9  8 f   -     -     -        86903    0    0 
+brothert  972947749  9  7 cc  c     k     k        86903  110    0 Jc Ah
+brothert  972947784  9  6 f   -     -     -        86793    0    0 
+brothert  972947822  9  5 f   -     -     -        86793    0    0 
+brothert  972947860  8  4 f   -     -     -        86793    0    0 
+brothert  972947908  8  3 c   f     -     -        86793   10    0 
+brothert  972947948  8  2 Bf  -     -     -        86783   10    0 
+brothert  972947992  8  1 Bf  -     -     -        86773    5    0 
+brothert  972948005  8  8 c   b     -     -        86768   60  100 
+brothert  972948050  8  7 f   -     -     -        86808    0    0 
+brothert  972948077  8  6 c   k     k     k        86808   10    0 Th Ts
+brothert  972948107  8  5 f   -     -     -        86798    0    0 
+brothert  972948143  8  4 f   -     -     -        86798    0    0 
+brothert  972948173  8  3 f   -     -     -        86798    0    0 
+brothert  972948225  8  2 Br  k     k     k        86798   70  360 Qs Qh
+brothert  972948285  5  1 B   -     -     -        87088    5   15 
+brothert  972948316  4  4 cc  k     k     f        87098   40    0 
+brothert  972948338  4  3 Q   -     -     -        87058    0    0 
+brothert  972959583 10  5 ccc kf    -     -        87058  260    0 
+brothert  972959648 10  4 f   -     -     -        86798    0    0 
+brothert  972959689 10  3 f   -     -     -        86798    0    0 
+brothert  972959717 10  2 Bf  -     -     -        86798   10    0 
+brothert  972959784 10  1 Bc  k     kf    -        86788   45    0 
+brothert  972959818 10 10 f   -     -     -        86743    0    0 
+brothert  972959844 10  9 c   c     r     k        86743 4805 10080 Th Ks
+brothert  972959923 10  8 c   c     b     -        92018  875 1260 
+brothert  972959964 10  7 f   -     -     -        92403    0    0 
+brothert  972960011  9  6 f   -     -     -        92403    0    0 
+brothert  972960050  9  5 f   -     -     -        92403    0    0 
+brothert  972960078  9  4 f   -     -     -        92403    0    0 
+brothert  972960129  9  3 f   -     -     -        92403    0    0 
+brothert  972960169  9  2 Bf  -     -     -        92403   10    0 
+brothert  972960215  9  1 Bcc kf    -     -        92393   45    0 
+brothert  972960285  9  9 f   -     -     -        92348    0    0 
+brothert  972960316  9  8 c   kf    -     -        92348   10    0 
+brothert  972960392  9  7 f   -     -     -        92338    0    0 
+brothert  972960465 10  6 c   b     b     -        92338  250  360 
+brothert  972960507 10  5 r   k     kf    -        92448   55    0 
+brothert  972960601 10  4 f   -     -     -        92393    0    0 
+brothert  972960649 10  3 f   -     -     -        92393    0    0 
+brothert  972960725 10  2 Bk  k     k     k        92393   10    0 Ts 5s
+brothert  972960801 10  1 Bf  -     -     -        92383    5    0 
+brothert  972960840 10 10 f   -     -     -        92378    0    0 
+brothert  972960899 10  9 f   -     -     -        92378    0    0 
+brothert  972960916 10  8 f   -     -     -        92378    0    0 
+brothert  972960965 10  7 f   -     -     -        92378    0    0 
+brothert  972961003 10  6 cc  b     -     -        92378  360  600 
+brothert  972961065 10  5 rr  k     k     b        92618 6685 10120 
+brothert  972961145 10  4 c   k     kc    kf       96053   70    0 
+brothert  972961269 10  3 f   -     -     -        95983    0    0 
+brothert  972961301 10  2 Bf  -     -     -        95983   10    0 
+brothert  972961405  9  1 Bcc k     k     b        95973  210  320 
+brothert  972961490  8  4 Q   -     -     -        96083    0    0 

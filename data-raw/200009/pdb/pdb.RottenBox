@@ -1,0 +1,449 @@
+RottenBox 967927368  5  3 c   b     b     -         3580  210  320 
+RottenBox 967927388  5  2 Bc  k     k     k         3690   30    0 Jh Td
+RottenBox 967927412  5  1 Bc  b     kc    k         3660  170  360 Kd Td
+RottenBox 967927436  5  5 c   k     k     k         3850   10   25 Qc Td
+RottenBox 967927476  4  3 c   k     k     k         3865   10   25 Jc Kd
+RottenBox 967927495  4  2 B   -     -     -         3880   10   15 
+RottenBox 967927500  4  1 Bf  -     -     -         3885    5    0 
+RottenBox 967927516  4  4 c   k     b     -         3880   35   50 
+RottenBox 967927533  4  3 r   k     k     k         3895   35    0 4s As
+RottenBox 967927547  4  2 Bk  k     k     k         3860   10   20 7h Ad
+RottenBox 967927571  4  1 Bf  -     -     -         3870    5    0 
+RottenBox 967927588  4  4 r   -     -     -         3865   35   50 
+RottenBox 967927599  3  2 Bf  -     -     -         3880   10    0 
+RottenBox 967927602  3  1 Brc kf    -     -         3870   90    0 
+RottenBox 967927613  3  3 f   -     -     -         3780    0    0 
+RottenBox 967927615  3  2 B   -     -     -         3780   10   15 
+RottenBox 967927618  3  1 Br  k     b     k         3785  160    0 Ah Ts
+RottenBox 968018016  6  4 f   -     -     -         3625    0    0 
+RottenBox 968018049  6  3 f   -     -     -         3625    0    0 
+RottenBox 968018071  6  2 Bc  kf    -     -         3625   45    0 
+RottenBox 968018109  6  1 Bc  k     b     -         3580   50   80 
+RottenBox 968018128  6  6 f   -     -     -         3610    0    0 
+RottenBox 968018132  6  5 c   bc    kc    kf        3610  435    0 
+RottenBox 968018175  6  4 r   b     b     -         3175  605  840 
+RottenBox 968018195  6  3 f   -     -     -         3410    0    0 
+RottenBox 968018216  6  2 Bk  k     f     -         3410   10    0 
+RottenBox 968018231  6  1 Bc  k     k     kf        3400   35    0 
+RottenBox 968018254  6  6 f   -     -     -         3365    0    0 
+RottenBox 968018273  6  5 c   f     -     -         3365   10    0 
+RottenBox 968018286  6  4 f   -     -     -         3355    0    0 
+RottenBox 968018306  6  3 f   -     -     -         3355    0    0 
+RottenBox 968018333  6  2 Bc  kf    -     -         3355   45    0 
+RottenBox 968018368  6  1 Bf  -     -     -         3310    5    0 
+RottenBox 968018401  6  6 c   k     b     -         3305   55   90 
+RottenBox 968018432  6  5 f   -     -     -         3340    0    0 
+RottenBox 968018459  5  3 c   k     k     k         3340   10   35 6h 7s
+RottenBox 968018504  5  2 Bc  kc    kr    -         3365 1865 1890 Jd Ts
+RottenBox 968018532  5  1 Bc  k     k     k         3390   10    0 Tc 2c
+RottenBox 968018574  5  5 c   Q     -     -         3380   10    0 
+RottenBox 968018761  5  4 c   c     c     k         3370  585  660 3h Qh
+RottenBox 968018795  6  3 f   -     -     -         3445    0    0 
+RottenBox 968018814  6  2 Bk  f     -     -         3445   10    0 
+RottenBox 968018837  6  1 Bf  -     -     -         3435    5    0 
+RottenBox 968018866  6  6 c   f     -     -         3430   10    0 
+RottenBox 968018882  5  4 f   -     -     -         3420    0    0 
+RottenBox 968018898  5  3 cc  f     -     -         3420   60    0 
+RottenBox 968018918  5  2 Bk  c     r     k         3360  150  300 8d Td
+RottenBox 968018940  5  1 Bc  kc    kf    -         3510   50    0 
+RottenBox 968018963  5  5 f   -     -     -         3460    0    0 
+RottenBox 968018981  5  4 c   k     k     k         3460   35  110 9d Qs
+RottenBox 968018997  4  3 f   -     -     -         3535    0    0 
+RottenBox 968019020  4  2 Bk  c     k     k         3535   30   60 5d 4d
+RottenBox 968019034  4  1 Bf  -     -     -         3565    5    0 
+RottenBox 968019081  4  4 f   -     -     -         3560    0    0 
+RottenBox 968019087  4  3 c   b     b     k         3560  110  225 Js Kc
+RottenBox 968019101  4  2 Bk  b     -     -         3675   30   40 
+RottenBox 968019115  4  1 Bc  kc    kf    -         3685  115    0 
+RottenBox 968019131  4  4 r   -     -     -         3570   35   50 
+RottenBox 968019138  4  3 cc  f     -     -         3585   50    0 
+RottenBox 968019154  4  2 Bk  b     b     -         3535   90  120 
+RottenBox 968019166  4  1 Bf  -     -     -         3565    5    0 
+RottenBox 968019171  4  4 c   b     -     -         3560   40   60 
+RottenBox 968019191  4  3 f   -     -     -         3580    0    0 
+RottenBox 968019205  4  2 Bf  -     -     -         3580   10    0 
+RottenBox 968019208  4  1 Bc  kf    -     -         3570   35    0 
+RottenBox 968019225  3  3 f   -     -     -         3535    0    0 
+RottenBox 968019230  3  3 f   -     -     -         3535    0    0 
+RottenBox 968019236  3  2 B   -     -     -         3535   10   15 
+RottenBox 968019239  3  1 Bf  -     -     -         3540    5    0 
+RottenBox 968019241  3  3 r   b     b     b         3535 1010 1350 
+RottenBox 968019256  3  2 B   -     -     -         3875   10   15 
+RottenBox 968019258  3  1 Bf  -     -     -         3880    5    0 
+RottenBox 968019264  3  3 cc  f     -     -         3875   40    0 
+RottenBox 968019274  3  2 Bf  -     -     -         3835   10    0 
+RottenBox 968019283  3  1 Bc  kf    -     -         3825   10    0 
+RottenBox 968019292  3  3 f   -     -     -         3815    0    0 
+RottenBox 968019295  3  2 Bc  kf    -     -         3815   35    0 
+RottenBox 968019308  3  1 Bf  -     -     -         3780    5    0 
+RottenBox 968019313  3  3 f   -     -     -         3775    0    0 
+RottenBox 968019318  3  2 Bf  -     -     -         3775   10    0 
+RottenBox 968019321  3  1 Bf  -     -     -         3765    5    0 
+RottenBox 968019327  3  3 r   b     -     -         3760  110  150 
+RottenBox 968019334  3  2 Bc  kc    k     k         3800  110    0 Kd Qh
+RottenBox 968019348  3  1 Bc  kc    kf    -         3690   40    0 
+RottenBox 968019364  3  3 r   -     -     -         3650   35   50 
+RottenBox 968019366  4  2 Bk  kf    -     -         3665   10    0 
+RottenBox 968019384  4  1 Bcc kf    -     -         3655   50    0 
+RottenBox 968019398  4  4 f   -     -     -         3605    0    0 
+RottenBox 968019412  4  3 f   -     -     -         3605    0    0 
+RottenBox 968019427  4  2 Bk  k     k     k         3605   10    0 8s Js
+RottenBox 968019440  4  1 Bf  -     -     -         3595    5    0 
+RottenBox 968019448  4  4 r   rf    -     -         3590  745    0 
+RottenBox 968019477  4  3 f   -     -     -         2845    0    0 
+RottenBox 968019486  4  2 Bk  k     k     k         2845   10    0 3c 5s
+RottenBox 968019500  4  1 Bc  b     -     -         2835   40   60 
+RottenBox 968019511  4  4 f   -     -     -         2855    0    0 
+RottenBox 968019522  4  3 c   b     -     -         2855   40   60 
+RottenBox 968019541  4  2 Bk  b     k     r         2875  270    0 2s 9s
+RottenBox 968019559  4  1 Bf  -     -     -         2605    5    0 
+RottenBox 968019579  4  4 c   k     f     -         2600   35    0 
+RottenBox 968019609  4  3 r   k     bf    -         2565  110    0 
+RottenBox 968019626  4  2 Bk  b     b     k         2455   90    0 Kd 2h
+RottenBox 968019638  4  1 Bc  kc    k     k         2365   30   60 8c Qc
+RottenBox 968019653  4  4 r   k     k     f         2395   35    0 
+RottenBox 968019672  4  3 f   -     -     -         2360    0    0 
+RottenBox 968019682  4  2 Bc  kf    -     -         2360   35    0 
+RottenBox 968019702  5  1 Bc  k     kf    -         2325   10    0 
+RottenBox 968019720  5  5 f   -     -     -         2315    0    0 
+RottenBox 968019734  5  4 f   -     -     -         2315    0    0 
+RottenBox 968019739  5  3 r   k     b     -         2315  120  170 
+RottenBox 968019751  5  2 Bk  k     f     -         2365   10    0 
+RottenBox 968019767  5  1 Bf  -     -     -         2355    5    0 
+RottenBox 968019771  5  5 cc  c     c     k         2350  605 1260 Jh Ks
+RottenBox 968019795  5  4 c   k     k     k         3005   10    0 9s Qd
+RottenBox 968019816  5  3 f   -     -     -         2995    0    0 
+RottenBox 968019832  5  2 Bk  c     c     k         2995   90    0 9s Th
+RottenBox 968019845  5  1 Bc  kc    kc    kc        2905 1610 3375 Qh Kd
+RottenBox 968019875  5  5 f   -     -     -         4670    0    0 
+RottenBox 968019909  5  4 f   -     -     -         4670    0    0 
+RottenBox 968019927  5  3 f   -     -     -         4670    0    0 
+RottenBox 968019938  5  2 B   -     -     -         4670   10   15 
+RottenBox 968019941  5  1 Bf  -     -     -         4675    5    0 
+RottenBox 968019956  5  5 f   -     -     -         4670    0    0 
+RottenBox 968019966  5  4 r   k     f     -         4670   45    0 
+RottenBox 968020006  4  2 c   k     b     -         4625   30   40 
+RottenBox 968020016  4  2 Bk  b     k     b         4635   90  180 Jd Ad
+RottenBox 968020036  4  1 Bf  -     -     -         4725    5    0 
+RottenBox 968020045  4  4 c   f     -     -         4720   10    0 
+RottenBox 968020057  4  3 r   -     -     -         4710   35   50 
+RottenBox 968020062  4  2 Bf  -     -     -         4725   10    0 
+RottenBox 968020083  4  1 Bf  -     -     -         4715    5    0 
+RottenBox 968020124  4  4 c   b     -     -         4710   35   50 
+RottenBox 968020138  4  3 f   -     -     -         4725    0    0 
+RottenBox 968020152  4  2 Bf  -     -     -         4725   10    0 
+RottenBox 968020158  4  1 Bc  kc    kc    kf        4715  245    0 
+RottenBox 968020182  4  4 r   -     -     -         4470   35   50 
+RottenBox 968020190  4  3 r   -     -     -         4485   35   50 
+RottenBox 968020196  4  2 Bf  -     -     -         4500   10    0 
+RottenBox 968020210  4  1 Bf  -     -     -         4490    5    0 
+RottenBox 968020213  4  4 f   -     -     -         4485    0    0 
+RottenBox 968020221  4  3 cc  k     kf    -         4485   45    0 
+RottenBox 968020235  4  2 Br  k     k     b         4440   90  180 8s 8h
+RottenBox 968020247  4  1 Bf  -     -     -         4530    5    0 
+RottenBox 968020253  4  4 c   k     k     k         4525   10    0 4d 2d
+RottenBox 968020264  4  3 f   -     -     -         4515    0    0 
+RottenBox 968020275  4  2 B   -     -     -         4515   10   15 
+RottenBox 968020279  4  1 Bf  -     -     -         4520    5    0 
+RottenBox 968020293  4  4 r   k     c     k         4515  115    0 Ac 5d
+RottenBox 968020310  4  3 c   k     k     k         4400   10    0 Th 9c
+RottenBox 968020341  4  2 Bk  kf    -     -         4390   10    0 
+RottenBox 968020354  4  1 Bc  kf    -     -         4380   35    0 
+RottenBox 968020372  4  4 c   c     c     k         4345  130    0 6d Td
+RottenBox 968020399  4  3 f   -     -     -         4215    0    0 
+RottenBox 968020407  4  2 Bk  k     k     k         4215   10    0 8d Ac
+RottenBox 968020424  4  1 Bc  kc    k     k         4205   30   60 Qd 9c
+RottenBox 968020449  4  4 f   -     -     -         4235    0    0 
+RottenBox 968020474  4  3 f   -     -     -         4235    0    0 
+RottenBox 968020480  4  2 Bk  b     -     -         4235   40   60 
+RottenBox 968020490  4  1 Bc  k     k     b         4255   40   60 
+RottenBox 968020515  4  4 c   c     f     -         4275   45    0 
+RottenBox 968020541  4  3 f   -     -     -         4230    0    0 
+RottenBox 968020559  4  2 Bk  k     kc    k         4230   35    0 9h 5h
+RottenBox 968020582  4  1 Bc  kc    k     k         4195  115  240 2h 6h
+RottenBox 968020599  4  4 f   -     -     -         4320    0    0 
+RottenBox 968020607  4  3 cc  f     -     -         4320   40    0 
+RottenBox 968020631  4  2 Bk  b     kf    -         4280   40    0 
+RottenBox 968020651  4  1 Bf  -     -     -         4240    5    0 
+RottenBox 968020671  4  4 c   b     -     -         4235   35   50 
+RottenBox 968020681  4  3 f   -     -     -         4250    0    0 
+RottenBox 968020687  4  2 Bf  -     -     -         4250   10    0 
+RottenBox 968020708  4  1 Bc  kc    kf    -         4240   30    0 
+RottenBox 968020724  4  4 f   -     -     -         4210    0    0 
+RottenBox 968020727  4  3 c   b     -     -         4210   35   50 
+RottenBox 968020734  4  2 B   -     -     -         4225   10   15 
+RottenBox 968020737  4  1 Bf  -     -     -         4230    5    0 
+RottenBox 968020756  4  4 cc  f     -     -         4225   50    0 
+RottenBox 968020785  4  3 rc  b     k     rA        4175 4175 8560 4s 3s
+RottenBox 968020832  4  2 Bf  -     -     -         8560   10    0 
+RottenBox 968020864  4  1 Bc  kc    k     k         8550  175  420 Ah Js
+RottenBox 968020881  4  4 f   -     -     -         8795    0    0 
+RottenBox 968020903  3  3 cc  c     b     b         8795 1300 1800 
+RottenBox 968020952  3  2 Bk  f     -     -         9295   10    0 
+RottenBox 968020963  3  1 Bf  -     -     -         9285    5    0 
+RottenBox 968020976  3  3 c   k     k     k         9280   10    0 3d Ah
+RottenBox 968020996  3  2 Bf  -     -     -         9270   10    0 
+RottenBox 968021001  3  1 Bc  k     b     -         9260   40   60 
+RottenBox 968021019  3  3 f   -     -     -         9280    0    0 
+RottenBox 968021023  3  2 Bf  -     -     -         9280   10    0 
+RottenBox 968021032  3  1 Br  -     -     -         9270   30   40 
+RottenBox 968021036  3  3 cc  k     k     k         9280   35    0 Js 7s
+RottenBox 968021055  3  2 B   -     -     -         9245   10   15 
+RottenBox 968021065  3  1 Bf  -     -     -         9250    5    0 
+RottenBox 968021070  3  3 c   k     k     k         9245   10    0 Kh 4s
+RottenBox 968021081  3  2 Bf  -     -     -         9235   10    0 
+RottenBox 968021106  3  1 Bc  b     -     -         9225   30   40 
+RottenBox 968021113  3  3 c   k     -     -         9235   10   25 
+RottenBox 968021122  3  2 Bc  k     c     f         9250   90    0 
+RottenBox 968021135  3  1 Bf  -     -     -         9160    5    0 
+RottenBox 968021137  3  3 rc  k     f     -         9155  110    0 
+RottenBox 968021149  3  2 Bc  k     -     -         9045   30   60 
+RottenBox 968021159  3  1 Bf  -     -     -         9075    5    0 
+RottenBox 968021161  3  3 r   -     -     -         9070   35   50 
+RottenBox 968021165  3  2 Bf  -     -     -         9085   10    0 
+RottenBox 968021170  3  1 Bc  b     k     b         9075  355  720 2c Ac
+RottenBox 968021187  3  3 cc  k     b     -         9440  110  150 
+RottenBox 968021201  3  2 Bk  k     k     -         9480   10   20 
+RottenBox 968021211  3  1 Bc  k     k     b         9490   40   90 9h Td
+RottenBox 968021225  3  3 r   k     bc    b         9540  595  800 
+RottenBox 968021249  3  2 Bc  k     k     -         9745  115  265 
+RottenBox 968021261  3  1 Bf  -     -     -         9895    5    0 
+RottenBox 968021264  3  3 f   -     -     -         9890    0    0 
+RottenBox 968021268  3  2 Bc  kf    -     -         9890   35    0 
+RottenBox 968021275  3  1 Br  k     k     kf        9855   30    0 
+RottenBox 968021288  3  3 rc  c     c     k         9825 2535    0 Qh Qd
+RottenBox 968021318  3  2 Bf  -     -     -         7290   10    0 
+RottenBox 968021325  3  1 Br  k     b     -         7280  460  690 
+RottenBox 968021340  3  3 c   k     -     -         7510   10   25 
+RottenBox 968021348  3  2 Br  -     -     -         7525   30   60 
+RottenBox 968021358  3  1 Bc  b     -     -         7555   40   60 
+RottenBox 968021370  3  3 cc  c     k     f         7575  520    0 
+RottenBox 968021389  3  2 Bf  -     -     -         7055   10    0 
+RottenBox 968021392  3  1 Bc  kf    -     -         7045   10    0 
+RottenBox 968021400  3  3 rc  k     b     k         7035  335  675 5d 6d
+RottenBox 968021415  3  2 Bk  k     k     k         7375   10    0 Ks 5d
+RottenBox 968021429  3  1 Bf  -     -     -         7365    5    0 
+RottenBox 968021433  3  3 r   -     -     -         7360   35   50 
+RottenBox 968021437  3  2 Bk  -     -     -         7375   10   20 
+RottenBox 968021444  3  1 Bc  bc    kf    -         7385  130    0 
+RottenBox 968021458  4  4 f   -     -     -         7255    0    0 
+RottenBox 968021460  4  3 f   -     -     -         7255    0    0 
+RottenBox 968021481  4  2 Bk  k     -     -         7255   10   20 
+RottenBox 968021493  4  1 Bc  b     b     b         7265  530 1080 8h 8s
+RottenBox 968021509  4  4 f   -     -     -         7815    0    0 
+RottenBox 968021518  4  3 c   b     k     b         7815  130  180 
+RottenBox 968021535  4  2 Bk  k     b     k         7865   30    0 Ad 9d
+RottenBox 968021549  5  1 BQ  -     -     -         7835    5    0 
+RottenBox 968024896  8  2 f   -     -     -         7830    0    0 
+RottenBox 968024923  8  2 Bf  -     -     -         7830   10    0 
+RottenBox 968024988  8  1 Bc  k     k     b         7820  220    0 Kc As
+RottenBox 968025030  8  8 f   -     -     -         7600    0    0 
+RottenBox 968025067  8  7 c   c     k     k         7600  150    0 9d Kd
+RottenBox 968025093  7  5 c   b     b     -         7450  655  930 
+RottenBox 968025117  7  4 f   -     -     -         7725    0    0 
+RottenBox 968025130  7  3 f   -     -     -         7725    0    0 
+RottenBox 968025147  7  2 Bf  -     -     -         7725   10    0 
+RottenBox 968025170  7  1 Bf  -     -     -         7715    5    0 
+RottenBox 968025198  6  6 f   -     -     -         7710    0    0 
+RottenBox 968025207  6  5 f   -     -     -         7710    0    0 
+RottenBox 968025242  6  4 f   -     -     -         7710    0    0 
+RottenBox 968025266  6  3 f   -     -     -         7710    0    0 
+RottenBox 968025279  6  2 Bc  kc    k     k         7710  110    0 9c Qc
+RottenBox 968025309  6  1 Bf  -     -     -         7600    5    0 
+RottenBox 968025342  6  6 cc  f     -     -         7595   60    0 
+RottenBox 968025370  6  5 f   -     -     -         7535    0    0 
+RottenBox 968025385  6  4 f   -     -     -         7535    0    0 
+RottenBox 968025409  6  3 f   -     -     -         7535    0    0 
+RottenBox 968025413  6  2 Br  b     -     -         7535   90  120 
+RottenBox 968025425  6  1 Bc  k     kc    kf        7565   40    0 
+RottenBox 968025446  6  6 f   -     -     -         7525    0    0 
+RottenBox 968025451  6  5 f   -     -     -         7525    0    0 
+RottenBox 968025463  6  4 cc  k     kf    -         7525   55    0 
+RottenBox 968025498  6  3 cc  k     b     -         7470  185  280 
+RottenBox 968025515  6  2 Bc  k     kf    -         7565   35    0 
+RottenBox 968025545  6  1 Bf  -     -     -         7530    5    0 
+RottenBox 968025575  6  6 f   -     -     -         7525    0    0 
+RottenBox 968025596  6  5 f   -     -     -         7525    0    0 
+RottenBox 968025613  5  3 f   -     -     -         7525    0    0 
+RottenBox 968025631  5  2 Bk  kf    -     -         7525   10    0 
+RottenBox 968025641  5  1 Bf  -     -     -         7515    5    0 
+RottenBox 968025655  5  5 f   -     -     -         7510    0    0 
+RottenBox 968025676  5  4 cc  b     -     -         7510  210  320 
+RottenBox 968025697  5  3 c   kc    k     b         7620  640  900 
+RottenBox 968025715  5  2 Bc  kf    -     -         7880   35    0 
+RottenBox 968025733  5  1 Bf  -     -     -         7845    5    0 
+RottenBox 968025746  5  5 rc  b     k     k         7840  335    0 Kh Qh
+RottenBox 968025778  5  4 f   -     -     -         7505    0    0 
+RottenBox 968025784  5  3 f   -     -     -         7505    0    0 
+RottenBox 968025804  5  2 B   -     -     -         7505   10   15 
+RottenBox 968025810  5  1 Bc  kf    -     -         7510   35    0 
+RottenBox 968025829  5  5 c   k     k     -         7475   10   25 
+RottenBox 968025848  5  4 f   -     -     -         7490    0    0 
+RottenBox 968025869  5  3 cc  kc    k     k         7490  190    0 Qh 4h
+RottenBox 968025890  5  2 Bc  kf    -     -         7300   35    0 
+RottenBox 968025921  5  1 Bf  -     -     -         7265    5    0 
+RottenBox 968025961  5  5 f   -     -     -         7260    0    0 
+RottenBox 968025983  5  4 f   -     -     -         7260    0    0 
+RottenBox 968025991  5  3 cc  kc    k     k         7260  190  435 Ts Ah
+RottenBox 968026011  5  2 Bf  -     -     -         7505   10    0 
+RottenBox 968026034  5  1 Bc  k     b     k         7495  175  560 4s Ac
+RottenBox 968026065  5  5 cc  b     k     k         7880  250    0 Jd 9h
+RottenBox 968026091  5  4 f   -     -     -         7630    0    0 
+RottenBox 968026106  5  3 cc  k     -     -         7630   45  105 
+RottenBox 968026122  5  2 Bc  kf    -     -         7690   45    0 
+RottenBox 968026137  5  1 Bf  -     -     -         7645    5    0 
+RottenBox 968026145  5  5 cc  k     k     k         7640   40    0 9d 8h
+RottenBox 968026165  5  4 c   bc    f     -         7600  130    0 
+RottenBox 968026187  5  3 c   b     -     -         7470   35   50 
+RottenBox 968026198  6  2 Bc  k     k     kf        7485   45    0 
+RottenBox 968026219  6  1 Bc  k     kc    kc        7440  355    0 Qd Td
+RottenBox 968026240  5  5 f   -     -     -         7085    0    0 
+RottenBox 968026259  5  4 r   b     b     -         7085  335  450 
+RottenBox 968026276  5  3 f   -     -     -         7200    0    0 
+RottenBox 968026298  5  2 Bf  -     -     -         7200   10    0 
+RottenBox 968026304  5  1 Bf  -     -     -         7190    5    0 
+RottenBox 968026331  5  5 f   -     -     -         7185    0    0 
+RottenBox 968026342  5  4 f   -     -     -         7185    0    0 
+RottenBox 968026360  5  3 f   -     -     -         7185    0    0 
+RottenBox 968026376  5  2 Bc  c     b     b         7185 1820 2520 
+RottenBox 968026400  5  1 Bf  -     -     -         7885    5    0 
+RottenBox 968026409  5  5 f   -     -     -         7880    0    0 
+RottenBox 968026414  5  4 cc  k     k     f         7880   60    0 
+RottenBox 968026448  5  3 f   -     -     -         7820    0    0 
+RottenBox 968026468  5  2 Bf  -     -     -         7820   10    0 
+RottenBox 968026479  5  1 Bf  -     -     -         7810    5    0 
+RottenBox 968026500  5  5 c   b     b     -         7805  130  180 
+RottenBox 968026517  5  4 f   -     -     -         7855    0    0 
+RottenBox 968026531  5  3 f   -     -     -         7855    0    0 
+RottenBox 968026547  5  2 Bf  -     -     -         7855   10    0 
+RottenBox 968026555  5  1 Bf  -     -     -         7845    5    0 
+RottenBox 968026580  5  5 cc  k     c     c         7840  335    0 Kh Jc
+RottenBox 968026596  5  4 cc  c     k     k         7505  210  480 7h Qh
+RottenBox 968026640  5  3 cc  kf    -     -         7775   45    0 
+RottenBox 968026661  5  2 Bf  -     -     -         7730   10    0 
+RottenBox 968026691  5  1 Bc  kc    kc    k         7720  355  720 Ks Qd
+RottenBox 968026719  5  5 cc  k     f     -         8085   50    0 
+RottenBox 968026749  5  4 f   -     -     -         8035    0    0 
+RottenBox 968026766  6  4 f   -     -     -         8035    0    0 
+RottenBox 968026781  6  3 f   -     -     -         8035    0    0 
+RottenBox 968026805  6  2 Bf  -     -     -         8035   10    0 
+RottenBox 968026817  6  1 Bf  -     -     -         8025    5    0 
+RottenBox 968026838  6  6 cc  f     -     -         8020   50    0 
+RottenBox 968026856  6  5 c   f     -     -         7970   10    0 
+RottenBox 968026891  6  4 f   -     -     -         7960    0    0 
+RottenBox 968026914  6  3 f   -     -     -         7960    0    0 
+RottenBox 968026954  6  2 Bc  kc    kf    -         7960  110    0 
+RottenBox 968026970  6  1 Bf  -     -     -         7850    5    0 
+RottenBox 968026991  6  6 f   -     -     -         7845    0    0 
+RottenBox 968027029  6  5 c   b     k     f         7845  195    0 
+RottenBox 968027055  7  5 r   b     k     k         7650  145  330 6s 5s
+RottenBox 968027091  7  4 f   -     -     -         7835    0    0 
+RottenBox 968027117  7  3 cc  k     kf    -         7835   55    0 
+RottenBox 968027154  8  3 f   -     -     -         7780    0    0 
+RottenBox 968027189  8  2 Bk  k     k     k         7780   10    0 Qh 3s
+RottenBox 968027223  8  1 Bf  -     -     -         7770    5    0 
+RottenBox 968027247  8  8 f   -     -     -         7765    0    0 
+RottenBox 968027265  8  7 c   kc    kf    -         7765   55    0 
+RottenBox 968027317  8  6 cc  k     kc    kf        7710  150    0 
+RottenBox 968027355  9  6 f   -     -     -         7560    0    0 
+RottenBox 968027397 10  5 c   b     b     k         7560  260    0 Th Ts
+RottenBox 968027472  9  3 f   -     -     -         7300    0    0 
+RottenBox 968027513  9  3 f   -     -     -         7300    0    0 
+RottenBox 968027538  9  2 Bc  b     b     -         7300  785 1110 
+RottenBox 968027568  9  1 Bc  kc    kf    -         7625  185    0 
+RottenBox 968027591  9  9 f   -     -     -         7440    0    0 
+RottenBox 968027617  9  8 f   -     -     -         7440    0    0 
+RottenBox 968027645 10  8 f   -     -     -         7440    0    0 
+RottenBox 968027683 10  7 f   -     -     -         7440    0    0 
+RottenBox 968027713 10  6 f   -     -     -         7440    0    0 
+RottenBox 968027739 10  5 f   -     -     -         7440    0    0 
+RottenBox 968027760 10  4 f   -     -     -         7440    0    0 
+RottenBox 968027807 10  3 cc  kf    -     -         7440   55    0 
+RottenBox 968027841 10  2 Bk  k     kf    -         7385   10    0 
+RottenBox 968027890 10  1 Bf  -     -     -         7375    5    0 
+RottenBox 968027914 10 10 rc  c     f     -         7370 1650    0 
+RottenBox 968027952 10  9 c   b     -     -         5720   45   70 
+RottenBox 968027977  9  7 cc  f     -     -         5745   60    0 
+RottenBox 968028007  9  6 f   Q     -     -         5685    0    0 
+RottenBox 968032999  7  3 f   -     -     -         5685    0    0 
+RottenBox 968033021  7  2 Bf  -     -     -         5685   10    0 
+RottenBox 968033039  7  1 Bc  k     kf    -         5675   10    0 
+RottenBox 968033059  7  7 c   k     b     -         5665  120  170 
+RottenBox 968033075  7  6 f   -     -     -         5715    0    0 
+RottenBox 968033097  7  5 c   k     k     k         5715  120    0 Ah 9d
+RottenBox 968033126  7  4 c   k     b     -         5595   45   70 
+RottenBox 968033146  7  3 cc  k     k     f         5620   65    0 
+RottenBox 968033182  7  2 Bk  b     b     k         5555  160  360 Tc 6c
+RottenBox 968033209  7  1 Bc  kf    -     -         5755   10    0 
+RottenBox 968033224  7  7 f   -     -     -         5745    0    0 
+RottenBox 968033246  7  6 r   k     kf    -         5745   45    0 
+RottenBox 968033276  8  5 f   -     -     -         5700    0    0 
+RottenBox 968033313  9  4 c   k     k     k         5700   10   40 Kh 9h
+RottenBox 968033338  9  3 cc  kc    kr    b         5730 5645 5670 Tc Ah
+RottenBox 968033376  9  2 Br  b     b     -         5755 1260 1800 
+RottenBox 968033418  9  1 Bf  -     -     -         6295    5    0 
+RottenBox 968033457  9  9 c   f     -     -         6290   25    0 
+RottenBox 968033496 10  9 c   c     c     f         6265 2245    0 
+RottenBox 968033559 10  8 c   r     b     b         4020  849 1234 
+RottenBox 968033630 10  7 cc  k     b     k         4405  340  825 Ts Qd
+RottenBox 968033670 10  6 cc  k     f     -         4890  115    0 
+RottenBox 968033735 10  5 f   -     -     -         4775    0    0 
+RottenBox 968033781 10  4 f   -     -     -         4775    0    0 
+RottenBox 968033827 10  3 f   -     -     -         4775    0    0 
+RottenBox 968033850 10  2 Bk  k     k     k         4775   10    0 5c Th
+RottenBox 968033903 10  1 Bf  -     -     -         4765    5    0 
+RottenBox 968033955 10 10 f   -     -     -         4760    0    0 
+RottenBox 968034022 10  9 r   b     k     c         4760  420    0 Jc Tc
+RottenBox 968034054 10  8 c   k     k     kf        4340   10    0 
+RottenBox 968034117 10  7 cc  k     k     f         4330   60    0 
+RottenBox 968034160 10  6 c   c     k     b         4270  260  400 
+RottenBox 968034194 10  5 f   -     -     -         4410    0    0 
+RottenBox 968034230  9  4 f   -     -     -         4410    0    0 
+RottenBox 968034311  9  3 f   -     -     -         4410    0    0 
+RottenBox 968034331  9  2 Bf  -     -     -         4410   10    0 
+RottenBox 968034359  9  1 Bf  -     -     -         4400    5    0 
+RottenBox 968034398  9  9 f   -     -     -         4395    0    0 
+RottenBox 968034434  9  8 f   -     -     -         4395    0    0 
+RottenBox 968034505  8  6 c   c     f     -         4395   60    0 
+RottenBox 968034535  9  7 c   k     f     -         4335   10    0 
+RottenBox 968034554  9  6 f   -     -     -         4325    0    0 
+RottenBox 968034592  9  5 f   -     -     -         4325    0    0 
+RottenBox 968034603  9  4 f   -     -     -         4325    0    0 
+RottenBox 968034615  9  3 f   -     -     -         4325    0    0 
+RottenBox 968034646  9  2 Bk  b     b     kf        4325  250    0 
+RottenBox 968034688  9  1 Bf  -     -     -         4075    5    0 
+RottenBox 968034710  9  9 f   -     -     -         4070    0    0 
+RottenBox 968034747  9  8 f   -     -     -         4070    0    0 
+RottenBox 968034810  9  7 cc  kf    -     -         4070   75    0 
+RottenBox 968034881  9  6 f   -     -     -         3995    0    0 
+RottenBox 968034905  8  5 c   k     c     k         3995  155    0 Kc 7c
+RottenBox 968034943  8  4 f   -     -     -         3840    0    0 
+RottenBox 968034965  8  3 Q   -     -     -         3840    0    0 
+RottenBox 968989184  7  7 f   -     -     -         3840    0    0 
+RottenBox 968989193  7  6 c   k     k     k         3840   10    0 Ks 7s
+RottenBox 968989237  7  5 c   c     kf    -         3830  180    0 
+RottenBox 968989275  7  4 f   -     -     -         3650    0    0 
+RottenBox 968989310  7  3 f   -     -     -         3650    0    0 
+RottenBox 968989319  7  2 Bc  k     k     k         3650   55    0 Td Jh
+RottenBox 968989351  7  1 Bc  k     k     kc        3595  115  120 Jh Ks
+RottenBox 968989380  7  7 f   -     -     -         3600    0    0 
+RottenBox 968989414  7  6 f   -     -     -         3600    0    0 
+RottenBox 968989441  7  5 f   -     -     -         3600    0    0 
+RottenBox 968989467  7  4 cc  k     kf    -         3600  160    0 
+RottenBox 968989505  7  3 f   -     -     -         3440    0    0 
+RottenBox 968989529  7  2 Bf  -     -     -         3440   10    0 
+RottenBox 968989569  8  1 Bf  -     -     -         3430    5    0 
+RottenBox 968989585  8  8 f   -     -     -         3425    0    0 
+RottenBox 968989627  8  7 c   b     -     -         3425   35   50 
+RottenBox 968989646  8  6 c   f     -     -         3440   10    0 
+RottenBox 968989690  8  5 f   -     -     -         3430    0    0 
+RottenBox 968989710  8  4 f   -     -     -         3430    0    0 
+RottenBox 968989733  8  3 cc  kf    -     -         3430   55    0 
+RottenBox 968989763  8  2 Bf  -     -     -         3375   10    0 
+RottenBox 968989795  8  1 Bc  bf    -     -         3365   30    0 
+RottenBox 968989813  8  8 c   f     -     -         3335   10    0 
+RottenBox 968989833  8  7 c   k     k     k         3325   10    0 9d Qh
+RottenBox 968989863  8  6 cc  kf    -     -         3315   55    0 
+RottenBox 968989899  6  5 f   -     -     -         3260    0    0 
+RottenBox 968989911  6  4 f   -     -     -         3260    0    0 
+RottenBox 968989934  6  3 f   -     Q     -         3260    0    0 

@@ -1,0 +1,341 @@
+lexstraus 970650023  8  8 c   r     -     -         3244  645  900 
+lexstraus 970650089  8  7 f   -     -     -         3499    0    0 
+lexstraus 970650128  8  6 c   k     b     -         3499   45   70 
+lexstraus 970650155  8  5 c   k     k     k         3524   10   40 Th Jc
+lexstraus 970650218  8  4 f   -     -     -         3554    0    0 
+lexstraus 970650268  8  3 cc  f     -     -         3554   50    0 
+lexstraus 970650294  8  2 Bf  -     -     -         3504   10    0 
+lexstraus 970650366  8  1 Bf  -     -     -         3494    5    0 
+lexstraus 970650410  8  8 f   -     -     -         3489    0    0 
+lexstraus 970650443  8  7 f   -     -     -         3489    0    0 
+lexstraus 970650504  8  6 f   -     -     -         3489    0    0 
+lexstraus 970650541  8  5 f   -     -     -         3489    0    0 
+lexstraus 970650567  8  4 cc  f     -     -         3489  195    0 
+lexstraus 970650588  8  3 f   -     -     -         3294    0    0 
+lexstraus 970650634  8  2 Bf  -     -     -         3294   10    0 
+lexstraus 970650654  8  1 Bf  -     -     -         3284    5    0 
+lexstraus 970650691  8  8 c   c     k     k         3279  280  980 9c 2s
+lexstraus 970650770  6  5 cc  c     k     k         3979  310 1000 Qd 9s
+lexstraus 970650861  5  3 cf  -     -     -         4669   10    0 
+lexstraus 970650894  5  2 Bf  -     -     -         4659   10    0 
+lexstraus 970650914  5  1 Bc  kc    k     kf        4649   50    0 
+lexstraus 970650951  5  5 c   c     c     f         4599  475    0 
+lexstraus 970650979  4  3 c   b     -     -         4124   30   40 
+lexstraus 970650990  4  3 f   -     -     -         4134    0    0 
+lexstraus 970650994  3  2 Bc  k     k     c         4134   90    0 Tc 6d
+lexstraus 970651034  3  1 Bc  k     kc    k         4044  115    0 5s 5d
+lexstraus 970651054  3  3 f   -     -     -         3929    0    0 
+lexstraus 970651060  2  1 B   -     -     -         3929   10   10 
+lexstraus 970651062  2  1 Bc  k     k     k         3929   10   20 As 6s
+lexstraus 970651153  2  2 B   -     -     -         3939   10   15 
+lexstraus 970654092  2  1 BQ  -     -     -         3944    5    0 
+lexstraus 970654233  2  1 Bf  -     -     -         3939    5    0 
+lexstraus 970654246  2  2 Bf  -     -     -         3934   10    0 
+lexstraus 970654251  2  1 Bf  -     -     -         3924    5    0 
+lexstraus 970654254  2  2 Bf  -     -     -         3919   10    0 
+lexstraus 970654274  2  1 Bf  -     -     -         3909    5    0 
+lexstraus 970654277  2  2 BQ  -     -     -         3904   10    0 
+lexstraus 970656980  2  1 Bc  k     k     k         3894   10   20 5d Th
+lexstraus 970657007  2  2 B   -     -     -         3904   10   15 
+lexstraus 970657012  2  1 Bf  -     -     -         3909    5    0 
+lexstraus 970657017  2  2 B   -     -     -         3904   10   15 
+lexstraus 970657022  2  1 Bc  k     k     k         3909   10   20 Tc Kc
+lexstraus 970657050  2  2 Bk  b     b     -         3919   90  120 
+lexstraus 970657091  2  1 Bc  k     k     b         3949   30   40 
+lexstraus 970657123  2  2 Bk  k     k     k         3959   10    0 3d Tc
+lexstraus 970657146  2  1 Bf  -     -     -         3949    5    0 
+lexstraus 970657152  2  2 Bk  k     f     -         3944   10    0 
+lexstraus 970657173  2  1 Bf  -     -     -         3934    5    0 
+lexstraus 970657176  2  2 Br  b     -     -         3929   90  120 
+lexstraus 970657191  2  1 Bf  -     -     -         3959    5    0 
+lexstraus 970657194  2  2 Bk  f     -     -         3954   10    0 
+lexstraus 970657209  2  1 Bc  k     kf    -         3944   10    0 
+lexstraus 970657222  2  2 Bk  c     k     k         3934   30   60 As 5h
+lexstraus 970657240  2  1 Bc  k     kc    k         3964   30    0 7h 3h
+lexstraus 970657259  2  2 B   -     -     -         3934   10   15 
+lexstraus 970657268  2  1 Bc  k     k     k         3939   10   20 Th Jc
+lexstraus 970657292  2  2 Bk  k     k     k         3949   10    0 4c 3h
+lexstraus 970657314  2  1 Bc  k     kf    -         3939   10    0 
+lexstraus 970657327  2  2 Bk  f     -     -         3929   10    0 
+lexstraus 970657343  2  1 Bf  -     -     -         3919    5    0 
+lexstraus 970657346  2  2 Bk  c     k     k         3914   30   60 9h 4h
+lexstraus 970657372  2  1 Bc  kc    k     b         3944   90  120 
+lexstraus 970657390  2  2 Bk  k     b     c         3974   90    0 As 2h
+lexstraus 970657404  2  1 Bc  k     kf    -         3884   10    0 
+lexstraus 970657425  2  2 Bk  k     r     b         3874  270  360 
+lexstraus 970657448  2  1 Bc  k     kf    -         3964   10    0 
+lexstraus 970657478  2  2 Bk  c     k     k         3954   30    0 6c Jh
+lexstraus 970657496  2  1 Br  b     k     k         3924   90    0 Kd Jd
+lexstraus 970657515  2  2 B   -     -     -         3834   10   15 
+lexstraus 970657520  2  1 Br  -     -     -         3839   30   40 
+lexstraus 970657532  2  2 B   -     -     -         3849   10   15 
+lexstraus 970657535  2  1 Bc  kf    -     -         3854   10    0 
+lexstraus 970657555  2  2 Bk  k     f     -         3844   10    0 
+lexstraus 970657569  2  1 Bf  -     -     -         3834    5    0 
+lexstraus 970657573  2  2 Bk  k     b     k         3829   30    0 3h 6h
+lexstraus 970657628  2  1 Bc  k     kf    -         3799   10    0 
+lexstraus 970657646  2  2 Bk  k     k     k         3789   10    0 Jc 3s
+lexstraus 970657657  2  1 Bf  -     -     -         3779    5    0 
+lexstraus 970657664  2  2 Bk  b     -     -         3774   30   40 
+lexstraus 970657673  2  1 Bf  -     -     -         3784    5    0 
+lexstraus 970657676  2  2 Bk  f     -     -         3779   10    0 
+lexstraus 970657682  2  1 Br  -     -     -         3769   30   40 
+lexstraus 970657686  2  2 Bk  k     f     -         3779   10    0 
+lexstraus 970657698  2  1 Bf  -     -     -         3769    5    0 
+lexstraus 970657707  3  3 c   c     k     k         3764   40    0 7c 8d
+lexstraus 970657731  3  2 B   -     -     -         3724   10   15 
+lexstraus 970657739  3  1 Bc  b     b     -         3729   90  120 
+lexstraus 970657775  3  3 f   -     -     -         3759    0    0 
+lexstraus 970657778  3  2 Bk  kf    -     -         3759   10    0 
+lexstraus 970657802  3  1 Bf  -     -     -         3749    5    0 
+lexstraus 970657809  3  3 f   -     -     -         3744    0    0 
+lexstraus 970657813  3  2 Bk  b     -     -         3744   35   50 
+lexstraus 970657826  3  1 Bc  k     k     k         3759   10   20 3d 3h
+lexstraus 970657846  3  3 f   -     -     -         3769    0    0 
+lexstraus 970657868  3  2 Bk  k     k     k         3769   10   25 8c Ts
+lexstraus 970657899  3  1 Br  b     -     -         3784  160  240 
+lexstraus 970657925  3  3 f   -     -     -         3864    0    0 
+lexstraus 970657946  3  2 Bk  k     b     -         3864   35   50 
+lexstraus 970657957  3  1 Br  -     -     -         3879   40   60 
+lexstraus 970657970  3  3 f   -     -     -         3899    0    0 
+lexstraus 970657992  3  2 B   -     -     -         3899   10   15 
+lexstraus 970657998  3  1 Bc  k     k     k         3904   10   10 2c 3h
+lexstraus 970658013  3  3 f   -     -     -         3904    0    0 
+lexstraus 970658030  3  2 Bk  k     k     k         3904   10   10 Ks 2d
+lexstraus 970658051  3  1 Bc  k     kc    kf        3904   30    0 
+lexstraus 970658072  3  3 f   -     -     -         3874    0    0 
+lexstraus 970658077  3  2 Bk  k     r     kc        3874  520 1170 7s Th
+lexstraus 970658114  3  1 Bc  k     b     -         4524   40   60 
+lexstraus 970658138  3  3 c   k     k     k         4544   10   30 8c As
+lexstraus 970658173  3  2 Bk  b     b     -         4564  110  150 
+lexstraus 970658191  3  1 Bc  k     k     k         4604   10   10 4h Kh
+lexstraus 970658207  3  3 c   k     k     k         4604   10   25 3c Ac
+lexstraus 970658244  3  2 Bk  kf    -     -         4619   10    0 
+lexstraus 970658260  3  1 Bc  kc    k     b         4609  130  180 
+lexstraus 970658280  3  3 f   -     -     -         4659    0    0 
+lexstraus 970658297  3  2 Bk  kf    -     -         4659   10    0 
+lexstraus 970658308  3  1 Bf  -     -     -         4649    5    0 
+lexstraus 970658320  2  2 B   -     -     -         4644   10   15 
+lexstraus 970658324  2  1 Bc  k     k     kf        4649   10    0 
+lexstraus 970658341  2  2 Bk  k     f     -         4639   10    0 
+lexstraus 970658350  2  1 Bc  k     k     k         4629   10   20 7c Jc
+lexstraus 970658361  2  2 Bk  k     f     -         4639   10    0 
+lexstraus 970658374  2  1 Bc  kc    k     k         4629   30    0 Qh 3d
+lexstraus 970658389  2  2 Bk  c     k     b         4599   90  180 4c Qd
+lexstraus 970658406  2  1 Bc  k     k     k         4689   10   10 3d 4d
+lexstraus 970658418  2  2 Bk  f     -     -         4689   10    0 
+lexstraus 970658428  2  1 Bc  k     k     k         4679   10   20 Ks 7s
+lexstraus 970658439  2  2 B   -     -     -         4689   10   15 
+lexstraus 970658444  2  1 Bc  kc    k     k         4694   30    0 4h Js
+lexstraus 970658457  2  2 Br  k     k     k         4664   30    0 Js Ah
+lexstraus 970658472  2  1 Bc  k     b     b         4634   90    0 Qh Js
+lexstraus 970658490  2  2 Bk  c     k     k         4544   30    0 9d As
+lexstraus 970658522  2  1 Bf  -     -     -         4514    5    0 
+lexstraus 970658527  2  2 B   -     -     -         4509   10   15 
+lexstraus 970658530  2  1 Bc  k     k     k         4514   10   20 6h Qd
+lexstraus 970658537  2  2 Bk  k     k     r         4524   90  120 
+lexstraus 970658557  2  1 Bc  kc    k     k         4554   30    0 4c 4d
+lexstraus 970658571  3  3 c   f     -     -         4524   10    0 
+lexstraus 970658584  3  2 Bk  k     k     k         4514   10   20 3s Kd
+lexstraus 970658600  3  1 Bc  k     k     k         4524   10    0 4c 2s
+lexstraus 970658619  3  3 f   -     -     -         4514    0    0 
+lexstraus 970658641  3  2 Bk  b     -     -         4514   35   50 
+lexstraus 970658653  3  1 Bf  -     -     -         4529    5    0 
+lexstraus 970658658  3  3 c   c     k     k         4524   25    0 Kd Ts
+lexstraus 970658680  3  2 Bk  k     kc    k         4499   35    0 Td As
+lexstraus 970658695  3  1 Bf  -     -     -         4464    5    0 
+lexstraus 970658709  3  3 f   -     -     -         4459    0    0 
+lexstraus 970658733  3  2 Bk  k     k     kf        4459   10    0 
+lexstraus 970658754  3  1 Br  b     -     -         4449  130  180 
+lexstraus 970658766  3  3 c   b     -     -         4499   35   50 
+lexstraus 970658775  3  2 Bk  k     c     f         4514   30    0 
+lexstraus 970658792  3  1 Bc  kc    kf    -         4484   30    0 
+lexstraus 970658810  3  3 c   c     c     c         4454   94    0 Ts 6s
+lexstraus 970658828  3  2 Bk  f     -     -         4360   10    0 
+lexstraus 970658841  3  1 Bc  kc    k     k         4350   30    0 6s 5d
+lexstraus 970658858  3  3 f   -     -     -         4320    0    0 
+lexstraus 970658867  3  2 Bk  k     kf    -         4320   10    0 
+lexstraus 970658891  3  1 Bc  k     k     k         4310   10   20 Kd 7c
+lexstraus 970658907  3  3 c   k     f     -         4320   10    0 
+lexstraus 970658929  3  2 Bk  kf    -     -         4310   10    0 
+lexstraus 970658936  3  1 Bc  k     k     k         4300   10    0 8h 7c
+lexstraus 970658948  3  3 f   -     -     -         4290    0    0 
+lexstraus 970658959  3  2 Bk  kc    k     k         4290   35    0 Jd 5c
+lexstraus 970658974  3  1 Bf  -     -     -         4255    5    0 
+lexstraus 970658994  3  3 f   -     -     -         4250    0    0 
+lexstraus 970659004  3  2 Bk  kc    kf    -         4250   40    0 
+lexstraus 970659025  3  1 Bc  k     kc    k         4210   40   90 7s 8c
+lexstraus 970659044  3  3 f   -     -     -         4260    0    0 
+lexstraus 970659057  3  2 Bf  -     -     -         4260   10    0 
+lexstraus 970659072  3  1 Bf  -     -     -         4250    5    0 
+lexstraus 970659076  3  3 r   b     k     c         4245  222    0 As Kh
+lexstraus 970659099  3  2 Bf  -     -     -         4023   10    0 
+lexstraus 970659134  3  1 Bc  k     k     k         4013   10   20 7c Jc
+lexstraus 970659150  3  3 f   -     -     -         4023    0    0 
+lexstraus 970659155  3  2 Bk  kf    -     -         4023   10    0 
+lexstraus 970659165  3  1 Bc  kc    kf    -         4013   30    0 
+lexstraus 970659180  3  3 f   -     -     -         3983    0    0 
+lexstraus 970659183  3  2 Bk  k     k     k         3983   10    0 Jc 9c
+lexstraus 970659193  3  1 Bc  kf    -     -         3973   10    0 
+lexstraus 970659206  3  3 f   -     -     -         3963    0    0 
+lexstraus 970659225  3  2 Bk  kr    k     k         3963  110  225 Ac 8h
+lexstraus 970659252  3  1 Bc  k     k     b         4078   30   40 
+lexstraus 970659268  3  3 f   -     -     -         4088    0    0 
+lexstraus 970659271  3  2 Bk  k     k     k         4088   10   30 9h Jc
+lexstraus 970659289  3  1 Bf  -     -     -         4108    5    0 
+lexstraus 970659311  3  3 c   k     k     c         4103   40    0 Qc 9s
+lexstraus 970659335  3  2 Bk  kf    -     -         4063   10    0 
+lexstraus 970659360  3  1 Bc  kf    -     -         4053   10    0 
+lexstraus 970659374  3  3 c   k     f     -         4043   10    0 
+lexstraus 970659392  3  2 B   -     -     -         4033   10   15 
+lexstraus 970659397  3  1 Bc  k     k     kf        4038   10    0 
+lexstraus 970659427  3  3 c   k     b     -         4028   40   60 
+lexstraus 970659451  3  2 Bk  k     k     k         4048   10   25 4s Jd
+lexstraus 970659470  3  1 Bf  -     -     -         4063    5    0 
+lexstraus 970659480  3  3 c   k     k     k         4058   10    0 2d Jd
+lexstraus 970659502  3  2 Bk  kf    -     -         4048   10    0 
+lexstraus 970659525  3  1 Bf  -     -     -         4038    5    0 
+lexstraus 970659550  3  3 f   -     -     -         4033    0    0 
+lexstraus 970659555  3  2 Bk  kc    k     k         4033   40    0 2c 9s
+lexstraus 970659584  3  1 Bc  b     k     k         3993   30    0 5c 6c
+lexstraus 970659608  3  3 c   k     c     k         3963   40   90 Qd 6d
+lexstraus 970659631  3  2 Bk  k     k     f         4013   10    0 
+lexstraus 970659662  3  1 Bf  -     -     -         4003    5    0 
+lexstraus 970659699  3  3 c   c     k     k         3998   40    0 Th As
+lexstraus 970659726  3  2 Bk  kc    k     k         3958   35   75 Kh Qc
+lexstraus 970659743  3  1 Bc  k     k     kc        3998   30    0 Qs 9c
+lexstraus 970659762  3  3 f   -     -     -         3968    0    0 
+lexstraus 970659775  3  2 B   -     -     -         3968   10   15 
+lexstraus 970659778  3  1 Bc  kf    -     -         3973   10    0 
+lexstraus 970659790  3  3 f   -     -     -         3963    0    0 
+lexstraus 970659815  3  2 B   -     -     -         3963   10   15 
+lexstraus 970659822  3  1 Bc  k     kf    -         3968   10    0 
+lexstraus 970659836  3  3 c   k     k     k         3958   10    0 3c 2c
+lexstraus 970659857  3  2 Bk  k     k     k         3948   10    0 Jd 6h
+lexstraus 970659874  3  1 Br  b     -     -         3938   90  120 
+lexstraus 970659884  3  3 f   -     -     -         3968    0    0 
+lexstraus 970659893  3  2 Bk  kf    -     -         3968   10    0 
+lexstraus 970659916  3  1 Bc  kf    -     -         3958   10    0 
+lexstraus 970659939  3  3 f   -     -     -         3948    0    0 
+lexstraus 970659942  3  2 Bk  Q     -     -         3948   10    0 
+lexstraus 970691310  2  2 Br  k     k     k         3938   30   60 Ah Kh
+lexstraus 970691367  2  1 Bc  kc    k     kc        3968   90    0 8c Td
+lexstraus 970691398  2  2 Bk  k     k     c         3878   30   30 4d Kh
+lexstraus 970691476  2  1 Bc  k     k     k         3878   10   10 Js 4s
+lexstraus 970691496  2  2 Bk  k     k     k         3878   10   20 6c 9d
+lexstraus 970691516  2  1 Bc  k     b     bc        3888  270    0 Tc Ac
+lexstraus 970691542  2  2 Bk  k     b     -         3618   30   40 
+lexstraus 970691563  2  1 Bc  k     kc    kc        3628   90    0 Ks 8c
+lexstraus 970691586  2  2 Br  b     b     b         3538  810 1620 Jh Ah
+lexstraus 970691614  2  1 Bc  kc    k     k         4348   30   30 Qs 6d
+lexstraus 970691651  2  2 B   -     -     -         4348   10   15 
+lexstraus 970691657  2  1 Bf  -     -     -         4353    5    0 
+lexstraus 970691660  2  2 B   -     -     -         4348   10   15 
+lexstraus 970691664  2  1 Bc  k     k     bc        4353   90    0 6s 4c
+lexstraus 970691688  2  2 Bk  k     c     k         4263   30    0 7c 4s
+lexstraus 970691711  2  1 Bc  k     b     -         4233   30   40 
+lexstraus 970691729  2  2 Bc  f     -     -         4243   30    0 
+lexstraus 970691744  2  1 Bc  k     k     kf        4213   10    0 
+lexstraus 970691765  2  2 B   -     -     -         4203   10   15 
+lexstraus 970691767  2  1 Bc  k     b     -         4208   30   40 
+lexstraus 970691782  2  2 Bc  f     -     -         4218   30    0 
+lexstraus 970691798  2  1 Bc  k     k     kc        4188   30    0 8c Ac
+lexstraus 970691817  2  2 B   -     -     -         4158   10   15 
+lexstraus 970691822  2  1 Bc  kc    k     k         4163   30    0 Qc 9c
+lexstraus 970691844  2  2 B   -     -     -         4133   10   15 
+lexstraus 970691848  2  1 Bf  -     -     -         4138    5    0 
+lexstraus 970691852  2  2 B   -     -     -         4133   10   15 
+lexstraus 970691855  2  1 Bc  k     k     b         4138   30   40 
+lexstraus 970691875  2  2 Bk  k     k     k         4148   10    0 2c 2s
+lexstraus 970691895  3  1 Bc  k     k     k         4138   10   10 4d 2h
+lexstraus 970691913  3  3 f   -     -     -         4138    0    0 
+lexstraus 970691919  3  2 Bk  k     b     -         4138   35   50 
+lexstraus 970691933  3  1 Bc  k     k     k         4153   10    0 2s 8h
+lexstraus 970691950  3  3 cc  k     f     -         4143   40    0 
+lexstraus 970691979  3  2 Bk  k     k     f         4103   10    0 
+lexstraus 970692000  3  1 Bf  -     -     -         4093    5    0 
+lexstraus 970692018  3  3 f   -     -     -         4088    0    0 
+lexstraus 970692026  3  2 Bk  k     k     k         4088   10   20 Js 5d
+lexstraus 970692042  3  1 Bf  -     -     -         4098    5    0 
+lexstraus 970692059  3  3 f   -     -     -         4093    0    0 
+lexstraus 970692069  3  2 Bk  kc    kf    -         4093   40    0 
+lexstraus 970692096  4  1 Bc  kc    k     k         4053   40   90 9c 9d
+lexstraus 970692120  4  4 cc  f     -     -         4103  130    0 
+lexstraus 970692149  4  3 c   k     k     k         3973   10   35 Ts Jc
+lexstraus 970692177  4  2 Bk  kf    -     -         3998   10    0 
+lexstraus 970692197  4  1 Bc  k     kc    k         3988   40   90 6s 7h
+lexstraus 970692227  4  4 c   k     k     k         4038   10    0 As Qd
+lexstraus 970692251  4  3 c   k     k     k         4028   10    0 Ks Jd
+lexstraus 970692275  4  2 Bf  -     -     -         4018   10    0 
+lexstraus 970692308  4  1 Bc  kc    k     k         4008   40    0 7h 9h
+lexstraus 970692340  4  4 c   k     k     b         3968   35   50 
+lexstraus 970692369  4  3 cc  k     k     k         3983   45  140 8d Th
+lexstraus 970692387  4  2 Bk  k     k     k         4078   10   20 4c 4s
+lexstraus 970692415  4  1 Bc  k     k     k         4088   10   20 Js Kh
+lexstraus 970692429  4  4 cc  c     f     -         4098  160    0 
+lexstraus 970692453  4  3 r   kc    k     k         3938  120    0 Ah Ks
+lexstraus 970692476  4  2 Bk  k     k     b         3818   30   40 
+lexstraus 970692503  4  1 Bc  k     kc    kf        3828   50    0 
+lexstraus 970692550  4  4 c   k     k     k         3778   10   35 8s 8h
+lexstraus 970692573  4  3 c   k     b     b         3803  130    0 Qh Ks
+lexstraus 970692604  4  2 Bc  k     k     k         3673   35    0 8c Ts
+lexstraus 970692631  4  1 Bc  k     k     k         3638   10   20 9d 7h
+lexstraus 970692650  4  4 f   -     -     -         3648    0    0 
+lexstraus 970692680  4  3 cc  k     k     k         3648   45  140 5s 7h
+lexstraus 970692703  4  2 B   -     -     -         3743   10   15 
+lexstraus 970692715  4  1 Bc  k     k     b         3748   30   40 
+lexstraus 970692736  4  4 c   c     c     f         3758  160    0 
+lexstraus 970692767  4  3 cc  k     b     -         3598  150  210 
+lexstraus 970692782  4  2 Bk  kc    kc    k         3658  110    0 7d 8d
+lexstraus 970692805  4  1 Bc  k     kf    -         3548   10    0 
+lexstraus 970692828  4  4 c   c     f     -         3538   50    0 
+lexstraus 970692858  4  3 c   k     f     -         3488   10    0 
+lexstraus 970692897  4  2 Bk  kf    -     -         3478   10    0 
+lexstraus 970692920  4  1 Bc  k     -     -         3468   10   20 
+lexstraus 970692934  4  4 c   k     k     k         3478   10    0 Kh 6d
+lexstraus 970692955  4  3 c   k     k     k         3468   10   25 9d 7h
+lexstraus 970692977  4  2 Bc  c     k     k         3483   90  180 8c As
+lexstraus 970693002  4  1 Bcc kc    k     b         3573  520  720 
+lexstraus 970693034  5  5 c   k     c     f         3773  120    0 
+lexstraus 970693055  5  4 cc  k     k     kf        3653   45    0 
+lexstraus 970693090  5  3 f   -     -     -         3608    0    0 
+lexstraus 970693127  6  2 Bk  kc    kf    -         3608   50    0 
+lexstraus 970693167  6  1 Bcc k     k     k         3558   50    0 Qh 6c
+lexstraus 970693210  6  6 f   -     -     -         3508    0    0 
+lexstraus 970693229  6  5 f   -     -     -         3508    0    0 
+lexstraus 970693251  6  4 c   k     b     k         3508   60  250 Jd 9c
+lexstraus 970693298  6  3 c   kf    -     -         3698   10    0 
+lexstraus 970693364  6  2 Bk  k     k     kf        3688   10    0 
+lexstraus 970693397  6  1 Bf  -     -     -         3678    5    0 
+lexstraus 970693416  6  6 c   k     f     -         3673   10    0 
+lexstraus 970693442  6  5 f   -     -     -         3663    0    0 
+lexstraus 970693458  6  4 c   k     k     f         3663   10    0 
+lexstraus 970693488  6  3 f   -     -     -         3653    0    0 
+lexstraus 970693512  6  2 Bc  kf    -     -         3653   45    0 
+lexstraus 970693544  6  1 Bcf -     -     -         3608   10    0 
+lexstraus 970693594  6  6 c   c     f     -         3598  120    0 
+lexstraus 970693628  6  5 c   k     f     -         3478   10    0 
+lexstraus 970693650  6  4 f   -     -     -         3468    0    0 
+lexstraus 970693703  6  3 f   -     -     -         3468    0    0 
+lexstraus 970693741  6  2 Bf  -     -     -         3468   10    0 
+lexstraus 970693759  6  1 Bf  -     -     -         3458    5    0 
+lexstraus 970693797  6  6 f   -     -     -         3453    0    0 
+lexstraus 970693836  6  5 cc  k     k     kf        3453   55    0 
+lexstraus 970693857  6  4 c   k     k     k         3398   10    0 8c 2c
+lexstraus 970693887  6  3 f   -     -     -         3388    0    0 
+lexstraus 970693919  6  2 Bk  kc    kf    -         3388   55    0 
+lexstraus 970694034  5  1 Bf  -     -     -         3333    5    0 
+lexstraus 970694078  5  5 c   k     c     k         3328   35   75 7d Kd
+lexstraus 970694119  5  4 c   k     f     -         3368   10    0 
+lexstraus 970694171  5  3 f   -     -     -         3358    0    0 
+lexstraus 970694195  5  2 Bc  kc    k     k         3358  185    0 Ac Qs
+lexstraus 970694234  5  1 Bc  kf    -     -         3173   10    0 
+lexstraus 970694259  4  4 c   f     -     -         3163   10    0 
+lexstraus 970694279  4  4 f   -     -     -         3153    0    0 
+lexstraus 970694303  4  3 c   kc    k     k         3153  210    0 Tc Qd
+lexstraus 970694354  4  2 Bc  Q     -     -         2943   45    0 
+lexstraus 971123054 10  9 c   k     f     -         9527   10    0 
+lexstraus 971123086 10  8 f   -     -     -         9517    0    0 
+lexstraus 971123133 10  7 f   -     -     -         9517    0    0 
+lexstraus 971123206 10  6 c   k     k     k         9517   10   40 Td Qh
+lexstraus 971123259 10  5 rc  c     c     cA        9547 9547    0 As Qs

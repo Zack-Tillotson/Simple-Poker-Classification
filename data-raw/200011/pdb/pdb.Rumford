@@ -1,0 +1,2604 @@
+Rumford   973056767  6  6 f   -     -     -        32220    0    0 
+Rumford   973056776  6  5 f   -     -     -        32220    0    0 
+Rumford   973056798  6  4 cc  f     -     -        32220   55    0 
+Rumford   973056827  6  3 ccf -     -     -        32165  190    0 
+Rumford   973056862  6  2 Bf  -     -     -        31975   10    0 
+Rumford   973056886  6  1 Bf  -     -     -        31965    5    0 
+Rumford   973056905  6  6 f   -     -     -        31960    0    0 
+Rumford   973056928  5  4 f   -     -     -        31960    0    0 
+Rumford   973056944  5  3 cc  f     -     -        31960   45    0 
+Rumford   973056968  5  2 Bf  -     -     -        31915   10    0 
+Rumford   973056981  5  1 Bcf -     -     -        31905   35    0 
+Rumford   973057034  5  5 f   -     -     -        31870    0    0 
+Rumford   973057064  6  4 c   k     k     b        31870   55   90 
+Rumford   973057092  6  3 f   -     -     -        31905    0    0 
+Rumford   973057113  6  2 Bf  -     -     -        31905   10    0 
+Rumford   973057149  6  1 Bf  -     -     -        31895    5    0 
+Rumford   973057162  6  6 c   b     -     -        31890   40   60 
+Rumford   973057177  6  5 f   -     -     -        31910    0    0 
+Rumford   973057207  6  4 f   -     -     -        31910    0    0 
+Rumford   973057232  6  3 ccc f     -     -        31910  805    0 
+Rumford   973057269  6  2 Bc  kcf   Q     -        31105  185    0 
+Rumford   973058519  3  3 r   b     k     f        30920  110    0 
+Rumford   973058537  3  2 Bk  c     r     -        30810  270  360 
+Rumford   973058566  3  1 Bf  -     -     -        30900    5    0 
+Rumford   973058572  3  3 c   b     -     -        30895   35   50 
+Rumford   973058582  3  2 Bk  b     k     k        30910   35    0 2s Ks
+Rumford   973058621  2  1 Br  b     k     k        30875   90    0 4s 4c
+Rumford   973058640  2  2 B   -     -     -        30785   10   15 
+Rumford   973058647  2  1 Bf  -     -     -        30790    5    0 
+Rumford   973058649  2  2 Bk  b     b     k        30785   90    0 3h 3c
+Rumford   973058660  2  1 Br  b     b     -        30695  270  360 
+Rumford   973058674  2  2 Bk  k     b     -        30785   30   40 
+Rumford   973058685  2  1 Bf  -     -     -        30795    5    0 
+Rumford   973058688  2  2 B   -     -     -        30790   10   15 
+Rumford   973058691  2  1 Br  b     -     -        30795   90  120 
+Rumford   973058696  2  2 Bk  k     b     -        30825   30   40 
+Rumford   973058708  2  1 Br  -     -     -        30835   30   40 
+Rumford   973058710  2  2 B   -     -     -        30845   10   15 
+Rumford   973058712  2  1 Bc  bc    k     k        30850   90  180 Ks Kh
+Rumford   973058725  2  2 B   -     -     -        30940   10   15 
+Rumford   973058731  2  1 Bc  b     b     b        30945  270  540 4h 7h
+Rumford   973058752  2  2 B   -     -     -        31215   10   15 
+Rumford   973058757  3  1 Bf  -     -     -        31220    5    0 
+Rumford   973058762  3  3 Q   -     -     -        31215    0    0 
+Rumford   973090985  6  2 Bk  kc    k     b        26640  160  240 
+Rumford   973091012  6  1 Bf  -     -     -        26720    5    0 
+Rumford   973091044  5  5 Q   -     -     -        26715    0    0 
+Rumford   973091100  6  4 c   k     f     -        26715   10    0 
+Rumford   973091143  6  3 f   -     -     -        26705    0    0 
+Rumford   973091198  6  2 Bk  k     k     k        26705   10    0 6d Qc
+Rumford   973091239  6  1 Bf  -     -     -        26695    5    0 
+Rumford   973091270  6  6 c   f     -     -        26690   10    0 
+Rumford   973091308  6  5 r   f     -     -        26680   45    0 
+Rumford   973091338  6  4 f   -     -     -        26635    0    0 
+Rumford   973091345  6  3 f   -     -     -        26635    0    0 
+Rumford   973091366  6  2 Br  b     b     kf       26635  400    0 
+Rumford   973091389  6  1 Bc  k     kf    -        26235   10    0 
+Rumford   973091408  6  6 f   -     -     -        26225    0    0 
+Rumford   973091427  6  5 c   b     b     -        26225  170  240 
+Rumford   973091471  7  4 f   -     -     -        26295    0    0 
+Rumford   973091479  7  3 f   -     -     -        26295    0    0 
+Rumford   973091501  7  2 Bk  kf    -     -        26295   10    0 
+Rumford   973091544  7  1 Bc  kf    -     -        26285   10    0 
+Rumford   973091581  7  7 r   b     -     -        26275  285  440 
+Rumford   973091613  7  6 cc  b     b     k        26430  325  720 9c 7c
+Rumford   973091654  7  5 f   -     -     -        26825    0    0 
+Rumford   973091683  7  4 f   -     -     -        26825    0    0 
+Rumford   973091711  7  3 f   -     -     -        26825    0    0 
+Rumford   973091751  7  2 Bf  -     -     -        26825   10    0 
+Rumford   973091789  9  1 Bc  bc    k     k        26815  170    0 Jd 8c
+Rumford   973091822  8  8 f   -     -     -        26645    0    0 
+Rumford   973091848  8  7 c   c     Q     -        26645   70    0 
+Rumford   973092044  8  4 r   b     k     k        26575  145    0 3d As
+Rumford   973092088  8  3 f   -     -     -        26430    0    0 
+Rumford   973092140  8  2 Bk  k     kQ    -        26430   10    0 
+Rumford   973092474  7  2 Bk  k     b     -        26420   40   60 
+Rumford   973092515  7  1 Bf  -     -     -        26440    5    0 
+Rumford   973092543  7  7 r   k     b     k        26435  115    0 Ac Qs
+Rumford   973092583  7  6 c   b     b     -        26320  260  400 
+Rumford   973092634  7  5 f   -     -     -        26460    0    0 
+Rumford   973092670  7  4 f   -     -     -        26460    0    0 
+Rumford   973092690  7  3 c   b     kf    -        26460   50    0 
+Rumford   973092738  7  2 Bk  kc    kc    kc       26410 1060 2400 Qh 3h
+Rumford   973092799  7  1 Bf  -     -     -        27750    5    0 
+Rumford   973092836  9  9 c   k     f     -        27745   10    0 
+Rumford   973092876  9  8 c   c     k     b        27735  370  900 8h 9h
+Rumford   973092940  9  7 r   kc    k     k        28265  210    0 Ah Kc
+Rumford   973092995  9  6 cc  c     kf    -        28055  535    0 
+Rumford   973093064  9  5 f   -     -     -        27520    0    0 
+Rumford   973093088  9  4 cf  -     -     -        27520   10    0 
+Rumford   973093154  9  3 c   kf    -     -        27510   10    0 
+Rumford   973093206  9  2 Bk  bc    k     kc       27500  520 1080 7c 7s
+Rumford   973093250  9  1 Bf  -     -     -        28060    5    0 
+Rumford   973093300  9  9 f   -     -     -        28055    0    0 
+Rumford   973093354  9  8 r   kc    k     k        28055  120  255 9d Ad
+Rumford   973093387  9  7 c   k     k     k        28190   10   20 2s As
+Rumford   973093446  9  6 cc  kc    kc    kf       28200  495    0 
+Rumford   973093488  9  5 c   kc    k     k        27705   65  220 9h 8h
+Rumford   973093523  9  4 f   -     -     -        27860    0    0 
+Rumford   973093556  9  3 f   -     -     -        27860    0    0 
+Rumford   973093588  9  2 Bk  k     b     b        27860  110  225 6h Ts
+Rumford   973093623  8  1 Bf  -     -     -        27975    5    0 
+Rumford   973093646  8  8 c   c     f     -        27970   60    0 
+Rumford   973093678  8  7 c   k     f     -        27910   10    0 
+Rumford   973093722  8  6 f   -     -     -        27900    0    0 
+Rumford   973093763  8  5 f   -     -     -        27900    0    0 
+Rumford   973093799  8  4 f   -     -     -        27900    0    0 
+Rumford   973093840  8  3 f   -     -     -        27900    0    0 
+Rumford   973093884  8  2 Bk  kc    kf    -        27900   60    0 
+Rumford   973093922  8  1 Bc  b     k     bf       27840  260    0 
+Rumford   973093980  7  7 f   -     -     -        27580    0    0 
+Rumford   973094019  7  6 c   f     -     -        27580   10    0 
+Rumford   973094052  7  5 f   -     -     -        27570    0    0 
+Rumford   973094079  7  4 cc  k     b     -        27570  235  360 
+Rumford   973094109  7  3 f   -     -     -        27695    0    0 
+Rumford   973094148  7  2 Bk  b     -     -        27695   60  100 
+Rumford   973094167  7  1 Bf  -     -     -        27735    5    0 
+Rumford   973094176  7  7 f   -     -     -        27730    0    0 
+Rumford   973094198  7  6 f   -     -     -        27730    0    0 
+Rumford   973094235  7  5 cc  kf    -     -        27730   55    0 
+Rumford   973094276  7  4 f   -     -     -        27675    0    0 
+Rumford   973094293  7  3 f   -     -     -        27675    0    0 
+Rumford   973094320  7  2 Bk  kc    k     kc       27675  145    0 9h 5h
+Rumford   973094365  7  1 Bf  -     -     -        27530    5    0 
+Rumford   973094408  7  7 f   -     -     -        27525    0    0 
+Rumford   973094491  7  6 c   c     f     -        27525   50    0 
+Rumford   973094524  7  5 f   -     -     -        27475    0    0 
+Rumford   973094544  6  5 cc  kc    k     k        27475  150  315 Kc 9s
+Rumford   973094568  5  3 c   f     -     -        27640   10    0 
+Rumford   973094597  5  2 Bk  kf    -     -        27630   10    0 
+Rumford   973094613  5  1 Bf  -     -     -        27620    5    0 
+Rumford   973094624  5  5 c   k     k     k        27615   10    0 9s Ts
+Rumford   973094644  5  5 f   -     -     -        27605    0    0 
+Rumford   973094659  4  3 f   -     -     -        27605    0    0 
+Rumford   973094674  3  2 Bk  bc    kc    kc       27605 1210    0 7c Kd
+Rumford   973094699  3  1 Br  b     b     -        26395  270  360 
+Rumford   973094712  3  3 r   b     bf    -        26485  335    0 
+Rumford   973094730  3  2 Bc  r     -     -        26150  520  720 
+Rumford   973094746  3  1 Br  -     -     -        26350   30   40 
+Rumford   973094751  3  3 Q   -     -     -        26360    0    0 
+Rumford   973097736  5  4 f   -     -     -        26360    0    0 
+Rumford   973097770  5  3 f   -     -     -        26360    0    0 
+Rumford   973097800  5  2 B   -     -     -        26360   10   15 
+Rumford   973097805  5  1 Bf  -     -     -        26365    5    0 
+Rumford   973097813  5  5 f   -     -     -        26360    0    0 
+Rumford   973097838  5  4 f   -     -     -        26360    0    0 
+Rumford   973097858  5  3 c   k     b     -        26360   35   50 
+Rumford   973097874  5  2 Bc  kc    k     b        26375  605  840 
+Rumford   973097895  5  1 Bc  b     k     k        26610   30    0 8c 7d
+Rumford   973097914  5  5 f   -     -     -        26580    0    0 
+Rumford   973097936  5  4 c   k     k     f        26580   10    0 
+Rumford   973097976  5  3 f   -     -     -        26570    0    0 
+Rumford   973098001  5  2 Bk  k     f     -        26570   10    0 
+Rumford   973098015  5  1 Bc  b     b     -        26560  310  500 
+Rumford   973098035  5  5 f   -     -     -        26750    0    0 
+Rumford   973098048  5  4 f   -     -     -        26750    0    0 
+Rumford   973098060  5  3 c   b     -     -        26750   45   70 
+Rumford   973098079  5  2 B   -     -     -        26775   10   15 
+Rumford   973098082  5  1 Bf  -     -     -        26780    5    0 
+Rumford   973098086  5  5 f   -     -     -        26775    0    0 
+Rumford   973098093  5  4 f   -     -     -        26775    0    0 
+Rumford   973098116  5  3 c   c     f     -        26775   45    0 
+Rumford   973098139  5  2 Bk  k     k     k        26730   10    0 3h 6h
+Rumford   973098155  5  1 Bc  b     -     -        26720   50   80 
+Rumford   973098167  5  5 c   k     b     k        26750   55  135 5h 4d
+Rumford   973098199  5  4 f   -     -     -        26830    0    0 
+Rumford   973098218  5  3 c   b     -     -        26830   35   50 
+Rumford   973098233  5  2 Br  k     b     b        26845  520  720 
+Rumford   973098263  5  1 Bf  -     -     -        27045    5    0 
+Rumford   973098276  5  5 r   k     k     f        27040   35    0 
+Rumford   973098299  5  4 f   -     -     -        27005    0    0 
+Rumford   973098312  5  3 f   -     -     -        27005    0    0 
+Rumford   973098318  5  2 Bk  c     f     -        27005   40    0 
+Rumford   973098332  5  1 Br  b     b     -        26965  270  360 
+Rumford   973098350  5  5 f   -     -     -        27055    0    0 
+Rumford   973098369  5  4 r   b     b     k        27055  475    0 4d 5s
+Rumford   973098389  5  3 f   -     -     -        26580    0    0 
+Rumford   973098417  5  2 Bk  b     c     k        26580  170    0 5s 8d
+Rumford   973098449  5  1 Bc  k     kf    -        26410   10    0 
+Rumford   973098471  5  5 r   b     k     k        26400  110    0 Qh Tc
+Rumford   973098495  5  4 c   kc    kf    -        26290   60    0 
+Rumford   973098525  5  3 c   k     c     f        26230   45    0 
+Rumford   973098544  5  2 Bk  c     c     k        26185  170    0 4s Ah
+Rumford   973098562  5  1 Bf  -     -     -        26015    5    0 
+Rumford   973098569  5  5 c   c     c     f        26010  210    0 
+Rumford   973098602  5  4 r   k     k     k        25800   45    0 Ad 7s
+Rumford   973098623  5  3 f   -     -     -        25755    0    0 
+Rumford   973098635  5  2 Bk  b     k     kf       25755   50    0 
+Rumford   973098657  5  1 Bf  -     -     -        25705    5    0 
+Rumford   973098668  5  5 c   b     -     -        25700   40   60 
+Rumford   973098681  5  4 c   c     cc    c        25720 2080 4320 Td Th
+Rumford   973098723  5  3 f   -     -     -        27960    0    0 
+Rumford   973098744  5  2 Bf  -     -     -        27960   10    0 
+Rumford   973098761  5  1 Bf  -     -     -        27950    5    0 
+Rumford   973098768  5  5 c   b     -     -        27945   35   50 
+Rumford   973098783  5  4 f   -     -     -        27960    0    0 
+Rumford   973098791  5  3 f   -     -     -        27960    0    0 
+Rumford   973098803  5  2 Bk  b     b     kc       27960  850    0 Kc Jh
+Rumford   973098828  5  1 Bc  b     b     k        27110  160    0 8s Ks
+Rumford   973098856  5  5 r   bf    -     -        26950  225    0 
+Rumford   973098879  5  4 f   -     -     -        26725    0    0 
+Rumford   973098900  5  3 c   b     k     f        26725   60    0 
+Rumford   973098929  5  2 Br  b     k     k        26665  110  225 3s 3c
+Rumford   973098950  5  1 Br  b     -     -        26780  210  320 
+Rumford   973098968  5  5 f   -     -     -        26890    0    0 
+Rumford   973098984  5  4 c   k     kf    -        26890   10    0 
+Rumford   973099004  5  3 c   k     b     -        26880   45   70 
+Rumford   973099016  5  2 Bk  k     b     k        26905   40   90 3h Kh
+Rumford   973099035  5  1 Br  k     k     k        26955   40    0 9d Qs
+Rumford   973099066  6  5 f   -     -     -        26915    0    0 
+Rumford   973099088  6  4 c   k     kc    k        26915   60    0 2s As
+Rumford   973099127  6  3 c   b     b     k        26855  130  270 4s Ks
+Rumford   973099155  7  2 Bf  -     -     -        26995   10    0 
+Rumford   973099176  7  1 Bc  b     -     -        26985   40   60 
+Rumford   973099188  7  7 c   c     c     k        27005 1230 3760 4d 3d
+Rumford   973099226  7  6 f   -     -     -        29535    0    0 
+Rumford   973099269  7  5 c   b     -     -        29535   70  120 
+Rumford   973099290  7  4 c   b     -     -        29585   50   80 
+Rumford   973099305  7  3 c   k     f     -        29615   10    0 
+Rumford   973099323  6  2 Bk  b     k     c        29605   90    0 Qc Jc
+Rumford   973099339  6  1 Br  b     -     -        29515  210  320 
+Rumford   973099355  6  6 f   -     -     -        29625    0    0 
+Rumford   973099375  6  5 c   b     k     k        29625   35    0 7d Qd
+Rumford   973099395  6  4 c   k     b     -        29590   45   70 
+Rumford   973099424  6  3 r   k     k     k        29615   35  110 Ac Kd
+Rumford   973099445  6  2 Bf  -     -     -        29690   10    0 
+Rumford   973099476  6  1 Br  k     b     -        29680  130  180 
+Rumford   973099501  6  6 r   b     c     k        29730  465  945 Qh Ad
+Rumford   973099521  6  5 c   k     f     -        30210   10    0 
+Rumford   973099558  6  4 r   -     -     -        30200   35   50 
+Rumford   973099564  6  3 c   kf    -     -        30215   10    0 
+Rumford   973099596  7  2 Bk  k     kc    k        30205   45  140 Kd 9h
+Rumford   973099617  7  1 Bc  kc    k     kf       30300   50    0 
+Rumford   973099645  7  7 f   -     -     -        30250    0    0 
+Rumford   973099666  7  6 c   f     -     -        30250   35    0 
+Rumford   973099689  7  5 f   -     -     -        30215    0    0 
+Rumford   973099715  7  4 c   b     -     -        30215   60  100 
+Rumford   973099743  7  3 cc  kf    -     -        30255   45    0 
+Rumford   973099758  7  2 Bc  b     b     -        30210  735 1050 
+Rumford   973099790  7  1 Bc  kf    -     -        30525   10    0 
+Rumford   973099815  6  6 r   b     k     k        30515  235    0 Jh Js
+Rumford   973099839  6  5 f   -     -     -        30280    0    0 
+Rumford   973099858  6  4 f   -     -     -        30280    0    0 
+Rumford   973099900  6  3 c   c     f     -        30280   50    0 
+Rumford   973099937  6  2 Bk  bc    k     k        30230  190    0 4s 7s
+Rumford   973099968  6  1 Bc  k     b     b        30040  130    0 3c 7c
+Rumford   973099990  6  6 f   -     -     -        29910    0    0 
+Rumford   973099998  6  5 c   f     -     -        29910   35    0 
+Rumford   973100023  6  4 r   b     -     -        29875  115  160 
+Rumford   973100042  6  3 c   b     -     -        29920   45   70 
+Rumford   973100057  6  2 Bk  r     b     k        29945  220  450 3c 9c
+Rumford   973100082  5  1 Bc  kf    -     -        30175   45    0 
+Rumford   973100101  5  5 c   k     c     k        30130   45    0 7c 6c
+Rumford   973100117  5  4 r   b     -     -        30085  140  210 
+Rumford   973100133  6  4 cr  kc    k     k        30155  585    0 Ah Ks
+Rumford   973100168  6  3 cc  k     bf    -        29570  195    0 
+Rumford   973100195  5  2 Bk  k     kf    -        29375   10    0 
+Rumford   973100236  5  1 Bc  b     -     -        29365   30   40 
+Rumford   973100248  5  5 f   -     -     -        29375    0    0 
+Rumford   973100253  5  4 rcc c     c     c        29375 12386    0 6s 6h
+Rumford   973100278  5  3 r   k     b     -        16989  120  170 
+Rumford   973100306  6  2 Bk  b     b     kf       17039  110    0 
+Rumford   973100332  6  1 Br  k     k     kf       16929   40    0 
+Rumford   973100355  6  6 f   -     -     -        16889    0    0 
+Rumford   973100364  6  5 f   -     -     -        16889    0    0 
+Rumford   973100382  6  4 f   -     -     -        16889    0    0 
+Rumford   973100395  6  3 f   -     -     -        16889    0    0 
+Rumford   973100416  6  2 Bf  -     -     -        16889   10    0 
+Rumford   973100426  6  1 Br  b     -     -        16879  210  320 
+Rumford   973100439  6  6 c   k     b     -        16989   40   60 
+Rumford   973100458  6  5 r   -     -     -        17009   35   50 
+Rumford   973100465  6  4 cc  kc    kc    bc       17024 4245 4253 Qs Kd
+Rumford   973100492  6  3 f   -     -     -        17032    0    0 
+Rumford   973100509  6  2 Bk  k     b     kf       17032   55    0 
+Rumford   973100535  6  1 Bc  b     b     kf       16977  310    0 
+Rumford   973100565  6  6 f   -     -     -        16667    0    0 
+Rumford   973100579  6  5 r   b     bf    -        16667  625    0 
+Rumford   973100612  6  4 cc  kc    kf    -        16042  185    0 
+Rumford   973100643  6  3 f   -     -     -        15857    0    0 
+Rumford   973100659  6  2 Bk  kc    kr    k        15857  505 2025 Ts 6h
+Rumford   973100705  6  1 Bf  -     -     -        17377    5    0 
+Rumford   973100720  6  6 f   -     -     -        17372    0    0 
+Rumford   973100745  6  5 c   b     -     -        17372   35   50 
+Rumford   973100757  6  4 c   b     b     b        17387  775 1620 4s 5s
+Rumford   973100776  6  3 c   k     c     k        18232   50  160 8c 9c
+Rumford   973100802  6  2 Bf  -     -     -        18342   10    0 
+Rumford   973100819  6  1 Br  kf    -     -        18332   50    0 
+Rumford   973100845  6  6 f   -     -     -        18282    0    0 
+Rumford   973100872  6  5 f   -     -     -        18282    0    0 
+Rumford   973100906  6  4 c   f     -     -        18282   10    0 
+Rumford   973100940  6  3 c   k     crc   -        18272 2868 6016 2h 2c
+Rumford   973100971  5  2 B   -     -     -        21420   10   15 
+Rumford   973100981  5  1 Bf  -     -     -        21425    5    0 
+Rumford   973101001  5  5 f   -     -     -        21420    0    0 
+Rumford   973101008  5  4 r   b     k     kc       21420  610    0 Qc Qd
+Rumford   973101041  4  2 c   k     c     k        20810   50    0 Th 9s
+Rumford   973101070  4  2 Bk  b     -     -        20760   50   80 
+Rumford   973101091  4  1 Br  b     -     -        20790  130  180 
+Rumford   973101106  4  4 f   -     -     -        20840    0    0 
+Rumford   973101108  4  3 r   b     b     -        20840  335  450 
+Rumford   973101122  4  2 Bk  kf    -     -        20955   10    0 
+Rumford   973101131  4  1 Br  -     -     -        20945   30   40 
+Rumford   973101137  4  4 r   b     -     -        20955  115  160 
+Rumford   973101149  4  3 r   bc    kf    -        21000  375    0 
+Rumford   973101173  4  2 Br  b     -     -        20625  110  150 
+Rumford   973101181  4  1 Bcc kc    kf    -        20665   90    0 
+Rumford   973101198  4  4 r   k     b     -        20575  115  160 
+Rumford   973101214  5  3 rc  k     kf    -        20620  120    0 
+Rumford   973101230  5  2 Bk  k     b     -        20500   35   50 
+Rumford   973101243  5  1 Bf  -     -     -        20515    5    0 
+Rumford   973101250  5  5 c   f     -     -        20510   10    0 
+Rumford   973101267  5  4 f   -     -     -        20500    0    0 
+Rumford   973101290  4  3 cc  k     c     f        20500  630    0 
+Rumford   973101313  4  2 Bk  k     br    -        19870  530  720 
+Rumford   973101335  4  1 Bc  b     k     k        20060   50  120 8c Ac
+Rumford   973101352  4  4 f   -     -     -        20130    0    0 
+Rumford   973101385  4  3 r   b     k     f        20130  145    0 
+Rumford   973101412  4  2 Bk  k     kc    kf       19985   35    0 
+Rumford   973101427  4  1 Bc  kf    -     -        19950   10    0 
+Rumford   973101439  4  4 c   b     -     -        19940   35   50 
+Rumford   973101448  4  3 r   b     k     b        19955  475  660 
+Rumford   973101466  4  2 Bk  k     kf    -        20140   10    0 
+Rumford   973101478  4  1 Bf  -     -     -        20130    5    0 
+Rumford   973101494  4  4 r   k     b     b        20125  605  840 
+Rumford   973101521  4  3 f   -     -     -        20360    0    0 
+Rumford   973101533  4  2 Bf  -     -     -        20360   10    0 
+Rumford   973101540  4  1 Bc  b     -     -        20350   30   40 
+Rumford   973101550  4  4 rc  f     -     -        20360  115    0 
+Rumford   973101559  4  3 f   -     -     -        20245    0    0 
+Rumford   973101572  4  2 Bk  k     k     k        20245   10    0 Ts 3c
+Rumford   973101589  4  1 Bf  -     -     -        20235    5    0 
+Rumford   973101602  4  4 f   -     -     -        20230    0    0 
+Rumford   973101614  4  3 f   -     -     -        20230    0    0 
+Rumford   973101620  4  2 Br  k     b     b        20230  520  720 
+Rumford   973101643  4  1 Bc  k     b     -        20430   30   40 
+Rumford   973101656  4  4 f   -     -     -        20440    0    0 
+Rumford   973101667  4  3 f   -     -     -        20440    0    0 
+Rumford   973101672  4  2 Bk  k     kf    -        20440   10    0 
+Rumford   973101688  4  1 Bcr b     kf    -        20430  270    0 
+Rumford   973101705  4  4 rf  -     -     -        20160   45    0 
+Rumford   973101721  4  3 c   bc    f     -        20115  170    0 
+Rumford   973101745  4  2 Bk  bc    kf    -        19945  130    0 
+Rumford   973101762  4  1 Bf  -     -     -        19815    5    0 
+Rumford   973101779  4  4 f   -     -     -        19810    0    0 
+Rumford   973101783  4  3 r   -     -     -        19810   35   50 
+Rumford   973101787  4  2 B   -     -     -        19825   10   15 
+Rumford   973101792  4  1 Br  -     -     -        19830   30   40 
+Rumford   973101796  4  4 r   -     -     -        19840   35   50 
+Rumford   973101802  4  3 c   c     f     -        19855   35    0 
+Rumford   973101817  5  2 Bk  b     -     -        19820   35   50 
+Rumford   973101829  5  1 Bc  kf    -     -        19835   10    0 
+Rumford   973101842  5  5 f   -     -     -        19825    0    0 
+Rumford   973101856  5  4 r   b     -     -        19825  110  150 
+Rumford   973101869  5  3 c   b     -     -        19865   45   70 
+Rumford   973101881  5  2 Bc  kf    -     -        19890   35    0 
+Rumford   973101891  5  1 Bc  kf    -     -        19855   10    0 
+Rumford   973101919  5  5 c   b     bf    -        19845  150    0 
+Rumford   973101940  5  4 c   f     -     -        19695   10    0 
+Rumford   973101961  5  3 c   b     bc    k        19685  530 1080 As Qd
+Rumford   973101985  5  2 Bf  -     -     -        20235   10    0 
+Rumford   973101991  5  1 Br  b     bf    -        20225  400    0 
+Rumford   973102011  5  5 cc  k     k     f        19825   50    0 
+Rumford   973102035  6  5 f   -     -     -        19775    0    0 
+Rumford   973102059  6  4 c   kf    -     -        19775   10    0 
+Rumford   973102112  6  3 f   -     -     -        19765    0    0 
+Rumford   973102141  6  2 Bk  k     b     -        19765   40   60 
+Rumford   973102156  6  1 Br  -     -     -        19785   30   40 
+Rumford   973102161  6  6 rc  c     f     -        19795  485    0 
+Rumford   973102183  6  5 c   k     f     -        19310   10    0 
+Rumford   973102203  6  4 rc  f     -     -        19300  110    0 
+Rumford   973102217  6  3 c   c     b     k        19190  150  315 As Ac
+Rumford   973102236  6  2 B   -     -     -        19355   10   15 
+Rumford   973102245  6  1 Bc  kc    k     k        19360   50    0 3d 2c
+Rumford   973102281  8  8 f   -     -     -        19310    0    0 
+Rumford   973102309  8  7 r   k     k     k        19310   55    0 Ad Tc
+Rumford   973102334  8  6 f   -     -     -        19255    0    0 
+Rumford   973102374  8  5 c   b     k     b        19255  260  600 Qh Kc
+Rumford   973102420  7  4 c   k     k     k        19595   10    0 5s 6h
+Rumford   973102447  7  3 f   -     -     -        19585    0    0 
+Rumford   973102471  7  2 Bf  -     -     -        19585   10    0 
+Rumford   973102494  7  1 Bf  -     -     -        19575    5    0 
+Rumford   973102510  7  7 f   -     -     -        19570    0    0 
+Rumford   973102541  7  6 f   -     -     -        19570    0    0 
+Rumford   973102562  7  5 rc  k     b     k        19570  610 1380 4h 5d
+Rumford   973102589  6  3 f   -     -     -        20340    0    0 
+Rumford   973102612  6  2 Bf  -     -     -        20340   10    0 
+Rumford   973102640  6  1 Bf  -     -     -        20330    5    0 
+Rumford   973102654  6  6 r   b     -     -        20325  140  210 
+Rumford   973102667  6  5 c   f     -     -        20395   10    0 
+Rumford   973102696  6  4 r   -     -     -        20385   35   50 
+Rumford   973102707  6  3 c   k     kf    -        20400   10    0 
+Rumford   973102743  6  2 Br  k     k     b        20390  160  240 
+Rumford   973102788  6  1 Br  bf    -     -        20470  250    0 
+Rumford   973102816  6  6 r   bc    f     -        20220  605    0 
+Rumford   973102845  6  5 cf  -     -     -        19615   10    0 
+Rumford   973102878  6  4 c   f     -     -        19605   10    0 
+Rumford   973102916  6  3 r   k     k     k        19595   35    0 6h 8d
+Rumford   973102949  6  2 Bk  b     b     bc       19560 1010 1013 8h Tc
+Rumford   973102977  6  1 Bc  k     b     b        19563  130  180 
+Rumford   973103001  6  6 c   c     k     f        19613   60    0 
+Rumford   973103047  6  5 r   b     k     k        19553  185  420 Kd Qd
+Rumford   973103076  6  4 f   -     -     -        19788    0    0 
+Rumford   973103096  6  3 c   b     k     b        19788  150  315 As Qd
+Rumford   973103122  6  2 Bf  -     -     -        19953   10    0 
+Rumford   973103138  6  1 Bc  k     k     kf       19943   55    0 
+Rumford   973103177  6  6 c   b     b     -        19888  150  210 
+Rumford   973103208  6  5 f   -     -     -        19948    0    0 
+Rumford   973103238  6  4 f   -     -     -        19948    0    0 
+Rumford   973103262  6  3 c   b     -     -        19948   40   60 
+Rumford   973103281  6  2 Bc  kc    k     kf       19968  805    0 
+Rumford   973103336  6  1 Bf  -     -     -        19163    5    0 
+Rumford   973103370  5  5 r   b     k     b        19158  625  870 
+Rumford   973103407  6  5 c   f     -     -        19403   10    0 
+Rumford   973103432  6  4 f   -     -     -        19393    0    0 
+Rumford   973103469  7  3 c   bf    -     -        19393   50    0 
+Rumford   973103518  7  2 Bk  bc    kf    -        19343  150    0 
+Rumford   973103558  7  1 Bf  -     -     -        19193    5    0 
+Rumford   973103582  7  7 c   b     b     b        19188  690  960 
+Rumford   973103632  7  6 f   -     -     -        19458    0    0 
+Rumford   973103655  7  5 cc  k     c     k        19458  800 1815 Td 9s
+Rumford   973103697  7  4 c   f     -     -        20473   10    0 
+Rumford   973103718  7  3 c   k     k     k        20463   10    0 Jd Th
+Rumford   973103767  7  2 Bk  f     -     -        20453   10    0 
+Rumford   973103786  7  1 Br  b     -     -        20443  210  320 
+Rumford   973103807  7  7 cc  f     -     -        20553   50    0 
+Rumford   973103831  7  6 f   -     -     -        20503    0    0 
+Rumford   973103904  6  4 f   -     -     -        20503    0    0 
+Rumford   973103929  6  3 r   b     b     k        20503  585 1320 Ah Kd
+Rumford   973103957  6  2 Bk  kf    -     -        21238   10    0 
+Rumford   973104000  6  1 Bc  b     kc    kf       21228  310    0 
+Rumford   973104037  6  6 f   -     -     -        20918    0    0 
+Rumford   973104046  5  4 c   k     k     k        20918   35    0 Td 9d
+Rumford   973104065  4  2 r   b     -     -        20883   90  120 
+Rumford   973104080  4  2 B   -     -     -        20913   10   15 
+Rumford   973104087  4  1 Br  -     -     -        20918   30   40 
+Rumford   973104097  4  4 f   -     -     -        20928    0    0 
+Rumford   973104114  4  3 r   b     -     -        20928  110  150 
+Rumford   973104123  4  2 Bk  b     b     -        20968   90  120 
+Rumford   973104140  4  1 Bc  kr    -     -        20998  165  287 
+Rumford   973104156  4  4 r   -     -     -        21120   35   50 
+Rumford   973104162  4  3 f   -     -     -        21135    0    0 
+Rumford   973104173  3  2 Br  rf    -     -        21135  270    0 
+Rumford   973104185  3  1 Bc  k     k     k        20865   10   10 7d 2d
+Rumford   973104193  3  3 r   -     -     -        20865   35   50 
+Rumford   973104200  3  2 Br  c     c     k        20880  270  270 Jh Th
+Rumford   973104216  3  1 Bc  b     k     kf       20880  140    0 
+Rumford   973104233  3  3 r   b     b     b        20740 1075 1080 Ks 8s
+Rumford   973104253  3  2 Bk  b     b     -        20745  110  150 
+Rumford   973104274  3  1 Bf  -     -     -        20785    5    0 
+Rumford   973104277  3  3 r   b     -     -        20780  140  210 
+Rumford   973104303  3  2 Bc  c     c     c        20850 1600 3240 9c Qc
+Rumford   973104332  3  1 Br  b     k     b        22490  400  540 
+Rumford   973104356  3  3 f   -     -     -        22630    0    0 
+Rumford   973104361  3  2 Bk  b     -     -        22630   40   60 
+Rumford   973104376  3  1 Br  kf    -     -        22650  115    0 
+Rumford   973104406  3  3 c   b     k     c        22535  130    0 7c 6d
+Rumford   973104439  3  2 Br  b     -     -        22405  110  150 
+Rumford   973104450  3  1 Bc  k     k     k        22445   10    0 8c 9s
+Rumford   973104465  3  3 f   -     -     -        22435    0    0 
+Rumford   973104480  3  2 B   -     -     -        22435   10   15 
+Rumford   973104488  3  1 Bc  b     k     kr       22440  270  360 
+Rumford   973104513  3  3 f   -     -     -        22530    0    0 
+Rumford   973104516  3  2 Bk  f     -     -        22530   10    0 
+Rumford   973104523  3  1 Bf  -     -     -        22520    5    0 
+Rumford   973104526  3  3 f   -     -     -        22515    0    0 
+Rumford   973104528  3  2 B   -     -     -        22515   10   15 
+Rumford   973104532  3  1 Bc  k     b     -        22520   30   40 
+Rumford   973104542  3  3 r   b     b     -        22530  455  630 
+Rumford   973104560  3  2 B   -     -     -        22705   10   15 
+Rumford   973104565  3  1 Bf  -     -     -        22710    5    0 
+Rumford   973104568  3  3 r   k     b     -        22705  110  150 
+Rumford   973104580  3  2 Brrc k     b     -        22745 3640 4860 
+Rumford   973104598  3  1 Bc  b     -     -        23965   30   40 
+Rumford   973104604  3  3 f   -     -     -        23975    0    0 
+Rumford   973104606  3  2 B   -     -     -        23975   10   15 
+Rumford   973104617  3  1 Br  -     -     -        23980   30   40 
+Rumford   973104620  3  3 rc  f     -     -        23990  115    0 
+Rumford   973104628  3  2 Bf  -     -     -        23875   10    0 
+Rumford   973104632  3  1 Bc  k     k     k        23865   10   10 4h 3h
+Rumford   973104649  3  3 r   k     rf    -        23865  335    0 
+Rumford   973104666  3  2 Bc  c     c     f        23530  270    0 
+Rumford   973104682  3  1 Br  b     b     -        23260 1075 1440 
+Rumford   973104694  3  3 c   b     b     -        23625  130  180 
+Rumford   973104716  3  2 Bc  c     c     k        23675  270    0 Ad Tc
+Rumford   973104727  3  1 BQ  -     -     -        23405    5    0 
+Rumford   973123266  3  3 f   -     -     -        23300    0    0 
+Rumford   973123283  4  2 Bk  kc    c     f        23250  160    0 
+Rumford   973123322  4  1 Br  -     -     -        23090   30   40 
+Rumford   973123331  4  4 f   -     -     -        23100    0    0 
+Rumford   973123336  4  3 c   k     b     -        23100   35   50 
+Rumford   973123355  4  2 Bk  b     -     -        23115   30   40 
+Rumford   973123369  4  1 Bf  -     -     -        23125    5    0 
+Rumford   973123373  4  4 f   -     -     -        23120    0    0 
+Rumford   973123395  4  3 f   -     -     -        23120    0    0 
+Rumford   973123415  4  2 Bc  kc    kc    b        23120 1010 1350 
+Rumford   973123434  4  1 Bf  -     -     -        23460    5    0 
+Rumford   973123451  4  4 r   b     -     -        23455  115  160 
+Rumford   973123465  4  3 f   -     -     -        23500    0    0 
+Rumford   973123468  4  2 Bc  bc    k     b        23500 1010 1350 
+Rumford   973123487  4  1 Bf  -     -     -        23840    5    0 
+Rumford   973123502  4  4 f   -     -     -        23835    0    0 
+Rumford   973123521  4  3 f   -     -     -        23835    0    0 
+Rumford   973123528  4  2 Bc  c     f     -        23835   90    0 
+Rumford   973123550  3  1 Br  -     -     -        23745   30   40 
+Rumford   973123557  3  3 c   b     -     -        23755   35   50 
+Rumford   973123577  3  2 B   -     -     -        23770   10   15 
+Rumford   973123580  3  1 Br  -     -     -        23775   30   40 
+Rumford   973123585  3  3 rc  c     f     -        23785  335    0 
+Rumford   973123606  3  2 Br  b     -     -        23450   90  120 
+Rumford   973123617  3  1 Bc  b     -     -        23480   30   40 
+Rumford   973123624  3  3 f   -     -     -        23490    0    0 
+Rumford   973123628  3  2 B   -     -     -        23490   10   15 
+Rumford   973123632  3  1 Br  -     -     -        23495   30   40 
+Rumford   973123639  3  3 c   bc    b     -        23505  335  450 
+Rumford   973123661  3  2 Bk  f     -     -        23620   10    0 
+Rumford   973123678  3  1 Bc  b     -     -        23610   30   40 
+Rumford   973123688  3  3 f   -     -     -        23620    0    0 
+Rumford   973123692  3  2 B   -     -     -        23620   10   15 
+Rumford   973123704  3  1 Br  -     -     -        23625   30   40 
+Rumford   973123712  3  3 f   -     -     -        23635    0    0 
+Rumford   973123716  3  2 Bc  b     -     -        23635   90  120 
+Rumford   973123734  3  1 Bc  k     b     -        23665   30   40 
+Rumford   973123743  3  3 r   b     -     -        23675  110  150 
+Rumford   973123766  3  2 B   -     -     -        23715   10   15 
+Rumford   973123769  3  1 Bf  -     -     -        23720    5    0 
+Rumford   973123771  3  3 r   -     -     -        23715   35   50 
+Rumford   973123777  3  2 B   -     -     -        23730   10   15 
+Rumford   973123780  3  1 Bf  -     -     -        23735    5    0 
+Rumford   973123784  3  3 cc  c     b     k        23730  335  675 As Qs
+Rumford   973123813  3  2 Bk  k     k     k        24070   10   10 Qs 7d
+Rumford   973123832  3  1 Br  b     -     -        24070  130  180 
+Rumford   973123853  3  3 r   b     -     -        24120  110  150 
+Rumford   973123869  3  2 Bk  b     -     -        24160   30   40 
+Rumford   973123889  3  1 Bf  -     -     -        24170    5    0 
+Rumford   973123908  4  3 r   kf    -     -        24165   35    0 
+Rumford   973123924  5  2 Bk  kf    -     -        24130   10    0 
+Rumford   973123943  5  1 Bf  -     -     -        24120    5    0 
+Rumford   973123965  5  5 r   -     -     -        24115   35   50 
+Rumford   973123977  5  4 f   -     -     -        24130    0    0 
+Rumford   973124002  5  3 f   -     -     -        24130    0    0 
+Rumford   973124012  5  2 B   -     -     -        24130   10   15 
+Rumford   973124027  5  1 Bc  kf    -     -        24135   10    0 
+Rumford   973124041  5  5 r   -     -     -        24125   35   50 
+Rumford   973124050  5  4 c   b     c     b        24140  465  630 
+Rumford   973124077  5  3 cc  c     f     -        24305  130    0 
+Rumford   973124112  5  2 Bk  b     -     -        24175   30   40 
+Rumford   973124141  5  1 Bf  -     -     -        24185    5    0 
+Rumford   973124179  5  5 f   -     -     -        24180    0    0 
+Rumford   973124191  5  4 f   -     -     -        24180    0    0 
+Rumford   973124208  5  3 c   b     b     kc       24180  465    0 Ac Tc
+Rumford   973124253  5  2 Bk  kf    -     -        23715   10    0 
+Rumford   973124285  5  1 Bf  -     -     -        23705    5    0 
+Rumford   973124323  5  5 f   -     -     -        23700    0    0 
+Rumford   973124349  5  4 f   -     -     -        23700    0    0 
+Rumford   973124359  5  3 f   -     -     -        23700    0    0 
+Rumford   973124391  5  2 Bk  kc    k     kf       23700   45    0 
+Rumford   973124432  5  1 Bc  kf    -     -        23655   10    0 
+Rumford   973124480  5  5 r   b     -     -        23645  285  460 
+Rumford   973124522  5  4 c   k     b     -        23820   35   50 
+Rumford   973124543  5  3 cc  f     -     -        23835   35    0 
+Rumford   973124561  5  2 Bk  f     -     -        23800   10    0 
+Rumford   973124599  5  1 Br  -     -     -        23790   30   40 
+Rumford   973124605  5  5 c   c     c     k        23800  375  765 Ah 4d
+Rumford   973124644  5  4 f   -     -     -        24190    0    0 
+Rumford   973124656  5  3 f   -     -     -        24190    0    0 
+Rumford   973124671  5  2 Bk  b     k     b        24190  130    0 6c 7s
+Rumford   973124697  5  1 Br  b     -     -        24060  130  180 
+Rumford   973124717  5  5 f   -     -     -        24110    0    0 
+Rumford   973124729  5  4 c   c     c     f        24110  375    0 
+Rumford   973124767  6  4 c   b     b     -        23735  160  240 
+Rumford   973124803  5  2 Bc  kc    b     b        23815 1010    0 3d Ad
+Rumford   973124860  5  1 Bc  b     b     -        22805  130  180 
+Rumford   973124897  5  5 rc  k     k     f        22855  150    0 
+Rumford   973124935  5  4 f   -     -     -        22705    0    0 
+Rumford   973124945  5  3 c   bc    c     c        22705 1010    0 Kd Tc
+Rumford   973124977  5  2 B   -     -     -        21695   10   15 
+Rumford   973124984  5  1 Br  -     -     -        21700   30   40 
+Rumford   973124994  5  5 r   -     -     -        21710   35   50 
+Rumford   973125002  5  4 f   -     -     -        21725    0    0 
+Rumford   973125009  5  3 c   b     -     -        21725   40   60 
+Rumford   973125024  5  2 Bk  b     b     b        21745  335    0 Ac 2d
+Rumford   973125047  5  1 Bc  b     -     -        21410   30   40 
+Rumford   973125061  5  5 c   k     k     f        21420   35    0 
+Rumford   973125086  5  4 f   -     -     -        21385    0    0 
+Rumford   973125112  5  3 f   -     -     -        21385    0    0 
+Rumford   973125139  5  2 Bk  b     bc    k        21385  465    0 Tc 6d
+Rumford   973125168  5  1 Bc  bc    kc    k        20920 1400 2835 Td Jh
+Rumford   973125212  5  5 f   -     -     -        22355    0    0 
+Rumford   973125241  5  4 r   b     k     b        22355  335  675 Qh 6h
+Rumford   973125271  5  3 f   -     -     -        22695    0    0 
+Rumford   973125302  5  2 Brc k     k     f        22695   90    0 
+Rumford   973125343  5  1 Bc  k     k     k        22605   10   10 9s 8s
+Rumford   973125361  5  5 r   -     -     -        22605   35   50 
+Rumford   973125372  5  4 f   -     -     -        22620    0    0 
+Rumford   973125401  5  3 f   -     -     -        22620    0    0 
+Rumford   973125408  6  3 f   -     -     -        22620    0    0 
+Rumford   973125425  6  2 B   -     -     -        22620   10   15 
+Rumford   973125437  6  1 Bc  kc    kc    kf       22625  495    0 
+Rumford   973125481  6  6 c   k     f     -        22130   10    0 
+Rumford   973125512  6  5 r   b     -     -        22120  150  210 
+Rumford   973125530  6  4 c   k     b     b        22180  170  240 
+Rumford   973125581  7  4 f   -     -     -        22250    0    0 
+Rumford   973125605  7  3 f   -     -     -        22250    0    0 
+Rumford   973125649  7  2 Bc  kf    -     -        22250   35    0 
+Rumford   973125671  7  1 Bf  -     -     -        22215    5    0 
+Rumford   973125707  7  7 c   c     k     c        22210  250  540 Ah 5c
+Rumford   973125761  7  6 c   f     -     -        22500   10    0 
+Rumford   973125800  7  5 cf  -     -     -        22490   35    0 
+Rumford   973125830  7  4 r   -     -     -        22455   35   50 
+Rumford   973125839  7  3 f   -     -     -        22470    0    0 
+Rumford   973125876  6  2 Bf  -     -     -        22470   10    0 
+Rumford   973125882  6  1 Bc  b     k     b        22460  210  300 
+Rumford   973125915  6  6 c   k     f     -        22550   35    0 
+Rumford   973125933  6  5 f   -     -     -        22515    0    0 
+Rumford   973125958  6  4 r   bc    f     -        22515  455    0 
+Rumford   973125992  6  3 c   k     b     -        22060   45   70 
+Rumford   973126014  6  2 Bk  b     -     -        22085   45   70 
+Rumford   973126027  6  1 Bf  -     -     -        22110    5    0 
+Rumford   973126040  6  6 r   c     b     -        22105  605  840 
+Rumford   973126067  6  5 r   -     -     -        22340   35   50 
+Rumford   973126080  6  4 c   b     -     -        22355   35   50 
+Rumford   973126093  6  3 f   -     -     -        22370    0    0 
+Rumford   973126116  6  2 Bk  b     -     -        22370   40   60 
+Rumford   973126132  6  1 Bf  -     -     -        22390    5    0 
+Rumford   973126141  6  6 c   c     f     -        22385  240    0 
+Rumford   973126179  6  5 f   -     -     -        22145    0    0 
+Rumford   973126187  6  4 c   b     -     -        22145   45   70 
+Rumford   973126214  5  3 c   b     -     -        22170   40   60 
+Rumford   973126233  5  2 Bk  b     bc    kf       22190  335    0 
+Rumford   973126265  5  1 Bf  -     -     -        21855    5    0 
+Rumford   973126281  5  5 f   -     -     -        21850    0    0 
+Rumford   973126310  5  4 f   -     -     -        21850    0    0 
+Rumford   973126348  5  3 r   b     -     -        21850  110  150 
+Rumford   973126359  5  2 Bc  f     -     -        21890   30    0 
+Rumford   973126369  5  1 Bc  kc    kc    k        21860  355  720 Td 6d
+Rumford   973126393  6  5 c   c     c     f        22225  150    0 
+Rumford   973126427  6  4 cc  kf    -     -        22075   45    0 
+Rumford   973126460  5  2 r   k     k     b        22030   90  120 
+Rumford   973126482  5  2 Bc  b     k     b        22060  335    0 2d Ah
+Rumford   973126510  5  1 Bf  -     -     -        21725    5    0 
+Rumford   973126528  5  5 c   c     b     k        21720  210  480 Jc Ts
+Rumford   973126557  5  4 r   k     f     -        21990   45    0 
+Rumford   973126577  5  3 c   c     c     k        21945  130    0 Ts Kc
+Rumford   973126593  5  2 Bf  -     -     -        21815   10    0 
+Rumford   973126601  5  1 Bf  -     -     -        21805    5    0 
+Rumford   973126628  5  5 r   b     -     -        21800  115  160 
+Rumford   973126654  4  3 c   b     -     -        21845   35   50 
+Rumford   973126664  4  2 B   -     -     -        21860   10   15 
+Rumford   973126673  4  1 Bc  kf    -     -        21865   35    0 
+Rumford   973126708  3  3 c   b     b     -        21830  130  180 
+Rumford   973126735  4  3 r   b     -     -        21880  110  150 
+Rumford   973126749  4  2 B   -     -     -        21920   10   15 
+Rumford   973126757  4  1 Br  -     -     -        21925   30   40 
+Rumford   973126772  4  4 f   -     -     -        21935    0    0 
+Rumford   973126804  4  3 r   b     b     k        21935  335  675 9s 9h
+Rumford   973126822  4  2 Bk  b     -     -        22275   35   50 
+Rumford   973126831  4  1 Bc  b     -     -        22290   30   40 
+Rumford   973126840  4  4 c   b     -     -        22300   40   60 
+Rumford   973126851  4  3 f   -     -     -        22320    0    0 
+Rumford   973126857  4  2 Bc  k     k     k        22320   35    0 6s 7s
+Rumford   973126878  4  1 Br  -     -     -        22285   30   40 
+Rumford   973126889  4  4 r   b     -     -        22295  115  160 
+Rumford   973126899  4  3 c   b     -     -        22340   35   50 
+Rumford   973126908  4  2 Bc  kf    -     -        22355   35    0 
+Rumford   973126915  4  1 Bf  -     -     -        22320    5    0 
+Rumford   973126917  4  4 f   -     -     -        22315    0    0 
+Rumford   973126921  4  3 r   b     b     k        22315  475  990 Kh Ts
+Rumford   973126940  4  2 Bc  kc    kf    -        22830  110    0 
+Rumford   973126956  5  1 Br  b     k     b        22720  400  810 Kd 3d
+Rumford   973126972  5  5 r   r     b     f        23130 1350    0 
+Rumford   973127073  5  4 r   -     -     -        21780   35   50 
+Rumford   973127088  5  3 c   c     b     -        21795  110  150 
+Rumford   973127113  5  2 Bk  k     f     -        21835   10    0 
+Rumford   973127132  5  1 Br  -     -     -        21825   30   40 
+Rumford   973127140  5  5 r   b     b     -        21835  465  630 
+Rumford   973127161  5  4 f   -     -     -        22000    0    0 
+Rumford   973127180  5  3 f   -     -     -        22000    0    0 
+Rumford   973127188  5  2 Bc  kc    k     k        22000  110  225 3h Ks
+Rumford   973127212  5  1 Bc  b     -     -        22115   50   80 
+Rumford   973127243  5  5 f   -     -     -        22145    0    0 
+Rumford   973127270  5  4 r   -     -     -        22145   35   50 
+Rumford   973127285  5  3 f   -     -     -        22160    0    0 
+Rumford   973127305  5  2 Bc  rf    -     -        22160  150    0 
+Rumford   973127326  5  1 Bf  -     -     -        22010    5    0 
+Rumford   973127336  5  5 r   b     -     -        22005  150  210 
+Rumford   973127351  5  4 f   -     -     -        22065    0    0 
+Rumford   973127359  5  3 cc  c     f     -        22065  185    0 
+Rumford   973127381  5  2 Bf  -     -     -        21880   10    0 
+Rumford   973127396  5  1 Bf  -     Q     -        21870    5    0 
+Rumford   973131693 10  9 c   k     k     c        21865   75    0 Ac 9d
+Rumford   973131779  7  6 r   b     -     -        21790  110  150 
+Rumford   973131799  7  5 c   k     k     k        21830   10    0 6c 7c
+Rumford   973131838  7  4 r   b     -     -        21820  150  230 
+Rumford   973131865  7  3 c   b     k     bf       21900  210    0 
+Rumford   973131908  7  2 Bk  b     f     -        21690   60    0 
+Rumford   973131945  7  1 Bf  -     -     -        21630    5    0 
+Rumford   973131974  7  7 f   -     -     -        21625    0    0 
+Rumford   973131991  7  6 f   -     -     -        21625    0    0 
+Rumford   973132012  7  5 f   -     -     -        21625    0    0 
+Rumford   973132024  7  4 r   b     k     f        21625  150    0 
+Rumford   973132056  7  3 cf  -     -     -        21475   10    0 
+Rumford   973132087  6  1 Bk  kr    b     b        21465 1210 1620 
+Rumford   973132138  6  1 Br  b     -     -        21875  210  320 
+Rumford   973132152  6  6 c   c     c     c        21985  465  945 2s 8d
+Rumford   973132201  6  5 r   b     -     -        22465  115  160 
+Rumford   973132222  6  4 f   -     -     -        22510    0    0 
+Rumford   973132265  6  3 r   b     b     k        22510  375    0 Qs 7h
+Rumford   973132297  6  2 Bk  k     kf    -        22135   10    0 
+Rumford   973132319  6  1 Bc  kr    b     -        22125 1075 1440 
+Rumford   973132342  6  6 c   k     f     -        22490   10    0 
+Rumford   973132366  6  5 f   -     -     -        22480    0    0 
+Rumford   973132391  6  4 r   k     b     kf       22480  120    0 
+Rumford   973132421  6  3 f   -     -     -        22360    0    0 
+Rumford   973132467  6  2 Bk  b     kc    b        22360  400  540 
+Rumford   973132496  6  1 Br  b     b     k        22500  850 1920 4h Th
+Rumford   973132532  6  6 r   k     f     -        23570   55    0 
+Rumford   973132563  6  5 f   -     -     -        23515    0    0 
+Rumford   973132590  6  4 r   b     k     kf       23515  195    0 
+Rumford   973132618  6  3 c   b     b     -        23320  110  150 
+Rumford   973132646  6  2 Bc  k     k     kf       23360  120    0 
+Rumford   973132674  6  1 Bc  kr    k     k        23240  770    0 Kd 3d
+Rumford   973132706  6  6 c   k     c     f        22470   45    0 
+Rumford   973132740  7  6 f   -     Q     -        22425    0    0 
+Rumford   973132961  6  3 rc  k     f     -        22425  120    0 
+Rumford   973132988  6  2 Bk  b     -     -        22305   40   60 
+Rumford   973133004  6  1 Bf  -     -     -        22325    5    0 
+Rumford   973133024  6  6 f   -     -     -        22320    0    0 
+Rumford   973133040  7  6 f   -     -     -        22320    0    0 
+Rumford   973133050  7  5 cc  c     b     -        22320  520  720 
+Rumford   973133076  7  4 rc  k     f     -        22520  120    0 
+Rumford   973133092  7  3 f   -     -     -        22400    0    0 
+Rumford   973133115  7  2 Bc  k     b     -        22400  110  150 
+Rumford   973133132  7  1 Bf  -     -     -        22440    5    0 
+Rumford   973133149  7  7 c   b     -     -        22435  120  170 
+Rumford   973133163  7  6 cc  b     k     f        22485  605    0 
+Rumford   973133207  6  4 cc  k     f     -        21880   50    0 
+Rumford   973133224  6  3 f   -     -     -        21830    0    0 
+Rumford   973133235  6  2 Bf  -     -     -        21830   10    0 
+Rumford   973133258  6  1 Bf  -     -     -        21820    5    0 
+Rumford   973133271  6  6 f   -     -     -        21815    0    0 
+Rumford   973133290  6  5 rc  c     k     b        21815 1970    0 5c 2c
+Rumford   973133308  6  4 cc  k     f     -        19845   40    0 
+Rumford   973133332  6  3 c   b     -     -        19805   35   50 
+Rumford   973133342  6  2 Br  b     kc    k        19820  335  675 9d 9c
+Rumford   973133360  6  1 Bf  -     -     -        20160    5    0 
+Rumford   973133370  6  6 r   k     f     -        20155   55    0 
+Rumford   973133390  7  6 r   b     -     -        20100  110  150 
+Rumford   973133399  7  5 c   r     k     b        20140  465  630 
+Rumford   973133421  7  4 f   -     -     -        20305    0    0 
+Rumford   973133444  7  3 cc  k     k     k        20305   45    0 Qd 8s
+Rumford   973133475  8  2 Bc  k     kc    k        20260  110    0 2h Ac
+Rumford   973133498  8  1 Bf  -     -     -        20150    5    0 
+Rumford   973133521  8  8 c   k     c     b        20145  775 1665 8c Th
+Rumford   973133553  8  7 f   -     -     -        21035    0    0 
+Rumford   973133575  8  6 rc  b     -     -        21035  355  480 
+Rumford   973133594  8  5 cc  b     k     k        21160  285    0 7s Ts
+Rumford   973133638  8  4 rc  kf    -     -        20875  120    0 
+Rumford   973133674  8  3 c   k     b     -        20755   40   60 
+Rumford   973133711  8  2 Bf  -     -     -        20775   10    0 
+Rumford   973133737  8  1 Bc  b     b     b        20765  520  720 
+Rumford   973133773  8  8 f   -     -     -        20965    0    0 
+Rumford   973133810  8  7 f   -     -     -        20965    0    0 
+Rumford   973133847  8  6 r   b     -     -        20965  150  210 
+Rumford   973133865  8  5 f   -     -     -        21025    0    0 
+Rumford   973133887  8  4 f   -     -     -        21025    0    0 
+Rumford   973133923  8  3 f   -     -     -        21025    0    0 
+Rumford   973133963  8  2 Bk  k     bf    -        21025   40    0 
+Rumford   973133993  7  1 Bf  -     -     -        20985    5    0 
+Rumford   973134015  7  7 f   -     -     -        20980    0    0 
+Rumford   973134029  7  6 cc  k     Q     -        20980   60    0 
+Rumford   973178312  2  2 Bk  b     k     k        20920   30    0 Td Kd
+Rumford   973178357  2  1 Br  b     kf    -        20890   90    0 
+Rumford   973178387  2  2 Bk  k     k     k        20800   10    0 9c 4c
+Rumford   973178396  2  1 Br  b     -     -        20790   90  120 
+Rumford   973178405  3  2 Bk  b     -     -        20820   30   40 
+Rumford   973178416  3  1 Bf  -     -     -        20830    5    0 
+Rumford   973178430  3  3 r   b     -     -        20825  110  150 
+Rumford   973178441  3  2 Br  b     k     k        20865  160  360 Kd Kh
+Rumford   973178462  3  1 Bc  b     -     -        21065  140  210 
+Rumford   973178477  3  3 f   -     -     -        21135    0    0 
+Rumford   973178481  3  2 Bc  k     b     -        21135  140  210 
+Rumford   973178498  3  1 Bc  b     b     b        21205  270  360 
+Rumford   973178518  3  3 f   -     -     -        21295    0    0 
+Rumford   973178524  3  2 Bk  k     f     -        21295   10    0 
+Rumford   973178539  3  1 Br  k     kf    -        21285   40    0 
+Rumford   973178560  3  3 f   -     -     -        21245    0    0 
+Rumford   973178576  3  2 Bc  k     b     b        21245  270  360 
+Rumford   973178596  3  1 Bc  bc    k     k        21335  355    0 7d 8s
+Rumford   973178616  3  3 r   k     k     f        20980   35    0 
+Rumford   973178646  3  2 Bk  k     k     f        20945   10    0 
+Rumford   973178664  3  1 Bc  kc    k     kf       20935  140    0 
+Rumford   973178685  3  3 c   f     -     -        20795   10    0 
+Rumford   973178709  3  2 Bf  -     -     -        20785   10    0 
+Rumford   973178718  3  1 Bf  -     -     -        20775    5    0 
+Rumford   973178721  3  3 f   -     -     -        20770    0    0 
+Rumford   973178725  3  2 Bc  k     b     b        20770  520  720 
+Rumford   973178748  3  1 Bf  -     -     -        20970    5    0 
+Rumford   973178754  3  3 rc  f     -     -        20965  115    0 
+Rumford   973178765  3  2 Bc  kc    k     b        20850  455  945 9d 9s
+Rumford   973178793  3  1 Bf  -     -     -        21340    5    0 
+Rumford   973178817  3  3 r   b     b     b        21335 1010 2025 Qh 7c
+Rumford   973178834  3  2 BQ  -     -     -        22350   10    0 
+Rumford   973302206  2  2 Bk  k     k     k        24010   10    0 7d 3s
+Rumford   973302277  2  1 Br  b     -     -        24000   90  120 
+Rumford   973302287  2  2 Bk  f     -     -        24030   10    0 
+Rumford   973302294  2  1 Bcc k     b     b        24020  270  540 Js Qc
+Rumford   973302310  2  2 Br  b     b     -        24290  270  360 
+Rumford   973302333  2  1 Bf  -     -     -        24380    5    0 
+Rumford   973302336  2  2 Bk  k     -     -        24375   10   20 
+Rumford   973373393  3  2 BKQ -     -     -        24385   10    0 
+Rumford   973382691  2  2 BQ  -     -     -        26332   10    0 
+Rumford   973385567 10  1 Bf  -     -     -        26322    5    0 
+Rumford   973385613 10 10 c   k     k     k        26317   10    0 8d 9s
+Rumford   973385687 10  9 f   -     -     -        26307    0    0 
+Rumford   973385722 10  8 cc  k     f     -        26307   70    0 
+Rumford   973385797 10  7 f   -     -     -        26237    0    0 
+Rumford   973385837 10  6 f   -     -     -        26237    0    0 
+Rumford   973385877 10  5 cc  kc    kf    -        26237  190    0 
+Rumford   973385927 10  4 f   -     -     -        26047    0    0 
+Rumford   973385940  9  3 f   -     -     -        26047    0    0 
+Rumford   973385994  9  2 Bk  f     -     -        26047   10    0 
+Rumford   973386045 10  1 Bf  -     -     -        26037    5    0 
+Rumford   973386066 10 10 c   b     b     -        26032  210  300 
+Rumford   973386127 10  9 f   -     -     -        26122    0    0 
+Rumford   973386179  9  8 c   c     b     k        26122  475  495 Qh Ac
+Rumford   973386212  9  7 f   -     -     -        26142    0    0 
+Rumford   973386283  8  5 cc  kc    k     k        26142  340    0 Ac 5c
+Rumford   973386351  8  4 f   -     -     -        25802    0    0 
+Rumford   973386397  7  3 f   -     -     -        25802    0    0 
+Rumford   973386410  6  2 Bk  kf    -     -        25802   10    0 
+Rumford   973386430  7  1 Bf  -     -     -        25792    5    0 
+Rumford   973386467  8  7 c   b     k     f        25787   55    0 
+Rumford   973386515  6  4 cc  b     b     k        25732  810    0 Kh Tc
+Rumford   973386555  8  4 f   -     -     -        24922    0    0 
+Rumford   973386595  7  3 f   -     -     -        24922    0    0 
+Rumford   973386633  7  2 Bc  k     b     b        24922  455  472 7s 9s
+Rumford   973386676  8  1 Bf  -     -     -        24939    5    0 
+Rumford   973386720  8  8 f   -     -     -        24934    0    0 
+Rumford   973386759  8  7 c   kc    k     kf       24934   75    0 
+Rumford   973386816  8  6 f   -     -     -        24859    0    0 
+Rumford   973386876  7  4 cc  b     -     -        24859  210  320 
+Rumford   973386902  7  4 c   kf    -     -        24969   10    0 
+Rumford   973386925  8  3 c   b     -     -        24959   35   50 
+Rumford   973386950  7  2 Bk  k     b     -        24974   55   90 
+Rumford   973386985  7  1 Bc  b     b     -        25009  130  180 
+Rumford   973387007  7  7 r   c     b     b        25059 1410 1890 
+Rumford   973387037  7  6 r   b     -     -        25539  240  370 
+Rumford   973387060  7  5 r   f     -     -        25669   55    0 
+Rumford   973387091  7  4 c   b     k     f        25614   40    0 
+Rumford   973387130  7  3 c   b     b     b        25574  595  810 
+Rumford   973387179  8  2 Br  k     b     k        25789  160    0 3c Qh
+Rumford   973387224  8  1 Bc  kf    -     -        25629   10    0 
+Rumford   973387247  8  8 f   -     -     -        25619    0    0 
+Rumford   973387281  8  7 cc  kf    -     -        25619   45    0 
+Rumford   973387313  8  6 c   f     -     -        25574   10    0 
+Rumford   973387337  8  5 f   -     -     -        25564    0    0 
+Rumford   973387360  8  4 f   -     -     -        25564    0    0 
+Rumford   973387405  8  3 cc  kc    k     k        25564  150    0 9h Jc
+Rumford   973387445  8  2 Bk  kf    -     -        25414   10    0 
+Rumford   973387470  8  1 Bc  k     kc    b        25404  170  240 
+Rumford   973387507  8  8 c   k     b     -        25474   55   90 
+Rumford   973387554  8  7 r   bc    f     -        25509  625    0 
+Rumford   973387587  7  5 c   b     -     -        24884   45   70 
+Rumford   973387616  7  4 f   -     -     -        24909    0    0 
+Rumford   973387638  7  3 c   b     kf    -        24909   70    0 
+Rumford   973387699  8  2 Bf  -     -     -        24839   10    0 
+Rumford   973387725  8  1 Bc  b     b     -        24829  210  300 
+Rumford   973387770  8  8 c   c     b     k        24919 1020 2340 6h Jh
+Rumford   973387812  8  7 c   k     c     k        26239   65    0 Qs Ts
+Rumford   973387860  8  6 f   -     -     -        26174    0    0 
+Rumford   973387886  8  5 f   -     -     -        26174    0    0 
+Rumford   973387918  8  4 c   b     -     -        26174   55   90 
+Rumford   973387941  8  3 f   -     -     -        26209    0    0 
+Rumford   973387982  8  2 Bk  k     b     b        26209  130  180 
+Rumford   973388024  7  1 Bc  b     b     b        26259  400  540 
+Rumford   973388060  6  6 f   -     -     -        26399    0    0 
+Rumford   973388079  6  5 c   c     k     k        26399   45    0 7d 6s
+Rumford   973388120  6  4 cc  k     c     k        26354  210  640 4d 5d
+Rumford   973388174  7  3 f   -     -     -        26784    0    0 
+Rumford   973388211  7  2 Bk  k     k     f        26784   10    0 
+Rumford   973388268  7  1 Bc  kc    k     k        26774  115    0 Jh 9h
+Rumford   973388294  7  7 c   r     k     k        26659  123  429 Kh 6h
+Rumford   973388344  7  6 r   b     -     -        26965  150  210 
+Rumford   973388366  7  5 f   -     -     -        27025    0    0 
+Rumford   973388397  6  4 f   -     -     -        27025    0    0 
+Rumford   973388429  6  3 f   -     -     -        27025    0    0 
+Rumford   973388436  6  2 Bk  k     b     k        27025   40    0 6s Tc
+Rumford   973388469  5  1 Br  -     -     -        26985   40   60 
+Rumford   973388491  5  5 f   -     -     -        27005    0    0 
+Rumford   973388528  5  4 r   c     b     -        27005  355  480 
+Rumford   973388545  5  3 f   -     -     -        27130    0    0 
+Rumford   973388551  5  2 Br  b     kc    k        27130  400  810 6d Ad
+Rumford   973388592  5  1 Br  b     kf    -        27540  250    0 
+Rumford   973388644  5  5 c   f     -     -        27290   10    0 
+Rumford   973388681  5  4 c   f     -     -        27280   10    0 
+Rumford   973388706  4  2 B   -     -     -        27270   10   15 
+Rumford   973388712  4  1 Bc  b     -     -        27275   40   60 
+Rumford   973388724  3  3 r   b     k     c        27295  335    0 Kd 6c
+Rumford   973388747  3  2 Bk  b     b     -        26960   90  120 
+Rumford   973388775  4  1 Br  k     b     k        26990  160  360 Jc Ts
+Rumford   973388821  5  5 c   k     f     -        27190   10    0 
+Rumford   973388844  5  4 f   -     -     -        27180    0    0 
+Rumford   973388881  5  3 r   bc    kc    kf       27180 1140    0 
+Rumford   973388904  5  2 Bk  b     bc    c        26040 1610    0 Jh 5s
+Rumford   973388943  5  1 Bf  -     -     -        24430    5    0 
+Rumford   973388975  5  5 r   k     f     -        24425   35    0 
+Rumford   973388994  5  4 r   -     -     -        24390   35   50 
+Rumford   973389004  5  3 f   -     -     -        24405    0    0 
+Rumford   973389019  5  2 Bk  kf    -     -        24405   10    0 
+Rumford   973389065  5  1 Bf  -     -     -        24395    5    0 
+Rumford   973389105  5  5 r   b     b     b        24390 1865 3780 9d 9h
+Rumford   973389139  5  4 c   b     -     -        26305   40   60 
+Rumford   973389162  5  3 fQ  -     -     -        26325    0    0 
+Rumford   973391659  3  2 B   -     -     -        26325   10   15 
+Rumford   973391664  3  1 Bf  -     -     -        26330    5    0 
+Rumford   973391668  3  3 f   -     -     -        26325    0    0 
+Rumford   973391687  3  2 Bk  b     b     k        26325  110    0 Kh 3s
+Rumford   973391709  3  1 Bf  -     -     -        26215    5    0 
+Rumford   973391714  3  3 cc  c     b     -        26210  520  720 
+Rumford   973391743  3  2 Bk  b     b     -        26410  160  240 
+Rumford   973391757  3  1 Bf  -     -     -        26490    5    0 
+Rumford   973391760  3  3 c   k     c     c        26485  110    0 8c Th
+Rumford   973391774  3  2 Bk  kf    -     -        26375   10    0 
+Rumford   973391796  3  1 Bf  -     -     -        26365    5    0 
+Rumford   973391799  3  3 cc  b     -     -        26360  160  240 
+Rumford   973391814  3  2 Bk  k     k     k        26440   10    0 4s Qh
+Rumford   973391837  3  1 Br  -     -     -        26430   30   40 
+Rumford   973391847  3  3 cc  k     c     b        26440  400  810 3c 8c
+Rumford   973391881  3  2 Bk  k     b     -        26850   30   40 
+Rumford   973391901  3  1 Br  -     -     -        26860   40   60 
+Rumford   973391910  3  3 r   b     k     c        26880  455    0 5d 5h
+Rumford   973391942  3  2 Bk  k     c     k        26425   40   90 Ad 3s
+Rumford   973391972  3  1 Br  b     -     -        26475  130  180 
+Rumford   973391988  3  3 f   -     -     -        26525    0    0 
+Rumford   973392013  3  2 B   -     -     -        26525   10   15 
+Rumford   973392018  3  1 Bf  -     -     -        26530    5    0 
+Rumford   973392033  3  3 f   -     -     -        26525    0    0 
+Rumford   973392058  3  2 B   -     -     -        26525   10   15 
+Rumford   973392064  3  1 Bf  -     -     -        26530    5    0 
+Rumford   973392073  3  3 r   b     b     -        26525  455  630 
+Rumford   973392100  3  2 B   -     -     -        26700   10   15 
+Rumford   973392104  3  1 Br  b     kc    k        26705  400    0 Js Th
+Rumford   973392134  3  3 r   -     -     -        26305   35   50 
+Rumford   973392142  3  2 B   -     -     -        26320   10   15 
+Rumford   973392147  3  1 Bc  k     b     -        26325   40   60 
+Rumford   973392168  3  3 f   -     -     -        26345    0    0 
+Rumford   973392171  3  2 Bk  b     -     -        26345   30   40 
+Rumford   973392182  3  1 Br  -     -     -        26355   30   40 
+Rumford   973392190  3  3 r   b     -     -        26365  115  160 
+Rumford   973392202  3  2 B   -     -     -        26410   10   15 
+Rumford   973392212  3  1 Bf  -     -     -        26415    5    0 
+Rumford   973392216  3  3 f   -     -     -        26410    0    0 
+Rumford   973392242  3  2 Bk  k     b     -        26410   35   50 
+Rumford   973392260  3  1 Br  -     -     -        26425   30   40 
+Rumford   973392268  3  3 r   b     k     k        26435  115  240 Jd Qh
+Rumford   973392297  3  2 Bk  kf    -     -        26560   10    0 
+Rumford   973392324  3  1 Bf  -     -     -        26550    5    0 
+Rumford   973392333  3  3 f   -     -     -        26545    0    0 
+Rumford   973392336  3  2 Bk  k     b     -        26545   35   50 
+Rumford   973392351  3  1 Bc  k     k     kf       26560   10    0 
+Rumford   973392399  3  3 c   k     k     b        26550   35   50 
+Rumford   973392417  3  2 Bk  k     k     k        26565   10    0 4d 8d
+Rumford   973392431  3  1 Bf  -     -     -        26555    5    0 
+Rumford   973392438  3  3 c   b     b     c        26550  400    0 3d 4d
+Rumford   973392475  3  2 B   -     -     -        26150   10   15 
+Rumford   973392482  3  1 Bf  -     -     -        26155    5    0 
+Rumford   973392496  3  3 f   -     -     -        26150    0    0 
+Rumford   973392507  3  2 B   -     -     -        26150   10   15 
+Rumford   973392511  3  1 Bc  k     b     -        26155   40   60 
+Rumford   973392526  3  3 f   -     -     -        26175    0    0 
+Rumford   973392715  3  2 Bk  b     -     -        26175   30   40 
+Rumford   973392731  3  1 Br  -     -     -        26185   30   40 
+Rumford   973392736  3  3 f   -     -     -        26195    0    0 
+Rumford   973392742  3  2 Br  k     k     k        26195   35   75 9c Ah
+Rumford   973392768  3  1 Bc  kf    -     -        26235   10    0 
+Rumford   973392786  3  3 r   b     -     -        26225  115  160 
+Rumford   973392797  3  2 Bk  b     -     -        26270   35   50 
+Rumford   973392811  3  1 Bf  -     -     -        26285    5    0 
+Rumford   973392845  3  3 r   -     -     -        26280   35   50 
+Rumford   973392850  3  2 Bk  k     k     k        26295   10    0 3d 6c
+Rumford   973392863  3  1 Bc  b     k     k        26285   30    0 Ts Qd
+Rumford   973392882  3  3 f   -     -     -        26255    0    0 
+Rumford   973392905  3  2 Bk  b     -     -        26255   35   50 
+Rumford   973392913  3  1 Bc  k     k     k        26270   10   20 Jd 4d
+Rumford   973392948  3  3 r   -     -     -        26280   35   50 
+Rumford   973392956  4  2 Bk  k     k     k        26295   10   25 2s Kd
+Rumford   973392977  4  1 Br  kf    -     -        26310   50    0 
+Rumford   973393007  4  4 c   f     -     -        26260   10    0 
+Rumford   973393038  4  3 c   k     k     c        26250   40    0 Qc Ts
+Rumford   973393067  4  2 B   -     -     -        26210   10   15 
+Rumford   973393078  4  1 Bf  -     -     -        26215    5    0 
+Rumford   973393104  4  4 r   -     -     -        26210   35   50 
+Rumford   973393114  4  3 r   k     bf    -        26225  120    0 
+Rumford   973393132  4  2 Bk  kf    -     -        26105   10    0 
+Rumford   973393173  4  1 Bf  -     -     -        26095    5    0 
+Rumford   973393179  4  4 f   -     -     -        26090    0    0 
+Rumford   973393189  4  3 c   b     -     -        26090   35   50 
+Rumford   973393206  4  2 Bk  b     -     -        26105   30   40 
+Rumford   973393229  4  1 Bf  -     -     -        26115    5    0 
+Rumford   973393235  4  4 r   c     c     b        26110 1010 2025 8h Qh
+Rumford   973393268  4  3 c   k     k     k        27125   10    0 8h Ad
+Rumford   973393294  5  2 Bk  kf    -     -        27115   10    0 
+Rumford   973393317  4  1 Br  b     -     -        27105  160  240 
+Rumford   973393347  4  4 c   b     -     -        27185   35   50 
+Rumford   973393368  4  3 f   -     -     -        27200    0    0 
+Rumford   973393399  4  2 Bk  k     b     b        27200  150  210 
+Rumford   973393437  4  1 Bf  -     -     -        27260    5    0 
+Rumford   973393447  4  4 f   -     -     -        27255    0    0 
+Rumford   973393474  4  3 r   b     b     -        27255  355  480 
+Rumford   973393495  4  2 Br  kc    k     k        27380  110    0 As Jc
+Rumford   973393518  4  1 Bf  -     -     -        27270    5    0 
+Rumford   973393527  4  4 c   b     b     b        27265  400    0 8d 7c
+Rumford   973393563  5  3 c   kc    kf    -        26865   45    0 
+Rumford   973393603  5  2 Bk  b     b     -        26820  110  150 
+Rumford   973393627  5  1 Bf  -     -     -        26860    5    0 
+Rumford   973393648  4  4 c   b     -     -        26855   35   50 
+Rumford   973393668  4  3 r   k     c     f        26870  115    0 
+Rumford   973393696  5  2 Bk  bf    -     -        26755   50    0 
+Rumford   973393729  5  1 Bc  kc    k     k        26705   30   60 Ac 8h
+Rumford   973393760  5  5 f   -     -     -        26735    0    0 
+Rumford   973393775  5  4 r   k     r     k        26735  485    0 3h 4s
+Rumford   973393824  5  3 Q   -     -     -        26250    0    0 
+Rumford   973466980  2  2 Bc  bc    b     -        26241  810 1080 
+Rumford   973467001  2  1 Bc  kc    k     k        26511   30    0 5c 4s
+Rumford   973467014  2  2 Bk  f     -     -        26481   10    0 
+Rumford   973467021  2  1 Bc  k     b     -        26471   30   40 
+Rumford   973467038  2  2 Bf  -     -     -        26481   10    0 
+Rumford   973467043  2  1 Bf  -     -     -        26471    5    0 
+Rumford   973467045  2  2 Bk  bc    b     -        26466  270  360 
+Rumford   973467060  2  1 Bf  -     -     -        26556    5    0 
+Rumford   973467063  2  2 B   -     -     -        26551   10   15 
+Rumford   973467065  2  1 Bf  -     -     -        26556    5    0 
+Rumford   973467067  2  2 Bk  k     k     k        26551   10    0 4s 9h
+Rumford   973467100  2  1 Br  -     -     -        26541   30   40 
+Rumford   973467109  2  2 Bk  r     b     -        26551  270  360 
+Rumford   973467123  2  1 Bf  -     -     -        26641    5    0 
+Rumford   973467125  2  2 B   -     -     -        26636   10   15 
+Rumford   973467127  2  1 Bf  -     -     -        26641    5    0 
+Rumford   973467131  2  2 B   -     -     -        26636   10   15 
+Rumford   973467133  2  1 Bf  -     -     -        26641    5    0 
+Rumford   973467136  2  2 B   -     -     -        26636   10   15 
+Rumford   973467137  2  1 Bc  k     k     kf       26641   10    0 
+Rumford   973467151  2  2 Bk  f     -     -        26631   10    0 
+Rumford   973467155  2  1 Bc  k     k     k        26621   10   20 7h Ad
+Rumford   973467172  2  2 Bk  k     k     k        26631   10    0 6c Tc
+Rumford   973467184  2  1 Br  -     -     -        26621   30   40 
+Rumford   973467190  2  2 Br  b     -     -        26631   90  120 
+Rumford   973467198  2  1 Br  b     k     k        26661   90  180 9s 9c
+Rumford   973467214  2  2 B   -     -     -        26751   10   15 
+Rumford   973467218  2  1 Bc  b     b     k        26756   90  180 7c Kc
+Rumford   973467241  2  2 Bf  -     -     -        26846   10    0 
+Rumford   973467253  2  1 Bf  -     -     -        26836    5    0 
+Rumford   973467257  2  2 Bk  k     c     f        26831   30    0 
+Rumford   973467274  2  1 Br  -     -     -        26801   30   40 
+Rumford   973467278  2  2 Bf  -     -     -        26811   10    0 
+Rumford   973467280  2  1 Br  b     k     kf       26801   90    0 
+Rumford   973467292  2  2 Bk  f     -     -        26711   10    0 
+Rumford   973467300  2  1 Br  b     k     k        26701   90  180 Ac Jh
+Rumford   973467309  2  2 B   -     -     -        26791   10   15 
+Rumford   973467313  2  1 Bc  k     k     kf       26796   10    0 
+Rumford   973467326  2  2 Br  b     -     -        26786   90  120 
+Rumford   973467335  2  1 Br  k     kf    -        26816   30    0 
+Rumford   973467348  2  2 Bc  c     c     rc       26786 3268 6536 8d 7h
+Rumford   973471406  2  2 BKQ -     -     -        30054   10    0 
+Rumford   973476162  5  4 r   b     k     k        29594  145    0 7d As
+Rumford   973476200  4  2 Bc  k     k     k        29449   35    0 Kd Ts
+Rumford   973476246  5  1 Bc  kc    k     k        29414   40    0 As Jd
+Rumford   973476296  5  5 r   b     b     -        29374  765 1080 
+Rumford   973476351  5  4 c   b     -     -        29689   45   70 
+Rumford   973476369  5  3 f   -     -     -        29714    0    0 
+Rumford   973476389  5  2 B   -     -     -        29714   10   15 
+Rumford   973476396  5  1 Bf  -     -     -        29719    5    0 
+Rumford   973476431  5  5 f   -     -     -        29714    0    0 
+Rumford   973476459  5  4 r   b     -     -        29714  120  170 
+Rumford   973476472  5  3 f   -     -     -        29764    0    0 
+Rumford   973476490  5  2 Bk  b     -     -        29764   40   60 
+Rumford   973476518  5  1 Br  bc    krc   -        29784 5450    0 Tc Ah
+Rumford   973476562  5  5 cc  b     b     -        24334  690  960 
+Rumford   973476596  5  4 c   k     k     kf       24604   10    0 
+Rumford   973476638  6  3 r   b     k     b        24594  475    0 Ts 9c
+Rumford   973476671  7  2 Bk  kc    b     -        24119  185  280 
+Rumford   973476702  7  1 Bf  -     -     -        24214    5    0 
+Rumford   973476724  7  7 r   b     k     c        24209 2080    0 Kd Ks
+Rumford   973476772  7  6 f   -     -     -        22129    0    0 
+Rumford   973476817  7  5 f   -     -     -        22129    0    0 
+Rumford   973476837  7  4 f   -     -     -        22129    0    0 
+Rumford   973476872  7  3 cf  -     -     -        22129   10    0 
+Rumford   973476908  7  2 Bc  k     b     k        22119  210    0 2c 2h
+Rumford   973476959  7  1 Bf  -     -     -        21909    5    0 
+Rumford   973476999  8  8 f   -     -     -        21904    0    0 
+Rumford   973477055  7  7 f   -     -     -        21904    0    0 
+Rumford   973477089  6  5 f   -     -     -        21904    0    0 
+Rumford   973477118  7  4 c   k     b     -        21904   35   50 
+Rumford   973477139  7  3 r   b     kc    k        21919  475  990 Ad 4c
+Rumford   973477166  7  2 Bc  b     b     b        22434 3630 4950 
+Rumford   973477210  6  1 Bc  kc    kf    -        23754  190    0 
+Rumford   973477246  6  6 f   -     -     -        23564    0    0 
+Rumford   973477256  6  5 f   -     -     -        23564    0    0 
+Rumford   973477299  6  4 f   -     -     -        23564    0    0 
+Rumford   973477349  6  3 c   f     -     -        23564   10    0 
+Rumford   973477375  6  2 Bk  f     -     -        23554   10    0 
+Rumford   973477401  6  1 Br  k     b     -        23544  170  240 
+Rumford   973477433  6  6 f   -     -     -        23614    0    0 
+Rumford   973477450  6  5 r   b     k     k        23614  515    0 Kd 3d
+Rumford   973477476  6  4 f   -     -     -        23099    0    0 
+Rumford   973477495  6  3 f   -     -     -        23099    0    0 
+Rumford   973477504  6  2 Bc  kf    -     -        23099   45    0 
+Rumford   973477532  6  1 Bc  k     k     kf       23054   10    0 
+Rumford   973477558  6  6 c   f     -     -        23044   10    0 
+Rumford   973477581  6  5 r   b     -     -        23034  195  270 
+Rumford   973477616  6  4 f   -     -     -        23109    0    0 
+Rumford   973477672  8  5 rc  f     -     -        23109  115    0 
+Rumford   973477703  8  3 Q   -     -     -        22994    0    0 
+Rumford   973562619  2  2 B   -     -     -        21919   10   15 
+Rumford   973562624  2  1 Bf  -     -     -        21924    5    0 
+Rumford   973562628  2  2 B   -     -     -        21919   10   15 
+Rumford   973562635  2  1 Br  -     -     -        21924   30   40 
+Rumford   973562641  2  2 Bf  -     -     -        21934   10    0 
+Rumford   973562647  2  1 Bf  -     -     -        21924    5    0 
+Rumford   973562649  2  2 B   -     -     -        21919   10   15 
+Rumford   973562660  2  1 Br  -     -     -        21924   30   40 
+Rumford   973562666  2  2 Bf  -     -     -        21934   10    0 
+Rumford   973562671  2  1 Br  b     b     k        21924  270    0 3s Ah
+Rumford   973562696  3  2 Bk  k     b     -        21654   30   40 
+Rumford   973562722  3  1 Bf  -     -     -        21664    5    0 
+Rumford   973562726  3  3 f   -     -     -        21659    0    0 
+Rumford   973562730  3  2 Br  b     -     -        21659   90  120 
+Rumford   973562745  3  1 Bc  k     b     k        21689   30   60 4d Jd
+Rumford   973562763  3  3 r   k     k     k        21719   35    0 6c 2c
+Rumford   973562781  3  2 B   -     -     -        21684   10   15 
+Rumford   973562790  3  1 Bf  -     -     -        21689    5    0 
+Rumford   973562796  3  3 r   k     b     -        21684  110  150 
+Rumford   973562814  3  2 Bk  b     -     -        21724   30   40 
+Rumford   973562829  3  1 Bf  -     -     -        21734    5    0 
+Rumford   973562842  3  3 r   c     k     k        21729  140    0 8h Ts
+Rumford   973562870  3  2 Bk  bc    kc    kc       21589 1010    0 Jh 8h
+Rumford   973562893  3  1 Br  b     kf    -        20579  130    0 
+Rumford   973562913  3  3 c   k     f     -        20449   10    0 
+Rumford   973562931  3  2 Bk  k     b     -        20439   35   50 
+Rumford   973562947  3  1 Bf  -     -     -        20454    5    0 
+Rumford   973562968  3  3 r   -     -     -        20449   35   50 
+Rumford   973562978  3  2 Br  b     -     -        20464   90  120 
+Rumford   973562996  3  1 Bf  -     -     -        20494    5    0 
+Rumford   973562999  4  4 r   -     -     -        20489   35   50 
+Rumford   973563007  4  3 c   b     b     -        20504  110  150 
+Rumford   973563032  4  2 Bk  k     k     k        20544   10    0 3c 7c
+Rumford   973563054  4  1 Br  b     k     kf       20534  130    0 
+Rumford   973563081  4  4 r   c     b     k        20404  465  945 Ah Qh
+Rumford   973563107  4  3 f   -     -     -        20884    0    0 
+Rumford   973563139  4  2 B   -     -     -        20884   10   15 
+Rumford   973563154  4  1 Bc  k     k     k        20889   10    0 9c Qd
+Rumford   973563174  4  4 r   f     -     -        20879   45    0 
+Rumford   973563191  4  3 f   -     -     -        20834    0    0 
+Rumford   973563203  4  2 Bk  b     -     -        20834   30   40 
+Rumford   973563215  4  1 Bc  kc    k     k        20844  115    0 As Jd
+Rumford   973563234  4  4 f   -     -     -        20729    0    0 
+Rumford   973563256  4  3 c   c     b     k        20729  130  270 2d Qd
+Rumford   973563284  4  2 Bk  k     b     -        20869   30   40 
+Rumford   973563298  5  1 Br  -     -     -        20879   30   40 
+Rumford   973563305  5  5 f   -     -     -        20889    0    0 
+Rumford   973563319  5  4 r   b     -     -        20889  150  210 
+Rumford   973563338  5  3 cr  b     -     -        20949  775 1170 
+Rumford   973563363  6  2 Bf  -     -     -        21344   10    0 
+Rumford   973563395  6  1 Bc  b     kc    kf       21334  160    0 
+Rumford   973563424  6  6 f   -     -     -        21174    0    0 
+Rumford   973563450  6  5 f   -     -     -        21174    0    0 
+Rumford   973563470  6  4 r   k     f     -        21174   45    0 
+Rumford   973563490  6  3 f   -     -     -        21129    0    0 
+Rumford   973563503  6  2 Bc  k     k     f        21129   55    0 
+Rumford   973563551  6  1 Br  b     -     -        21074  130  180 
+Rumford   973563573  6  6 c   f     -     -        21124   35    0 
+Rumford   973563582  6  5 cc  k     f     -        21089   55    0 
+Rumford   973563624  6  4 f   -     -     -        21034    0    0 
+Rumford   973563641  6  3 f   -     -     -        21034    0    0 
+Rumford   973563656  6  2 Bk  b     -     -        21034   30   40 
+Rumford   973563672  6  1 Br  -     -     -        21044   30   40 
+Rumford   973563678  6  6 r   b     -     -        21054  185  280 
+Rumford   973563698  6  5 f   -     -     -        21149    0    0 
+Rumford   973563715  6  4 c   kc    kf    -        21149   60    0 
+Rumford   973563765  6  3 r   c     k     f        21089  145    0 
+Rumford   973563797  6  2 Bk  b     b     b        20944  270  360 
+Rumford   973563828  6  1 Bc  b     -     -        21034   40   60 
+Rumford   973563843  6  6 r   b     -     -        21054  150  210 
+Rumford   973563855  6  5 r   k     b     -        21114  150  210 
+Rumford   973563872  6  4 c   b     -     -        21174   40   60 
+Rumford   973563903  6  3 f   -     -     -        21194    0    0 
+Rumford   973563939  6  2 Bf  -     -     -        21194   10    0 
+Rumford   973563975  6  1 Bf  -     -     -        21184    5    0 
+Rumford   973563998  6  6 r   k     k     b        21179  395  660 
+Rumford   973564035  6  5 c   f     -     -        21444   10    0 
+Rumford   973564055  6  4 f   -     -     -        21434    0    0 
+Rumford   973564077  6  3 f   -     -     -        21434    0    0 
+Rumford   973564116  6  2 Bk  f     -     -        21434   10    0 
+Rumford   973564147  6  1 Br  kf    -     -        21424   60    0 
+Rumford   973564188  6  6 rc  c     k     k        21364  485    0 5s 4s
+Rumford   973564222  7  6 c   b     -     -        20879   55   90 
+Rumford   973564263  7  5 f   -     -     -        20914    0    0 
+Rumford   973564291  7  4 c   kf    -     -        20914   10    0 
+Rumford   973564317  8  4 c   b     -     -        20904   75  130 
+Rumford   973564352  7  2 f   -     -     -        20959    0    0 
+Rumford   973564356  7  2 B   -     -     -        20959   10   15 
+Rumford   973564369  7  1 Bf  -     -     -        20964    5    0 
+Rumford   973564403  7  7 f   -     -     -        20959    0    0 
+Rumford   973564429  7  6 f   -     -     -        20959    0    0 
+Rumford   973564461  7  5 f   -     -     -        20959    0    0 
+Rumford   973564473  7  4 r   k     f     -        20959   45    0 
+Rumford   973564523  7  3 c   b     -     -        20914   35   50 
+Rumford   973564538  6  2 Bk  kc    kf    -        20929   35    0 
+Rumford   973564562  5  1 Br  bf    -     -        20894  170    0 
+Rumford   973564600  5  5 f   -     -     -        20724    0    0 
+Rumford   973564605  5  4 f   -     -     -        20724    0    0 
+Rumford   973564618  5  3 c   b     -     -        20724   40   60 
+Rumford   973564652  4  2 B   -     -     -        20744   10   15 
+Rumford   973564655  4  1 Bc  b     -     -        20749  225  360 
+Rumford   973564667  4  4 c   c     b     -        20884  130  180 
+Rumford   973564681  4  3 r   -     -     -        20934   35   50 
+Rumford   973564698  4  2 Bf  -     -     -        20949   10    0 
+Rumford   973564704  4  1 Br  b     -     -        20939   90  120 
+Rumford   973564712  4  4 r   bc    c     c        20969 3035 6075 Qh Qs
+Rumford   973564731  4  3 c   b     -     -        24009   35   50 
+Rumford   973564757  3  2 Br  bf    -     -        24024   90    0 
+Rumford   973564767  3  1 Bc  k     b     b        23934  355  480 
+Rumford   973564776  3  3 r   c     b     -        24059  560  840 
+Rumford   973564791  3  2 Bk  kf    -     -        24339   10    0 
+Rumford   973564798  3  1 Bc  k     b     -        24329   30   40 
+Rumford   973564808  3  3 r   -     -     -        24339   35   50 
+Rumford   973564813  3  2 Bc  f     -     -        24354   40    0 
+Rumford   973564832  3  1 Bc  b     -     -        24314   30   40 
+Rumford   973564846  3  3 r   k     k     k        24324   35    0 5h Ac
+Rumford   973564853  2  2 Bc  r     k     k        24289  270    0 4h 4s
+Rumford   973564867  2  1 Br  k     b     -        24019   90  120 
+Rumford   973564875  2  2 Bc  c     b     k        24049  270    0 5h 7h
+Rumford   973564885  2  1 Br  -     -     -        23779   30   40 
+Rumford   973564889  2  2 Bc  k     k     k        23789   30    0 3d 4h
+Rumford   973564897  2  1 Bf  -     -     -        23759    5    0 
+Rumford   973564901  2  2 Bc  k     k     b        23754   90  180 Jc Kc
+Rumford   973564910  2  1 Br  bf    -     -        23844   90    0 
+Rumford   973564921  2  2 B   -     -     -        23754   10   15 
+Rumford   973564924  2  1 Bcc k     b     b        23759  270  360 
+Rumford   973564933  2  2 Bk  b     -     -        23849   30   40 
+Rumford   973564938  2  1 Bc  k     k     k        23859   10   20 Jh 8c
+Rumford   973564948  2  2 Bc  f     -     -        23869   30    0 
+Rumford   973564954  2  1 Bf  -     -     -        23839    5    0 
+Rumford   973564956  2  2 Bk  b     b     k        23834   90    0 Ad 3h
+Rumford   973564968  2  1 Br  k     k     b        23744   90  120 
+Rumford   973564979  2  2 Bk  k     k     k        23774   10   20 5h Jc
+Rumford   973564989  2  1 Br  -     -     -        23784   30   40 
+Rumford   973564993  2  2 Bk  k     b     -        23794   30   40 
+Rumford   973565003  2  1 Br  -     -     -        23804   30   40 
+Rumford   973565006  2  2 B   -     -     -        23814   10   15 
+Rumford   973565011  2  1 Bf  -     -     -        23819    5    0 
+Rumford   973565013  2  2 Bf  -     -     -        23814   10    0 
+Rumford   973565017  2  1 Br  -     -     -        23804   30   40 
+Rumford   973565020  2  2 B   -     -     -        23814   10   15 
+Rumford   973565024  3  1 Bf  -     -     -        23819    5    0 
+Rumford   973565049  3  3 r   b     -     -        23814  115  160 
+Rumford   973565054  3  2 B   -     -     -        23859   10   15 
+Rumford   973565056  3  1 Bc  kf    -     -        23864   10    0 
+Rumford   973565065  3  3 r   b     k     f        23854  115    0 
+Rumford   973565076  3  2 Bk  k     b     k        23739   30   60 4d 3d
+Rumford   973565086  3  1 Br  -     -     -        23769   30   40 
+Rumford   973565092  3  3 r   c     f     -        23779  140    0 
+Rumford   973565102  3  2 Bk  kf    -     -        23639   10    0 
+Rumford   973565109  3  1 Br  -     -     -        23629   30   40 
+Rumford   973565112  3  3 cc  b     b     -        23639  520  720 
+Rumford   973565125  3  2 B   -     -     -        23839   10   15 
+Rumford   973565127  3  1 Bf  -     -     -        23844    5    0 
+Rumford   973565134  3  3 cc  f     -     -        23839   40    0 
+Rumford   973565142  3  2 Bk  c     b     -        23799   90  120 
+Rumford   973565152  3  1 Br  -     -     -        23829   30   40 
+Rumford   973565155  3  3 r   b     -     -        23839  115  160 
+Rumford   973565160  3  2 Bk  b     k     k        23884   30   60 Jd 7h
+Rumford   973565171  3  1 Br  b     -     -        23914   90  120 
+Rumford   973565180  3  3 c   b     -     -        23944   35   50 
+Rumford   973565185  3  2 Bk  c     c     k        23959   90    0 2c Ac
+Rumford   973565195  3  1 Br  k     b     -        23869  130  180 
+Rumford   973565206  3  3 r   c     b     k        23919  355    0 Ac 6d
+Rumford   973565218  3  2 B   -     -     -        23564   10   15 
+Rumford   973565236  3  1 Bc  kc    k     kf       23569  115    0 
+Rumford   973565251  3  3 r   c     b     k        23454  560    0 Jc Th
+Rumford   973565278  3  2 Br  k     k     k        22894   30    0 Th Kh
+Rumford   973565296  3  1 Bc  b     -     -        22864   30   40 
+Rumford   973565305  3  3 rc  c     bf    -        22874 1075    0 
+Rumford   973565318  3  2 Bk  rc    f     -        21799  270    0 
+Rumford   973565333  3  1 Br  k     k     k        21529   30   60 2d Td
+Rumford   973565343  3  3 f   -     -     -        21559    0    0 
+Rumford   973565365  3  2 B   -     -     -        21559   10   15 
+Rumford   973565369  3  1 Bc  k     k     k        21564   10    0 5s 2s
+Rumford   973565382  3  3 f   -     -     -        21554    0    0 
+Rumford   973565392  3  2 B   -     -     -        21554   10   15 
+Rumford   973565396  4  1 Bf  -     -     -        21559    5    0 
+Rumford   973565411  4  4 r   b     -     -        21554  115  160 
+Rumford   973565434  6  3 cc  kc    kf    -        21599  235    0 
+Rumford   973565458  6  2 Bk  kf    -     -        21364   10    0 
+Rumford   973565466  6  1 Bf  -     -     -        21354    5    0 
+Rumford   973565511  8  8 r   k     f     -        21349   35    0 
+Rumford   973565540  8  7 f   -     -     -        21314    0    0 
+Rumford   973565571  8  6 f   -     -     -        21314    0    0 
+Rumford   973565583  8  5 f   -     -     -        21314    0    0 
+Rumford   973565587  8  4 f   -     -     -        21314    0    0 
+Rumford   973565603  8  3 f   -     -     -        21314    0    0 
+Rumford   973565625  9  2 Bf  -     -     -        21314   10    0 
+Rumford   973565646  9  1 Bf  -     -     -        21304    5    0 
+Rumford   973565673  8  8 f   -     -     -        21299    0    0 
+Rumford   973565689  8  7 f   -     -     -        21299    0    0 
+Rumford   973565713  9  7 f   -     -     -        21299    0    0 
+Rumford   973565735  9  6 f   -     -     -        21299    0    0 
+Rumford   973565755 10  6 f   -     -     -        21299    0    0 
+Rumford   973565801 10  5 f   -     -     -        21299    0    0 
+Rumford   973565827 10  4 ccf -     -     -        21299   70    0 
+Rumford   973565902 10  3 f   -     -     -        21229    0    0 
+Rumford   973565981  8  2 Bf  -     -     -        21229   10    0 
+Rumford   973566027  8  1 Bf  -     -     -        21219    5    0 
+Rumford   973566095  8  8 c   f     -     -        21214   35    0 
+Rumford   973566134  8  7 f   -     -     -        21179    0    0 
+Rumford   973566188  7  5 c   c     k     k        21179  120    0 5c 7c
+Rumford   973566234  6  4 f   -     -     -        21059    0    0 
+Rumford   973566271  6  3 rc  c     b     k        21059 1075    0 7d 9s
+Rumford   973566303  6  2 Bf  -     -     -        19984   10    0 
+Rumford   973566344  7  1 Bc  k     kf    -        19974   35    0 
+Rumford   973566366  7  7 f   -     -     -        19939    0    0 
+Rumford   973566408  6  6 cc  k     f     Q        19939  150    0 
+Rumford   973566567  6  3 f   -     -     -        19789    0    0 
+Rumford   973566576  6  2 Bc  kr    b     k        19789 1400 2835 As Kc
+Rumford   973566611  6  1 Bf  -     -     -        21224    5    0 
+Rumford   973566662  6  6 c   k     c     f        21219   70    0 
+Rumford   973566709  4  4 f   -     -     -        21149    0    0 
+Rumford   973566726  4  4 f   -     -     -        21149    0    0 
+Rumford   973566735  4  3 f   -     -     -        21149    0    0 
+Rumford   973566745  4  2 Bf  -     -     -        21149   10    0 
+Rumford   973566762  4  1 Bc  k     kf    -        21139   35    0 
+Rumford   973566826  6  4 rr  b     b     -        21104 3035 4050 
+Rumford   973566868  8  3 f   -     -     -        22119    0    0 
+Rumford   973566925  9  2 Bf  -     -     -        22119   10    0 
+Rumford   973566957  7  1 Bc  kf    -     -        22109   10    0 
+Rumford   973566995  6  6 c   k     k     k        22099   10   25 As 6h
+Rumford   973567045  6  5 f   Q     -     -        22114    0    0 
+Rumford   973568356  4  2 Bk  k     k     k        20739   10    0 4d Kh
+Rumford   973568384  4  1 Bf  -     -     -        20729    5    0 
+Rumford   973568396  4  4 f   -     -     -        20724    0    0 
+Rumford   973568418  5  3 c   k     k     c        20724   40    0 Qd Jh
+Rumford   973568456  5  2 Bk  k     kf    -        20684   10    0 
+Rumford   973568491  5  1 Bf  -     -     -        20674    5    0 
+Rumford   973568519  5  5 r   c     k     f        20669  150    0 
+Rumford   973568550  5  4 c   b     b     k        20519  130  270 8d 6d
+Rumford   973568607  5  3 f   -     -     -        20659    0    0 
+Rumford   973568636  5  2 Bk  k     kf    -        20659   10    0 
+Rumford   973568673  5  1 Bc  k     b     b        20649  130  180 
+Rumford   973568719  5  5 f   -     -     -        20699    0    0 
+Rumford   973568770  5  4 r   k     k     k        20699   35   37 7s Js
+Rumford   973568798  5  3 f   -     -     -        20701    0    0 
+Rumford   973568822  6  2 Bk  f     -     -        20701   10    0 
+Rumford   973568846  7  1 Bc  b     b     -        20691  170  240 
+Rumford   973568887  7  7 f   -     -     -        20761    0    0 
+Rumford   973568946  7  6 c   k     f     -        20761   10    0 
+Rumford   973568991  7  5 r   b     k     k        20751  145  330 Qs Qc
+Rumford   973569033  8  5 f   -     -     -        20936    0    0 
+Rumford   973569060  7  4 f   -     -     -        20936    0    0 
+Rumford   973569067  7  3 r   b     -     -        20936  150  230 
+Rumford   973569105  7  2 Bk  b     -     -        21016   55   90 
+Rumford   973569130  7  1 Bc  k     k     k        21051   10    0 3c 4h
+Rumford   973569188  7  7 r   k     b     -        21041  190  270 
+Rumford   973569248  8  6 f   -     -     -        21121    0    0 
+Rumford   973569295  9  6 r   k     k     f        21121   55    0 
+Rumford   973569359  9  5 f   -     -     -        21066    0    0 
+Rumford   973569410  9  4 f   -     -     -        21066    0    0 
+Rumford   973569427  9  3 f   -     -     -        21066    0    0 
+Rumford   973569510  9  2 Bc  kc    k     b        21066 1175    0 6s 5s
+Rumford   973569599 10  1 Bc  kc    kf    -        19891   50    0 
+Rumford   973569663 10 10 c   b     k     k        19841   60  150 Ad 7c
+Rumford   973569748  9  8 c   k     k     k        19931   10    0 Ks Th
+Rumford   973569820  9  7 f   -     -     -        19921    0    0 
+Rumford   973569881  9  6 f   -     -     -        19921    0    0 
+Rumford   973569970  9  5 f   -     -     -        19921    0    0 
+Rumford   973570018  9  4 f   -     -     -        19921    0    0 
+Rumford   973570066  9  3 f   -     -     -        19921    0    0 
+Rumford   973570102  9  2 Bk  k     k     k        19921   10    0 4c 2s
+Rumford   973570158  9  1 Bf  -     -     -        19911    5    0 
+Rumford   973570208  8  8 c   k     c     f        19906   35    0 
+Rumford   973570253  7  6 f   -     -     -        19871    0    0 
+Rumford   973570287  7  5 f   -     -     -        19871    0    0 
+Rumford   973570329  7  4 f   -     -     -        19871    0    0 
+Rumford   973570383  7  3 cc  b     b     b        19871 2510 5220 Qh Tc
+Rumford   973570429  7  2 Bk  k     k     k        22581   10   20 8s 5s
+Rumford   973570478  7  1 Bc  kf    -     -        22591   45    0 
+Rumford   973570525  7  7 f   -     -     -        22546    0    0 
+Rumford   973570628  7  6 f   -     -     -        22546    0    0 
+Rumford   973570674  7  5 f   -     -     -        22546    0    0 
+Rumford   973570741  7  4 f   -     -     -        22546    0    0 
+Rumford   973570773  7  3 f   -     -     -        22546    0    0 
+Rumford   973570806  7  2 Bk  k     kf    -        22546   10    0 
+Rumford   973570880  7  1 Bc  k     k     k        22536   10    0 3s 5s
+Rumford   973570911  7  7 f   -     -     -        22526    0    0 
+Rumford   973570937  7  6 r   k     b     -        22526  190  290 
+Rumford   973571002  7  5 f   -     -     -        22626    0    0 
+Rumford   973571026  7  4 cc  c     k     f        22626  330    0 
+Rumford   973571076  7  3 f   -     -     -        22296    0    0 
+Rumford   973571099  7  2 Bc  kc    k     b        22296  735 1680 Tc 8h
+Rumford   973571152  7  1 Bf  -     -     -        23241    5    0 
+Rumford   973571204  7  7 r   k     f     -        23236  200    0 
+Rumford   973571280  7  6 f   -     -     -        23036    0    0 
+Rumford   973571339  7  5 f   -     -     -        23036    0    0 
+Rumford   973571395  7  4 f   -     -     -        23036    0    0 
+Rumford   973571421  7  3 c   kf    -     -        23036   10    0 
+Rumford   973571470  7  2 Bk  b     k     f        23026   40    0 
+Rumford   973571500  7  1 Bf  -     -     -        22986    5    0 
+Rumford   973571537  7  7 f   -     -     -        22981    0    0 
+Rumford   973571573  7  6 r   b     bf    -        22981  805    0 
+Rumford   973571624  7  5 f   -     -     -        22176    0    0 
+Rumford   973571652  7  5 f   -     -     -        22176    0    0 
+Rumford   973571683  6  3 r   -     -     -        22176   35   50 
+Rumford   973571695  5  2 Bk  f     -     -        22191   10    0 
+Rumford   973571711  5  1 Bc  k     k     b        22181  225    0 Jh 8h
+Rumford   973571755  5  5 c   f     -     -        21956   10    0 
+Rumford   973571784  5  4 c   k     f     -        21946   10    0 
+Rumford   973571825  5  3 f   -     -     -        21936    0    0 
+Rumford   973571848  4  2 B   -     -     -        21936   10   15 
+Rumford   973571855  4  1 Bc  kf    -     -        21941   10    0 
+Rumford   973571881  4  4 f   -     -     -        21931    0    0 
+Rumford   973571888  5  3 r   k     kc    k        21931  120    0 Qh Kh
+Rumford   973571917  5  2 Br  b     k     b        21811  605  840 
+Rumford   973571955  5  1 Bc  b     k     k        22046  140    0 Ad 3d
+Rumford   973571985  5  5 c   c     b     k        21906  260    0 Js 5s
+Rumford   973572029  5  4 f   -     -     -        21646    0    0 
+Rumford   973572053  5  3 c   kf    -     -        21646   10    0 
+Rumford   973572081  5  2 Bc  b     b     -        21636  270  360 
+Rumford   973572105  5  1 Bc  b     b     k        21726  625 1305 5h 4d
+Rumford   973572138  4  4 r   k     b     -        22406  160  240 
+Rumford   973572166  4  4 f   -     -     -        22486    0    0 
+Rumford   973572184  4  3 f   -     -     -        22486    0    0 
+Rumford   973572209  4  2 Bk  r     k     k        22486  130    0 7s 8h
+Rumford   973572236  4  1 Bf  -     -     -        22356    5    0 
+Rumford   973572253  4  4 f   -     -     -        22351    0    0 
+Rumford   973572279  4  3 f   -     -     -        22351    0    0 
+Rumford   973572312  4  2 Br  b     -     -        22351  185  280 
+Rumford   973572332  4  1 Bf  -     -     -        22446    5    0 
+Rumford   973572344  4  4 r   k     b     k        22441  110    0 Ad 2c
+Rumford   973572364  4  3 f   -     -     -        22331    0    0 
+Rumford   973572369  4  2 Bk  k     k     k        22331   10    0 3d Ts
+Rumford   973572388  4  1 Br  -     -     -        22321   30   40 
+Rumford   973572395  4  4 f   -     -     -        22331    0    0 
+Rumford   973572407  4  3 r   k     f     -        22331   35    0 
+Rumford   973572430  4  2 Bf  -     -     -        22296   10    0 
+Rumford   973572454  4  1 Bf  -     -     -        22286    5    0 
+Rumford   973572473  4  4 r   b     k     f        22281  110    0 
+Rumford   973572493  4  3 c   f     -     -        22171   10    0 
+Rumford   973572513  4  2 Bf  -     -     -        22161   10    0 
+Rumford   973572522  4  1 Br  b     -     -        22151   90  120 
+Rumford   973572537  4  4 r   b     k     b        22181  455  630 
+Rumford   973572561  4  3 f   Q     -     -        22356    0    0 
+Rumford   973575228  4  3 f   -     -     -        22356    0    0 
+Rumford   973575250  4  2 Bk  b     -     -        22356   30   40 
+Rumford   973575268  5  1 BfQ -     -     -        22366    5    0 
+Rumford   973658422 10  5 cc  b     k     b        22331  530  720 
+Rumford   973658456 10  4 f   -     -     -        22521    0    0 
+Rumford   973658488 10  3 f   -     -     -        22521    0    0 
+Rumford   973658529 10  2 Bf  -     -     -        22521   10    0 
+Rumford   973658551 10  1 Bc  bc    kc    k        22511  850 1920 As 9h
+Rumford   973658596 10 10 r   f     -     -        23581   45    0 
+Rumford   973658656 10  6 Q   -     -     -        23536    0    0 
+Rumford   973747353  9  3 f   -     -     -         8781    0    0 
+Rumford   973747400  9  2 Br  k     b     -         8781  795 1200 
+Rumford   973747439  9  1 Br  brrA  -     -         9186 9186 9266 Ts Ad
+Rumford   973747482  9  9 f   -     -     -         9266    0    0 
+Rumford   973747535  9  8 c   f     -     -         9266   55    0 
+Rumford   973747579  9  7 c   c     b     -         9211  375  510 
+Rumford   973747603  9  6 f   -     -     -         9346    0    0 
+Rumford   973747657  9  5 f   -     -     -         9346    0    0 
+Rumford   973747689  9  4 cf  -     -     -         9346   10    0 
+Rumford   973747781  9  3 f   -     -     -         9336    0    0 
+Rumford   973747815  9  2 Bf  -     -     -         9336   10    0 
+Rumford   973747854  9  1 Bc  kc    k     kc        9326  975    0 8s 8d
+Rumford   973747895 10 10 f   -     -     -         8351    0    0 
+Rumford   973747962 10  9 f   -     -     -         8351    0    0 
+Rumford   973748007 10  8 f   -     -     -         8351    0    0 
+Rumford   973748046 10  7 f   -     -     -         8351    0    0 
+Rumford   973748090 10  6 f   -     -     -         8351    0    0 
+Rumford   973748140 10  5 c   k     k     kf        8351   10    0 
+Rumford   973748232 10  4 f   -     -     -         8341    0    0 
+Rumford   973748279 10  3 c   k     b     r         8341  465  945 7s 6h
+Rumford   973748321 10  2 Bc  kf    -     -         8821  155    0 
+Rumford   973748366 10  1 Bf  -     -     -         8666    5    0 
+Rumford   973748436 10 10 c   k     k     k         8661   35    0 6h 5c
+Rumford   973748477 10  9 cc  f     -     -         8626  345    0 
+Rumford   973748521 10  8 f   -     -     -         8281    0    0 
+Rumford   973748574 10  7 c   k     f     -         8281   10    0 
+Rumford   973748596  9  5 r   k     kf    -         8271   35    0 
+Rumford   973748645 10  5 c   b     b     k         8236  310    0 Jc As
+Rumford   973748724 10  4 f   -     -     -         7926    0    0 
+Rumford   973748757 10  3 r   b     b     -         7926  655  930 
+Rumford   973748811  9  2 Bc  kf    -     -         8201   55    0 
+Rumford   973748889 10  1 Bf  -     -     -         8146    5    0 
+Rumford   973748934 10 10 c   c     f     -         8141  155    0 
+Rumford   973748977 10  9 f   -     -     -         7986    0    0 
+Rumford   973749017 10  8 f   -     -     -         7986    0    0 
+Rumford   973749128 10  7 f   -     -     -         7986    0    0 
+Rumford   973749170 10  6 c   k     f     -         7986   10    0 
+Rumford   973749262 10  5 cc  cf    -     -         7976  250    0 
+Rumford   973749358 10  4 f   -     -     -         7726    0    0 
+Rumford   973749422 10  3 cc  kc    b     -         7726 1560 2500 
+Rumford   973749483 10  2 Bf  -     -     -         8666   10    0 
+Rumford   973749558 10  1 Bc  k     k     k         8656   10    0 8h 3d
+Rumford   973749621 10 10 c   c     k     b         8646  945 1350 
+Rumford   973749721  9  8 f   -     -     -         9051    0    0 
+Rumford   973749808  9  7 f   -     -     -         9051    0    0 
+Rumford   973749851  9  6 f   -     -     -         9051    0    0 
+Rumford   973749900  8  5 f   -     -     -         9051    0    0 
+Rumford   973749944  7  4 rc  b     b     -         9051 1905 2640 
+Rumford   973750003  7  3 f   -     -     -         9786    0    0 
+Rumford   973750042  6  2 Bf  -     -     -         9786   10    0 
+Rumford   973750077  6  1 Bc  b     -     -         9776   50   80 
+Rumford   973750167  5  5 r   b     bf    -         9806  775    0 
+Rumford   973750207  5  4 c   k     bf    -         9031   60    0 
+Rumford   973750282  6  4 cc  c     k     b         8971 1310 2000 
+Rumford   973750330  8  3 c   c     k     k         9661   55    0 3h Jh
+Rumford   973750418  8  2 Bf  -     -     -         9606   10    0 
+Rumford   973750470  8  1 Brc kc    b     b         9596 2430 4860 8s 8d
+Rumford   973750543  8  8 c   f     -     -        12026   35    0 
+Rumford   973750575  9  8 c   k     k     k        11991   10    0 Kd Th
+Rumford   973750645 10  8 f   -     -     -        11981    0    0 
+Rumford   973750681 10  7 c   b     k     k        11981   50    0 5c 6c
+Rumford   973750718 10  6 cc  kf    -     -        11931   55    0 
+Rumford   973750810 10  5 f   -     -     -        11876    0    0 
+Rumford   973750859 10  4 c   k     f     -        11876   10    0 
+Rumford   973750898 10  3 f   -     -     -        11866    0    0 
+Rumford   973750936 10  2 Bk  kc    kf    -        11866   65    0 
+Rumford   973750985 10  1 Bc  b     b     -        11801  495  690 
+Rumford   973751017 10 10 c   k     f     -        11996   10    0 
+Rumford   973751088 10  9 f   -     -     -        11986    0    0 
+Rumford   973751143 10  8 f   -     -     -        11986    0    0 
+Rumford   973751175 10  7 cc  kf    -     -        11986   65    0 
+Rumford   973751273 10  6 f   -     -     -        11921    0    0 
+Rumford   973751324 10  5 c   c     c     k        11921  170    0 9d Kd
+Rumford   973751398 10  4 cc  kc    k     kr       11751 1865 2520 
+Rumford   973751457 10  3 cc  k     kf    -        12406   45    0 
+Rumford   973751518 10  2 Bk  kf    -     -        12361   10    0 
+Rumford   973751575 10  1 Bf  -     -     -        12351    5    0 
+Rumford   973751615 10 10 f   -     -     -        12346    0    0 
+Rumford   973751647 10  9 f   -     -     -        12346    0    0 
+Rumford   973751685 10  8 f   -     -     -        12346    0    0 
+Rumford   973751739 10  7 c   k     kf    -        12346   10    0 
+Rumford   973751803 10  6 f   -     -     -        12336    0    0 
+Rumford   973751847 10  5 c   kf    -     -        12336   10    0 
+Rumford   973751891 10  4 cc  kf    -     -        12326   55    0 
+Rumford   973751942 10  3 cc  kc    kr    b        12271 9595 19440 4h 4s
+Rumford   973752010 10  2 Bf  -     -     -        22116   10    0 
+Rumford   973752057 10  1 Bc  kf    -     -        22106   45    0 
+Rumford   973752123 10 10 c   b     b     -        22061  375  510 
+Rumford   973752158 10  9 f   -     -     -        22196    0    0 
+Rumford   973752212 10  8 c   b     b     b        22196  465  630 
+Rumford   973752262 10  7 r   k     k     k        22361   35    0 As Kc
+Rumford   973752325 10  6 f   -     -     -        22326    0    0 
+Rumford   973752397 10  5 f   -     -     -        22326    0    0 
+Rumford   973752441 10  4 c   b     -     -        22326   35   50 
+Rumford   973752474 10  3 f   -     -     -        22341    0    0 
+Rumford   973752539 10  2 Bk  kf    -     -        22341   10    0 
+Rumford   973752598 10  1 Bf  -     -     -        22331    5    0 
+Rumford   973752638 10 10 f   -     -     -        22326    0    0 
+Rumford   973752670 10  9 f   -     -     -        22326    0    0 
+Rumford   973752742 10  8 f   -     -     -        22326    0    0 
+Rumford   973752769 10  7 f   -     -     -        22326    0    0 
+Rumford   973752805 10  6 f   -     -     -        22326    0    0 
+Rumford   973752895 10  5 r   k     k     f        22326   45    0 
+Rumford   973752942 10  4 r   k     b     -        22281  155  240 
+Rumford   973752982 10  3 f   -     -     -        22366    0    0 
+Rumford   973752998 10  2 Bk  bf    -     -        22366   50    0 
+Rumford   973753026 10  1 Bf  -     -     -        22316    5    0 
+Rumford   973753060 10 10 f   -     -     -        22311    0    0 
+Rumford   973753110 10  9 cc  kf    -     -        22311   65    0 
+Rumford   973753177 10  8 r   -     -     -        22246   35   50 
+Rumford   973753208  9  6 r   k     b     f        22261  805    0 
+Rumford   973753260  9  5 c   f     -     -        21456   35    0 
+Rumford   973753280  9  4 f   -     -     -        21421    0    0 
+Rumford   973753316  9  3 c   b     kc    k        21421  370    0 5s 6s
+Rumford   973753365  9  2 Bk  b     b     k        21051  130  270 8d Qs
+Rumford   973753415 10  1 Bc  kc    k     k        21191  285  690 Qh 3h
+Rumford   973753457 10 10 c   f     -     -        21596   10    0 
+Rumford   973753495 10  9 c   b     b     b        21586  985 1350 
+Rumford   973753568 10  8 f   -     -     -        21951    0    0 
+Rumford   973753617 10  7 f   -     -     -        21951    0    0 
+Rumford   973753668  9  5 r   b     kf    -        21951  240    0 
+Rumford   973753713 10  5 f   -     -     -        21711    0    0 
+Rumford   973753759 10  4 c   kc    k     b        21711  395    0 Ah 8d
+Rumford   973753837 10  3 cc  f     -     -        21316   80    0 
+Rumford   973753888 10  2 Bc  krf   -     -        21236  185    0 
+Rumford   973753920 10  1 Bf  -     -     -        21051    5    0 
+Rumford   973753977 10 10 f   -     -     -        21046    0    0 
+Rumford   973754011 10  9 f   -     -     -        21046    0    0 
+Rumford   973754032 10  8 c   f     -     -        21046   10    0 
+Rumford   973754110  9  6 f   -     -     -        21036    0    0 
+Rumford   973754161  9  5 c   b     c     f        21036  310    0 
+Rumford   973754225  9  4 c   b     b     k        20726  260    0 2h Jh
+Rumford   973754293  9  3 f   -     -     -        20466    0    0 
+Rumford   973754361  8  2 Bk  kc    kc    kf       20466  150    0 
+Rumford   973754400  8  1 Bc  k     k     k        20316   55  275 7c 7d
+Rumford   973754463  9  9 f   -     -     -        20536    0    0 
+Rumford   973754500  9  8 r   b     -     -        20536  330  550 
+Rumford   973754550  9  7 f   -     -     -        20756    0    0 
+Rumford   973754588  9  6 f   -     -     -        20756    0    0 
+Rumford   973754618  9  5 f   -     -     -        20756    0    0 
+Rumford   973754652  8  4 f   -     -     -        20756    0    0 
+Rumford   973754727  7  3 f   -     -     -        20756    0    0 
+Rumford   973754743  6  2 Bf  -     -     -        20756   10    0 
+Rumford   973754780  7  1 Bc  k     b     k        20746   50  120 5h Jd
+Rumford   973754829  7  7 f   -     -     -        20816    0    0 
+Rumford   973754884  7  6 f   -     -     -        20816    0    0 
+Rumford   973754951  6  4 f   -     -     -        20816    0    0 
+Rumford   973754979  6  3 c   k     kf    -        20816   10    0 
+Rumford   973755018  5  1 Bk  k     b     b        20806  160  240 
+Rumford   973755050  5  1 Bc  k     b     b        20886  495  690 
+Rumford   973755075  5  5 c   k     c     k        21081   35    0 5d 6h
+Rumford   973755105  5  4 f   -     -     -        21046    0    0 
+Rumford   973755134  5  3 f   -     -     -        21046    0    0 
+Rumford   973755147  5  2 Bf  -     -     -        21046   10    0 
+Rumford   973755213  5  1 Bf  -     -     -        21036    5    0 
+Rumford   973755258  5  5 f   -     -     -        21031    0    0 
+Rumford   973755283  5  4 r   k     f     -        21031   45    0 
+Rumford   973755317  5  3 c   b     k     k        20986   40    0 3c 3s
+Rumford   973755343  5  2 Bf  -     -     -        20946   10    0 
+Rumford   973755372  5  1 Bf  -     -     -        20936    5    0 
+Rumford   973755390  5  5 f   -     -     -        20931    0    0 
+Rumford   973755397  5  4 f   -     -     -        20931    0    0 
+Rumford   973755421  5  3 f   -     -     -        20931    0    0 
+Rumford   973755465  5  2 Bk  k     k     k        20931   10   25 8h Jc
+Rumford   973755481  5  1 Bc  kc    kc    k        20946  355    0 4d 3d
+Rumford   973755504  5  5 f   Q     -     -        20591    0    0 
+Rumford   973756241  2  1 Bk  k     k     k        20591   10   10 9h 7c
+Rumford   973756258  2  1 Bf  -     -     -        20591    5    0 
+Rumford   973756267  2  2 B   -     -     -        20586   10   15 
+Rumford   973756270  2  1 Br  k     b     -        20591   90  120 
+Rumford   973756285  3  3 c   b     k     k        20621   40    0 5h Qh
+Rumford   973756317  3  2 Bk  f     -     -        20581   10    0 
+Rumford   973756334  3  1 Bf  -     -     -        20571    5    0 
+Rumford   973756364  3  3 f   -     -     -        20566    0    0 
+Rumford   973756366  3  2 Bk  r     r     -        20566 1690 2340 
+Rumford   973756386  3  1 Bf  -     -     -        21216    5    0 
+Rumford   973756403  3  3 c   k     c     r        21211  400  540 
+Rumford   973756440  3  2 Bf  -     -     -        21351   10    0 
+Rumford   973756454  3  1 Bf  -     -     -        21341    5    0 
+Rumford   973756460  3  3 f   -     -     -        21336    0    0 
+Rumford   973756476  3  2 Bk  kQ    -     -        21336   10    0 
+Rumford   973912605  2  1 Bf  -     -     -        24868    5    0 
+Rumford   973912609  2  2 B   -     -     -        24863   10   15 
+Rumford   973912612  2  1 Bf  -     -     -        24868    5    0 
+Rumford   973912616  2  2 Bk  r     k     b        24863  270  360 
+Rumford   973912652  3  1 Bc  k     b     -        24953   40   60 
+Rumford   973912672  3  3 f   -     -     -        24973    0    0 
+Rumford   973912691  3  2 Bc  r     -     -        24973  455  630 
+Rumford   973912715  3  1 Bc  b     -     -        25148   40   60 
+Rumford   973912724  3  3 f   -     -     -        25168    0    0 
+Rumford   973912742  3  2 Bf  -     -     -        25168   10    0 
+Rumford   973912750  3  1 Bf  -     -     -        25158    5    0 
+Rumford   973912762  3  3 c   bc    k     f        25153  110    0 
+Rumford   973912795  5  4 cc  b     -     -        25043  690 1040 
+Rumford   973912829  5  3 f   -     -     -        25393    0    0 
+Rumford   973912853  6  2 Bk  f     -     -        25393   10    0 
+Rumford   973912885  6  1 Bf  -     -     -        25383    5    0 
+Rumford   973912916  6  6 cc  k     k     f        25378   50    0 
+Rumford   973912982  6  5 f   -     -     -        25328    0    0 
+Rumford   973913001  6  4 f   -     -     -        25328    0    0 
+Rumford   973913014  6  3 f   -     -     -        25328    0    0 
+Rumford   973913030  6  2 Bf  -     -     -        25328   10    0 
+Rumford   973913085  7  1 Bf  -     -     -        25318    5    0 
+Rumford   973913114  7  7 c   k     k     f        25313   10    0 
+Rumford   973913165  7  6 cc  c     c     c        25303 3435    0 6c 5c
+Rumford   973913217  7  5 f   -     -     -        21868    0    0 
+Rumford   973913247  7  4 f   -     -     -        21868    0    0 
+Rumford   973913297  7  3 c   kc    b     b        21868 1165 1650 
+Rumford   973913359  8  3 c   kf    -     -        22353   10    0 
+Rumford   973913440  9  3 f   -     -     -        22343    0    0 
+Rumford   973913491  9  2 Bk  rc    k     k        22343  270    0 Qd Jd
+Rumford   973913547 10  1 Bf  -     -     -        22073    5    0 
+Rumford   973913600  9  9 f   -     -     -        22068    0    0 
+Rumford   973913683  9  8 f   -     -     -        22068    0    0 
+Rumford   973913732 10  8 c   f     -     -        22068   10    0 
+Rumford   973913793 10  7 f   -     -     -        22058    0    0 
+Rumford   973913837 10  6 f   -     -     -        22058    0    0 
+Rumford   973913876 10  5 c   k     k     k        22058   10    0 8c Kh
+Rumford   973913921 10  4 f   -     -     -        22048    0    0 
+Rumford   973913983 10  3 r   b     b     -        22048  985 1520 
+Rumford   973914009 10  2 Bk  kf    -     -        22583   10    0 
+Rumford   973914074 10  1 Bf  -     -     -        22573    5    0 
+Rumford   973914105 10 10 f   -     -     -        22568    0    0 
+Rumford   973914142 10  9 f   -     -     -        22568    0    0 
+Rumford   973914201 10  8 c   k     kf    -        22568   10    0 
+Rumford   973914321 10  7 c   b     k     k        22558   50    0 8c 8h
+Rumford   973914368 10  6 c   k     k     k        22508   10    0 Qc 8c
+Rumford   973914417 10  5 f   -     -     -        22498    0    0 
+Rumford   973914448 10  4 c   k     k     k        22498   10    0 9s Js
+Rumford   973914489 10  3 c   f     -     -        22488   10    0 
+Rumford   973914535 10  2 Bk  b     k     k        22478   50    0 Js Ad
+Rumford   973914597 10  1 Bf  -     -     -        22428    5    0 
+Rumford   973914626 10 10 c   f     -     -        22423   10    0 
+Rumford   973914664 10  9 f   -     -     -        22413    0    0 
+Rumford   973914694 10  8 f   -     -     -        22413    0    0 
+Rumford   973914729 10  7 r   b     b     k        22413  995    0 3c As
+Rumford   973914789 10  6 c   k     k     k        21418   10    0 Qd 2d
+Rumford   973914874 10  5 c   b     k     k        21408   65  165 8d Ts
+Rumford   973914953 10  4 c   k     kc    kf       21508   55    0 
+Rumford   973914996 10  3 c   kc    kf    -        21453   75    0 
+Rumford   973915038 10  2 Bf  -     -     -        21378   10    0 
+Rumford   973915081 10  1 Bc  k     k     k        21368   10    0 8c 9h
+Rumford   973915141 10 10 c   k     b     k        21358  155    0 Qs Kc
+Rumford   973915302  9  8 f   -     -     -        21203    0    0 
+Rumford   973915364  9  8 c   c     k     b        21203  160  240 
+Rumford   973915458 10  7 c   k     k     k        21283   10    0 3c 3h
+Rumford   973915517 10  6 r   b     -     -        21273  195  300 
+Rumford   973915552 10  5 f   -     -     -        21378    0    0 
+Rumford   973915603 10  4 c   k     b     k        21378   60    0 4s 4h
+Rumford   973915646 10  3 f   -     -     -        21318    0    0 
+Rumford   973915685 10  2 Bk  kc    b     b        21318  775 1080 
+Rumford   973915761 10  1 Bf  -     -     -        21623    5    0 
+Rumford   973915818 10 10 c   b     -     -        21618   45   70 
+Rumford   973915842 10  9 r   b     -     -        21643  280  450 
+Rumford   973915884 10  8 cc  kc    kf    -        21813  285    0 
+Rumford   973915945 10  3 Q   -     -     -        21528    0    0 
+Rumford   973922613 10  8 f   -     -     -        21528    0    0 
+Rumford   973922665 10  7 c   b     k     k        21528   55    0 9d Ah
+Rumford   973922759  9  6 f   -     -     -        21473    0    0 
+Rumford   973922799  9  5 c   b     bf    -        21473  150    0 
+Rumford   973922838 10  4 f   -     -     -        21323    0    0 
+Rumford   973922900 10  3 cc  b     k     c        21323 1155 2775 3h Kh
+Rumford   973923003 10  2 Bf  -     -     -        22943   10    0 
+Rumford   973923064 10  1 Bc  kf    -     -        22933   10    0 
+Rumford   973923135 10 10 c   c     -     -        22923  370  975 
+Rumford   973923247 10  9 f   -     -     -        23528    0    0 
+Rumford   973923292 10  8 c   c     kQ    -        23528   85    0 
+Rumford   973976498  4  4 f   -     -     -        23238    0    0 
+Rumford   973976565  5  3 f   -     -     -        23238    0    0 
+Rumford   973976597  5  2 Bc  b     b     -        23238  455  630 
+Rumford   973976638  4  1 Bc  b     b     k        23413  130  270 8d 9s
+Rumford   973976663  4  4 f   -     -     -        23553    0    0 
+Rumford   973976688  4  3 cc  c     b     -        23553  400  540 
+Rumford   973976722  4  2 Bk  b     b     -        23693  130  180 
+Rumford   973976751  3  1 Bf  -     -     -        23743    5    0 
+Rumford   973976770  3  3 c   b     k     f        23738   35    0 
+Rumford   973976795  3  2 B   -     -     -        23703   10   15 
+Rumford   973976798  3  1 Bf  -     -     -        23708    5    0 
+Rumford   973976805  3  3 r   -     -     -        23703   35   50 
+Rumford   973976812  2  2 B   -     -     -        23718   10   15 
+Rumford   973976816  2  1 Br  -     -     -        23723   30   40 
+Rumford   973976822  2  2 B   -     -     -        23733   10   15 
+Rumford   973976825  2  1 Bf  -     -     -        23738    5    0 
+Rumford   973976828  2  2 B   -     -     -        23733   10   15 
+Rumford   973976830  2  1 Bf  -     -     -        23738    5    0 
+Rumford   973976834  2  2 B   -     -     -        23733   10   15 
+Rumford   973976835  2  1 Bf  -     -     -        23738    5    0 
+Rumford   973976836  2  2 B   -     -     -        23733   10   15 
+Rumford   973976838  2  1 Br  -     -     -        23738   30   40 
+Rumford   973976842  2  2 B   -     -     -        23748   10   15 
+Rumford   973976845  2  1 Br  -     -     -        23753   30   40 
+Rumford   973976848  2  2 B   -     -     -        23763   10   15 
+Rumford   973976851  2  1 Bc  bf    -     -        23768   30    0 
+Rumford   973976862  2  2 B   -     -     -        23738   10   15 
+Rumford   973976863  2  1 Br  -     -     -        23743   30   40 
+Rumford   973976867  2  2 B   -     -     -        23753   10   15 
+Rumford   973976871  2  1 Bc  k     b     -        23758   30   40 
+Rumford   973976882  3  2 Bc  b     k     k        23768   90  180 Ts 7s
+Rumford   973976910  3  1 Bc  k     k     k        23858   10    0 9s 7s
+Rumford   973976956  3  3 c   k     f     -        23848   10    0 
+Rumford   973976970  4  2 B   -     -     -        23838   10   15 
+Rumford   973976976  4  1 Br  -     -     -        23843   30   40 
+Rumford   973976985  4  4 r   b     -     -        23853  248  383 
+Rumford   973976998  4  3 f   -     -     -        23988    0    0 
+Rumford   973977007  4  2 Bk  b     b     b        23988  335  450 
+Rumford   973977024  4  1 Bc  bc    kf    -        24103  355    0 
+Rumford   973977041  4  4 f   -     -     -        23748    0    0 
+Rumford   973977044  4  3 c   k     b     -        23748   35   50 
+Rumford   973977057  4  2 Bk  b     -     -        23763   40   60 
+Rumford   973977072  4  1 Bc  kf    -     -        23783   10    0 
+Rumford   973977110  5  4 rf  -     -     -        23773   45    0 
+Rumford   973977140  7  3 f   -     -     -        23728    0    0 
+Rumford   973977178  6  1 Bf  -     -     -        23728   10    0 
+Rumford   973977204  6  1 Bc  kf    -     -        23718   10    0 
+Rumford   973977227  6  6 cc  f     -     -        23708   60    0 
+Rumford   973977259  6  5 c   b     k     k        23648   45    0 Ac 4s
+Rumford   973977296  6  4 f   -     -     -        23603    0    0 
+Rumford   973977326  7  4 cc  bc    kf    -        23603  605    0 
+Rumford   973977354  7  3 f   -     -     -        22998    0    0 
+Rumford   973977368  7  2 Bk  k     kf    -        22998   10    0 
+Rumford   973977418  7  1 Bf  -     -     -        22988    5    0 
+Rumford   973977449  7  7 r   b     -     -        22983  190  290 
+Rumford   973977471  7  6 c   bf    -     -        23083   60    0 
+Rumford   973977498  6  4 f   -     -     -        23023    0    0 
+Rumford   973977502  6  3 c   b     b     kc       23023  530    0 5h Jh
+Rumford   973977553  6  2 Bk  kf    -     -        22493   10    0 
+Rumford   973977586  6  1 Bc  kc    k     b        22483  130  180 
+Rumford   973977620  6  6 f   -     -     -        22533    0    0 
+Rumford   973977658  6  5 f   -     -     -        22533    0    0 
+Rumford   973977674  6  4 rf  -     -     -        22533   45    0 
+Rumford   973977693  6  3 cc  k     b     k        22488  185    0 Td Js
+Rumford   973977717  6  2 Bk  k     k     kc       22303   50    0 Jh 8s
+Rumford   973977759  6  1 Br  b     b     b        22253 1210 1620 
+Rumford   973977784  6  6 c   k     f     -        22663   10    0 
+Rumford   973977821  6  5 r   b     -     -        22653  150  210 
+Rumford   973977844  6  4 c   b     b     -        22713  170  240 
+Rumford   973977888  5  2 cc  k     kf    -        22783   50    0 
+Rumford   973977923  5  1 Bk  k     k     k        22733   10   20 7c 9s
+Rumford   973977939  5  1 Bc  kf    -     -        22743   10    0 
+Rumford   973977963  5  5 c   c     k     b        22733  110  150 
+Rumford   973977987  5  4 f   -     -     -        22773    0    0 
+Rumford   973977999  5  3 c   b     b     k        22773  130  270 Kd Js
+Rumford   973978026  6  3 c   b     -     -        22913   45   70 
+Rumford   973978042  6  2 Bf  -     -     -        22938   10    0 
+Rumford   973978070  6  1 Bc  k     k     k        22928   10   30 Ac 8c
+Rumford   973978093  6  6 r   -     -     -        22948   35   50 
+Rumford   973978107  6  5 r   k     b     -        22963  150  210 
+Rumford   973978170  5  4 f   -     -     -        23023    0    0 
+Rumford   973978204  3  2 rc  k     kf    -        23023  100    0 
+Rumford   973978224  3  2 B   -     -     -        22923   10   15 
+Rumford   973978228  4  1 Bc  k     b     -        22928   30   40 
+Rumford   973978240  4  4 f   -     -     -        22938    0    0 
+Rumford   973978245  4  3 c   b     -     -        22938   50   80 
+Rumford   973978261  4  2 Bk  bc    kf    -        22968  130    0 
+Rumford   973978285  4  1 Bc  b     -     -        22838   30   40 
+Rumford   973978298  4  4 c   b     -     -        22848   45   70 
+Rumford   973978328  5  4 f   -     -     -        22873    0    0 
+Rumford   973978356  5  3 f   -     -     -        22873    0    0 
+Rumford   973978395  5  2 Bk  bf    -     -        22873   35    0 
+Rumford   973978412  5  1 Bc  kcf   -     -        22838  225    0 
+Rumford   973978450  5  5 f   -     -     -        22613    0    0 
+Rumford   973978458  5  4 r   b     -     -        22613  115  160 
+Rumford   973978496  5  3 c   k     f     -        22658   10    0 
+Rumford   973978526  5  2 Bf  -     -     -        22648   10    0 
+Rumford   973978535  5  1 Bc  kc    kf    -        22638  115    0 
+Rumford   973978561  6  5 f   -     -     -        22523    0    0 
+Rumford   973978572  6  4 c   b     b     -        22523  190  270 
+Rumford   973978603  6  3 f   -     -     -        22603    0    0 
+Rumford   973978639  6  2 Br  b     kc    k        22603  605    0 Jc Jd
+Rumford   973978665  6  1 Bc  b     -     -        21998   40   60 
+Rumford   973978684  6  6 c   f     -     -        22018   45    0 
+Rumford   973978703  6  5 f   -     -     -        21973    0    0 
+Rumford   973978755  6  4 f   -     -     -        21973    0    0 
+Rumford   973978772  6  3 c   b     kc    k        21973  150    0 7c 7d
+Rumford   973978802  6  2 Bk  k     k     k        21823   10   30 7s Kc
+Rumford   973978840  6  1 Bcc k     b     -        21843  210  320 
+Rumford   973978877  6  6 cc  f     -     -        21953   60    0 
+Rumford   973978939  6  5 rc  k     k     k        21893  160  248 As Kh
+Rumford   973978967  6  4 f   -     -     -        21981    0    0 
+Rumford   973978991  6  3 c   b     k     k        21981   50  120 5h 5d
+Rumford   973979028  6  2 Bk  kc    kf    -        22051   45    0 
+Rumford   973979094  6  1 Bc  k     k     k        22006   55    0 5d 6s
+Rumford   973979132  6  6 cc  bc    b     k        21951 3960    0 3s Ks
+Rumford   973979185  6  5 c   f     -     -        17991   10    0 
+Rumford   973979212  6  4 f   -     -     -        17981    0    0 
+Rumford   973979251  6  3 f   -     -     -        17981    0    0 
+Rumford   973979272  6  2 Bf  -     -     -        17981   10    0 
+Rumford   973979307  6  1 Bc  kc    k     b        17971   90    0 Qc 6s
+Rumford   973979334  6  6 c   c     k     b        17881  375  510 
+Rumford   973979381  6  5 f   Q     -     -        18016    0    0 
+Rumford   974090894 10  7 c   b     k     k        21871   45    0 9d Th
+Rumford   974090933 10  6 f   -     -     -        21826    0    0 
+Rumford   974090961 10  5 f   -     -     -        21826    0    0 
+Rumford   974091007 10  4 f   -     -     -        21826    0    0 
+Rumford   974091033 10  3 f   -     -     -        21826    0    0 
+Rumford   974091076 10  2 Bk  k     kc    k        21826   60    0 Qs Ac
+Rumford   974091118 10  1 Br  -     -     -        21766   30   40 
+Rumford   974091134 10 10 f   -     -     -        21776    0    0 
+Rumford   974091168 10  9 r   k     b     k        21776  167  449 Ks Ad
+Rumford   974091220 10  8 f   -     -     -        22058    0    0 
+Rumford   974091247 10  7 f   -     -     -        22058    0    0 
+Rumford   974091285 10  6 r   k     kf    -        22058   35    0 
+Rumford   974091325 10  5 c   k     f     -        22023   10    0 
+Rumford   974091374 10  4 cc  k     k     k        22013   55    0 9c Qc
+Rumford   974091410 10  3 c   b     b     -        21958  210  320 
+Rumford   974091458 10  2 Bf  -     -     -        22068   10    0 
+Rumford   974091488 10  1 Bf  -     -     -        22058    5    0 
+Rumford   974091537 10 10 c   b     b     -        22053  310  500 
+Rumford   974091608 10  9 c   c     k     f        22243   50    0 
+Rumford   974091640 10  8 f   -     -     -        22193    0    0 
+Rumford   974091691 10  7 c   k     kf    -        22193   10    0 
+Rumford   974091751 10  6 f   -     -     -        22183    0    0 
+Rumford   974091776 10  5 rc  k     bc    k        22183 1140 2295 As Ah
+Rumford   974091805 10  4 cc  kc    k     kr       23338 2395 4860 Ad Ts
+Rumford   974091847 10  3 cc  kf    -     -        25803   55    0 
+Rumford   974091936 10  2 Bc  b     -     -        25748  175  280 
+Rumford   974091959 10  1 Bc  kf    -     -        25853   45    0 
+Rumford   974092001 10 10 r   k     f     -        25808   55    0 
+Rumford   974092034 10  9 cc  f     -     -        25753   70    0 
+Rumford   974092079 10  8 f   -     -     -        25683    0    0 
+Rumford   974092091 10  7 f   -     -     -        25683    0    0 
+Rumford   974092149 10  6 cc  k     k     kf       25683  190    0 
+Rumford   974092191 10  5 f   -     -     -        25493    0    0 
+Rumford   974092227 10  4 rc  kf    -     -        25493  120    0 
+Rumford   974092258 10  3 f   -     -     -        25373    0    0 
+Rumford   974092299 10  2 Bc  kf    -     -        25373  120    0 
+Rumford   974092355 10  1 Bc  kc    k     kc       25253  960 2220 Ad Qh
+Rumford   974092407 10 10 f   -     -     -        26513    0    0 
+Rumford   974092438 10  9 c   b     -     -        26513   60  100 
+Rumford   974092475 10  8 f   -     -     -        26553    0    0 
+Rumford   974092507 10  7 c   kf    -     -        26553   10    0 
+Rumford   974092578 10  6 cc  b     k     k        26543  405    0 8c Ks
+Rumford   974092633 10  5 c   k     c     f        26138   80    0 
+Rumford   974092684 10  4 cc  k     b     -        26058  195  300 
+Rumford   974092723 10  4 f   -     -     -        26163    0    0 
+Rumford   974092748 10  2 Bf  -     -     -        26163   10    0 
+Rumford   974092787 10  1 Bc  kc    kf    -        26153  210    0 
+Rumford   974092845 10 10 c   b     -     -        25943   60  100 
+Rumford   974092907 10  9 c   r     f     -        25983  250    0 
+Rumford   974092971 10  8 f   -     -     -        25733    0    0 
+Rumford   974093002 10  7 f   -     -     -        25733    0    0 
+Rumford   974093027 10  6 f   -     -     -        25733    0    0 
+Rumford   974093080 10  5 f   -     -     -        25733    0    0 
+Rumford   974093129  9  3 f   -     -     -        25733    0    0 
+Rumford   974093168 10  3 f   -     -     -        25733    0    0 
+Rumford   974093182 10  2 Bk  k     kc    k        25733   35   75 Ah 9d
+Rumford   974093216 10  1 Bf  -     -     -        25773    5    0 
+Rumford   974093250 10 10 f   -     -     -        25768    0    0 
+Rumford   974093283 10  9 r   f     -     -        25768   45    0 
+Rumford   974093315 10  8 f   -     -     -        25723    0    0 
+Rumford   974093359 10  7 f   -     -     -        25723    0    0 
+Rumford   974093410 10  6 f   -     -     -        25723    0    0 
+Rumford   974093465 10  5 cc  kf    -     -        25723   65    0 
+Rumford   974093539 10  4 cf  -     -     -        25658   10    0 
+Rumford   974093596 10  3 f   -     -     -        25648    0    0 
+Rumford   974093625 10  2 Bk  k     b     b        25648  170  240 
+Rumford   974093678 10  1 Bc  kc    k     k        25718  185  600 Ks Kc
+Rumford   974093710 10 10 r   b     b     k        26133  335  675 As Jd
+Rumford   974093754 10  9 f   -     -     -        26473    0    0 
+Rumford   974093798 10  8 f   -     -     -        26473    0    0 
+Rumford   974093839 10  7 cc  kc    k     k        26473  150  315 7c Qh
+Rumford   974093871 10  6 f   -     -     -        26638    0    0 
+Rumford   974093905 10  5 c   k     c     k        26638   50    0 Ah 9c
+Rumford   974093938 10  4 f   -     -     -        26588    0    0 
+Rumford   974093979 10  3 f   -     -     -        26588    0    0 
+Rumford   974094042  9  2 Bf  -     -     -        26588   10    0 
+Rumford   974094085  9  1 Bf  -     -     -        26578    5    0 
+Rumford   974094149 10 10 f   -     -     -        26573    0    0 
+Rumford   974094156 10  9 c   c     k     k        26573  175    0 Jc Jd
+Rumford   974094200 10  8 r   b     b     k        26398  375  765 Qh Ah
+Rumford   974094230 10  7 f   -     -     -        26788    0    0 
+Rumford   974094370  9  6 c   b     b     -        26788  110  150 
+Rumford   974094395 10  5 c   f     -     -        26828   10    0 
+Rumford   974094445 10  4 c   kf    -     -        26818   10    0 
+Rumford   974094521 10  3 c   b     b     kf       26808  150    0 
+Rumford   974094562 10  2 Bk  b     b     -        26658  185  280 
+Rumford   974094590 10  1 Bc  k     bf    -        26753   50    0 
+Rumford   974094629 10 10 c   f     -     -        26703   10    0 
+Rumford   974094668 10  9 c   b     b     b        26693  725  990 
+Rumford   974094738 10  8 r   b     b     -        26958 1075 2040 
+Rumford   974094793 10  7 cc  f     -     -        27923  205    0 
+Rumford   974094825 10  6 f   -     -     -        27718    0    0 
+Rumford   974094868 10  5 f   -     -     -        27718    0    0 
+Rumford   974094918 10  4 c   k     kf    -        27718   10    0 
+Rumford   974094962 10  3 f   -     -     -        27708    0    0 
+Rumford   974095006 10  2 Bc  k     k     k        27708   35   75 Jd 4c
+Rumford   974095040 10  1 Bc  k     kf    -        27748   10    0 
+Rumford   974095116 10 10 r   f     -     -        27738   45    0 
+Rumford   974095167 10  9 c   f     -     -        27693   10    0 
+Rumford   974095190 10  8 c   f     -     -        27683   45    0 
+Rumford   974095221 10  7 c   b     b     k        27638  995    0 Td 9d
+Rumford   974095272 10  6 cc  kf    -     -        26643   55    0 
+Rumford   974095316 10  5 f   -     -     -        26588    0    0 
+Rumford   974095340 10  4 cc  k     kc    kf       26588  285    0 
+Rumford   974095428 10  3 f   -     -     -        26303    0    0 
+Rumford   974095480 10  2 Bc  k     kf    -        26303   55    0 
+Rumford   974095532 10  1 Bc  k     kf    -        26248   55    0 
+Rumford   974095621 10 10 c   k     k     f        26193   10    0 
+Rumford   974095677 10  9 c   k     k     f        26183   10    0 
+Rumford   974095735 10  8 f   -     -     -        26173    0    0 
+Rumford   974095763 10  7 f   -     -     -        26173    0    0 
+Rumford   974095804 10  6 cc  kf    -     -        26173   75    0 
+Rumford   974095863 10  5 f   -     -     -        26098    0    0 
+Rumford   974095908 10  4 f   -     -     -        26098    0    0 
+Rumford   974095949 10  3 f   -     -     -        26098    0    0 
+Rumford   974095997 10  2 Bk  bc    kf    -        26098  230    0 
+Rumford   974096044 10  1 Bf  -     -     -        25868    5    0 
+Rumford   974096085 10 10 cc  k     k     k        25863   60    0 2s 2d
+Rumford   974096130 10  9 c   c     c     b        25803  530  720 
+Rumford   974096179 10  8 f   -     -     -        25993    0    0 
+Rumford   974096215 10  7 f   -     -     -        25993    0    0 
+Rumford   974096269 10  6 f   -     -     -        25993    0    0 
+Rumford   974096399  8  4 c   cf    -     -        25993   60    0 
+Rumford   974096474  7  3 cc  b     -     -        25933  330  550 
+Rumford   974096533  8  2 Bf  -     -     -        26153   10    0 
+Rumford   974096576  8  1 Bf  -     -     -        26143    5    0 
+Rumford   974096620  8  8 f   -     -     -        26138    0    0 
+Rumford   974096671  8  7 f   -     -     -        26138    0    0 
+Rumford   974096703  8  6 cc  k     f     -        26138   70    0 
+Rumford   974096752  8  5 cc  kf    -     -        26068   45    0 
+Rumford   974096778  8  4 f   -     -     -        26023    0    0 
+Rumford   974096852  8  3 f   -     -     -        26023    0    0 
+Rumford   974096893  8  2 Bk  b     b     bf       26023  335    0 
+Rumford   974096935  8  1 Bf  -     -     -        25688    5    0 
+Rumford   974097003  8  8 f   -     -     -        25683    0    0 
+Rumford   974097022  8  7 f   -     -     -        25683    0    0 
+Rumford   974097037  8  6 f   -     -     -        25683    0    0 
+Rumford   974097061  8  5 f   -     -     -        25683    0    0 
+Rumford   974097070  8  4 f   -     -     -        25683    0    0 
+Rumford   974097093  8  3 f   -     -     -        25683    0    0 
+Rumford   974097111  8  2 Bk  kf    -     -        25683   10    0 
+Rumford   974097137  8  1 Bc  kf    -     -        25673   10    0 
+Rumford   974097178  8  8 f   -     -     -        25663    0    0 
+Rumford   974097265  7  6 rc  c     k     b        25663 1410 1417 6c Ac
+Rumford   974097309  8  6 c   b     b     b        25670  465  945 7c 7h
+Rumford   974097359  8  5 f   -     -     -        26150    0    0 
+Rumford   974097390  8  4 f   -     -     -        26150    0    0 
+Rumford   974097438  8  3 cc  k     kc    kc       26150  805 1710 9d Td
+Rumford   974097495  8  2 Bk  b     b     k        27055  310    0 6h 2h
+Rumford   974097541  8  1 Bf  -     -     -        26745    5    0 
+Rumford   974097598  8  8 f   -     -     -        26740    0    0 
+Rumford   974097630  8  7 cc  f     -     -        26740   50    0 
+Rumford   974097696  8  6 f   -     -     -        26690    0    0 
+Rumford   974097728  8  5 cc  kf    -     -        26690  200    0 
+Rumford   974097771  8  4 f   -     -     -        26490    0    0 
+Rumford   974097817  8  3 fQ  -     -     -        26490    0    0 
+Rumford   974173074  5  3 f   -     -     -        35190    0    0 
+Rumford   974173104  5  2 Bk  k     k     b        35190   30   60 6d Qh
+Rumford   974173133  5  1 Br  b     -     -        35220  130  180 
+Rumford   974173166  5  5 c   b     b     k        35270  150    0 Kc 8c
+Rumford   974173194  5  4 r   k     k     k        35120   35    0 9c Qd
+Rumford   974173215  6  3 rf  -     -     -        35085   35    0 
+Rumford   974173243  6  2 Bk  b     b     k        35050  190  405 7h 3h
+Rumford   974173265  6  1 Bf  -     -     -        35265    5    0 
+Rumford   974173290  6  6 c   c     k     b        35260  495  690 
+Rumford   974173320  6  5 r   f     -     -        35455   55    0 
+Rumford   974173359  6  4 f   -     -     -        35400    0    0 
+Rumford   974173409  6  3 f   -     -     -        35400    0    0 
+Rumford   974173471  6  2 Bk  c     f     -        35400   40    0 
+Rumford   974173508  6  1 Bf  -     -     -        35360    5    0 
+Rumford   974173525  6  6 f   -     -     -        35355    0    0 
+Rumford   974173574  6  5 f   -     -     -        35355    0    0 
+Rumford   974173628  6  4 r   b     k     k        35355  105    0 Qd Ah
+Rumford   974173680  6  3 c   f     -     -        35250   10    0 
+Rumford   974173709  6  2 B   -     -     -        35240   10   15 
+Rumford   974173716  6  1 Bf  -     -     -        35245    5    0 
+Rumford   974173736  6  6 f   -     -     -        35240    0    0 
+Rumford   974173746  6  5 r   b     -     -        35240  185  280 
+Rumford   974173778  6  4 f   -     -     -        35335    0    0 
+Rumford   974173808  6  3 f   -     -     -        35335    0    0 
+Rumford   974173838  6  2 Bf  -     -     -        35335   10    0 
+Rumford   974173871  7  1 Bc  b     kc    k        35325  170  360 Jc 6h
+Rumford   974173901  7  7 c   bf    -     -        35515  145    0 
+Rumford   974173950  6  5 f   -     -     -        35370    0    0 
+Rumford   974173993  6  4 cc  kc    kc    kf       35370  745    0 
+Rumford   974174051  6  3 r   b     b     -        34625  735 1120 
+Rumford   974174075  6  2 Bk  b     bf    -        35010  110    0 
+Rumford   974174106  7  1 BQ  -     -     -        34900    5    0 
+Rumford   974337113  7  3 f   -     -     -        35545    0    0 
+Rumford   974337219  6  2 Bc  kc    k     k        35185  185  420 Tc 4c
+Rumford   974337241  6  1 Bc  kf    -     -        35420   10    0 
+Rumford   974337259  6  6 c   r     -     -        35410  210  320 
+Rumford   974337283  6  5 c   c     b     f        35460  520    0 
+Rumford   974337347  7  4 f   -     -     -        35320    0    0 
+Rumford   974337387  6  3 r   -     -     -        35320   35   50 
+Rumford   974337402  6  2 Bc  kf    -     -        35335   35    0 
+Rumford   974337425  6  1 Bc  kr    -     -        35300  130  180 
+Rumford   974337454  6  6 r   b     -     -        35350  150  210 
+Rumford   974337479  6  5 c   b     b     k        35410  170  360 3h As
+Rumford   974337531  6  4 c   b     -     -        35540   40   60 
+Rumford   974337563  6  3 f   -     -     -        35610    0    0 
+Rumford   974337574  6  2 Bc  bc    c     k        35610 1400 2835 9d 9s
+Rumford   974337614  6  1 Bc  kf    -     -        37045   10    0 
+Rumford   974337636  6  6 f   -     -     -        36855    0    0 
+Rumford   974337670  6  5 r   f     -     -        36855   35    0 
+Rumford   974337708  6  4 f   -     -     -        36820    0    0 
+Rumford   974337714  6  3 r   b     -     -        36820  150  230 
+Rumford   974337730  6  2 Bc  k     b     k        36900  110  225 4s Ks
+Rumford   974337758  6  1 Bc  b     kc    k        37015   90    0 8d 6d
+Rumford   974337794  6  6 r   -     -     -        36925   35   50 
+Rumford   974337804  6  5 r   k     c     f        36940  655    0 
+Rumford   974337854  7  4 c   r     b     k        36285 1595    0 Qc Kd
+Rumford   974337901  7  3 c   kf    -     -        34650   10    0 
+Rumford   974337954  7  2 Bk  b     -     -        34600   45   70 
+Rumford   974337975  7  1 Bc  kf    -     -        34615   10    0 
+Rumford   974338017  7  7 c   k     f     -        34605   10    0 
+Rumford   974338059  7  6 f   -     -     -        34595    0    0 
+Rumford   974338093  8  5 f   -     -     -        34435    0    0 
+Rumford   974338107  7  4 f   -     -     -        34435    0    0 
+Rumford   974338140  7  3 c   b     -     -        34435   50   80 
+Rumford   974338180  7  2 Bf  -     -     -        34405   10    0 
+Rumford   974338223  7  1 BQ  -     -     -        34395    5    0 
+Rumford   974351978  3  2 Bk  rf    -     -        32890  130    0 
+Rumford   974352027  3  1 Bcf -     -     -        32760   35    0 
+Rumford   974352074  2  2 cc  k     k     k        32725   30   60 Kc 9h
+Rumford   974352097  2  2 B   -     -     -        32755   10   15 
+Rumford   974352103  2  1 Brc kf    -     -        32760   90    0 
+Rumford   974352117  2  2 Bf  -     -     -        32670   10    0 
+Rumford   974352119  2  1 Bcc k     k     k        32660   30   60 7d Ac
+Rumford   974352132  2  2 Brc c     b     -        32690 2430 3240 
+Rumford   974352145  2  1 Bc  k     k     k        33500   10    0 5d 7d
+Rumford   974352155  2  2 B   -     -     -        33490   10   15 
+Rumford   974352160  2  1 Bf  -     -     -        33495    5    0 
+Rumford   974352162  2  2 Bf  -     -     -        33490   10    0 
+Rumford   974352164  2  1 Bf  -     -     -        33480    5    0 
+Rumford   974352166  2  2 Bc  f     -     -        33475   30    0 
+Rumford   974352170  2  1 Bf  -     -     -        33445    5    0 
+Rumford   974352175  2  2 B   -     -     -        33440   10   15 
+Rumford   974352177  2  1 Bf  -     -     -        33445    5    0 
+Rumford   974352179  2  2 Brf -     -     -        33440   90    0 
+Rumford   974352188  2  1 Bf  -     -     -        33350    5    0 
+Rumford   974352197  2  2 B   -     -     -        33345   10   15 
+Rumford   974352199  2  1 Bf  -     -     -        33350    5    0 
+Rumford   974352202  2  2 Bf  -     -     -        33345   10    0 
+Rumford   974352207  2  1 Bf  -     -     -        33335    5    0 
+Rumford   974352211  2  2 B   -     -     -        33330   10   15 
+Rumford   974352213  2  1 Bf  -     -     -        33335    5    0 
+Rumford   974352214  2  2 Bc  f     -     -        33330   30    0 
+Rumford   974352222  2  1 Bf  -     -     -        33300    5    0 
+Rumford   974352226  2  2 Bc  c     c     f        33295  270    0 
+Rumford   974352237  2  1 Bf  -     -     -        33025    5    0 
+Rumford   974352241  2  2 B   -     -     -        33020   10   15 
+Rumford   974352243  2  1 Bf  -     -     -        33025    5    0 
+Rumford   974352246  2  2 Bf  -     -     -        33020   10    0 
+Rumford   974352250  2  1 Bf  -     -     -        33010    5    0 
+Rumford   974352254  2  2 B   -     -     -        33005   10   15 
+Rumford   974355576  2  2 B   -     -     -        33010   10   20 
+Rumford   974355641  2  1 BQ  -     -     -        26420    5    0 
+Rumford   974611042  6  3 cc  k     b     b         8822  595 1215 2h 2d
+Rumford   974611077  6  2 Bk  b     -     -         9442   30   40 
+Rumford   974611096  6  1 Bc  b     -     -         9452   50   80 
+Rumford   974611116  6  6 c   b     k     f         9482   60    0 
+Rumford   974611197  7  5 f   -     -     -         9422    0    0 
+Rumford   974611234  7  4 r   r     b     k         9422  710 1500 Qh Qc
+Rumford   974611279  8  3 f   -     -     -        10212    0    0 
+Rumford   974611300  8  2 Bk  b     k     k        10212   45    0 5h 9s
+Rumford   974611337  8  1 Bc  kf    -     -        10167   10    0 
+Rumford   974611376  8  8 c   c     c     f        10157  210    0 
+Rumford   974611413  8  7 cf  -     -     -         9947   35    0 
+Rumford   974611443  8  6 cc  b     -     -         9912  140  285 
+Rumford   974611464  8  5 f   -     -     -        10057    0    0 
+Rumford   974611500  8  4 f   -     -     -        10057    0    0 
+Rumford   974611520  8  4 f   -     -     -        10057    0    0 
+Rumford   974611564  7  2 Bf  -     -     -        10057   10    0 
+Rumford   974611603  6  1 Bf  -     -     -        10047    5    0 
+Rumford   974611646  6  6 f   -     -     -        10042    0    0 
+Rumford   974611704  6  5 f   -     -     -        10042    0    0 
+Rumford   974611741  6  4 c   f     -     -        10042   10    0 
+Rumford   974611791  6  3 f   -     -     -        10032    0    0 
+Rumford   974611822  6  2 Bk  b     -     -        10032   35   50 
+Rumford   974611842  6  1 Bf  -     -     -        10047    5    0 
+Rumford   974611886  5  5 r   c     b     -        10042  335  450 
+Rumford   974611906  5  4 c   k     c     c        10157  150    0 Kc Qd
+Rumford   974611947  5  3 f   -     -     -        10007    0    0 
+Rumford   974611982  7  2 Bk  b     b     kc       10007  335    0 Ah 8s
+Rumford   974612018  7  1 Bcc k     k     kf        9672   50    0 
+Rumford   974612078  7  7 f   -     -     -         9622    0    0 
+Rumford   974612122  7  6 r   b     b     kf        9622  375    0 
+Rumford   974612159  7  5 c   c     k     b         9247  150  210 
+Rumford   974612197  7  4 c   bc    k     b         9307  790 1080 
+Rumford   974612254  7  3 c   b     -     -         9597   45   70 
+Rumford   974612272  7  2 Bc  kcc   k     k         9622  395  980 8h 3h
+Rumford   974612307  7  1 Bcc kc    kf    -        10207  160    0 
+Rumford   974612355  7  7 c   k     b     -        10047   50   80 
+Rumford   974612391  7  6 f   -     -     -        10077    0    0 
+Rumford   974612414  7  5 f   -     -     -        10077    0    0 
+Rumford   974612441  7  4 f   -     -     -        10077    0    0 
+Rumford   974612507  7  3 f   -     -     -        10077    0    0 
+Rumford   974612532  7  2 Bk  b     k     k        10077   50    0 5c 7h
+Rumford   974612572  7  1 Bf  -     -     -        10027    5    0 
+Rumford   974612616  7  7 c   b     b     -        10022  150  210 
+Rumford   974612671  7  6 f   -     -     -        10082    0    0 
+Rumford   974612685  7  5 c   f     -     -        10082   10    0 
+Rumford   974612721  8  4 cc  f     -     -        10072   40    0 
+Rumford   974612755  8  3 cc  k     bc    b        10032 1410 2835 9h Qd
+Rumford   974612798  8  2 Bc  b     b     -        11457  735 1050 
+Rumford   974612835  8  1 Bc  kf    -     -        11772   45    0 
+Rumford   974612892  8  8 c   r     k     b        11727  220  300 
+Rumford   974612935  8  7 c   f     -     -        11807   35    0 
+Rumford   974612981  8  6 cc  k     b     -        11772  190  270 
+Rumford   974613011  8  5 c   c     c     f        11852  310    0 
+Rumford   974613059  8  4 cc  b     b     kf       11542  605    0 
+Rumford   974613105  8  3 f   -     -     -        10937    0    0 
+Rumford   974613137  8  2 Bf  -     -     -        10937   10    0 
+Rumford   974613150  8  1 Bc  kc    kc    kf       10927  455    0 
+Rumford   974613185  8  8 f   -     -     -        10472    0    0 
+Rumford   974613211  8  7 f   -     -     -        10472    0    0 
+Rumford   974613247  8  6 c   f     -     -        10472   35    0 
+Rumford   974613284  8  6 cc  f     -     -        10437   50    0 
+Rumford   974613315  7  4 f   -     -     -        10387    0    0 
+Rumford   974613330  7  3 f   -     -     -        10387    0    0 
+Rumford   974613345  7  2 Bf  -     -     -        10387   10    0 
+Rumford   974613377  7  1 Brc k     b     -        10377  270  360 
+Rumford   974613401  8  7 c   c     c     c        10467  400    0 Jh Tc
+Rumford   974613439  8  6 cc  c     r     k        10067  560    0 5h Ac
+Rumford   974613475  8  5 r   b     -     -         9507  150  210 
+Rumford   974613499  8  4 f   -     -     -         9567    0    0 
+Rumford   974613533  8  3 f   -     -     -         9567    0    0 
+Rumford   974613564  8  2 Bc  kc    k     f         9567  175    0 
+Rumford   974613648  7  1 Bc  b     b     b         9392  660    0 As 3s
+Rumford   974613684  7  7 r   b     b     -         8732  775 1080 
+Rumford   974613719  8  7 c   f     -     -         9037   35    0 
+Rumford   974613746  9  7 f   -     -     -         9002    0    0 
+Rumford   974613771  9  6 c   b     b     k         9002  230    0 6d 8d
+Rumford   974613826  9  5 f   -     -     -         8772    0    0 
+Rumford   974613889  9  4 cc  kc    k     kc        8772  645 1350 8c 7c
+Rumford   974613934  8  2 Bk  k     k     k         9477   10    0 9h 2c
+Rumford   974613985  9  1 Br  b     -     -         9467  485  660 
+Rumford   974614009  9  9 c   b     k     f         9642  495    0 
+Rumford   974614066  9  8 c   k     f     -         9147   45    0 
+Rumford   974614098  9  7 f   -     -     -         9102    0    0 
+Rumford   974614119  9  6 f   -     -     -         9102    0    0 
+Rumford   974614198  9  5 f   -     -     -         9102    0    0 
+Rumford   974614270  9  4 f   -     -     -         9102    0    0 
+Rumford   974614309  9  3 r   b     b     -         9102  560  840 
+Rumford   974614345  9  2 Bc  kc    b     -         9382  785 1110 
+Rumford   974614389  9  1 Bc  b     b     -         9707  735 1050 
+Rumford   974614420  9  9 c   k     f     -        10022   10    0 
+Rumford   974614464  9  8 c   c     f     -        10012   60    0 
+Rumford   974614521  9  7 c   k     b     b         9952  250  360 
+Rumford   974614600  9  6 c   k     f     -        10062   10    0 
+Rumford   974614652  9  5 r   b     -     -        10052  280  450 
+Rumford   974614680  9  4 f   -     -     -        10222    0    0 
+Rumford   974614692  9  3 cc  k     k     k        10222   65    0 Ac 6c
+Rumford   974614751  9  2 Bk  k     kf    -        10157   10    0 
+Rumford   974614813  9  1 Bc  b     b     kc       10147  860    0 Ah 4s
+Rumford   974614862  9  9 r   f     -     -         9287   55    0 
+Rumford   974614938  9  8 f   -     -     -         9232    0    0 
+Rumford   974614990  9  7 f   -     -     -         9232    0    0 
+Rumford   974615051  9  6 c   b     -     -         9232   55   90 
+Rumford   974615091  9  5 cc  c     b     -         9267  805 1140 
+Rumford   974615137  9  4 f   -     -     -         9602    0    0 
+Rumford   974615174  9  3 f   -     -     -         9602    0    0 
+Rumford   974615197  9  2 Bk  b     b     -         9602  150  210 
+Rumford   974615250  9  1 Bf  -     -     -         9662    5    0 
+Rumford   974615287  9  9 rc  c     c     f         9657 1815    0 
+Rumford   974615335 10  9 r   b     c     k         7842  902    0 8d 7d
+Rumford   974615414 10  8 c   k     f     -         6940   10    0 
+Rumford   974615479 10  7 c   kc    k     k         6930   55    0 Ks Td
+Rumford   974615534  9  6 f   -     -     -         6875    0    0 
+Rumford   974615574  9  5 c   b     -     -         6875   50   80 
+Rumford   974615617  9  4 c   b     b     k         6905  235  540 Kh 8c
+Rumford   974615670  9  3 r   k     k     f         7210   35    0 
+Rumford   974615697  9  2 Bk  k     k     k         7175   10    0 3d Jd
+Rumford   974615731  9  1 Bc  kf    -     -         7165   35    0 
+Rumford   974615769  9  9 f   -     -     -         7130    0    0 
+Rumford   974615827  9  8 c   k     b     -         7130   45   70 
+Rumford   974615882  9  7 f   -     -     -         7155    0    0 
+Rumford   974615910  9  6 c   k     k     f         7155   10    0 
+Rumford   974615958  9  5 r   kf    -     -         7145   45    0 
+Rumford   974616018  9  4 f   -     -     -         7100    0    0 
+Rumford   974616049  9  3 cc  kc    b     -         7100  645  900 
+Rumford   974616078  9  2 B   -     -     -         7355   10   15 
+Rumford   974616090  9  1 Bc  b     b     -         7360  210  300 
+Rumford   974616135 10 10 c   k     k     f         7450   35    0 
+Rumford   974616205 10  9 f   -     -     -         7415    0    0 
+Rumford   974616257 10  8 rc  b     k     k         7415  482 1289 Kc Kh
+Rumford   974616301 10  7 f   -     -     -         8222    0    0 
+Rumford   974616344 10  6 f   -     -     -         8222    0    0 
+Rumford   974616389 10  5 rc  b     b     k         8222 1140    0 2s 7s
+Rumford   974616433 10  4 cc  kf    -     -         7082   65    0 
+Rumford   974616513 10  3 c   k     k     k         7017   10    0 9s Kc
+Rumford   974616557 10  2 Bf  -     -     -         7007   10    0 
+Rumford   974616586  9  1 Bc  k     k     k         6997   55    0 As 4c
+Rumford   974616644  9  9 c   b     k     f         6942   45    0 
+Rumford   974616691  9  8 c   k     f     -         6897   35    0 
+Rumford   974616716  9  7 f   -     -     -         6862    0    0 
+Rumford   974616753  9  6 f   -     -     -         6862    0    0 
+Rumford   974616809  9  5 f   -     -     -         6862    0    0 
+Rumford   974616864  9  4 cc  kf    -     -         6862   55    0 
+Rumford   974616904  9  3 cc  k     k     b         6807  230  555 Kd As
+Rumford   974616941  9  2 Br  b     -     -         7132  815 1140 
+Rumford   974616969  9  1 Bc  bc    k     bf        7457 1855    0 
+Rumford   974617003  9  9 f   -     -     -         5602    0    0 
+Rumford   974617043 10  9 r   b     -     -         5602  965 1550 
+Rumford   974617082 10  8 cc  k     k     k         6187   55    0 4d As
+Rumford   974617132  9  6 f   -     -     -         6132    0    0 
+Rumford   974617154  9  5 f   -     -     -         6132    0    0 
+Rumford   974617184  9  4 cc  k     k     k         6132   45   73 3h Ah
+Rumford   974617245  9  3 f   -     -     -         6160    0    0 
+Rumford   974617281  9  2 Bc  kc    k     k         6160  250    0 9h 8c
+Rumford   974617351  9  1 Bf  -     -     -         5910    5    0 
+Rumford   974617405  8  8 f   -     -     -         5905    0    0 
+Rumford   974617414  7  6 f   -     -     -         5905    0    0 
+Rumford   974617482  7  6 f   -     -     -         5905    0    0 
+Rumford   974617525  7  5 cc  k     k     k         5905   55  230 Tc Ad
+Rumford   974617561  7  4 f   -     -     -         6080    0    0 
+Rumford   974617617  7  3 f   -     -     -         6080    0    0 
+Rumford   974617641  7  2 Bf  -     -     -         6080   10    0 
+Rumford   974617683  7  1 Bc  kf    -     -         6070   45    0 
+Rumford   974617708  7  7 f   -     -     -         6025    0    0 
+Rumford   974617747  7  6 f   -     -     -         6025    0    0 
+Rumford   974617800  7  5 f   -     -     -         6025    0    0 
+Rumford   974617808  7  4 f   -     -     -         6025    0    0 
+Rumford   974617828  7  3 f   -     -     -         6025    0    0 
+Rumford   974617856  7  2 Bk  kf    -     -         6025   10    0 
+Rumford   974617884  7  1 Bc  k     kf    -         6015   45    0 
+Rumford   974617925  7  7 r   -     -     -         5970   35   50 
+Rumford   974617938  7  6 c   -     -     -         5985   10   25 
+Rumford   974617953  7  5 f   -     -     -         6000    0    0 
+Rumford   974617978  7  4 c   b     b     k         6000  185    0 Ac Kc
+Rumford   974618021  7  3 f   -     -     -         5815    0    0 
+Rumford   974618051  7  2 Bk  k     k     k         5815   10    0 6s 5d
+Rumford   974618090  7  1 Bc  kf    -     -         5805   10    0 
+Rumford   974618133  7  7 f   -     -     -         5795    0    0 
+Rumford   974618144  7  6 f   -     -     -         5795    0    0 
+Rumford   974618178  7  5 f   -     -     -         5795    0    0 
+Rumford   974618216  7  4 r   b     -     -         5795  150  230 
+Rumford   974618243  7  3 f   -     -     -         5875    0    0 
+Rumford   974618275  7  2 Bc  k     k     k         5875   45    0 5s 4s
+Rumford   974618344  6  1 Bf  -     -     -         5830    5    0 
+Rumford   974618353  6  6 f   -     -     -         5825    0    0 
+Rumford   974618388  7  6 c   r     bf    -         5825  400    0 
+Rumford   974618417  5  4 c   kf    -     -         5425   10    0 
+Rumford   974618451  5  4 c   k     k     k         5415   10    0 6s Ac
+Rumford   974618491  5  3 cf  -     -     -         5405   10    0 
+Rumford   974618521  4  2 Bc  k     k     k         5395   35    0 Ad Ks
+Rumford   974618542  4  1 Bf  -     -     -         5360    5    0 
+Rumford   974618548  4  4 c   k     b     -         5355   40   60 
+Rumford   974618576  4  3 r   bc    k     k         5375  205    0 7d 7h
+Rumford   974618603  4  2 Bk  kc    k     b         5170  110  225 Th As
+Rumford   974618630  4  1 Bf  -     -     -         5285    5    0 
+Rumford   974618639  4  4 f   -     -     -         5280    0    0 
+Rumford   974618655  4  3 rc  b     kc    k         5280  300    0 Qs Th
+Rumford   974618694  4  2 Bk  b     b     b         4980  400  540 
+Rumford   974618734  4  1 Bc  k     k     b         5120   40   60 
+Rumford   974618771  4  4 f   -     -     -         5140    0    0 
+Rumford   974618791  4  3 f   -     -     -         5140    0    0 
+Rumford   974618795  4  2 Bk  k     k     k         5140   10    0 Jc 2d
+Rumford   974618824  5  1 Bc  kf    -     -         5130   10    0 
+Rumford   974618878  5  5 f   -     -     -         5120    0    0 
+Rumford   974618894  5  4 f   -     -     -         5120    0    0 
+Rumford   974618904  5  3 f   -     -     -         5120    0    0 
+Rumford   974618925  5  2 Bk  b     k     k         5120   40    0 9h 7d
+Rumford   974618983  6  1 Bc  b     kf    -         5080  285    0 
+Rumford   974619054  7  6 f   -     -     -         4795    0    0 
+Rumford   974619090  7  5 c   c     b     k         4795  210    0 Ts 8h
+Rumford   974619157  7  4 f   -     -     -         4585    0    0 
+Rumford   974619201  7  3 cc  kf    -     -         4585   45    0 
+Rumford   974619237  7  2 Bk  kf    -     -         4540   10    0 
+Rumford   974619267  7  1 Bc  kf    -     -         4530   10    0 
+Rumford   974619325  7  7 rc  f     -     -         4520  115    0 
+Rumford   974619346  7  6 c   k     c     b         4405  170  360 5h Kh
+Rumford   974619398  7  5 c   c     f     -         4595   40    0 
+Rumford   974619491  5  4 f   -     -     -         4555    0    0 
+Rumford   974619520  5  3 cc  kc    kc    kf        4555  795    0 
+Rumford   974619549  6  2 Bk  f     -     -         3760   10    0 
+Rumford   974619588  6  1 Bc  k     kr    -         3750  130  180 
+Rumford   974619608  6  6 f   -     -     -         3800    0    0 
+Rumford   974619630  6  5 cc  k     f     -         3800   55    0 
+Rumford   974619681  6  4 f   -     -     -         3745    0    0 
+Rumford   974619703  6  3 f   -     -     -         3745    0    0 
+Rumford   974619737  6  2 Bk  kf    -     -         3745   10    0 
+Rumford   974619767  6  1 Bf  -     -     -         3735    5    0 
+Rumford   974619812  6  6 r   b     k     b         3730 1165    0 2c Qc
+Rumford   974619841  6  5 f   -     -     -         2565    0    0 
+Rumford   974619882  6  4 r   b     k     k         2565  110    0 9c 9d
+Rumford   974619907  6  3 f   -     -     -         2455    0    0 
+Rumford   974619933  6  2 B   -     -     -         2455   10   15 
+Rumford   974619939  6  1 Bf  -     -     -         2460    5    0 
+Rumford   974619957  6  6 f   -     -     -         2455    0    0 
+Rumford   974619973  6  5 f   -     -     -         2455    0    0 
+Rumford   974619994  6  4 c   b     b     -         2455  375  510 
+Rumford   974620029  6  3 f   -     -     -         2590    0    0 
+Rumford   974620034  6  2 Bk  k     k     k         2590   10    0 2d 8h
+Rumford   974620062  6  1 Bf  -     -     -         2580    5    0 
+Rumford   974620098  6  6 c   f     -     -         2575   10    0 
+Rumford   974620113  6  5 f   -     -     -         2565    0    0 
+Rumford   974620141  7  4 c   k     k     k         2565   10   40 3d 3s
+Rumford   974620170  7  3 f   -     -     -         2595    0    0 
+Rumford   974620189  7  2 Bc  kf    -     -         2595   50    0 
+Rumford   974620237  7  1 Br  -     -     -         2545   30   40 
+Rumford   974620249  7  7 f   -     -     -         2555    0    0 
+Rumford   974620298  6  5 c   f     -     -         2555   10    0 
+Rumford   974620363  6  5 c   f     -     -         2545   10    0 
+Rumford   974620392  6  4 c   k     b     k         2535   35    0 Ah 2c
+Rumford   974620417  6  3 r   bf    -     -         2500  120    0 
+Rumford   974620437  6  2 Bf  -     -     -         2380   10    0 
+Rumford   974620484  6  1 Bf  -     -     -         2370    5    0 
+Rumford   974620513  6  6 f   -     -     -         2365    0    0 
+Rumford   974620527  6  5 c   b     -     -         2365   50   80 
+Rumford   974620593  6  4 c   k     b     k         2395   35    0 Qh 5h
+Rumford   974620627  5  3 f   -     -     -         2360    0    0 
+Rumford   974620640  5  2 Bk  b     k     kf        2360   40    0 
+Rumford   974620667  5  1 Bc  k     b     -         2320   30   40 
+Rumford   974620680  5  5 f   -     -     -         2330    0    0 
+Rumford   974620699  5  4 c   b     -     -         2330   40   60 
+Rumford   974620721  5  3 r   b     -     -         2350  110  150 
+Rumford   974620743  5  2 B   -     -     -         2390   10   15 
+Rumford   974620750  5  1 Bf  -     -     -         2395    5    0 
+Rumford   974620772  5  5 r   k     c     f         2390  115    0 
+Rumford   974620798  5  4 c   k     f     -         2275   10    0 
+Rumford   974620845  6  3 c   kf    -     -         2265   10    0 
+Rumford   974620892  6  2 Bk  b     -     -         2255   45   70 
+Rumford   974620907  6  1 Bf  -     -     -         2280    5    0 
+Rumford   974620924  6  6 c   b     bf    -         2275  645    0 
+Rumford   974620961  6  5 r   kf    -     -         1630   45    0 
+Rumford   974621042  6  4 f   -     -     -         1585    0    0 
+Rumford   974621090  6  3 c   cf    -     -         1585   60    0 
+Rumford   974621141  6  2 Bc  k     k     f         1525   50    0 
+Rumford   974621183  7  1 Bf  -     -     -         1475    5    0 
+Rumford   974621196  6  6 f   -     -     -         1470    0    0 
+Rumford   974621213  6  5 f   -     -     -         1470    0    0 
+Rumford   974621221  6  4 f   -     -     -         1470    0    0 
+Rumford   974621248  6  3 f   -     -     -         1470    0    0 
+Rumford   974621276  6  2 Br  b     k     kc        1470  335    0 Ah Qs
+Rumford   974621303  6  1 Bf  -     -     -         1135    5    0 
+Rumford   974621332  6  6 r   b     -     -         1130  115  160 
+Rumford   974621352  6  5 c   f     -     -         1175   45    0 
+Rumford   974621378  6  4 f   -     -     -         1130    0    0 
+Rumford   974621415  6  3 f   -     -     -         1130    0    0 
+Rumford   974621455  7  2 B   -     -     -         1130   10   15 
+Rumford   974621471  7  1 Bf  -     -     -         1135    5    0 
+Rumford   974621563  6  6 f   -     -     -         1130    0    0 
+Rumford   974621612  5  4 f   -     -     -         1130    0    0 
+Rumford   974621653  6  3 f   -     -     -         1130    0    0 
+Rumford   974621670  6  2 Bc  k     b     -         1130  360  600 
+Rumford   974621721  6  1 Bc  kc    kf    -         1370   40    0 
+Rumford   974621767  6  6 f   -     -     -         1330    0    0 
+Rumford   974621793  6  5 c   b     k     k         1330   45    0 9c 8s
+Rumford   974621831  6  4 f   -     -     -         1285    0    0 
+Rumford   974621856  6  3 f   -     -     -         1285    0    0 
+Rumford   974621872  6  2 Bc  b     -     -         1285   90  120 
+Rumford   974621887  6  1 Bc  k     kc    kf        1315   60    0 
+Rumford   974621938  6  6 c   k     c     f         1255   50    0 
+Rumford   974621993  7  6 cc  k     kf    -         1205   55    0 
+Rumford   974622035  8  5 c   b     -     -         1150   45   70 
+Rumford   974622052  8  4 f   -     -     -         1175    0    0 
+Rumford   974622058  8  3 c   b     kc    k         1175  190    0 Qs Qh
+Rumford   974622125  8  2 B   -     -     -          985   10   15 
+Rumford   974622203  7  1 Bc  k     k     k          990   10    0 7c Ac
+Rumford   974622239  7  7 f   -     -     -          980    0    0 
+Rumford   974622259  7  6 f   -     -     -          980    0    0 
+Rumford   974622288  6  4 cc  k     k     k          980   55    0 9h Qh
+Rumford   974622355  6  3 c   k     k     k          925   10    0 7c 8h
+Rumford   974622394  6  2 Bc  b     -     -          915  210  350 
+Rumford   974622454  6  1 Bc  b     b     k         1055  130  270 9c Js
+Rumford   974622501  6  6 f   -     -     -         1195    0    0 
+Rumford   974622631  5  5 f   -     -     -         1195    0    0 
+Rumford   974622649  5  4 f   -     -     -         1195    0    0 
+Rumford   974622667  5  3 f   -     -     -         1195    0    0 
+Rumford   974622670  5  2 Bf  -     -     -         1195   10    0 
+Rumford   974622702  6  1 Bc  b     -     -         1185   40   60 
+Rumford   974622723  6  6 cc  b     -     -         1205  130  180 
+Rumford   974622748  5  4 cc  k     k     -         1255   45  145 
+Rumford   974651166  4  2 BQ  -     -     -         1355   10    0 
+Rumford   974760765  2  1 Bc  b     -     -         4601   30   40 
+Rumford   974760778  2  2 B   -     -     -         4611   10   15 
+Rumford   974760781  2  1 Bf  -     -     -         4616    5    0 
+Rumford   974760784  2  2 Br  f     -     -         4611   30    0 
+Rumford   974760794  2  1 Bf  -     -     -         4581    5    0 
+Rumford   974760798  2  2 Br  b     k     f         4576   90    0 
+Rumford   974760818  2  1 Bcc kc    k     k         4486   90    0 2s 2h
+Rumford   974760842  2  2 B   -     -     -         4396   10   15 
+Rumford   974760847  2  1 Bf  -     -     -         4401    5    0 
+Rumford   974760850  2  2 Bk  b     -     -         4396   30   40 
+Rumford   974760857  2  1 Bf  -     -     -         4406    5    0 
+Rumford   974760861  2  2 Bk  c     b     -         4401   90  120 
+Rumford   974760874  2  1 Bc  b     -     -         4431   30   40 
+Rumford   974760881  2  2 B   -     -     -         4441   10   15 
+Rumford   974760885  2  1 Bf  -     -     -         4446    5    0 
+Rumford   974760887  2  2 Bk  k     b     k         4441   30    0 7s 5h
+Rumford   974760904  3  1 Bf  -     -     -         4411    5    0 
+Rumford   974760909  3  3 r   k     b     -         4406  110  150 
+Rumford   974760926  3  2 Bk  f     -     -         4446   10    0 
+Rumford   974760937  3  1 Bf  -     -     -         4436    5    0 
+Rumford   974760951  3  3 r   b     -     -         4431  110  150 
+Rumford   974760963  3  2 Bk  f     -     -         4471   10    0 
+Rumford   974760973  3  1 Bf  -     -     -         4461    5    0 
+Rumford   974760983  3  3 f   -     -     -         4456    0    0 
+Rumford   974760991  3  2 Bk  k     f     -         4456   10    0 
+Rumford   974761005  3  1 Bf  -     -     -         4446    5    0 
+Rumford   974761020  3  3 r   -     -     -         4441   35   50 
+Rumford   974761027  3  2 Bk  c     f     -         4456   30    0 
+Rumford   974761041  3  1 Bf  -     -     -         4426    5    0 
+Rumford   974761055  3  3 c   b     -     -         4421   40   60 
+Rumford   974761078  3  2 B   -     -     -         4441   10   15 
+Rumford   974761081  3  1 Bc  b     -     -         4446   30   40 
+Rumford   974761089  3  3 c   b     k     f         4456   40    0 
+Rumford   974761120  3  2 Bk  k     b     -         4416   40   60 
+Rumford   974761134  3  1 Bc  kf    -     -         4436   10    0 
+Rumford   974761144  3  3 c   b     k     k         4426   40  120 7h 7s
+Rumford   974761166  3  2 Bk  b     -     -         4506   30   40 
+Rumford   974761181  3  1 Bf  -     -     -         4516    5    0 
+Rumford   974761192  3  3 r   -     -     -         4511   35   50 
+Rumford   974761199  3  2 Bk  b     c     f         4526   90    0 
+Rumford   974761217  3  1 Bf  -     -     -         4436    5    0 
+Rumford   974761223  3  3 r   k     b     -         4431  110  150 
+Rumford   974761244  3  2 B   -     -     -         4471   10   15 
+Rumford   974761246  3  1 Bc  b     k     kf        4476   40    0 
+Rumford   974761268  3  3 f   -     -     -         4436    0    0 
+Rumford   974761278  3  2 Bk  b     b     c         4436  270    0 9h 5d
+Rumford   974761307  3  1 Br  -     -     -         4166   30   40 
+Rumford   974761316  3  3 r   -     -     -         4176   35   50 
+Rumford   974761319  3  2 B   -     -     -         4191   10   15 
+Rumford   974761325  3  1 Bc  b     k     k         4196   30    0 Ks Tc
+Rumford   974761343  2  2 B   -     -     -         4166   10   15 
+Rumford   974761348  2  1 Br  -     -     -         4171   30   40 
+Rumford   974761352  2  2 B   -     -     -         4181   10   15 
+Rumford   974761355  2  1 Bc  b     -     -         4186   30   40 
+Rumford   974761362  2  2 B   -     -     -         4196   10   15 
+Rumford   974761365  2  1 Bc  b     -     -         4201   30   40 
+Rumford   974761371  2  2 B   -     -     -         4211   10   15 
+Rumford   974761374  2  1 Bf  -     -     -         4216    5    0 
+Rumford   974761378  2  2 Bk  b     -     -         4211   30   40 
+Rumford   974761385  2  1 Bf  -     -     -         4221    5    0 
+Rumford   974761389  2  2 B   -     -     -         4216   10   15 
+Rumford   974761393  2  1 Bc  b     kc    k         4221   90  180 8h Qc
+Rumford   974761411  2  2 Bk  c     c     f         4311   90    0 
+Rumford   974761432  2  1 Bc  b     -     -         4221   30   40 
+Rumford   974761440  2  2 B   -     -     -         4231   10   15 
+Rumford   974761443  2  1 Bc  b     -     -         4236   30   40 
+Rumford   974761452  2  2 Bc  f     -     -         4246   30    0 
+Rumford   974761459  2  1 Br  k     b     -         4216   90  120 
+Rumford   974761470  2  2 Bk  f     -     -         4246   10    0 
+Rumford   974761476  2  1 Br  b     k     k         4236   90  180 7h Td
+Rumford   974761491  2  2 B   -     -     -         4326   10   15 
+Rumford   974761496  2  1 Bf  -     -     -         4331    5    0 
+Rumford   974761499  2  2 Bc  c     b     -         4326  270  360 
+Rumford   974761516  2  1 Bc  b     b     -         4416   90  120 
+Rumford   974761527  2  2 B   -     -     -         4446   10   15 
+Rumford   974761530  2  1 Bc  b     k     b         4451   90  120 
+Rumford   974761545  2  2 B   -     -     -         4481   10   15 
+Rumford   974761548  2  1 Bc  k     k     k         4486   10   20 2h Jh
+Rumford   974761560  2  2 Bk  k     k     k         4496   10    0 2d Jh
+Rumford   974761573  2  1 Br  b     -     -         4486   90  120 
+Rumford   974761581  2  2 Bk  k     f     -         4516   10    0 
+Rumford   974761589  2  1 Bf  -     -     -         4506    5    0 
+Rumford   974761592  2  2 Bk  f     -     -         4501   10    0 
+Rumford   974761598  2  1 Br  b     b     -         4491  270  360 
+Rumford   974761612  2  2 Bc  f     -     -         4581   30    0 
+Rumford   974761640  2  1 Bc  b     k     b         4551   90  120 
+Rumford   974761655  2  2 B   -     -     -         4581   10   15 
+Rumford   974761658  2  1 Br  -     -     -         4586   30   40 
+Rumford   974761663  2  2 Bk  c     k     r         4596  270  270 Td 4h
+Rumford   974761679  2  1 Bc  b     bf    -         4596   90    0 
+Rumford   974761693  2  2 Bc  f     -     -         4506   30    0 
+Rumford   974761699  2  1 Bf  -     -     -         4476    5    0 
+Rumford   974761702  2  2 B   -     -     -         4471   10   15 
+Rumford   974761706  2  1 Bcc b     kf    -         4476   90    0 
+Rumford   974761727  2  2 Bk  b     -     -         4386   30   40 
+Rumford   974761735  2  1 Bc  b     -     -         4396   30   40 
+Rumford   974761743  2  2 B   -     -     -         4406   10   15 
+Rumford   974761745  2  1 Bcc kc    k     k         4411   90  180 7c Kh
+Rumford   974761779  2  2 B   -     -     -         4501   10   15 
+Rumford   974761784  2  1 Bf  -     -     -         4506    5    0 
+Rumford   974761787  2  2 B   -     -     -         4501   10   15 
+Rumford   974761791  2  1 Bf  -     -     -         4506    5    0 
+Rumford   974761795  2  2 B   -     -     -         4501   10   15 
+Rumford   974761798  2  1 Bf  -     -     -         4506    5    0 
+Rumford   974761802  2  2 B   -     -     -         4501   10   15 
+Rumford   974761805  2  1 Bc  b     -     -         4506   30   40 
+Rumford   974761811  2  2 Bk  c     c     c         4516  270    0 7c 4d
+Rumford   974761827  2  1 Br  k     kf    -         4246   30    0 
+Rumford   974761850  2  2 Bk  f     -     -         4216   10    0 
+Rumford   974761856  2  1 Br  -     -     -         4206   30   40 
+Rumford   974761860  2  2 Br  b     -     -         4216   90  120 
+Rumford   974761867  2  1 Bf  -     -     -         4246    5    0 
+Rumford   974761870  2  2 B   -     -     -         4241   10   15 
+Rumford   974761873  2  1 Br  b     k     b         4246  270  360 
+Rumford   974761888  2  2 Bk  c     b     k         4336   90  180 2h 8d
+Rumford   974761903  2  1 Br  -     -     -         4426   30   40 
+Rumford   974761908  2  2 B   -     -     -         4436   10   15 
+Rumford   974761911  2  1 Bc  k     k     kf        4441   10    0 
+Rumford   974761925  2  2 Bk  f     -     -         4431   10    0 
+Rumford   974761932  2  1 Bcc b     k     kc        4421  270    0 Ad Jc
+Rumford   974761951  2  2 Bk  c     f     -         4151   30    0 
+Rumford   974761963  2  1 Bc  k     b     -         4121   30   40 
+Rumford   974761973  2  2 Bk  b     -     -         4131   30   40 
+Rumford   974761981  2  1 Br  -     -     -         4141   30   40 
+Rumford   974761984  2  2 B   -     -     -         4151   10   15 
+Rumford   974761987  2  1 Bf  -     -     -         4156    5    0 
+Rumford   974761990  2  2 Bk  b     -     -         4151   30   40 
+Rumford   974761997  2  1 Bf  -     -     -         4161    5    0 
+Rumford   974762000  2  2 B   -     -     -         4156   10   15 
+Rumford   974762003  2  1 Bc  k     b     -         4161   30   40 
+Rumford   974762013  2  2 B   -     -     -         4171   10   15 
+Rumford   974762015  2  1 Br  -     -     -         4176   30   40 
+Rumford   974762020  2  2 B   -     -     -         4186   10   15 
+Rumford   974762023  2  1 Br  b     -     -         4191   90  120 
+Rumford   974762030  2  2 Bk  k     k     k         4221   10    0 9s Jd
+Rumford   974762043  2  1 Br  -     -     -         4211   30   40 
+Rumford   974762048  2  2 B   -     -     -         4221   10   15 
+Rumford   974762050  2  1 Bf  -     -     -         4226    5    0 
+Rumford   974762053  2  2 B   -     -     -         4221   10   15 
+Rumford   974762056  2  1 Br  -     -     -         4226   30   40 
+Rumford   974762061  2  2 Br  b     k     k         4236   90    0 8c Jh
+Rumford   974762077  3  1 Bf  -     -     -         4146    5    0 
+Rumford   974762099  3  3 r   -     -     -         4141   35   50 
+Rumford   974762112  3  2 Bk  k     c     f         4156   40    0 
+Rumford   974762138  3  1 Bf  -     -     -         4116    5    0 
+Rumford   974762159  3  3 f   -     -     -         4111    0    0 
+Rumford   974762166  4  3 cc  kc    kf    -         4111  250    0 
+Rumford   974762208  4  2 B   -     -     -         3861   10   15 
+Rumford   974762211  4  1 Bc  bc    kc    k         3866  400  405 Qc 7c
+Rumford   974762236  5  5 f   -     -     -         3871    0    0 
+Rumford   974762263  5  4 cc  kf    -     -         3871   45    0 
+Rumford   974762283  5  3 f   -     -     -         3826    0    0 
+Rumford   974762304  5  2 Bk  kf    -     -         3826   10    0 
+Rumford   974762333  5  1 Bc  b     -     -         3816   40   60 
+Rumford   974762359  5  5 c   k     k     c         3836   50   60 As 6c
+Rumford   974762400  5  4 f   -     -     -         3846    0    0 
+Rumford   974762423  5  3 f   -     -     -         3846    0    0 
+Rumford   974762449  6  3 cc  c     f     -         3846  110    0 
+Rumford   974762464  6  2 Bk  kc    k     kf        3736   50    0 
+Rumford   974762499  6  1 Bc  b     k     b         3686  130    0 7d 4d
+Rumford   974762520  6  6 f   -     -     -         3556    0    0 
+Rumford   974762531  6  5 f   -     -     -         3556    0    0 
+Rumford   974762567  5  3 c   c     b     -         3556  390  720 
+Rumford   974762613  5  3 cc  c     b     -         3886  335  450 
+Rumford   974762628  5  2 Bcc kf    -     -         4001  160    0 
+Rumford   974762656  6  1 Bf  -     -     -         3841    5    0 
+Rumford   974762682  6  6 f   -     -     -         3836    0    0 
+Rumford   974762698  6  5 f   -     -     -         3836    0    0 
+Rumford   974762714  6  4 c   k     b     k         3836  150    0 Th Ah
+Rumford   974762746  6  3 f   -     -     -         3686    0    0 
+Rumford   974762754  6  2 Br  b     k     k         3686  310    0 Qh Ad
+Rumford   974762786  7  1 Bc  kc    kf    -         3376   60    0 
+Rumford   974762844  7  7 f   -     -     -         3316    0    0 
+Rumford   974762881  7  6 f   -     -     -         3316    0    0 
+Rumford   974762908  7  5 f   -     -     -         3316    0    0 
+Rumford   974762936  7  4 c   kf    -     -         3316   10    0 
+Rumford   974762981  7  3 f   -     -     -         3306    0    0 
+Rumford   974763029  7  2 Bc  bc    brA   -         3306 3306    0 As Jd

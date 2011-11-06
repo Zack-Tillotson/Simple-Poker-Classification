@@ -1,0 +1,1560 @@
+civicSI   969939075  7  2 Bf  -     -     -         3031   10    0 
+civicSI   969939088  7  1 Bf  -     -     -         3021    5    0 
+civicSI   969939115  7  7 f   -     -     -         3016    0    0 
+civicSI   969939142  8  7 f   -     -     -         3016    0    0 
+civicSI   969939183  8  6 cc  kc    kf    -         3016  235    0 
+civicSI   969939224  8  5 c   b     b     -         2781  190  270 
+civicSI   969939260  8  4 f   -     -     -         2861    0    0 
+civicSI   969939310  8  3 cc  f     -     -         2861   60    0 
+civicSI   969939346  8  2 B   -     -     -         2801   10   15 
+civicSI   969939359  8  1 Bc  k     b     -         2806   30   40 
+civicSI   969939378  8  8 c   f     -     -         2816   10    0 
+civicSI   969939402  8  7 rc  c     k     f         2806  955    0 
+civicSI   969939441  8  6 f   -     -     -         1851    0    0 
+civicSI   969939460  8  5 f   -     -     -         1851    0    0 
+civicSI   969939526  8  4 f   -     -     -         1851    0    0 
+civicSI   969939553  7  3 c   f     -     -         1851   10    0 
+civicSI   969939602  7  2 Bk  b     kc    k         1841  190  405 9s Qc
+civicSI   969939635  7  1 Bc  kc    kc    kr        2056 1210 2430 3s 3c
+civicSI   969939682  7  7 f   -     -     -         3276    0    0 
+civicSI   969939701  7  6 f   -     -     -         3276    0    0 
+civicSI   969939722  7  5 f   -     -     -         3276    0    0 
+civicSI   969939729  7  4 c   b     -     -         3276   45   70 
+civicSI   969939755  7  3 c   b     k     k         3301   45    0 8s 8c
+civicSI   969939780  6  2 Bk  k     k     f         3256   10    0 
+civicSI   969939806  6  1 Bf  -     -     -         3246    5    0 
+civicSI   969939824  6  6 f   -     -     -         3241    0    0 
+civicSI   969939847  6  5 f   -     -     -         3241    0    0 
+civicSI   969939856  6  4 c   f     -     -         3241   10    0 
+civicSI   969939883  6  3 f   -     -     -         3231    0    0 
+civicSI   969939910  6  2 Bk  k     k     k         3231   10    0 9d 6s
+civicSI   969939933  6  1 Bc  b     -     -         3221   30   40 
+civicSI   969939949  6  6 f   -     -     -         3231    0    0 
+civicSI   969939968  6  5 f   -     -     -         3231    0    0 
+civicSI   969939972  6  4 f   -     -     -         3231    0    0 
+civicSI   969939977  6  3 c   k     k     b         3231   45    0 Ad 6c
+civicSI   969940019  6  2 Bf  -     -     -         3186   10    0 
+civicSI   969940029  6  1 Bc  b     k     k         3176   40   90 6s 7s
+civicSI   969940046  6  6 r   f     -     -         3226   55    0 
+civicSI   969940068  6  5 f   -     -     -         3171    0    0 
+civicSI   969940072  6  4 f   -     -     -         3171    0    0 
+civicSI   969940099  6  3 f   -     -     -         3171    0    0 
+civicSI   969940102  6  2 Bc  kc    k     k         3171  185    0 As Ah
+civicSI   969940140  6  1 Bc  k     k     b         2986   50   80 
+civicSI   969940171  6  6 f   -     -     -         3016    0    0 
+civicSI   969940208  6  5 c   c     c     b         3016  595 1215 2h 2d
+civicSI   969940243  6  4 c   k     b     b         3636  150    0 9s Jh
+civicSI   969940269  6  3 f   -     -     -         3486    0    0 
+civicSI   969940291  6  2 Bk  kc    kc    b         3486  530  720 
+civicSI   969940329  6  1 Bc  k     k     k         3676   10   20 Kc 2c
+civicSI   969940347  6  6 c   f     -     -         3686   35    0 
+civicSI   969940368  6  5 f   -     -     -         3651    0    0 
+civicSI   969940377  6  4 c   k     b     b         3651  130  270 Tc Kh
+civicSI   969940410  6  3 f   -     -     -         3791    0    0 
+civicSI   969940430  6  2 Bk  b     -     -         3791   35   50 
+civicSI   969940442  6  1 Bc  kf    -     -         3806   10    0 
+civicSI   969940457  6  6 f   -     -     -         3796    0    0 
+civicSI   969940514  6  5 f   -     -     -         3796    0    0 
+civicSI   969940535  5  3 f   -     -     -         3796    0    0 
+civicSI   969940543  5  2 Bk  kf    -     -         3796   10    0 
+civicSI   969940565  5  1 Bc  b     k     k         3786   40    0 Qd 7c
+civicSI   969940584  5  5 c   k     k     k         3746   10    0 8s 5s
+civicSI   969940609  5  4 f   -     -     -         3736    0    0 
+civicSI   969940640  5  3 f   -     -     -         3736    0    0 
+civicSI   969940669  5  2 Bk  k     kf    -         3736   10    0 
+civicSI   969940709  5  1 Bf  -     -     -         3726    5    0 
+civicSI   969940737  5  5 c   c     f     -         3721   45    0 
+civicSI   969940766  5  4 r   b     -     -         3676  110  150 
+civicSI   969940775  5  3 c   k     k     b         3716   40   60 
+civicSI   969940798  5  2 Bk  k     kf    -         3736   10    0 
+civicSI   969940815  5  1 Bf  -     -     -         3726    5    0 
+civicSI   969940845  5  5 c   c     b     k         3721  190  405 Th Qh
+civicSI   969940888  5  4 f   -     -     -         3936    0    0 
+civicSI   969940908  5  3 f   -     -     -         3936    0    0 
+civicSI   969940924  5  2 Bk  k     c     f         3936   40    0 
+civicSI   969940951  5  1 Bf  -     -     -         3896    5    0 
+civicSI   969940969  5  5 f   -     -     -         3891    0    0 
+civicSI   969941007  5  4 f   -     -     -         3891    0    0 
+civicSI   969941014  5  3 f   -     -     -         3891    0    0 
+civicSI   969941040  6  2 Bf  -     -     -         3891   10    0 
+civicSI   969941059  6  1 Bc  kc    kc    kc        3881 1930 3915 Ac Qh
+civicSI   969941093  6  6 f   -     -     -         5866    0    0 
+civicSI   969941108  6  5 f   -     -     -         5866    0    0 
+civicSI   969941125  6  4 f   -     -     -         5866    0    0 
+civicSI   969941135  6  3 c   k     k     k         5866   10    0 3s Ah
+civicSI   969941167  6  2 Bk  k     kf    -         5856   10    0 
+civicSI   969941193  6  1 Bf  -     -     -         5846    5    0 
+civicSI   969941210  6  6 f   -     -     -         5841    0    0 
+civicSI   969941224  6  5 f   -     -     -         5841    0    0 
+civicSI   969941242  6  4 c   b     -     -         5841   45   70 
+civicSI   969941260  7  4 c   k     b     k         5866   50    0 Js Tc
+civicSI   969941312  7  3 c   f     -     -         5816   10    0 
+civicSI   969941346  7  2 Bf  -     -     -         5806   10    0 
+civicSI   969941389  7  1 Bc  k     kf    -         5796   35    0 
+civicSI   969941431  7  7 c   f     -     -         5761   45    0 
+civicSI   969941472  7  6 f   -     -     -         5716    0    0 
+civicSI   969941503  7  5 c   k     f     -         5716   10    0 
+civicSI   969941527  7  4 c   f     -     -         5706   10    0 
+civicSI   969941550  7  3 c   k     f     -         5696   10    0 
+civicSI   969941588  7  2 Bk  kc    kc    k         5686  150  315 Ks Ac
+civicSI   969941626  7  1 Bc  kf    -     -         5851   10    0 
+civicSI   969941656  7  7 f   -     -     -         5841    0    0 
+civicSI   969941678  7  6 c   c     r     b         5841 1730 2400 
+civicSI   969941733  6  4 f   -     -     -         6511    0    0 
+civicSI   969941743  6  4 c   k     c     k         6511   50    0 Kd Qd
+civicSI   969941776  6  3 cc  kcf   -     -         6461  145    0 
+civicSI   969941813  6  2 Bk  kf    -     -         6316   10    0 
+civicSI   969941847  6  1 Bc  kQ    -     -         6306   10    0 
+civicSI   969953752  2  2 B   -     -     -         6393   10   15 
+civicSI   969953756  2  1 Bf  -     -     -         6398    5    0 
+civicSI   969953761  2  2 Bc  c     k     c         6393  270    0 9s Js
+civicSI   969953774  2  1 Br  -     -     -         6123   30   40 
+civicSI   969953782  2  2 B   -     -     -         6133   10   15 
+civicSI   969953784  2  1 Bcc b     -     -         6138   90  120 
+civicSI   969953793  2  2 B   -     -     -         6168   10   15 
+civicSI   969953795  2  1 Bc  k     kf    -         6173   10    0 
+civicSI   969953807  2  2 Bc  c     c     b         6163  810 1080 
+civicSI   969953827  2  1 Bc  kc    b     bf        6433  270    0 
+civicSI   969953852  3  2 Bk  f     -     -         6163   10    0 
+civicSI   969953860  3  1 Bc  kf    -     -         6153   35    0 
+civicSI   969953877  3  3 c   k     b     k         6118   35    0 Jc 9d
+civicSI   969953901  3  2 B   -     -     -         6083   10   15 
+civicSI   969953906  3  1 Bf  -     -     -         6088    5    0 
+civicSI   969953910  3  3 f   -     -     -         6083    0    0 
+civicSI   969953920  4  2 Bk  k     kf    -         6083   10    0 
+civicSI   969953939  4  1 Bc  b     b     k         6073   90  180 Qc Qd
+civicSI   969953967  4  4 c   b     -     -         6163  120  170 
+civicSI   969953983  4  3 f   -     -     -         6213    0    0 
+civicSI   969954007  4  2 Br  b     k     k         6213  110    0 9s Js
+civicSI   969954025  4  1 Bf  -     -     -         6103    5    0 
+civicSI   969954057  4  4 c   f     -     -         6098   10    0 
+civicSI   969954099  4  3 c   b     -     -         6088   35   50 
+civicSI   969954111  4  2 Bk  k     c     k         6103   30   60 3s Kc
+civicSI   969954137  4  1 Bc  k     b     -         6133   30   40 
+civicSI   969954158  4  4 f   -     -     -         6143    0    0 
+civicSI   969954191  4  3 f   -     -     -         6143    0    0 
+civicSI   969954206  4  2 Bk  c     c     c         6143  270    0 Jh 9s
+civicSI   969954218  4  1 Br  b     k     k         5873   90    0 Th Ah
+civicSI   969954240  4  4 cc  c     f     -         5783  160    0 
+civicSI   969954272  4  3 f   -     -     -         5623    0    0 
+civicSI   969954297  4  2 B   -     -     -         5623   10   15 
+civicSI   969954304  4  1 Bf  -     -     -         5628    5    0 
+civicSI   969954316  4  4 c   k     b     -         5623   35   50 
+civicSI   969954355  4  3 f   -     -     -         5638    0    0 
+civicSI   969954359  4  2 B   -     -     -         5638   10   15 
+civicSI   969954375  4  1 Bf  -     -     -         5643    5    0 
+civicSI   969954397  4  4 f   -     -     -         5638    0    0 
+civicSI   969954414  4  3 cc  k     f     -         5638   50    0 
+civicSI   969954445  4  2 Bf  -     -     -         5588   10    0 
+civicSI   969954464  4  1 Br  -     -     -         5578   30   40 
+civicSI   969954471  4  4 f   -     -     -         5588    0    0 
+civicSI   969954479  4  3 c   c     f     -         5588   45    0 
+civicSI   969954512  4  2 Bk  k     k     k         5543   10    0 3s 7d
+civicSI   969954534  4  1 Bc  b     kc    k         5533  355    0 4c 2c
+civicSI   969954558  4  4 f   -     -     -         5178    0    0 
+civicSI   969954566  4  3 fQ  -     -     -         5178    0    0 
+civicSI   969954601  4  3 f   -     -     -         5178    0    0 
+civicSI   969954633  4  2 Bk  b     -     -         5178   45   70 
+civicSI   969954654  4  1 Bf  -     -     -         5203    5    0 
+civicSI   969954674  4  4 f   -     -     -         5198    0    0 
+civicSI   969954685  4  3 f   -     -     -         5198    0    0 
+civicSI   969954709  4  2 B   -     -     -         5198   10   15 
+civicSI   969954714  4  1 Bf  -     -     -         5203    5    0 
+civicSI   969954720  4  4 f   -     -     -         5198    0    0 
+civicSI   969954755  4  3 f   -     -     -         5198    0    0 
+civicSI   969954760  4  2 Bk  k     kf    -         5198   10    0 
+civicSI   969954771  4  1 Bf  -     -     -         5188    5    0 
+civicSI   969954776  4  4 c   k     k     r         5183  130  270 Ad 5c
+civicSI   969954799  4  3 f   -     -     -         5323    0    0 
+civicSI   969954810  4  2 Bc  kc    k     k         5323  110    0 Qh 9h
+civicSI   969954834  4  1 Bcc k     k     k         5213   30    0 7s Ts
+civicSI   969954850  4  4 f   -     -     -         5183    0    0 
+civicSI   969954866  4  3 f   -     -     -         5183    0    0 
+civicSI   969954875  4  2 Bk  k     k     k         5183   10    0 8d 2h
+civicSI   969954892  4  1 Bf  -     -     -         5173    5    0 
+civicSI   969954905  4  4 c   b     -     -         5168   35   50 
+civicSI   969954917  4  3 c   k     k     k         5183   10   20 3c Ac
+civicSI   969954936  4  2 B   -     -     -         5193   10   15 
+civicSI   969954942  4  1 Bf  -     -     -         5198    5    0 
+civicSI   969954959  5  5 f   -     -     -         5193    0    0 
+civicSI   969954988  5  4 f   -     -     -         5193    0    0 
+civicSI   969955030  5  3 f   -     -     -         5193    0    0 
+civicSI   969955049  5  2 Bk  b     -     -         5193   40   60 
+civicSI   969955064  5  1 Bf  -     -     -         5213    5    0 
+civicSI   969955086  5  5 f   -     -     -         5208    0    0 
+civicSI   969955132  5  4 f   -     -     -         5208    0    0 
+civicSI   969955154  5  3 f   -     -     -         5208    0    0 
+civicSI   969955182  5  2 Bk  k     k     kc        5208   35    0 4s 4h
+civicSI   969955215  5  1 Bcc kf    -     -         5173   40    0 
+civicSI   969955280  5  5 f   -     -     -         5133    0    0 
+civicSI   969955313  5  4 f   -     -     -         5133    0    0 
+civicSI   969955319  5  3 c   b     k     kf        5133   45    0 
+civicSI   969955338  5  2 B   -     -     -         5088   10   15 
+civicSI   969955346  5  1 Bc  k     k     k         5093   10   20 5h Jh
+civicSI   969955366  5  5 f   -     -     -         5103    0    0 
+civicSI   969955399  6  5 cc  k     b     -         5103  225  360 
+civicSI   969955437  6  4 f   -     -     -         5238    0    0 
+civicSI   969955456  6  3 f   -     -     -         5238    0    0 
+civicSI   969955471  6  2 Bk  kf    -     -         5238   10    0 
+civicSI   969955517  6  1 Bc  kf    -     -         5228   55    0 
+civicSI   969955568  5  5 f   -     -     -         5173    0    0 
+civicSI   969955610  5  4 c   f     -     -         5173   10    0 
+civicSI   969955634  5  3 f   -     -     -         5163    0    0 
+civicSI   969955664  5  2 Bf  -     -     -         5163   10    0 
+civicSI   969955678  5  1 Bc  b     b     -         5153  130  180 
+civicSI   969955704  5  5 f   -     -     -         5203    0    0 
+civicSI   969955752  5  4 c   k     f     -         5203   10    0 
+civicSI   969955795  5  3 f   -     -     -         5193    0    0 
+civicSI   969955810  5  2 Bk  bc    f     -         5193  100    0 
+civicSI   969955834  5  1 Bf  -     -     -         5093    5    0 
+civicSI   969955871  5  5 f   -     -     -         5088    0    0 
+civicSI   969955891  5  4 f   -     -     -         5088    0    0 
+civicSI   969955941  5  3 f   -     -     -         5088    0    0 
+civicSI   969956004  5  2 B   -     -     -         5088   10   15 
+civicSI   969956028  5  1 Bc  k     k     k         5093   10    0 8s 8c
+civicSI   969956108  6  6 f   -     -     -         5083    0    0 
+civicSI   969956150  6  5 f   -     -     -         5083    0    0 
+civicSI   969956229  6  4 c   k     k     f         5083   10    0 
+civicSI   969956264  6  3 r   b     -     -         5073  180  290 
+civicSI   969956304  6  2 Bc  f     -     -         5183   35    0 
+civicSI   969956355  6  1 Br  k     b     b         5148  270  540 Qs Qd
+civicSI   969956414  6  6 f   -     -     -         5418    0    0 
+civicSI   969956465  6  5 c   k     k     f         5418   25    0 
+civicSI   969956493  6  4 cc  kc    k     b         5393  625 1305 Kc Kd
+civicSI   969956556  6  3 cc  kc    k     k         6073  270  675 Kh 4h
+civicSI   969956616  6  2 Bf  -     -     -         6478   10    0 
+civicSI   969956640  6  1 Bf  -     -     -         6468    5    0 
+civicSI   969956660  6  6 c   k     b     c         6463  190    0 Td 9d
+civicSI   969956737  6  5 f   -     -     -         6273    0    0 
+civicSI   969956776  7  5 f   -     -     -         6273    0    0 
+civicSI   969956810  7  4 f   -     -     -         6273    0    0 
+civicSI   969956852  7  3 f   -     -     -         6273    0    0 
+civicSI   969956885  7  2 Bk  kf    -     -         6273   10    0 
+civicSI   969956928  7  1 Bc  k     kf    -         6263   10    0 
+civicSI   969956973  7  7 c   b     f     -         6253  195    0 
+civicSI   969957005  7  6 f   -     -     -         6058    0    0 
+civicSI   969957039  7  5 f   -     -     -         6058    0    0 
+civicSI   969957084  7  4 cc  k     b     -         6058  150  210 
+civicSI   969957115  7  3 f   -     -     -         6118    0    0 
+civicSI   969957148  7  2 Bk  k     b     b         6118  130  135 Qh Ks
+civicSI   969957233  6  1 Bf  -     -     -         6123    5    0 
+civicSI   969957271  6  6 f   -     -     -         6118    0    0 
+civicSI   969957310  6  5 c   k     k     b         6118   50   80 
+civicSI   969957361  5  3 c   k     f     -         6148   10    0 
+civicSI   969957392  5  2 Bc  k     b     k         6138   75  150 6s 3s
+civicSI   969957418  5  1 Bc  k     kf    -         6213   10    0 
+civicSI   969957442  5  5 f   -     -     -         6203    0    0 
+civicSI   969957453  5  4 c   c     b     b         6203  690  960 
+civicSI   969957496  5  3 f   -     -     -         6473    0    0 
+civicSI   969957521  5  2 Bk  k     k     b         6473   40   90 5h Th
+civicSI   969957561  5  1 Bc  b     b     kf        6523  325    0 
+civicSI   969957588  5  5 c   c     c     k         6198  285  585 Kd 9d
+civicSI   969957647  5  4 f   -     -     -         6498    0    0 
+civicSI   969957671  5  3 c   k     k     k         6498   10    0 Th 6h
+civicSI   969957707  5  2 Bk  b     -     -         6488   30   40 
+civicSI   969957739  5  1 Bf  -     -     -         6498    5    0 
+civicSI   969957771  5  5 c   k     f     -         6493   10    0 
+civicSI   969957798  5  4 f   -     -     -         6483    0    0 
+civicSI   969957833  5  3 f   -     -     -         6483    0    0 
+civicSI   969957862  5  2 Bc  c     r     -         6483  675  900 
+civicSI   969957890  5  1 Bcc kc    k     k         6708  210    0 6d Ad
+civicSI   969957933  5  5 f   -     -     -         6498    0    0 
+civicSI   969957958  5  4 cc  kf    -     -         6498   45    0 
+civicSI   969957979  5  3 f   -     -     -         6453    0    0 
+civicSI   969957986  5  2 Bk  k     bc    cf        6453  520    0 
+civicSI   969958037  5  1 Bc  k     k     k         5933   10   20 Ad Jc
+civicSI   969958085  5  5 f   -     -     -         5943    0    0 
+civicSI   969958118  5  4 c   c     c     b         5943  870 1755 7s 5s
+civicSI   969958133  5  3 cc  k     k     k         6828   45    0 3d 4d
+civicSI   969958163  5  2 Bk  k     k     k         6783   10    0 9d Jc
+civicSI   969958186  5  1 Bf  -     -     -         6773    5    0 
+civicSI   969958216  5  5 f   -     -     -         6768    0    0 
+civicSI   969958260  5  4 c   k     c     b         6768  445  945 5h 5s
+civicSI   969958290  5  3 c   k     bf    -         7268   35    0 
+civicSI   969958308  5  2 Bk  k     k     k         7233   10    0 6d Kc
+civicSI   969958327  5  1 Bc  k     k     b         7223   50  120 Qh Kh
+civicSI   969958348  5  5 f   -     -     -         7293    0    0 
+civicSI   969958368  5  4 f   -     -     -         7293    0    0 
+civicSI   969958389  5  3 f   -     -     -         7293    0    0 
+civicSI   969958433  5  2 Bk  k     f     -         7293   10    0 
+civicSI   969958449  5  1 Bc  b     k     k         7283   40    0 6s 8d
+civicSI   969958471  5  5 c   k     k     f         7243   35    0 
+civicSI   969958527  5  4 r   -     -     -         7208   35   50 
+civicSI   969958536  5  3 f   -     -     -         7223    0    0 
+civicSI   969958545  5  2 Bk  kc    kf    -         7223   35    0 
+civicSI   969958569  5  1 Bc  k     k     kf        7188   10    0 
+civicSI   969958592  5  5 c   c     b     -         7178  335  540 
+civicSI   969958628  5  4 f   -     -     -         7383    0    0 
+civicSI   969958654  5  3 f   -     -     -         7383    0    0 
+civicSI   969958695  5  2 Bf  -     -     -         7383   10    0 
+civicSI   969958729  5  1 Bc  k     kf    -         7373   35    0 
+civicSI   969958753  5  5 c   k     k     f         7338   10    0 
+civicSI   969958785  5  4 c   k     k     k         7328   10    0 Td Jc
+civicSI   969958819  5  3 f   -     -     -         7318    0    0 
+civicSI   969958844  5  2 Bk  k     b     -         7318   40   60 
+civicSI   969958872  5  1 Bc  k     k     k         7338   10   15 As 4d
+civicSI   969958906  5  5 c   k     f     -         7343   35    0 
+civicSI   969958945  5  4 f   -     -     -         7308    0    0 
+civicSI   969958983  5  3 f   -     -     -         7308    0    0 
+civicSI   969958993  5  2 Bk  b     k     b         7308  160  240 
+civicSI   969959019  5  1 Bc  k     b     k         7388   40   90 
+civicSI   969959041  4  4 c   c     k     b         7438  150  210 
+civicSI   969959074  3  3 f   -     -     -         7498    0    0 
+civicSI   969959079  4  3 c   k     b     -         7498   50   80 
+civicSI   969959102  4  2 Bk  k     f     -         7528   10    0 
+civicSI   969959122  4  1 Bf  -     -     -         7518    5    0 
+civicSI   969959133  4  4 f   -     -     -         7513    0    0 
+civicSI   969959162  4  3 cc  k     k     b         7513  160  240 
+civicSI   969959208  4  2 Bk  k     r     b         7593  270    0 As 7d
+civicSI   969959238  4  1 Bcc kf    -     -         7323  385    0 
+civicSI   969959288  4  4 f   -     -     -         6938    0    0 
+civicSI   969959298  4  3 cc  k     f     -         6938   40    0 
+civicSI   969959324  4  2 Bf  -     -     -         6898   10    0 
+civicSI   969959347  4  1 Bf  -     -     -         6888    5    0 
+civicSI   969959352  4  4 c   k     b     k         6883  145  330 Tc Jh
+civicSI   969959370  4  3 f   -     -     -         7068    0    0 
+civicSI   969959395  4  2 Bc  k     k     k         7068   25    0 5d 6d
+civicSI   969959413  4  1 Bf  -     -     -         7043    5    0 
+civicSI   969959420  4  4 c   f     -     -         7038   10    0 
+civicSI   969959444  4  3 f   -     -     -         7028    0    0 
+civicSI   969959464  4  2 Bk  k     k     b         7028   40   60 
+civicSI   969959488  4  1 Bf  -     -     -         7048    5    0 
+civicSI   969959494  4  4 c   k     k     f         7043   10    0 
+civicSI   969959517  4  3 f   -     -     -         7033    0    0 
+civicSI   969959546  4  2 Bf  -     -     -         7033   10    0 
+civicSI   969959571  4  1 Bc  k     k     kf        7023   10    0 
+civicSI   969959600  4  4 c   f     -     -         7013   35    0 
+civicSI   969959611  4  3 c   b     k     k         6978   40    0 2c 4c
+civicSI   969959628  4  2 Bc  k     b     -         6938   80  110 
+civicSI   969959643  4  1 Bc  kc    k     k         6968  115    0 Jh 9d
+civicSI   969959666  4  4 c   b     -     -         6853  145  220 
+civicSI   969959686  4  3 f   -     -     -         6928    0    0 
+civicSI   969959708  4  2 Bk  kf    -     -         6928   10    0 
+civicSI   969959732  4  1 Bc  k     k     k         6918   10    0 9c Qc
+civicSI   969959762  4  4 f   -     -     -         6908    0    0 
+civicSI   969959792  4  3 f   -     -     -         6908    0    0 
+civicSI   969959809  4  2 Bf  -     -     -         6908   10    0 
+civicSI   969959833  4  1 Bc  k     b     b         6898  265  360 
+civicSI   969959854  4  4 cc  c     k     -         6993  110  225 
+civicSI   969959874  4  3 r   b     -     -         7108  115  160 
+civicSI   969959893  4  2 Bk  f     -     -         7153   10    0 
+civicSI   969959922  4  1 Bc  b     -     -         7143   40   60 
+civicSI   969959965  4  4 f   -     -     -         7163    0    0 
+civicSI   969959982  4  3 c   c     f     -         7163   40    0 
+civicSI   969960001  4  2 Bk  kf    -     -         7123   10    0 
+civicSI   969960031  4  1 Bf  -     -     -         7113    5    0 
+civicSI   969960053  4  4 f   -     -     -         7108    0    0 
+civicSI   969960074  4  3 f   -     -     -         7108    0    0 
+civicSI   969960094  4  2 Bc  k     c     k         7108  160    0 Qd 3d
+civicSI   969960123  4  1 Bf  -     -     -         6948    5    0 
+civicSI   969960129  4  4 c   k     f     -         6943   10    0 
+civicSI   969960150  4  3 r   b     k     b         6933  610  920 
+civicSI   969960177  4  2 Bk  c     b     c         7243  400    0 7c 2c
+civicSI   969960202  4  1 Bf  -     -     -         6843    5    0 
+civicSI   969960225  4  4 cc  f     -     -         6838   45    0 
+civicSI   969960243  4  3 c   b     -     -         6793   45   70 
+civicSI   969960261  4  2 Bk  kf    -     -         6818   10    0 
+civicSI   969960282  4  1 Bf  -     -     -         6808    5    0 
+civicSI   969960315  4  4 c   k     k     c         6803  120    0 5s 8s
+civicSI   969960337  4  3 f   -     -     -         6683    0    0 
+civicSI   969960367  4  2 B   -     -     -         6683   10   15 
+civicSI   969960402  4  1 Bf  -     -     -         6688    5    0 
+civicSI   969960430  4  4 c   b     -     -         6683   35   50 
+civicSI   969960449  4  3 f   -     -     -         6698    0    0 
+civicSI   969960468  4  2 Bc  c     c     k         6698  270    0 9s Tc
+civicSI   969960493  4  1 Bc  k     kf    -         6428   10    0 
+civicSI   969960530  4  4 f   -     -     -         6418    0    0 
+civicSI   969960538  4  3 cc  f     -     -         6418   40    0 
+civicSI   969960551  4  2 Bf  -     -     -         6378   10    0 
+civicSI   969960577  4  1 Br  k     b     -         6368  160  240 
+civicSI   969960602  4  4 c   k     f     -         6448   10    0 
+civicSI   969960618  3  2 f   -     -     -         6438    0    0 
+civicSI   969960625  3  2 Bk  kf    -     -         6438   10    0 
+civicSI   969960658  3  1 Bc  b     -     -         6428   30   40 
+civicSI   969960667  3  3 f   -     -     -         6438    0    0 
+civicSI   969960671  3  2 Bc  k     k     f         6438   30    0 
+civicSI   969960688  3  1 Bc  kc    b     -         6408  355  480 
+civicSI   969960704  3  3 c   k     c     b         6533   73  151 2c Kc
+civicSI   969960726  3  2 Bf  -     -     -         6611   10    0 
+civicSI   969960754  3  1 Bf  -     -     -         6601    5    0 
+civicSI   969960790  2  2 B   -     -     -         6596   10   15 
+civicSI   969960816  2  1 Bc  b     -     -         6601   30   40 
+civicSI   969960828  2  2 B   -     -     -         6611   10   15 
+civicSI   969960833  2  1 Bf  -     -     -         6616    5    0 
+civicSI   969960836  2  2 Bk  k     f     -         6611   10    0 
+civicSI   969960848  2  1 Bf  -     -     -         6601    5    0 
+civicSI   969960852  2  2 B   -     -     -         6596   10   15 
+civicSI   969960856  2  1 Bc  bf    -     -         6601   30    0 
+civicSI   969960867  2  2 Bk  k     f     -         6571   10    0 
+civicSI   969960881  2  1 Br  b     k     kc        6561  270    0 Tc Td
+civicSI   969960904  2  2 B   -     -     -         6291   10   15 
+civicSI   969960910  2  1 Bc  kf    -     -         6296   10    0 
+civicSI   969960920  2  2 Bk  k     k     c         6286   30    0 7d 9s
+civicSI   969960938  2  1 Bc  k     k     k         6256   10   20 Ad 4c
+civicSI   969960956  2  2 B   -     -     -         6266   10   15 
+civicSI   969960962  3  1 Br  -     -     -         6271   30   40 
+civicSI   969960973  3  3 f   -     -     -         6281    0    0 
+civicSI   969960978  3  2 Bk  b     -     -         6281   40   60 
+civicSI   969960991  3  1 Bc  kc    k     k         6301  115  240 9h 9d
+civicSI   969961006  3  3 c   k     k     k         6426   10    0 Ac 6h
+civicSI   969961034  3  2 Bk  f     -     -         6416   10    0 
+civicSI   969961047  3  1 Bc  k     b     -         6406   30   40 
+civicSI   969961062  3  3 c   k     k     k         6416   10    0 5s 7s
+civicSI   969961082  3  2 Bk  kf    -     -         6406   10    0 
+civicSI   969961102  3  1 Bc  kc    b     kf        6396  130    0 
+civicSI   969961129  4  3 c   k     r     b         6266  335  450 
+civicSI   969961155  4  2 Bk  k     k     k         6381   10   13 5h 9c
+civicSI   969961173  4  1 Bc  kc    kc    k         6384  210  480 Ts Ac
+civicSI   969961208  5  5 f   -     -     -         6654    0    0 
+civicSI   969961227  5  4 f   -     -     -         6654    0    0 
+civicSI   969961253  5  3 f   -     -     -         6654    0    0 
+civicSI   969961261  5  2 Bk  kc    kc    kf        6654  260    0 
+civicSI   969961308  5  1 Bc  kc    b     k         6394  210  480 Th 8d
+civicSI   969961340  5  5 c   c     k     k         6664  150  345 Tc Jd
+civicSI   969961369  5  4 c   b     -     -         6859   35   50 
+civicSI   969961384  5  3 f   -     -     -         6874    0    0 
+civicSI   969961389  5  2 Bk  k     f     -         6874   10    0 
+civicSI   969961401  5  1 Bf  -     -     -         6864    5    0 
+civicSI   969961429  5  5 c   b     b     b         6859  400  540 
+civicSI   969961463  5  4 f   -     -     -         6999    0    0 
+civicSI   969961480  5  3 f   -     -     -         6999    0    0 
+civicSI   969961498  5  2 Bk  kc    krf   -         6999  465    0 
+civicSI   969961531  5  1 Bf  -     -     -         6534    5    0 
+civicSI   969961551  5  5 f   -     -     -         6529    0    0 
+civicSI   969961559  5  4 f   -     -     -         6529    0    0 
+civicSI   969961583  5  3 f   -     -     -         6529    0    0 
+civicSI   969961604  5  2 Bk  k     k     k         6529   10    0 7s 8c
+civicSI   969961619  5  1 Bf  -     -     -         6519    5    0 
+civicSI   969961653  5  5 c   k     f     -         6514   10    0 
+civicSI   969961684  5  4 c   f     -     -         6504   10    0 
+civicSI   969961701  5  3 c   f     -     -         6494   10    0 
+civicSI   969961731  5  2 Bk  k     k     k         6484   10    0 Th 5d
+civicSI   969961751  5  1 Bf  -     -     -         6474    5    0 
+civicSI   969961759  5  5 c   k     f     -         6469   10    0 
+civicSI   969961798  5  4 f   -     -     -         6459    0    0 
+civicSI   969961817  5  3 c   k     k     b         6459   45   70 
+civicSI   969961833  5  2 Bc  kf    -     -         6484   35    0 
+civicSI   969961851  5  1 Bc  k     k     k         6449   10    0 9c 6c
+civicSI   969961870  5  5 f   -     -     -         6439    0    0 
+civicSI   969961897  5  4 c   k     b     -         6439   40   60 
+civicSI   969961914  5  3 cc  kc    kc    kc        6459 1410    0 8c 7d
+civicSI   969961938  5  2 Bk  b     -     -         5049   35   50 
+civicSI   969961953  5  1 Bf  -     -     -         5064    5    0 
+civicSI   969961985  5  5 f   -     -     -         5059    0    0 
+civicSI   969962010  5  4 r   b     kf    -         5059  195    0 
+civicSI   969962034  5  3 f   -     -     -         4864    0    0 
+civicSI   969962041  5  2 Bk  kc    kf    -         4864   45    0 
+civicSI   969962067  5  1 Bf  -     -     -         4819    5    0 
+civicSI   969962089  5  5 f   -     -     -         4814    0    0 
+civicSI   969962117  5  4 c   f     -     -         4814   10    0 
+civicSI   969962138  5  3 c   b     -     -         4804   45   70 
+civicSI   969962153  5  2 Bc  kcc   kf    -         4829  585    0 
+civicSI   969962191  4  1 Bf  -     -     -         4244    5    0 
+civicSI   969962220  4  4 c   b     -     -         4239  145  220 
+civicSI   969962244  4  3 cc  k     b     -         4314  110  150 
+civicSI   969962266  4  2 Bc  k     f     -         4354   30    0 
+civicSI   969962311  4  1 Bc  k     kf    -         4324   10    0 
+civicSI   969962336  4  4 f   -     -     -         4314    0    0 
+civicSI   969962374  4  3 f   -     -     -         4314    0    0 
+civicSI   969962382  4  2 Br  b     b     -         4314  335  450 
+civicSI   969962408  4  1 Bf  -     -     -         4429    5    0 
+civicSI   969962454  4  4 c   k     k     k         4424   10   35 8c Kh
+civicSI   969962477  4  3 f   -     -     -         4449    0    0 
+civicSI   969962484  4  2 Bk  k     k     k         4449   10   30 5d 6s
+civicSI   969962506  4  1 Bf  -     -     -         4469    5    0 
+civicSI   969962530  4  4 c   k     c     k         4464   50    0 Th Kh
+civicSI   969962557  4  3 c   c     kf    -         4414   50    0 
+civicSI   969962586  4  2 Bk  kf    -     -         4364   10    0 
+civicSI   969962602  4  1 Bc  k     k     k         4354   10   30 2h 6h
+civicSI   969962623  4  4 f   -     -     -         4374    0    0 
+civicSI   969962642  4  3 f   -     -     -         4374    0    0 
+civicSI   969962662  4  2 B   -     -     -         4374   10   15 
+civicSI   969962672  4  1 Bf  -     -     -         4379    5    0 
+civicSI   969962699  4  4 f   -     -     -         4374    0    0 
+civicSI   969962733  4  3 f   -     -     -         4374    0    0 
+civicSI   969962754  4  2 Br  k     c     b         4374  810 1620 Ah As
+civicSI   969962784  4  1 Bcc k     b     -         5184   90  120 
+civicSI   969962813  4  4 f   -     -     -         5214    0    0 
+civicSI   969962823  4  3 f   -     -     -         5214    0    0 
+civicSI   969962846  4  2 Bc  f     -     -         5214   30    0 
+civicSI   969962859  4  1 Bf  -     -     -         5184    5    0 
+civicSI   969962877  4  4 f   -     -     -         5179    0    0 
+civicSI   969962887  4  3 r   c     b     bcA       5179 5179 10428 Ac Ah
+civicSI   969962924  4  2 Bk  k     kf    -        10428   10    0 
+civicSI   969962968  4  1 Bc  k     k     b        10418   30   40 
+civicSI   969962987  4  4 c   b     k     k        10428   40   90 Th 9c
+civicSI   969963019  4  3 f   -     -     -        10478    0    0 
+civicSI   969963026  4  2 Bk  k     b     -        10478   30   40 
+civicSI   969963047  4  1 Bcc kf    -     -        10488   30    0 
+civicSI   969963066  4  4 f   -     -     -        10458    0    0 
+civicSI   969963095  4  3 c   kf    -     -        10458   10    0 
+civicSI   969963130  4  2 Bk  k     b     b        10448   90  180 Qd Ks
+civicSI   969963151  4  1 Bc  b     -     -        10538   40   60 
+civicSI   969963168  4  4 f   -     -     -        10558    0    0 
+civicSI   969963182  4  3 c   b     k     k        10558   35   75 8c 9h
+civicSI   969963202  4  2 B   -     -     -        10598   10   15 
+civicSI   969963213  4  1 Bc  k     k     k        10603   35    0 2s 5s
+civicSI   969963252  4  4 f   -     -     -        10568    0    0 
+civicSI   969963260  4  3 c   k     b     -        10568   35   50 
+civicSI   969963272  4  2 Bk  kc    kc    kc       10583  335    0 4d Kd
+civicSI   969963301  4  1 Bf  -     -     -        10248    5    0 
+civicSI   969963323  4  4 f   -     -     -        10243    0    0 
+civicSI   969963361  4  3 f   -     -     -        10243    0    0 
+civicSI   969963390  4  2 Bk  kc    b     k        10243  110    0 5s Ad
+civicSI   969963415  4  1 Bcc k     kf    -        10133   30    0 
+civicSI   969963458  4  4 f   -     -     -        10103    0    0 
+civicSI   969963474  4  3 f   -     -     -        10103    0    0 
+civicSI   969963518  4  2 Bk  b     k     c        10103  130    0 6s Kd
+civicSI   969963540  4  1 Bf  -     -     -         9973    5    0 
+civicSI   969963559  4  4 r   -     -     -         9968   35   50 
+civicSI   969963566  4  3 f   -     -     -         9983    0    0 
+civicSI   969963579  4  2 Br  b     -     -         9983  160  240 
+civicSI   969963599  4  1 Bc  b     -     -        10063   30   40 
+civicSI   969963613  4  4 f   -     -     -        10073    0    0 
+civicSI   969963626  4  3 f   -     -     -        10073    0    0 
+civicSI   969963673  4  2 Bk  b     b     k        10073  150  315 Tc Jh
+civicSI   969963699  4  1 Bc  kf    -     -        10238   10    0 
+civicSI   969963724  4  4 f   -     -     -        10228    0    0 
+civicSI   969963759  4  3 c   b     k     k        10228   40    0 Jc 9d
+civicSI   969963787  4  2 Bk  k     k     b        10188   40   60 
+civicSI   969963811  4  1 Bc  k     kf    -        10208   10    0 
+civicSI   969963835  4  4 f   -     -     -        10198    0    0 
+civicSI   969963871  4  3 c   k     kc    kc       10198  150  315 Qd 9h
+civicSI   969963893  4  2 Bk  k     k     f        10363   10    0 
+civicSI   969963914  4  1 Bf  -     -     -        10353    5    0 
+civicSI   969963925  4  4 c   b     b     -        10348  170  240 
+civicSI   969963946  4  3 c   kc    kf    -        10418   50    0 
+civicSI   969963967  4  2 Bf  -     -     -        10368   10    0 
+civicSI   969963995  4  1 Bf  -     -     -        10358    5    0 
+civicSI   969964005  4  4 r   b     -     -        10353  190  290 
+civicSI   969964022  4  3 f   -     -     -        10453    0    0 
+civicSI   969964029  4  2 B   -     -     -        10453   10   15 
+civicSI   969964036  4  1 Bf  -     -     -        10458    5    0 
+civicSI   969964050  4  4 c   k     b     k        10453  120    0 6h 6c
+civicSI   969964065  4  3 f   -     -     -        10333    0    0 
+civicSI   969964099  4  2 Bk  k     k     b        10333   35   50 
+civicSI   969964123  4  1 Bf  -     -     -        10348    5    0 
+civicSI   969964151  4  4 f   -     -     -        10343    0    0 
+civicSI   969964158  4  3 c   k     b     -        10343   35   50 
+civicSI   969964170  4  2 Bk  kf    -     -        10358   10    0 
+civicSI   969964195  4  1 Bc  b     b     k        10348  160    0 Kh 5h
+civicSI   969964231  4  4 c   k     c     b        10188  110  150 
+civicSI   969964259  4  3 c   k     b     -        10228   35   50 
+civicSI   969964271  4  2 Bk  k     k     b        10243   30   40 
+civicSI   969964303  4  1 Bc  k     b     k        10253   40    0 Ad 8s
+civicSI   969964329  4  4 f   -     -     -        10213    0    0 
+civicSI   969964350  4  3 f   -     -     -        10213    0    0 
+civicSI   969964366  4  2 Bk  k     f     -        10213   10    0 
+civicSI   969964377  4  1 Bf  -     -     -        10203    5    0 
+civicSI   969964398  4  4 c   k     k     f        10198   10    0 
+civicSI   969964416  4  3 c   b     -     -        10188   40   60 
+civicSI   969964432  4  2 Bk  k     k     k        10208   10    0 Ts 3h
+civicSI   969964450  4  1 Bf  -     -     -        10198    5    0 
+civicSI   969964475  4  4 c   k     k     k        10193   10    0 8h 3h
+civicSI   969964493  4  3 cc  c     b     -        10183  335  450 
+civicSI   969964515  4  2 B   -     -     -        10298   10   15 
+civicSI   969964521  4  1 Bcc kc    kf    -        10303  250    0 
+civicSI   969964562  4  4 f   -     -     -        10053    0    0 
+civicSI   969964595  4  3 f   -     -     -        10053    0    0 
+civicSI   969964614  4  2 Bk  b     b     b        10053  400    0 3s 3h
+civicSI   969964634  4  1 Bc  k     kf    -         9653   10    0 
+civicSI   969964705  4  4 r   b     k     b         9643  335  675 Ah Qc
+civicSI   969964737  4  3 cc  k     b     b         9983  605 1260 Kd Jh
+civicSI   969964765  4  2 Bk  kf    -     -        10638   10    0 
+civicSI   969964780  4  1 Bf  -     -     -        10628    5    0 
+civicSI   969964787  4  4 c   k     k     k        10623   35    0 3d Td
+civicSI   969964809  3  2 f   -     -     -        10588    0    0 
+civicSI   969964832  3  2 B   -     -     -        10588   10   15 
+civicSI   969964836  3  1 Bf  -     -     -        10593    5    0 
+civicSI   969964839  3  3 f   -     -     -        10588    0    0 
+civicSI   969964853  3  2 Bk  k     k     b        10588   30   40 
+civicSI   969964864  3  1 Bc  k     kf    -        10598   35    0 
+civicSI   969964875  3  3 f   -     -     -        10563    0    0 
+civicSI   969964891  3  2 Bf  -     -     -        10563   10    0 
+civicSI   969964899  3  1 Bf  -     -     -        10553    5    0 
+civicSI   969964904  3  3 r   -     -     -        10548   35   50 
+civicSI   969964910  3  2 B   -     -     -        10563   10   15 
+civicSI   969964913  3  1 Bf  -     -     -        10568    5    0 
+civicSI   969964920  3  3 c   b     -     -        10563   35   50 
+civicSI   969964930  3  2 Bk  k     k     f        10578   10    0 
+civicSI   969964943  3  1 Bf  -     -     -        10568    5    0 
+civicSI   969964964  3  3 f   -     -     -        10563    0    0 
+civicSI   969964970  3  2 B   -     -     -        10563   10   15 
+civicSI   969964972  3  1 Bf  -     -     -        10568    5    0 
+civicSI   969964994  3  3 f   -     -     -        10563    0    0 
+civicSI   969965015  3  2 Bk  k     k     kf       10563   10    0 
+civicSI   969965036  3  1 Bf  -     -     -        10553    5    0 
+civicSI   969965056  3  3 cc  c     c     k        10548  640    0 2s 4s
+civicSI   969965082  3  2 B   -     -     -         9908   10   15 
+civicSI   969965093  3  1 Bc  b     -     -         9913   30   40 
+civicSI   969965106  3  3 c   b     -     -         9923   35   50 
+civicSI   969965114  3  2 Bk  k     f     -         9938   10    0 
+civicSI   969965122  3  1 Bf  -     -     -         9928    5    0 
+civicSI   969965127  3  3 r   k     k     k         9923   35   80 Qh Ah
+civicSI   969965152  3  2 Bk  k     k     b         9968   30   40 
+civicSI   969965168  3  1 Bc  k     b     -         9978  115  160 
+civicSI   969965178  3  3 c   k     b     -        10023   40   60 
+civicSI   969965196  3  2 Bk  k     kf    -        10043   10    0 
+civicSI   969965209  3  1 Bf  -     -     -        10033    5    0 
+civicSI   969965213  3  3 f   -     -     -        10028    0    0 
+civicSI   969965241  3  2 Bk  k     b     -        10028   30   40 
+civicSI   969965257  3  1 Bf  -     -     -        10038    5    0 
+civicSI   969965262  3  3 cc  c     k     k        10033  110    0 Jc Qd
+civicSI   969965276  3  2 Bk  k     kc    k         9923   35   75 Ah 3h
+civicSI   969965296  3  1 Bc  b     -     -         9963   30   40 
+civicSI   969965307  3  3 c   k     k     k         9973   10   30 Qd 8d
+civicSI   969965324  3  2 Br  b     -     -         9993   90  120 
+civicSI   969965336  3  1 Bc  k     k     k        10023   10   30 9h Kd
+civicSI   969965350  3  3 f   -     -     -        10043    0    0 
+civicSI   969965356  3  2 Bk  k     k     kf       10043   10    0 
+civicSI   969965384  3  1 Bf  -     -     -        10033    5    0 
+civicSI   969965392  3  3 cc  k     f     -        10028   40    0 
+civicSI   969965422  3  2 Bf  -     -     -         9988   10    0 
+civicSI   969965441  3  1 Bc  k     k     b         9978   30   40 
+civicSI   969965461  3  3 cc  c     bc    c         9988 3035 6075 Ah Tc
+civicSI   969965477  2  2 B   -     -     -        13028   10   15 
+civicSI   969965481  2  1 Bf  -     -     -        13033    5    0 
+civicSI   969965485  2  2 Bc  c     k     rf       13028  810    0 
+civicSI   969965496  2  1 Brc kc    k     k        12218  270  540 Jc Jh
+civicSI   969965509  2  2 Bc  f     -     -        12488   30    0 
+civicSI   969965518  2  1 Bf  -     -     -        12458    5    0 
+civicSI   969965522  2  2 Bk  k     k     f        12453   10    0 
+civicSI   969965531  3  1 Bcc kf    -     -        12443   40    0 
+civicSI   969965545  3  3 f   -     -     -        12403    0    0 
+civicSI   969965554  3  2 Bk  k     k     b        12403   30   40 
+civicSI   969965567  3  1 Bf  -     -     -        12413    5    0 
+civicSI   969965578  3  3 c   k     b     k        12408   40   90 8h 9s
+civicSI   969965589  3  2 Bk  kf    -     -        12458   10    0 
+civicSI   969965599  3  1 Bc  k     k     k        12448   35    0 2d 6d
+civicSI   969965613  3  3 c   b     k     k        12413   40   90 2d Ac
+civicSI   969965630  3  2 Bc  c     f     -        12463   90    0 
+civicSI   969965642  3  1 Bf  -     -     -        12373    5    0 
+civicSI   969965645  3  3 r   b     -     -        12368  110  150 
+civicSI   969965652  3  2 Bf  -     -     -        12408   10    0 
+civicSI   969965660  3  1 Bf  -     -     -        12398    5    0 
+civicSI   969965664  3  3 f   -     -     -        12393    0    0 
+civicSI   969965668  3  2 B   -     -     -        12393   10   15 
+civicSI   969965674  3  1 Bc  bc    k     k        12398  130    0 3h 6h
+civicSI   969965688  3  3 f   -     -     -        12268    0    0 
+civicSI   969965695  3  2 Bc  k     k     b        12268   90  120 
+civicSI   969965706  3  1 Bc  kf    -     -        12298   10    0 
+civicSI   969965713  3  3 cc  c     k     f        12288  160    0 
+civicSI   969965736  3  2 Bk  b     k     k        12128   35   75 8s Qc
+civicSI   969965749  3  1 Bf  -     -     -        12168    5    0 
+civicSI   969965755  3  3 c   b     k     f        12163   35    0 
+civicSI   969965767  3  2 Bk  kf    -     -        12128   10    0 
+civicSI   969965776  3  1 Bf  -     -     -        12118    5    0 
+civicSI   969965779  3  3 f   -     -     -        12113    0    0 
+civicSI   969965792  3  2 Bc  f     -     -        12113   40    0 
+civicSI   969965800  3  1 Bf  -     -     -        12073    5    0 
+civicSI   969965812  3  3 cc  b     b     b        12068 1600 3240 6d 8d
+civicSI   969965834  3  2 Bk  k     k     k        13708   10   13 2c 7d
+civicSI   969965849  3  1 Bc  k     k     k        13711   35    0 Ad 2d
+civicSI   969965866  3  3 ccc k     k     k        13676  160    0 6s Ah
+civicSI   969965888  3  2 Bk  b     -     -        13516   35   50 
+civicSI   969965897  3  1 Bf  -     -     -        13531    5    0 
+civicSI   969965901  3  3 c   k     k     k        13526   10    0 5d 7c
+civicSI   969965912  3  2 Bc  kc    k     b        13516  455  630 
+civicSI   969965930  3  1 Br  -     -     -        13691   30   40 
+civicSI   969965935  3  3 c   k     k     k        13701   10    0 9h Js
+civicSI   969965949  3  2 Bc  c     f     -        13691   90    0 
+civicSI   969965960  3  1 Bf  -     -     -        13601    5    0 
+civicSI   969965972  3  3 f   -     -     -        13596    0    0 
+civicSI   969965985  3  2 Bc  k     c     f        13596   90    0 
+civicSI   969965998  3  1 Bf  -     -     -        13506    5    0 
+civicSI   969966001  3  3 f   -     -     -        13501    0    0 
+civicSI   969966005  3  2 B   -     -     -        13501   10   15 
+civicSI   969966006  3  1 Br  b     -     -        13506   90  120 
+civicSI   969966013  3  3 c   b     k     k        13536   35    0 Ad 6s
+civicSI   969966024  3  2 Bk  k     b     k        13501   35   75 Kd 3h
+civicSI   969966038  3  1 Bc  k     b     -        13541   30   40 
+civicSI   969966049  3  3 f   -     -     -        13551    0    0 
+civicSI   969966053  3  2 Bf  -     -     -        13551   10    0 
+civicSI   969966056  3  1 Bc  b     -     -        13541   30   40 
+civicSI   969966065  3  3 f   -     -     -        13551    0    0 
+civicSI   969966068  3  2 B   -     -     -        13551   10   15 
+civicSI   969966071  3  1 Bc  b     -     -        13556   30   40 
+civicSI   969966078  3  3 c   b     k     k        13566   40    0 3c Jc
+civicSI   969966094  3  2 Bc  c     k     bc       13526  810 1620 8d Td
+civicSI   969966108  3  1 Bf  -     -     -        14336    5    0 
+civicSI   969966117  3  3 c   b     -     -        14331   35   50 
+civicSI   969966125  3  2 B   -     -     -        14346   10   15 
+civicSI   969966127  3  1 Bc  k     kf    -        14351   10    0 
+civicSI   969966136  3  3 f   -     -     -        14341    0    0 
+civicSI   969966150  3  2 Bk  k     k     b        14341   35   50 
+civicSI   969966165  3  1 Bc  kf    -     -        14356   35    0 
+civicSI   969966176  3  3 cc  f     -     -        14321   40    0 
+civicSI   969966185  3  2 Bk  b     -     -        14281   30   40 
+civicSI   969966191  3  1 Bcc kf    -     -        14291   40    0 
+civicSI   969966201  3  3 c   b     b     b        14251  400  540 
+civicSI   969966219  3  2 Bf  -     -     -        14391   10    0 
+civicSI   969966222  3  1 Bc  k     b     -        14381  115  160 
+civicSI   969966233  3  3 c   bf    -     -        14426   35    0 
+civicSI   969966242  3  2 Bk  k     k     kf       14391   10    0 
+civicSI   969966255  3  1 Bc  kf    -     -        14381   35    0 
+civicSI   969966262  3  3 f   -     -     -        14346    0    0 
+civicSI   969966265  3  2 Bk  k     kc    k        14346   35    0 As Jc
+civicSI   969966276  3  1 Bf  -     -     -        14311    5    0 
+civicSI   969966283  3  3 c   k     f     -        14306   10    0 
+civicSI   969966297  3  2 Bc  k     b     -        14296  110  150 
+civicSI   969966313  3  1 Bf  -     -     -        14336    5    0 
+civicSI   969966323  3  3 cc  c     c     k        14331  335    0 8h Jc
+civicSI   969966334  3  2 Bc  c     c     k        13996  640    0 3h 5h
+civicSI   969966358  3  1 Bcc kf    -     -        13356  140    0 
+civicSI   969966376  3  3 cc  k     b     k        13216  130  135 Js 8s
+civicSI   969966388  3  2 Bc  c     c     k        13221  520    0 9h Ah
+civicSI   969966403  3  1 Bc  k     b     k        12701   30    0 6c 3c
+civicSI   969966418  3  3 f   -     -     -        12671    0    0 
+civicSI   969966433  3  2 Bk  k     k     k        12671   10    0 9h 3d
+civicSI   969966445  3  1 Bf  -     -     -        12661    5    0 
+civicSI   969966452  3  3 cc  f     -     -        12656   35    0 
+civicSI   969966459  3  2 Bf  -     -     -        12621   10    0 
+civicSI   969966471  3  1 Br  b     k     kc       12611  270    0 Kc Ah
+civicSI   969966486  3  3 c   k     k     k        12341   10    0 7h Qs
+civicSI   969966498  3  2 Bc  k     k     b        12331  380  530 
+civicSI   969966513  3  1 Bc  k     kc    kf       12481  140    0 
+civicSI   969966533  3  3 rc  c     c     c        12341 7280 7560 9c 9d
+civicSI   969966554  3  2 Bc  b     -     -        12621  160  240 
+civicSI   969966573  3  1 Bc  k     k     kf       12701   10    0 
+civicSI   969966585  3  3 f   -     -     -        12691    0    0 
+civicSI   969966594  3  2 Bc  k     f     -        12691  115    0 
+civicSI   969966603  3  1 Bc  kf    -     -        12576   35    0 
+civicSI   969966620  3  3 c   b     -     -        12541   35   50 
+civicSI   969966629  3  2 Bk  k     kf    -        12556   10    0 
+civicSI   969966646  3  1 Bcc kc    kc    kf       12546  270    0 
+civicSI   969966664  3  3 f   -     -     -        12276    0    0 
+civicSI   969966675  3  2 Bk  kf    -     -        12276   10    0 
+civicSI   969966697  2  1 Bcc k     kf    -        12266   30    0 
+civicSI   969966715  2  2 Bk  k     f     -        12236   10    0 
+civicSI   969966721  2  1 Bf  -     -     -        12226    5    0 
+civicSI   969966724  2  2 B   -     -     -        12221   10   15 
+civicSI   969966727  2  1 Bc  k     k     k        12226   10   20 Ts 4s
+civicSI   969966737  2  2 B   -     -     -        12236   10   15 
+civicSI   969966741  2  1 Bc  b     kf    -        12241   30    0 
+civicSI   969966753  2  2 B   -     -     -        12211   10   15 
+civicSI   969966755  2  1 Bc  kf    -     -        12216   10    0 
+civicSI   969966762  2  2 B   -     -     -        12206   10   15 
+civicSI   969966764  2  1 Bf  -     -     -        12211    5    0 
+civicSI   969966767  2  2 Bc  k     k     f        12206   30    0 
+civicSI   969966774  2  1 Bf  -     -     -        12176    5    0 
+civicSI   969966777  2  2 B   -     -     -        12171   10   15 
+civicSI   969966779  2  1 Bf  -     -     -        12176    5    0 
+civicSI   969966782  2  2 B   -     -     -        12171   10   15 
+civicSI   969966785  2  1 Bcc k     b     -        12176   90  120 
+civicSI   969966796  2  2 Bc  k     k     b        12206   90  120 
+civicSI   969966805  2  1 Bc  b     k     b        12236   90  180 8s 9h
+civicSI   969966817  2  2 Bf  -     -     -        12326   10    0 
+civicSI   969966824  2  1 Brc k     b     -        12316  270  360 
+civicSI   969966834  2  2 Bf  -     -     -        12406   10    0 
+civicSI   969966839  2  1 Bcc b     -     -        12396   90  120 
+civicSI   969966847  2  2 Bc  c     k     k        12426   90  180 8d 8c
+civicSI   969966859  2  1 Bc  k     bf    -        12516   30    0 
+civicSI   969966876  2  2 Bf  -     -     -        12486   10    0 
+civicSI   969966880  2  1 Bf  -     -     -        12476    5    0 
+civicSI   969966883  2  2 Bc  f     -     -        12471   30    0 
+civicSI   969966889  2  1 Bc  k     k     k        12441   10   10 7h 6c
+civicSI   969966898  2  2 Bc  k     k     k        12441   30   60 9c Js
+civicSI   969966911  2  1 Bc  kf    -     -        12471   10    0 
+civicSI   969966921  2  2 Bc  k     b     k        12461   90  180 Qd 9s
+civicSI   969966931  2  1 Bf  -     -     -        12551    5    0 
+civicSI   969966938  2  2 B   -     -     -        12546   10   15 
+civicSI   969966940  2  1 Bf  -     -     -        12551    5    0 
+civicSI   969966944  2  2 Bc  b     -     -        12546   90  120 
+civicSI   969966950  2  1 Bcc kc    kf    -        12576   90    0 
+civicSI   969966962  2  2 Bc  k     k     b        12486   90  120 
+civicSI   969966971  2  1 Bf  -     -     -        12516    5    0 
+civicSI   969966975  2  2 Bk  k     k     b        12511   30   40 
+civicSI   969966985  2  1 Bf  -     -     -        12521    5    0 
+civicSI   969966988  2  2 B   -     -     -        12516   10   15 
+civicSI   969966990  2  1 Bf  -     -     -        12521    5    0 
+civicSI   969966994  2  2 Bc  k     c     k        12516   90  180 Ad Ts
+civicSI   969967004  2  1 Bcc kc    kc    k        12606  270    0 3h 4c
+civicSI   969967023  2  2 B   -     -     -        12336   10   15 
+civicSI   969967028  2  1 Bf  -     -     -        12341    5    0 
+civicSI   969967031  2  2 Bc  bc    k     b        12336  810 1080 
+civicSI   969967045  2  1 Bc  kc    k     k        12606   30    0 4s Ad
+civicSI   969967058  2  2 Bc  k     k     k        12576   30   60 Kd 7c
+civicSI   969967068  2  1 Bc  b     -     -        12606   30   40 
+civicSI   969967077  2  2 Bc  c     f     -        12616   90    0 
+civicSI   969967085  2  1 Bf  -     -     -        12526    5    0 
+civicSI   969967089  2  2 B   -     -     -        12521   10   15 
+civicSI   969967091  2  1 Br  -     -     -        12526   30   40 
+civicSI   969967095  2  2 Bf  -     -     -        12536   10    0 
+civicSI   969967098  2  1 Bf  -     -     -        12526    5    0 
+civicSI   969967101  2  2 Bc  k     c     f        12521   90    0 
+civicSI   969967110  2  1 Bc  k     k     b        12431   30   40 
+civicSI   969967121  2  2 Bf  -     -     -        12441   10    0 
+civicSI   969967126  2  1 Bc  k     k     b        12431   30   40 
+civicSI   969967136  2  2 Bf  -     -     -        12441   10    0 
+civicSI   969967140  2  1 Bf  -     -     -        12431    5    0 
+civicSI   969967143  2  2 Bk  k     b     -        12426   30   40 
+civicSI   969967150  2  1 Bf  -     -     -        12436    5    0 
+civicSI   969967154  2  2 B   -     -     -        12431   10   15 
+civicSI   969967156  2  1 Br  b     -     -        12436   90  120 
+civicSI   969967161  2  2 B   -     -     -        12466   10   15 
+civicSI   969967165  2  1 Bc  b     k     kf       12471   30    0 
+civicSI   969967177  2  2 Bc  f     -     -        12441   30    0 
+civicSI   969967183  2  1 Bf  -     -     -        12411    5    0 
+civicSI   969967187  2  2 B   -     -     -        12406   10   15 
+civicSI   969967189  2  1 Bf  -     -     -        12411    5    0 
+civicSI   969967192  2  2 B   -     -     -        12406   10   15 
+civicSI   969967195  2  1 Br  k     kr    -        12411  270  360 
+civicSI   969967207  2  2 B   -     -     -        12501   10   15 
+civicSI   969967209  2  1 Bc  k     k     k        12506   10   20 7d Qs
+civicSI   969967219  2  2 Bc  k     f     -        12516   30    0 
+civicSI   969967228  2  1 Bc  b     -     -        12486   30   40 
+civicSI   969967234  2  2 Bc  f     -     -        12496   30    0 
+civicSI   969967239  2  1 Bf  -     -     -        12466    5    0 
+civicSI   969967243  2  2 Bf  -     -     -        12461   10    0 
+civicSI   969967246  2  1 Bf  -     -     -        12451    5    0 
+civicSI   969967249  2  2 Bc  k     b     b        12446  120  180 
+civicSI   969967266  2  1 Bc  k     kf    -        12506   10    0 
+civicSI   969967274  2  2 B   -     -     -        12496   10   15 
+civicSI   969967276  2  1 Bc  bc    k     k        12501   90   90 7d Jh
+civicSI   969967289  2  2 Bc  k     k     f        12501   30    0 
+civicSI   969967302  2  1 Bf  -     -     -        12471    5    0 
+civicSI   969967305  2  2 Bc  k     k     b        12466   90  120 
+civicSI   969967316  2  1 Bc  b     b     -        12496   90  120 
+civicSI   969967325  2  2 Bk  b     -     -        12526   30   40 
+civicSI   969967333  2  1 Bcc kc    kf    -        12536   90    0 
+civicSI   969967344  2  2 B   -     -     -        12446   10   15 
+civicSI   969967347  2  1 Bf  -     -     -        12451    5    0 
+civicSI   969967348  2  2 Bf  -     -     -        12446   10    0 
+civicSI   969967353  2  1 Bcc k     kc    k        12436   90  180 5s 4h
+civicSI   969967365  2  2 Bc  c     c     c        12526  810 1620 3d Ad
+civicSI   969967378  2  1 Bf  -     -     -        13336    5    0 
+civicSI   969967386  2  2 Bf  -     -     -        13331   10    0 
+civicSI   969967390  2  1 Bcc k     b     b        13321  270  360 
+civicSI   969967401  2  2 Bc  c     k     k        13411   90    0 3c Kc
+civicSI   969967410  2  1 Br  b     k     kc       13321  270    0 Th Ts
+civicSI   969967425  2  2 Bk  k     k     k        13051   10   20 Kc Jd
+civicSI   969967436  2  1 Bc  k     kc    kf       13061   30    0 
+civicSI   969967449  2  2 Bc  b     -     -        13031   90  120 
+civicSI   969967457  2  1 Bcc k     k     k        13061   30    0 Ts 9s
+civicSI   969967468  2  2 Bk  b     k     c        13031   90  180 7h Kc
+civicSI   969967483  2  1 Bc  b     k     k        13121   30    0 4d 4s
+civicSI   969967496  2  2 B   -     -     -        13091   10   15 
+civicSI   969967501  2  1 Bc  bc    k     k        13096   90    0 9s 5d
+civicSI   969967512  2  2 B   -     -     -        13006   10   15 
+civicSI   969967516  2  1 Bf  -     -     -        13011    5    0 
+civicSI   969967518  2  2 Bc  c     k     k        13006   90  180 Qc As
+civicSI   969967529  2  1 Br  -     -     -        13096   30   40 
+civicSI   969967536  2  2 Bc  k     c     f        13106   90    0 
+civicSI   969967546  2  1 Bc  kf    -     -        13016   10    0 
+civicSI   969967554  2  2 Bc  k     k     c        13006   90    0 Jd 6d
+civicSI   969967564  2  1 Bc  k     kf    -        12916   10    0 
+civicSI   969967587  2  2 B   -     -     -        12906   10   15 
+civicSI   969967589  2  1 Bcc bc    k     k        12911  270    0 9h 7h
+civicSI   969967602  2  2 Bc  c     k     k        12641   90  180 Td 8c
+civicSI   969967614  2  1 Br  kc    kf    -        12731   90    0 
+civicSI   969967631  2  2 Bf  -     -     -        12641   10    0 
+civicSI   969967642  2  1 Bf  -     -     -        12631    5    0 
+civicSI   969967646  2  2 B   -     -     -        12626   10   15 
+civicSI   969967648  2  1 Bcc b     b     -        12631  270  360 
+civicSI   969967660  2  2 B   -     -     -        12721   10   15 
+civicSI   969967662  2  1 Bc  kc    k     k        12726   30   60 Qd Kc
+civicSI   969967674  2  2 B   -     -     -        12756   10   15 
+civicSI   969967680  2  1 Bcc kc    kc    k        12761  270    0 6h Ah
+civicSI   969967695  2  2 Bc  c     k     b        12491  270  360 
+civicSI   969967710  2  1 Br  b     b     k        12581  270  540 Td Ts
+civicSI   969967732  2  2 Bk  k     b     -        12851   30   40 
+civicSI   969967745  2  1 Bc  k     k     k        12861   10    0 Th 5h
+civicSI   969967753  2  2 B   -     -     -        12851   10   15 
+civicSI   969967758  2  1 Br  -     -     -        12856   30   40 
+civicSI   969967762  2  2 Bc  f     -     -        12866   30    0 
+civicSI   969967768  2  1 Br  b     -     -        12836   90  120 
+civicSI   969967774  2  2 Bc  k     f     -        12866   30    0 
+civicSI   969967782  2  1 Bf  -     -     -        12836    5    0 
+civicSI   969967786  2  2 B   -     -     -        12831   10   15 
+civicSI   969967788  2  1 Bcc kr    -     -        12836  270  360 
+civicSI   969967798  2  2 B   -     -     -        12926   10   15 
+civicSI   969967801  2  1 Bcc k     b     b        12931  270  360 
+civicSI   969967813  2  2 B   -     -     -        13021   10   15 
+civicSI   969967815  2  1 Bcc kc    k     b        13026  270  360 
+civicSI   969967828  2  2 Bc  k     f     -        13116   30    0 
+civicSI   969967836  2  1 Bcc bf    -     -        13086   90    0 
+civicSI   969967845  2  2 B   -     -     -        12996   10   15 
+civicSI   969967847  2  1 Bcc kf    -     -        13001   30    0 
+civicSI   969967855  2  2 B   -     -     -        12971   10   15 
+civicSI   969967857  2  1 Bc  k     k     bc       12976   90    0 3s 3c
+civicSI   969967869  2  2 Bc  f     -     -        12886   30    0 
+civicSI   969967880  2  1 Br  -     -     -        12856   30   40 
+civicSI   969967885  2  2 Bc  b     k     c        12866  270    0 4d 6d
+civicSI   969967895  2  1 Bc  k     k     k        12596   10   20 6c Tc
+civicSI   969967909  2  2 Bk  k     k     k        12606   10    0 3s Tc
+civicSI   969967921  2  1 Bf  -     -     -        12596    5    0 
+civicSI   969967927  2  2 Bc  c     f     -        12591   90    0 
+civicSI   969967934  2  1 Bc  b     b     b        12501  270  360 
+civicSI   969967945  2  2 B   -     -     -        12591   10   15 
+civicSI   969967947  2  1 Bc  b     k     b        12596   90  120 
+civicSI   969967958  2  2 B   -     -     -        12626   10   15 
+civicSI   969967960  2  1 Bcc kf    -     -        12631   30    0 
+civicSI   969967970  2  2 B   -     -     -        12601   10   15 
+civicSI   969967972  2  1 Bc  b     b     -        12606   90  120 
+civicSI   969967982  2  2 Bc  k     b     -        12636   90  120 
+civicSI   969967991  2  1 Bcc k     kc    kr       12666  810 1620 Qd Td
+civicSI   969968008  2  2 Bc  f     -     -        13476   30    0 
+civicSI   969968016  2  1 Bcc kc    k     k        13446   90    0 Ad 3d
+civicSI   969968028  2  2 Br  bc    k     c        13356  810 1620 Qh Qs
+civicSI   969968044  2  1 Bf  -     -     -        14166    5    0 
+civicSI   969968053  2  2 Bc  k     b     -        14161   90  120 
+civicSI   969968062  2  1 Bcc kc    k     b        14191  270  540 9d Qs
+civicSI   969968076  3  2 Bc  b     -     -        14461   90  120 
+civicSI   969968093  3  1 Bc  k     k     k        14491   10   30 9h Qs
+civicSI   969968108  3  3 cc  k     k     c        14511  110    0 Jc 9h
+civicSI   969968127  3  2 Bc  c     k     k        14401   90  180 7d 3d
+civicSI   969968142  3  1 Bc  k     kc    b        14491   90  120 
+civicSI   969968161  3  3 cr  b     k     f        14521  335    0 
+civicSI   969968180  3  2 B   -     -     -        14186   10   15 
+civicSI   969968185  3  1 Bc  bc    k     k        14191  160  480 Ts 9d
+civicSI   969968217  4  4 f   -     -     -        14511    0    0 
+civicSI   969968236  4  3 cc  f     -     -        14511   40    0 
+civicSI   969968249  4  2 Bk  k     b     b        14471  110  150 
+civicSI   969968277  4  1 Bc  k     b     b        14511  130  180 
+civicSI   969968294  4  4 f   -     -     -        14561    0    0 
+civicSI   969968303  4  3 c   c     k     b        14561  160  240 
+civicSI   969968331  4  2 Bk  kf    -     -        14641   10    0 
+civicSI   969968340  4  1 Bc  kc    k     k        14631  140  315 8d 4d
+civicSI   969968359  4  4 r   k     r     k        14806  465  945 Jd Qd
+civicSI   969968378  4  3 c   b     -     -        15286   40   60 
+civicSI   969968392  4  2 Bk  b     b     -        15306  130  180 
+civicSI   969968428  4  1 Bc  kf    -     -        15356   35    0 
+civicSI   969968451  4  4 cc  k     f     -        15321   40    0 
+civicSI   969968473  4  3 r   -     -     -        15281   35   50 
+civicSI   969968479  4  2 Bk  k     b     bf       15296  110    0 
+civicSI   969968499  4  1 Bc  k     k     b        15186   30   40 
+civicSI   969968528  4  4 c   f     -     -        15196   10    0 
+civicSI   969968538  4  3 cc  c     b     k        15186  690 1440 Ah 7s
+civicSI   969968578  4  2 Bf  -     -     -        15936   10    0 
+civicSI   969968597  4  1 Bc  k     k     kf       15926   10    0 
+civicSI   969968620  4  4 f   -     -     -        15916    0    0 
+civicSI   969968629  4  3 cc  c     c     c        15916 2080    0 Kc Qs
+civicSI   969968648  4  2 B   -     -     -        13836   10   15 
+civicSI   969968655  4  1 Bc  k     kf    -        13841   35    0 
+civicSI   969968674  4  4 c   c     c     c        13806  335  675 Qd 2d
+civicSI   969968699  4  3 c   k     f     -        14146   10    0 
+civicSI   969968755  4  2 Bf  -     -     -        14136   10    0 
+civicSI   969968790  4  1 Bf  -     -     -        14126    5    0 
+civicSI   969968799  4  4 c   c     k     k        14121   40   90 7h 7s
+civicSI   969968822  4  3 c   k     k     k        14171   10   25 Th Ad
+civicSI   969968841  4  2 Bc  c     k     k        14186   90  180 7s 6c
+civicSI   969968862  5  1 Bf  -     -     -        14276    5    0 
+civicSI   969968876  5  5 c   k     k     k        14271   10    0 Qc 5c
+civicSI   969968918  5  4 c   f     -     -        14261   10    0 
+civicSI   969968969  5  3 fQ  -     -     -        14251    0    0 
+civicSI   970018599  2  1 Bc  k     k     b        14221   30   40 
+civicSI   970018613  3  3 f   -     -     -        14231    0    0 
+civicSI   970018628  3  2 Bc  k     f     -        14231   35    0 
+civicSI   970018660  3  1 Bf  -     -     -        14196    5    0 
+civicSI   970018683  3  3 f   -     -     -        14191    0    0 
+civicSI   970018686  3  2 Bk  k     k     k        14191   10    0 2h Jc
+civicSI   970018733  3  1 Bf  -     -     -        14181    5    0 
+civicSI   970018745  3  3 f   -     -     -        14176    0    0 
+civicSI   970018754  3  2 B   -     -     -        14176   10   15 
+civicSI   970018759  3  1 Br  b     -     -        14181  130  180 
+civicSI   970018781  4  4 c   k     k     b        14231   50    0 4h Th
+civicSI   970018823  4  3 f   -     -     -        14181    0    0 
+civicSI   970018848  4  2 Bk  f     -     -        14181   10    0 
+civicSI   970018880  4  1 Bc  k     b     b        14171  625 1305 Ac 9c
+civicSI   970018905  4  4 f   -     -     -        14851    0    0 
+civicSI   970018933  4  3 f   -     -     -        14851    0    0 
+civicSI   970018961  4  2 Bf  -     -     -        14851   10    0 
+civicSI   970018973  4  1 Bf  -     -     -        14841    5    0 
+civicSI   970018989  4  4 c   k     f     -        14836   10    0 
+civicSI   970019011  4  3 c   k     b     k        14826   35   75 Th 9s
+civicSI   970019036  4  2 Bk  k     kf    -        14866   10    0 
+civicSI   970019071  4  1 Bc  bc    kf    -        14856   90    0 
+civicSI   970019109  4  4 c   k     c     c        14766  110    0 Ks 8s
+civicSI   970019132  4  3 f   -     -     -        14656    0    0 
+civicSI   970019154  4  2 Bk  b     b     -        14656  160  240 
+civicSI   970019180  4  1 Bf  -     -     -        14736    5    0 
+civicSI   970019185  4  4 f   -     -     -        14731    0    0 
+civicSI   970019196  4  3 f   -     -     -        14731    0    0 
+civicSI   970019228  4  2 Bk  f     -     -        14731   10    0 
+civicSI   970019249  5  1 Bf  -     -     -        14721    5    0 
+civicSI   970019256  5  5 f   -     -     -        14716    0    0 
+civicSI   970019280  5  4 f   -     -     -        14716    0    0 
+civicSI   970019303  5  3 f   -     -     -        14716    0    0 
+civicSI   970019360  6  3 f   -     -     -        14716    0    0 
+civicSI   970019389  6  2 Bk  kf    -     -        14716   10    0 
+civicSI   970019451  6  1 Bc  kf    -     -        14706   10    0 
+civicSI   970019539  6  6 f   -     -     -        14696    0    0 
+civicSI   970019570  6  5 c   k     c     c        14696  210    0 Kh Qd
+civicSI   970019621  6  4 f   -     -     -        14486    0    0 
+civicSI   970019689  6  3 f   -     -     -        14486    0    0 
+civicSI   970019756  7  3 c   k     b     -        14486   50   80 
+civicSI   970019816  8  3 f   -     -     -        14516    0    0 
+civicSI   970019829  8  2 Bk  k     k     b        14516   35   50 
+civicSI   970019858  8  1 Bf  -     -     -        14531    5    0 
+civicSI   970019904  7  7 c   b     b     -        14526  370  600 
+civicSI   970019958  8  7 f   -     -     -        14756    0    0 
+civicSI   970019980  8  6 f   -     -     -        14756    0    0 
+civicSI   970020029  8  5 f   -     -     -        14756    0    0 
+civicSI   970020062  8  4 f   -     -     -        14756    0    0 
+civicSI   970020142  7  2 f   -     -     -        14756    0    0 
+civicSI   970020155  7  2 Bk  k     f     -        14756   10    0 
+civicSI   970020187  8  1 Br  -     -     -        14746   30   40 
+civicSI   970020226  8  8 c   f     -     -        14756   45    0 
+civicSI   970020282  8  7 f   -     -     -        14711    0    0 
+civicSI   970020343  8  6 c   f     -     -        14711   10    0 
+civicSI   970020382  8  5 f   -     -     -        14701    0    0 
+civicSI   970020421  8  4 f   -     -     -        14701    0    0 
+civicSI   970020464  8  3 c   k     k     f        14701   10    0 
+civicSI   970020524  8  2 Bk  kf    -     -        14691   10    0 
+civicSI   970020577  9  1 Bc  b     k     k        14681   60    0 Tc 5c
+civicSI   970020615  9  9 f   -     -     -        14621    0    0 
+civicSI   970020667  9  8 f   -     -     -        14621    0    0 
+civicSI   970020692  9  7 c   k     c     f        14621  180    0 
+civicSI   970020732  9  6 cc  kf    -     -        14441   45    0 
+civicSI   970020789  9  5 c   c     k     k        14396  180  435 7s 4s
+civicSI   970020822  8  4 c   k     k     r        14651  190  270 
+civicSI   970020878 10  4 c   k     b     -        14731  120  170 
+civicSI   970020906  9  4 c   k     kf    -        14781   10    0 
+civicSI   970020953  7  2 B   -     -     -        14771   10   15 
+civicSI   970020960  7  1 Bf  -     -     -        14776    5    0 
+civicSI   970021012  7  7 c   b     bc    c        14771 2130    0 As 9h
+civicSI   970021103  6  5 f   -     -     -        12641    0    0 
+civicSI   970021132  5  3 f   -     -     -        12641    0    0 
+civicSI   970021144  5  2 Bf  -     -     -        12641   10    0 
+civicSI   970021192  4  1 Bf  -     -     -        12631    5    0 
+civicSI   970021234  3  3 c   k     k     b        12626   35   75 Jh Ks
+civicSI   970021284  5  2 Bc  kc    kc    k        12666  335    0 3s 5s
+civicSI   970021310  5  1 Bf  -     -     -        12331    5    0 
+civicSI   970021333  5  5 f   -     -     -        12326    0    0 
+civicSI   970021374  4  3 c   k     k     b        12326   40   60 
+civicSI   970021426  4  3 f   -     -     -        12346    0    0 
+civicSI   970021462  4  2 B   -     -     -        12346   10   15 
+civicSI   970021472  4  1 Bcc kc    kc    kf       12351  690    0 
+civicSI   970021514  4  4 c   c     f     -        11661   45    0 
+civicSI   970021571  4  3 f   -     -     -        11616    0    0 
+civicSI   970021605  4  2 Bk  kc    k     kc       11616  210  240 3d Ac
+civicSI   970021664  4  1 Bf  -     -     -        11646    5    0 
+civicSI   970021697  4  4 r   k     b     -        11641  150  210 
+civicSI   970021719  4  3 c   k     b     b        11701  170  360 7h Ah
+civicSI   970021780  5  2 B   -     -     -        11891   10   15 
+civicSI   970021788  5  1 Bc  kf    -     -        11896   10    0 
+civicSI   970021825  5  5 c   f     -     -        11886   10    0 
+civicSI   970021847  5  4 f   -     -     -        11876    0    0 
+civicSI   970021854  5  3 cc  kc    kf    -        11876  190    0 
+civicSI   970021898  6  2 Bk  k     f     -        11686   10    0 
+civicSI   970021950  6  1 Bf  -     -     -        11676    5    0 
+civicSI   970021985  6  6 f   -     -     -        11671    0    0 
+civicSI   970022022  6  5 c   k     b     -        11671   45   70 
+civicSI   970022062  6  4 cc  k     b     -        11696  150  210 
+civicSI   970022082  6  3 f   -     -     -        11756    0    0 
+civicSI   970022128  6  2 Bk  k     b     -        11756   35   50 
+civicSI   970022165  6  1 Bcc kc    kf    -        11771  250    0 
+civicSI   970022248  5  5 c   k     f     -        11521   10    0 
+civicSI   970022265  5  4 f   -     -     -        11511    0    0 
+civicSI   970022297  6  4 f   -     -     -        11511    0    0 
+civicSI   970022357  6  3 f   -     -     -        11511    0    0 
+civicSI   970022412  6  2 Bk  kc    kf    -        11511   45    0 
+civicSI   970022486  7  1 Bc  kf    -     -        11466   10    0 
+civicSI   970022532  6  6 f   -     -     -        11456    0    0 
+civicSI   970022555  7  6 c   b     -     -        11456   45   70 
+civicSI   970022589  7  5 f   -     -     -        11481    0    0 
+civicSI   970022648  7  4 f   -     -     -        11481    0    0 
+civicSI   970022694  7  3 f   -     -     -        11481    0    0 
+civicSI   970022722  7  2 Bk  k     b     b        11481  110  150 
+civicSI   970022754  7  1 Bc  k     kf    -        11521   35    0 
+civicSI   970022792  7  7 c   c     b     -        11486  150  210 
+civicSI   970022828  7  6 f   -     -     -        11546    0    0 
+civicSI   970022877  7  5 f   -     -     -        11546    0    0 
+civicSI   970022932  7  4 f   -     -     -        11546    0    0 
+civicSI   970022997  7  3 c   kc    kc    b        11546 1030 1440 
+civicSI   970023101  7  2 Bc  kf    -     -        11956   35    0 
+civicSI   970023155  8  1 Bf  -     -     -        11921    5    0 
+civicSI   970023170  8  8 f   -     -     -        11916    0    0 
+civicSI   970023215  7  6 f   -     -     -        11916    0    0 
+civicSI   970023249  7  5 c   b     k     b        11916  210  320 
+civicSI   970023295  8  4 f   -     -     -        12026    0    0 
+civicSI   970023342  8  3 f   -     -     -        12026    0    0 
+civicSI   970023373  8  2 Bk  kf    -     -        12026   10    0 
+civicSI   970023406  8  1 Bc  k     k     b        12016   50   80 
+civicSI   970023444  8  8 f   -     -     -        12046    0    0 
+civicSI   970023514 10  9 f   -     -     -        12046    0    0 
+civicSI   970023583 10  8 f   -     -     -        12046    0    0 
+civicSI   970023639  9  6 c   kf    -     -        12046   10    0 
+civicSI   970023712  9  5 f   -     -     -        12036    0    0 
+civicSI   970023740  9  4 c   c     b     r        12036  933 1881 Ad 6d
+civicSI   970023801  9  3 c   f     -     -        12984   10    0 
+civicSI   970023828 10  2 Bk  k     b     -        12974   55   90 
+civicSI   970023863 10  1 Bf  -     -     -        13009    5    0 
+civicSI   970023950 10 10 c   k     k     f        13004   10    0 
+civicSI   970024000 10  9 c   c     f     -        12994   45    0 
+civicSI   970024050 10  8 f   -     -     -        12949    0    0 
+civicSI   970024078 10  7 f   -     -     -        12949    0    0 
+civicSI   970024145 10  6 f   -     -     -        12949    0    0 
+civicSI   970024215 10  5 c   c     f     -        12949   65    0 
+civicSI   970024270 10  4 c   k     f     -        12884   10    0 
+civicSI   970024368 10  3 f   -     -     -        12874    0    0 
+civicSI   970024439 10  2 Bc  kf    -     -        12874   45    0 
+civicSI   970024516 10  1 Bf  -     -     -        12829    5    0 
+civicSI   970024529 10 10 c   f     -     -        12824   10    0 
+civicSI   970024608 10  9 f   -     -     -        12814    0    0 
+civicSI   970024653 10  8 f   -     -     -        12814    0    0 
+civicSI   970024718 10  7 f   -     -     -        12814    0    0 
+civicSI   970024770 10  6 f   -     -     -        12814    0    0 
+civicSI   970024864 10  5 c   b     f     -        12814   50    0 
+civicSI   970024956  9  4 f   -     -     -        12764    0    0 
+civicSI   970025035  8  2 Bf  -     -     -        12764   10    0 
+civicSI   970025063  9  1 Bf  -     -     -        12754    5    0 
+civicSI   970025123  9  9 c   f     -     -        12749   10    0 
+civicSI   970025166  9  8 f   -     -     -        12739    0    0 
+civicSI   970025198  9  7 f   -     -     -        12739    0    0 
+civicSI   970025238  9  6 c   k     k     f        12739   10    0 
+civicSI   970025302  9  5 f   -     -     -        12729    0    0 
+civicSI   970025355  9  4 f   -     -     -        12729    0    0 
+civicSI   970025468  8  3 c   kf    -     -        12729   10    0 
+civicSI   970025515  8  2 B   -     -     -        12719   10   15 
+civicSI   970025563  8  1 Bf  -     -     -        12724    5    0 
+civicSI   970025625  8  8 f   -     -     -        12719    0    0 
+civicSI   970025670  7  6 c   f     -     -        12719   35    0 
+civicSI   970025703  7  5 f   -     -     -        12684    0    0 
+civicSI   970025734  7  4 f   -     -     -        12684    0    0 
+civicSI   970025794  7  3 f   -     -     -        12684    0    0 
+civicSI   970025856  7  2 Bk  kf    -     -        12684   10    0 
+civicSI   970025913  6  1 Bc  kf    -     -        12674   10    0 
+civicSI   970025942  6  6 f   -     -     -        12664    0    0 
+civicSI   970025981  6  5 c   k     f     -        12664   10    0 
+civicSI   970026047  6  4 f   -     -     -        12654    0    0 
+civicSI   970026140  6  3 r   b     -     -        12654  120  170 
+civicSI   970026168  6  2 Bk  k     c     b        12704  130  270 Ah Jc
+civicSI   970026211  6  1 Bf  -     -     -        12844    5    0 
+civicSI   970026240  6  6 f   -     -     -        12839    0    0 
+civicSI   970026269  6  5 f   -     -     -        12839    0    0 
+civicSI   970026301  6  4 f   -     -     -        12839    0    0 
+civicSI   970026409  5  2 c   b     kf    -        12839   60    0 
+civicSI   970026462  5  2 Bk  kf    -     -        12779   10    0 
+civicSI   970026489  6  1 Bc  k     k     b        12769   50   80 
+civicSI   970026526  6  6 c   b     -     -        12799   35   50 
+civicSI   970026564  6  5 r   kc    kf    -        12814  120    0 
+civicSI   970026601  6  4 f   -     -     -        12694    0    0 
+civicSI   970026630  7  4 f   -     -     -        12694    0    0 
+civicSI   970026668  7  3 c   b     b     k        12694  285  880 7d 2d
+civicSI   970026742  7  2 Bk  kc    b     kf       13289  235    0 
+civicSI   970026802  7  1 Bf  -     -     -        13054    5    0 
+civicSI   970026842  7  7 f   -     -     -        13049    0    0 
+civicSI   970026878  7  6 cc  f     -     -        13049   50    0 
+civicSI   970026926  7  5 f   -     -     -        12999    0    0 
+civicSI   970026996  7  4 c   b     -     -        12999   35   50 
+civicSI   970027023  7  3 r   b     k     b        13014  585    0 Js Jc
+civicSI   970027066  7  2 Bk  kf    -     -        12429   10    0 
+civicSI   970027130  7  1 Bf  -     -     -        12419    5    0 
+civicSI   970027151  7  7 f   -     -     -        12414    0    0 
+civicSI   970027172  7  6 c   k     k     k        12414   10    0 Qd Jh
+civicSI   970027275  7  5 f   -     -     -        12404    0    0 
+civicSI   970027349  7  4 f   -     -     -        12404    0    0 
+civicSI   970027409  7  3 f   -     -     -        12404    0    0 
+civicSI   970027446  7  2 Bk  k     k     kf       12404   10    0 
+civicSI   970027494  7  1 Bf  Q     -     -        12394    5    0 
+civicSI   970040318  3  2 Bk  k     k     k        12389   10    0 Td 2c
+civicSI   970040343  2  1 Bf  -     -     -        12379    5    0 
+civicSI   970040355  2  2 Bk  f     -     -        12374   10    0 
+civicSI   970040370  2  1 Br  b     -     -        12364   90  120 
+civicSI   970040383  2  2 Bk  k     b     c        12394   90    0 Ac 6s
+civicSI   970040397  2  1 Bc  kc    k     bc       12304  210  210 5d 6d
+civicSI   970040416  2  2 Bk  k     k     f        12304   10    0 
+civicSI   970040434  2  1 Bf  -     -     -        12294    5    0 
+civicSI   970040446  2  2 Bk  b     k     k        12289   30   60 Ah 4s
+civicSI   970040459  2  1 Bcc k     k     b        12319   90  120 
+civicSI   970040477  2  2 B   -     -     -        12349   10   15 
+civicSI   970040481  2  1 Bc  kf    -     -        12354   10    0 
+civicSI   970040504  2  2 Bk  k     b     k        12344   30   60 3h 9d
+civicSI   970040516  2  1 Bf  -     -     -        12374    5    0 
+civicSI   970040525  2  2 Bk  k     b     -        12369   30   40 
+civicSI   970040534  2  1 Bf  -     -     -        12379    5    0 
+civicSI   970040543  2  2 Bk  k     c     k        12374   30   60 3d 2h
+civicSI   970040562  2  1 Bf  -     -     -        12404    5    0 
+civicSI   970040567  2  2 B   -     -     -        12399   10   15 
+civicSI   970040570  2  1 Bc  k     b     b        12404   90  120 
+civicSI   970040579  2  2 Bk  k     r     b        12434  270  360 
+civicSI   970040598  2  1 Br  -     -     -        12524   30   40 
+civicSI   970040602  2  2 Bk  k     f     -        12534   10    0 
+civicSI   970040611  2  1 Br  k     bc    k        12524  210    0 Kc Kh
+civicSI   970040627  2  2 Bk  c     c     k        12314   90    0 6s Ah
+civicSI   970040642  2  1 Bc  k     k     b        12224   30   40 
+civicSI   970040660  2  2 B   -     -     -        12234   10   15 
+civicSI   970040663  2  1 Bf  -     -     -        12239    5    0 
+civicSI   970040666  2  2 B   -     -     -        12234   10   15 
+civicSI   970040668  2  1 Bc  b     b     -        12239   90  120 
+civicSI   970040678  2  2 B   -     -     -        12269   10   15 
+civicSI   970040680  2  1 Bc  k     b     -        12274   30   40 
+civicSI   970040688  2  2 B   -     -     -        12284   10   15 
+civicSI   970040691  2  1 Bf  -     -     -        12289    5    0 
+civicSI   970040693  2  2 B   -     -     -        12284   10   15 
+civicSI   970040696  2  1 Bc  b     -     -        12289   30   40 
+civicSI   970040704  2  2 Bk  b     -     -        12299   30   40 
+civicSI   970040711  2  1 Bcc bc    k     kf       12309  210    0 
+civicSI   970040727  2  2 Bc  c     c     k        12099  225  450 Th 7h
+civicSI   970040739  2  1 Bf  -     -     -        12324    5    0 
+civicSI   970040747  2  2 Bk  k     k     k        12319   10    0 6h 4s
+civicSI   970040762  2  1 Bf  -     -     -        12309    5    0 
+civicSI   970040769  2  2 Bk  k     b     -        12304   30   40 
+civicSI   970040778  2  1 Bcc kc    kf    -        12314   90    0 
+civicSI   970040792  2  2 Bk  k     k     b        12224   30   40 
+civicSI   970040802  2  1 Br  -     -     -        12234   30   40 
+civicSI   970040807  2  2 B   -     -     -        12244   10   15 
+civicSI   970040809  2  1 Bf  -     -     -        12249    5    0 
+civicSI   970040812  2  2 Bc  k     b     c        12244  225    0 Th 7s
+civicSI   970040827  2  1 Br  b     b     b        12019  810 1080 
+civicSI   970040855  2  2 B   -     -     -        12289   10   15 
+civicSI   970040859  2  1 Bc  k     b     -        12294   30   40 
+civicSI   970040874  2  2 B   -     -     -        12304   10   15 
+civicSI   970040877  2  1 Bcc k     b     kf       12309   90    0 
+civicSI   970040893  2  2 Bk  k     k     f        12219   10    0 
+civicSI   970040902  2  1 Bcc kc    kf    -        12209   90    0 
+civicSI   970040927  2  2 Bk  c     c     k        12119   90    0 8s Th
+civicSI   970040943  2  1 Bc  br    b     b        12029 1890 2520 
+civicSI   970040966  2  2 B   -     -     -        12659   10   15 
+civicSI   970040969  2  1 Bcc kc    k     k        12664   90  180 Kc 8c
+civicSI   970040986  2  2 Bc  k     b     k        12754   75  150 7c Ac
+civicSI   970041010  2  1 Br  b     k     k        12829   90    0 Jh As
+civicSI   970041029  2  2 B   -     -     -        12739   10   15 
+civicSI   970041034  2  1 Bc  k     b     -        12744   30   40 
+civicSI   970041053  2  2 Bc  c     bf    -        12754  225    0 
+civicSI   970041072  2  1 Bf  -     -     -        12529    5    0 
+civicSI   970041076  2  2 B   -     -     -        12524   10   15 
+civicSI   970041080  2  1 Bc  k     k     k        12529   10    0 5h 7h
+civicSI   970041097  2  2 Bk  k     b     -        12519   30   40 
+civicSI   970041110  2  1 Bc  k     b     -        12529   30   40 
+civicSI   970041126  2  2 Bk  k     k     k        12539   10   20 Kh Ah
+civicSI   970041143  2  1 Bc  k     k     b        12549   30   40 
+civicSI   970041162  2  2 Brc c     c     b        12559 1890 1890 5h Ad
+civicSI   970041183  2  1 Bc  k     k     k        12559   10    0 7c Td
+civicSI   970041203  2  2 Bk  k     k     r        12549   90    0 6s Kd
+civicSI   970041221  2  1 Bc  k     b     b        12459   90   90 Qh Tc
+civicSI   970041236  2  2 Bc  c     c     b        12459  675 1350 6d 4s
+civicSI   970041257  2  1 Bf  -     -     -        13134    5    0 
+civicSI   970041263  2  2 Bc  k     f     -        13129   25    0 
+civicSI   970041287  2  1 Bf  -     -     -        13104    5    0 
+civicSI   970041291  2  2 B   -     -     -        13099   10   15 
+civicSI   970041294  2  1 Bf  -     -     -        13104    5    0 
+civicSI   970041296  2  2 Bk  b     -     -        13099   30   40 
+civicSI   970041310  2  1 Bc  bc    k     k        13109   70    0 Th 7d
+civicSI   970041325  2  2 B   -     -     -        13039   10   15 
+civicSI   970041332  2  1 Bf  -     -     -        13044    5    0 
+civicSI   970041337  2  2 B   -     -     -        13039   10   15 
+civicSI   970041339  2  1 Bc  k     b     b        13044   90  120 
+civicSI   970041350  2  2 Brr b     -     -        13074  630  840 
+civicSI   970041373  2  1 Bc  k     k     b        13284   30   60 Ad 3h
+civicSI   970041385  2  2 Bk  c     k     k        13314   30   60 4c 6c
+civicSI   970041402  2  1 Bc  k     k     k        13344   10    0 Jh Ts
+civicSI   970041430  2  2 Br  b     -     -        13334   90  120 
+civicSI   970041442  2  1 Bc  k     bf    -        13364   30    0 
+civicSI   970041452  2  2 Bk  b     b     b        13334  270  360 
+civicSI   970041467  2  1 Bc  k     b     -        13424   30   40 
+civicSI   970041476  2  2 Bk  k     b     -        13434   30   40 
+civicSI   970041486  2  1 Bf  -     -     -        13444    5    0 
+civicSI   970041489  2  2 Bk  b     k     r        13439  270  360 
+civicSI   970041512  2  1 Bc  k     k     k        13529   10   20 Qs Tc
+civicSI   970041524  2  2 B   -     -     -        13539   10   15 
+civicSI   970041528  2  1 Bf  -     -     -        13544    5    0 
+civicSI   970041531  2  2 B   -     -     -        13539   10   15 
+civicSI   970041533  2  1 Br  -     -     -        13544   30   40 
+civicSI   970041537  2  2 B   -     -     -        13554   10   15 
+civicSI   970041540  2  1 Bc  kf    -     -        13559   10    0 
+civicSI   970041549  2  2 Bk  k     b     c        13549   90    0 8c Qs
+civicSI   970041569  2  1 Bc  k     k     k        13459   10    0 9h 8s
+civicSI   970041595  2  2 Bk  k     c     f        13449   30    0 
+civicSI   970041608  2  1 Bf  -     -     -        13419    5    0 
+civicSI   970041611  2  2 Bk  k     b     -        13414   30   40 
+civicSI   970041619  2  1 Bc  k     b     -        13424   30   40 
+civicSI   970041628  2  2 Bc  k     b     b        13434  225  300 
+civicSI   970041650  2  1 Bf  -     -     -        13509    5    0 
+civicSI   970041654  2  2 Bk  rf    -     -        13504   90    0 
+civicSI   970041669  2  1 Bcc k     k     kc       13414   90    0 2d Td
+civicSI   970041681  2  2 Bk  k     c     c        13324   90  180 8d 4h
+civicSI   970041693  2  1 Bc  kf    -     -        13414   10    0 
+civicSI   970041704  2  2 Bc  bc    k     c        13404  525    0 5h 7c
+civicSI   970041716  2  1 Bf  -     -     -        12879    5    0 
+civicSI   970041722  2  2 Bf  -     -     -        12874   10    0 
+civicSI   970041728  2  1 Bc  k     k     kf       12864   10    0 
+civicSI   970041744  2  2 Bf  -     -     -        12854   10    0 
+civicSI   970041748  2  1 Bc  k     b     -        12844   30   40 
+civicSI   970041759  2  2 Bk  c     c     c        12854  270    0 2c 7s
+civicSI   970041776  2  1 Bcc kc    kf    -        12584   90    0 
+civicSI   970041789  2  2 B   -     -     -        12494   10   15 
+civicSI   970041792  2  1 Bc  k     k     b        12499   30    0 2s 9s
+civicSI   970041804  2  2 Bc  c     c     b        12469  675  900 
+civicSI   970041820  2  1 Bc  kc    k     b        12694   90  120 
+civicSI   970041834  2  2 B   -     -     -        12724   10   15 
+civicSI   970041836  2  1 Bc  k     k     k        12729   10    0 6d 2c
+civicSI   970041845  2  2 Bc  f     -     -        12719   25    0 
+civicSI   970041852  2  1 Bc  k     b     b        12694   90  120 
+civicSI   970041862  2  2 Bk  f     -     -        12724   10    0 
+civicSI   970041868  2  1 Br  b     -     -        12714   90  120 
+civicSI   970041876  2  2 Bk  k     k     b        12744   30   40 
+civicSI   970041888  2  1 Bcc k     k     b        12754   90    0 4c Qs
+civicSI   970041900  2  2 B   -     -     -        12664   10   15 
+civicSI   970041905  2  1 Bc  kc    kf    -        12669   30    0 
+civicSI   970041919  2  2 B   -     -     -        12639   10   15 
+civicSI   970041921  2  1 Bc  k     b     b        12644   90  120 
+civicSI   970041931  2  2 Bc  c     k     k        12674   75    0 4c 5d
+civicSI   970041942  2  1 Bcc krf   -     -        12599  270    0 
+civicSI   970041954  2  2 Bk  b     b     k        12329   90  180 2s Ts
+civicSI   970041965  2  1 Bc  k     b     -        12419   30   40 
+civicSI   970041975  2  2 Bc  k     k     f        12429   25    0 
+civicSI   970041985  2  1 Bf  -     -     -        12404    5    0 
+civicSI   970041989  2  2 Bk  k     b     -        12399   30   40 
+civicSI   970041997  2  1 Bc  kf    -     -        12409   10    0 
+civicSI   970042004  2  2 Bk  c     bc    c        12399  630    0 2d 8h
+civicSI   970042019  2  1 Bc  kc    kr    b        11769  810 1080 
+civicSI   970042037  2  2 Bc  k     k     k        12039   25    0 Js 7c
+civicSI   970042048  2  1 Brc k     k     b        12014  210  420 6s 5s
+civicSI   970042062  2  2 Bc  k     b     -        12224   75  100 
+civicSI   970042074  2  1 Bf  -     -     -        12249    5    0 
+civicSI   970042077  2  2 Bk  k     k     f        12244   10    0 
+civicSI   970042087  2  1 Br  b     -     -        12234   90  120 
+civicSI   970042094  2  2 B   -     -     -        12264   10   15 
+civicSI   970042096  2  1 Bcc kc    kf    -        12269   90    0 
+civicSI   970042107  2  2 Bk  b     bc    b        12179  630  840 
+civicSI   970042123  2  1 Bf  -     -     -        12389    5    0 
+civicSI   970042127  2  2 Bc  c     c     b        12384  675  900 
+civicSI   970042143  2  1 Bf  -     -     -        12609    5    0 
+civicSI   970042147  2  2 Bc  k     k     r        12604  125  200 
+civicSI   970042165  2  1 Bf  -     -     -        12679    5    0 
+civicSI   970042169  2  2 Bk  b     -     -        12674   30   40 
+civicSI   970042175  2  1 Bf  -     -     -        12684    5    0 
+civicSI   970042178  2  2 Bk  b     k     k        12679   30   60 Jc 3h
+civicSI   970042190  2  1 Bf  -     -     -        12709    5    0 
+civicSI   970042195  2  2 Bk  k     rc    k        12704  210    0 6c Qd
+civicSI   970042210  2  1 Bc  k     kf    -        12494   10    0 
+civicSI   970042221  2  2 Br  b     -     -        12484  225  300 
+civicSI   970042232  2  1 Bc  k     bc    k        12559   70  140 Jh 9h
+civicSI   970042247  2  2 Bk  k     k     b        12629   30   40 
+civicSI   970042264  2  1 Bc  b     b     b        12639  270  360 
+civicSI   970042274  2  2 Bk  c     c     c        12729  270  540 7s Kd
+civicSI   970042285  2  1 Bcc kc    kc    k        12999  270    0 7d Th
+civicSI   970042307  2  2 Bk  b     b     b        12729  270  540 Tc 7c
+civicSI   970042328  2  1 Bcc b     b     -        12999  270  360 
+civicSI   970042344  2  2 B   -     -     -        13089   10   15 
+civicSI   970042346  2  1 Bc  k     k     b        13094   30   60 5d Ac
+civicSI   970042357  2  2 Bk  k     k     bc       13124   70   70 3h 2s
+civicSI   970042372  2  1 Bc  k     kr    b        13124  270    0 Qc 9d
+civicSI   970042391  2  2 Bk  k     f     -        12854   10    0 
+civicSI   970042401  2  1 Bc  k     k     kr       12844   90  120 
+civicSI   970042416  2  2 Bk  k     c     r        12874  270    0 8d 3c
+civicSI   970042426  2  1 Bc  k     k     b        12604   30    0 6s 7d
+civicSI   970042444  2  2 Bk  f     -     -        12574   10    0 
+civicSI   970042452  2  1 Bc  k     k     k        12564   10    0 5h Kc
+civicSI   970042464  2  2 Bc  k     k     k        12554   25   25 9d 8d
+civicSI   970042476  2  1 Bc  k     b     b        12554   90   90 7c Qs
+civicSI   970042490  2  2 Bk  k     b     b        12554   90    0 Qd 4d
+civicSI   970042507  2  1 Bc  b     k     b        12464   90  120 
+civicSI   970042521  2  2 Bk  b     b     b        12494  270  360 
+civicSI   970042535  2  1 Bc  k     b     -        12584   30   40 
+civicSI   970042550  2  2 Bk  k     k     b        12594   30   60 2s Qd
+civicSI   970042561  2  1 Bc  k     kf    -        12624   10    0 
+civicSI   970042574  2  2 Bk  b     k     k        12614   30   60 5d 7h
+civicSI   970042586  2  1 Bc  k     k     kc       12644   30    0 7s Jc
+civicSI   970042602  2  2 Bc  k     k     k        12614   25   50 2c Kc
+civicSI   970042614  2  1 Br  -     -     -        12639   30   40 
+civicSI   970042621  2  2 Bk  b     k     b        12649   90  180 As 2h
+civicSI   970042638  2  1 Bcc k     kf    -        12739   30    0 
+civicSI   970042652  2  2 Bc  c     c     f        12709  225    0 
+civicSI   970042665  2  1 Br  b     b     b        12484  810 1620 As 5h
+civicSI   970042674  2  2 Bc  c     f     -        13294   75    0 
+civicSI   970042683  2  1 Bc  kf    -     -        13219   10    0 
+civicSI   970042691  2  2 Bf  -     -     -        13209   10    0 
+civicSI   970042695  2  1 Bcc k     bc    kc       13199  630    0 Kc Qd
+civicSI   970042707  2  2 Bk  b     k     r        12569  270    0 7h 9s
+civicSI   970042721  2  1 Br  b     -     -        12299   90  120 
+civicSI   970042729  2  2 Bc  f     -     -        12329   25    0 
+civicSI   970042735  2  1 Bc  k     b     k        12304   30    0 5h 8c
+civicSI   970042744  2  2 Br  b     -     -        12274  225  300 
+civicSI   970042755  2  1 Bcc k     k     b        12349   75  100 
+civicSI   970042767  2  2 B   -     -     -        12374   10   15 
+civicSI   970042770  2  1 Bc  b     -     -        12379   30   40 
+civicSI   970042775  2  2 Bc  k     b     -        12389   75  100 
+civicSI   970042782  2  1 Bc  k     k     k        12414   10    0 8h Ks
+civicSI   970042793  2  2 B   -     -     -        12404   10   15 
+civicSI   970042797  2  1 Bc  k     k     b        12409   30   40 
+civicSI   970042816  2  2 Bf  -     -     -        12419   10    0 
+civicSI   970042820  2  1 Bc  k     k     b        12409   30    0 9h 2h
+civicSI   970042837  2  2 Bk  k     b     -        12379   30   40 
+civicSI   970042848  2  1 Bc  k     k     k        12389   10   20 4d 7d
+civicSI   970042859  2  2 Bk  k     b     -        12399   30   40 
+civicSI   970042869  2  1 Bc  k     k     kf       12409   10    0 
+civicSI   970042882  2  2 Bk  b     k     k        12399   30   60 Qh 4c
+civicSI   970042894  2  1 Bc  b     k     k        12429   30   60 6d Qc
+civicSI   970042910  2  2 Bk  k     b     b        12459   90  120 
+civicSI   970042923  2  1 Bc  k     k     bc       12489   70    0 Ad 8s
+civicSI   970042937  2  2 Bk  bc    k     b        12419  210  420 Ts Qc
+civicSI   970042951  2  1 Brrc k     b     k        12629 1470 2940 Jh Jd
+civicSI   970042969  2  2 Bk  k     b     -        14099   30   40 
+civicSI   970042984  2  1 Bcc kc    kc    k        14109  270  540 8h 3s
+civicSI   970043004  2  2 Bc  b     k     k        14379   75  150 9s Qs
+civicSI   970043018  2  1 Bc  b     -     -        14454   30   40 
+civicSI   970043028  2  2 B   -     -     -        14464   10   15 
+civicSI   970043031  2  1 Bcc k     k     b        14469   90  180 Ah 4h
+civicSI   970043042  2  2 Bk  b     bc    c        14559  630    0 Kc Ad
+civicSI   970043060  2  1 Bf  -     -     -        13929    5    0 
+civicSI   970043067  2  2 Br  k     b     b        13924  675 1350 3h 3s
+civicSI   970043085  2  1 Bcc kf    -     -        14599   30    0 
+civicSI   970043096  2  2 Bc  k     k     k        14569   25    0 2s 4c
+civicSI   970043107  2  1 Bf  -     -     -        14544    5    0 
+civicSI   970043112  2  2 Bk  k     c     r        14539  270  360 
+civicSI   970043125  2  1 Bc  k     k     k        14629   10   20 9s 7c
+civicSI   970043137  2  2 Bc  c     r     b        14639 2025 2700 
+civicSI   970043172  2  1 Bc  k     k     k        15314   10   10 7c 5s
+civicSI   970043185  2  2 B   -     -     -        15314   10   15 
+civicSI   970043189  2  1 Bc  b     -     -        15319   30   40 
+civicSI   970043195  2  2 Brr b     -     -        15329 1575 2100 
+civicSI   970043207  2  1 Bc  kc    k     bf       15854   90    0 
+civicSI   970043224  2  2 Bc  b     k     f        15764   75    0 
+civicSI   970043235  2  1 Br  kf    -     -        15689   30    0 
+civicSI   970043244  2  2 Bk  k     k     k        15659   10   20 Ad 6c
+civicSI   970043256  2  1 Bc  kr    b     -        15669  270  360 
+civicSI   970043271  2  2 Bc  k     b     bc       15759  525 1050 Tc 2s
+civicSI   970043288  2  1 Br  -     -     -        16284   30   40 
+civicSI   970043294  2  2 Bk  c     c     b        16294  270  360 
+civicSI   970043308  2  1 Bc  k     k     b        16384   30   40 
+civicSI   970043320  2  2 Bc  k     k     k        16394   25    0 4d 5c
+civicSI   970043332  2  1 Bc  b     -     -        16369   30   40 
+civicSI   970043341  2  2 Bk  b     -     -        16379   30   40 
+civicSI   970043349  2  1 Bc  k     k     b        16389   30   40 
+civicSI   970043360  2  2 Bk  b     -     -        16399   30   40 
+civicSI   970043367  2  1 Bc  k     k     bc       16409   50    0 Jc 8c
+civicSI   970043380  2  2 Bk  k     k     k        16359   10    0 2d 6c
+civicSI   970043391  2  1 Bc  k     k     k        16349   10    0 9h 4h
+civicSI   970043404  2  2 Bf  -     -     -        16339   10    0 
+civicSI   970043410  2  1 Bc  b     -     -        16329   30   40 
+civicSI   970043416  2  2 B   -     -     -        16339   10   15 
+civicSI   970043419  2  1 Bc  b     bc    k        16344  210  420 5s As
+civicSI   970043430  2  2 Br  bc    bc    c        16554 11025    0 Ac Ad
+civicSI   970043456  2  1 Bc  b     -     -         5529   30   40 
+civicSI   970043465  2  2 Br  k     b     -         5539   90  120 
+civicSI   970043475  2  1 Bc  krc   k     krrA      5569 5569 11138 7d Ks
+civicSI   970043496  2  2 Bk  k     b     r        11138  270  540 Ah Qs
+civicSI   970043512  2  1 Bc  kf    -     -        11408   10    0 
+civicSI   970043522  2  2 Bc  k     c     k        11398   75    0 Ks Qs
+civicSI   970043531  2  1 Bc  k     b     -        11323   30   40 
+civicSI   970043550  2  2 Bf  -     -     -        11333   10    0 
+civicSI   970043554  2  1 Bc  k     k     kf       11323   10    0 
+civicSI   970043565  2  2 Bc  k     b     c        11313  225    0 6s As
+civicSI   970043575  2  1 Bc  kc    k     kf       11088   30    0 
+civicSI   970043591  2  2 Br  b     -     -        11058   90  120 
+civicSI   970043598  2  1 Bc  b     b     -        11088   90  120 
+civicSI   970043607  2  2 Bf  -     -     -        11118   10    0 
+civicSI   970043611  2  1 Bc  k     k     bf       11108   30    0 
+civicSI   970043623  2  2 Bk  k     b     -        11078   30   40 
+civicSI   970043631  2  1 Bc  b     k     kc       11088   90    0 Kd Qs
+civicSI   970043644  2  2 Bc  f     -     -        10998   25    0 
+civicSI   970043652  2  1 Bf  -     -     -        10973    5    0 
+civicSI   970043655  2  2 Bk  k     b     k        10968   30   60 4s 8d
+civicSI   970043667  2  1 Bc  k     k     k        10998   10   20 Kd Th
+civicSI   970043681  2  2 B   -     -     -        11008   10   15 
+civicSI   970043685  2  1 Bc  k     kf    -        11013   10    0 
+civicSI   970043695  2  2 Bk  f     -     -        11003   10    0 
+civicSI   970043701  2  1 Bc  k     b     -        10993   30   40 
+civicSI   970043709  2  2 Bk  b     k     k        11003   30   60 Ah 7s
+civicSI   970043720  2  1 Bc  k     k     k        11033   10    0 Ad 7s
+civicSI   970043735  2  2 Br  b     -     -        11023   90  120 
+civicSI   970043750  2  1 Bf  -     -     -        11053    5    0 
+civicSI   970043754  2  2 Bk  k     f     -        11048   10    0 
+civicSI   970043762  2  1 Bf  -     -     -        11038    5    0 
+civicSI   970043765  2  2 Bk  k     k     k        11033   10    0 7h Qc
+civicSI   970043774  2  1 Bcc k     k     kc       11023   90    0 Qd 6c
+civicSI   970043791  2  2 Bk  b     -     -        10933   30   40 
+civicSI   970043799  2  1 Bc  k     k     k        10943   10    0 3d 6h
+civicSI   970043808  2  2 Bk  b     -     -        10933   30   40 
+civicSI   970043817  2  1 Bc  k     b     bf       10943   90    0 
+civicSI   970043831  2  2 Bk  k     k     b        10853   30   40 
+civicSI   970043842  2  1 Bc  k     k     b        10863   30   40 
+civicSI   970043851  2  2 Bk  b     k     b        10873   90  120 
+civicSI   970043862  2  1 Bc  k     k     bc       10903   50    0 5s 4h
+civicSI   970043873  2  2 Bk  k     bc    k        10853   70    0 2s 4c
+civicSI   970043889  2  1 Bc  k     k     k        10783   10    0 6c 4d
+civicSI   970043902  2  2 Bk  k     b     -        10773   30   40 
+civicSI   970043913  2  1 Bc  k     b     -        10783   30   40 
+civicSI   970043921  2  2 Brc k     k     f        10793   70    0 
+civicSI   970043936  2  1 Bcc kc    k     bc       10723  630 1260 2s 4c
+civicSI   970043953  2  2 Bc  b     b     b        11353  675 1350 6s Jh
+civicSI   970043975  2  1 Bcc kf    -     -        12028   30    0 
+civicSI   970043985  2  2 Bk  k     c     r        11998  270  360 
+civicSI   970044000  2  1 Bc  k     k     k        12088   10   20 8s 9d
+civicSI   970044013  2  2 Bc  k     b     b        12098  225  450 8c Ac
+civicSI   970044028  2  1 Bc  k     b     -        12323   30   40 
+civicSI   970044039  2  2 Bc  f     -     -        12333   25    0 
+civicSI   970044044  2  1 Bcc kc    k     k        12308   90  180 Ad Th
+civicSI   970044058  2  2 Bk  k     b     k        12398   30   60 Th 5d
+civicSI   970044072  2  1 Bcc k     k     k        12428   30   60 Jh 5s
+civicSI   970044085  2  2 Bc  k     bc    k        12458  175  350 Ac Kc
+civicSI   970044101  2  1 Bf  -     -     -        12633    5    0 
+civicSI   970044107  2  2 Bk  k     k     k        12628   10    0 Jh Kc
+civicSI   970044116  2  1 Bf  -     -     -        12618    5    0 
+civicSI   970044121  2  2 Bk  k     bc    b        12613  210  420 3h Td
+civicSI   970044134  2  1 B   -     -     -        12823    5   15 
+civicSI   970090052  5  4 c   c     b     -        12248  190  270 
+civicSI   970090083  6  3 f   -     -     -        12328    0    0 
+civicSI   970090147  6  2 Bk  k     k     k        12328   10    0 Qd 3c
+civicSI   970090201  6  1 Bc  b     b     b        12318  400    0 7c 3c
+civicSI   970090240  6  6 f   -     -     -        11918    0    0 
+civicSI   970090323  6  5 c   b     b     -        11918  130  180 
+civicSI   970090369  6  5 c   f     -     -        11968   45    0 
+civicSI   970090404  6  4 c   f     -     -        11923   10    0 
+civicSI   970090442  6  3 f   -     -     -        11913    0    0 
+civicSI   970090473  6  2 Bk  k     f     -        11913   10    0 
+civicSI   970090491  6  1 Bf  -     -     -        11903    5    0 
+civicSI   970090556  6  6 c   f     -     -        11898   10    0 
+civicSI   970090585  6  6 c   k     k     f        11888   10    0 
+civicSI   970090644  5  4 c   b     -     -        11878   35   50 
+civicSI   970090665  5  3 f   -     -     -        11893    0    0 
+civicSI   970090697  5  2 Bk  b     -     -        11893   35   50 
+civicSI   970090720  5  1 Bf  -     -     -        11908    5    0 
+civicSI   970090749  5  5 r   b     k     f        11903  110    0 
+civicSI   970090775  5  4 c   f     -     -        11793   10    0 
+civicSI   970090811  5  3 f   -     -     -        11783    0    0 
+civicSI   970090838  5  2 Bk  k     k     b        11783   40   60 
+civicSI   970090864  4  1 Bf  -     -     -        11803    5    0 
+civicSI   970090880  4  4 f   -     -     -        11798    0    0 
+civicSI   970090901  4  3 cc  k     k     b        11798  150  210 
+civicSI   970090926  4  2 Bk  k     k     b        11858   40   60 
+civicSI   970090955  4  1 Bf  -     -     -        11878    5    0 
+civicSI   970090982  5  4 f   -     -     -        11873    0    0 
+civicSI   970090999  5  3 f   -     -     -        11873    0    0 
+civicSI   970091031  5  2 Bk  kc    kf    -        11873   50    0 
+civicSI   970091076  5  1 Bf  -     -     -        11823    5    0 
+civicSI   970091083  5  5 f   -     -     -        11818    0    0 
+civicSI   970091121  5  4 c   kf    -     -        11818   10    0 
+civicSI   970091138  5  3 f   -     -     -        11808    0    0 
+civicSI   970091161  5  2 Bk  c     k     k        11808   30    0 Kc 7d
+civicSI   970091209  5  1 Bf  -     -     -        11778    5    0 
+civicSI   970091257  6  6 c   c     c     c        11773 1570    0 7s 6s
+civicSI   970091309  7  6 f   -     -     -        10203    0    0 
+civicSI   970091331  7  5 c   f     -     -        10203   10    0 
+civicSI   970091362  7  4 f   -     -     -        10193    0    0 
+civicSI   970091406  7  3 f   -     -     -        10193    0    0 
+civicSI   970091435  7  2 Bc  kf    -     -        10193   35    0 
+civicSI   970091481  7  1 Bf  -     -     -        10158    5    0 
+civicSI   970091532  7  7 c   k     b     r        10153  335  675 2h 8h
+civicSI   970091575  7  6 c   -     -     -        10493   10   25 
+civicSI   970091629  6  4 c   k     f     -        10508   10    0 
+civicSI   970091668  6  4 c   k     f     -        10498   10    0 
+civicSI   970091709  6  3 c   c     b     -        10488  110  160 
+civicSI   970091755  6  2 Bk  kf    -     -        10538   10    0 
+civicSI   970091776  6  1 Bf  -     -     -        10528    5    0 
+civicSI   970091797  6  6 f   -     -     -        10523    0    0 
+civicSI   970091824  6  5 f   -     -     -        10523    0    0 
+civicSI   970091853  6  4 c   b     -     -        10523   35   50 
+civicSI   970091880  6  3 c   b     -     -        10538   35   50 
+civicSI   970091915  6  2 Bk  kf    -     -        10553   10    0 
+civicSI   970091951  6  1 Bf  -     -     -        10543    5    0 
+civicSI   970091964  6  6 f   -     -     -        10538    0    0 
+civicSI   970092000  7  5 c   k     f     -        10538   10    0 
+civicSI   970092041  7  4 f   -     -     -        10528    0    0 
+civicSI   970092071  7  3 c   b     kf    -        10528   45    0 
+civicSI   970092100  7  2 Bk  kf    -     -        10483   10    0 
+civicSI   970092147  7  1 Bf  -     -     -        10473    5    0 
+civicSI   970092172  7  7 f   -     -     -        10468    0    0 
+civicSI   970092201  6  6 f   -     -     -        10468    0    0 
+civicSI   970092229  6  5 f   -     -     -        10468    0    0 
+civicSI   970092250  6  4 f   -     -     -        10468    0    0 
+civicSI   970092261  6  3 f   -     -     -        10468    0    0 
+civicSI   970092282  6  2 B   -     -     -        10468   10   15 
+civicSI   970092298  6  1 Bf  -     -     -        10473    5    0 
+civicSI   970092340  6  6 f   -     -     -        10468    0    0 
+civicSI   970092349  6  5 c   b     k     f        10468   40    0 
+civicSI   970092381  6  4 f   -     -     -        10428    0    0 
+civicSI   970092393  6  3 fQ  -     -     -        10428    0    0 

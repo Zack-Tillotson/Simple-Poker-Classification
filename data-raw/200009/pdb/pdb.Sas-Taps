@@ -1,0 +1,971 @@
+Sas-Taps  968642960  5  2 Bk  b     -     -         5088   50   80 
+Sas-Taps  968642987  5  1 Bf  -     -     -         5118    5    0 
+Sas-Taps  968643029  5  5 c   b     k     r         5113  335  450 
+Sas-Taps  968643070  6  4 f   -     -     -         5228    0    0 
+Sas-Taps  968643117  6  3 f   -     -     -         5228    0    0 
+Sas-Taps  968643135  6  2 Bk  kf    -     -         5228   10    0 
+Sas-Taps  968643172  6  1 Bc  kc    kc    k         5218  430  900 Ah 9c
+Sas-Taps  968643202  6  6 f   -     -     -         5688    0    0 
+Sas-Taps  968643230  6  5 f   -     -     -         5688    0    0 
+Sas-Taps  968643252  7  4 c   k     k     f         5688   10    0 
+Sas-Taps  968643281  7  3 f   -     -     -         5678    0    0 
+Sas-Taps  968643303  7  2 Br  -     -     -         5678   35   50 
+Sas-Taps  968643317  6  1 Bf  -     -     -         5693    5    0 
+Sas-Taps  968643348  6  6 f   -     -     -         5688    0    0 
+Sas-Taps  968643372  6  5 r   k     k     c         5688  150    0 Ac Kd
+Sas-Taps  968643394  6  4 r   b     -     -         5538  120  170 
+Sas-Taps  968643415  6  3 c   k     c     r         5588  595    0 Kd Ac
+Sas-Taps  968643466  6  2 Bc  c     f     -         4993   90    0 
+Sas-Taps  968643495  6  1 Bc  k     k     kf        4903   10    0 
+Sas-Taps  968643533  7  7 f   -     -     -         4893    0    0 
+Sas-Taps  968643574  7  6 c   k     k     b         4893   55   90 
+Sas-Taps  968643645  8  6 f   -     -     -         4928    0    0 
+Sas-Taps  968643740  7  4 f   -     -     -         4928    0    0 
+Sas-Taps  968643781  7  3 f   -     -     -         4928    0    0 
+Sas-Taps  968643817  8  3 cc  c     c     b         4928 2130 4320 6h Ah
+Sas-Taps  968643853  7  2 Bk  kf    -     -         7118   10    0 
+Sas-Taps  968643896  7  1 Bf  -     -     -         7108    5    0 
+Sas-Taps  968643926  7  7 f   -     -     -         7103    0    0 
+Sas-Taps  968643973  6  5 f   -     -     -         7103    0    0 
+Sas-Taps  968644018  6  4 f   -     -     -         7103    0    0 
+Sas-Taps  968644057  5  2 Bk  kf    -     -         7103   10    0 
+Sas-Taps  968644086  6  1 Bc  k     kf    -         7093   35    0 
+Sas-Taps  968644103  6  6 f   -     -     -         7058    0    0 
+Sas-Taps  968644122  6  5 f   -     -     -         7058    0    0 
+Sas-Taps  968644131  6  4 c   k     c     c         7058  250    0 Kh Qh
+Sas-Taps  968644169  6  3 f   -     -     -         6808    0    0 
+Sas-Taps  968644202  6  2 Bc  k     kf    -         6808   35    0 
+Sas-Taps  968644224  6  1 Bcc kf    -     -         6773   50    0 
+Sas-Taps  968644266  6  6 f   -     -     -         6723    0    0 
+Sas-Taps  968644292  6  5 f   -     -     -         6723    0    0 
+Sas-Taps  968644309  6  4 f   -     -     -         6723    0    0 
+Sas-Taps  968644328  6  3 f   -     -     -         6723    0    0 
+Sas-Taps  968644343  6  2 Bc  kf    -     -         6723   45    0 
+Sas-Taps  968644401  5  1 Bf  -     -     -         6678    5    0 
+Sas-Taps  968644442  6  6 f   -     -     -         6673    0    0 
+Sas-Taps  968644522  5  4 f   -     -     -         6673    0    0 
+Sas-Taps  968644550  5  3 f   -     -     -         6673    0    0 
+Sas-Taps  968644578  5  2 Bf  -     -     -         6673   10    0 
+Sas-Taps  968644604  5  1 Bc  kc    k     k         6663   40   90 As 4c
+Sas-Taps  968644629  5  5 c   c     f     -         6713   35    0 
+Sas-Taps  968644645  5  4 f   -     -     -         6678    0    0 
+Sas-Taps  968644649  5  3 cc  f     -     -         6678   40    0 
+Sas-Taps  968644664  5  2 Bk  kc    k     k         6638   35   75 Qh 2h
+Sas-Taps  968644677  5  1 Bf  -     -     -         6678    5    0 
+Sas-Taps  968644687  5  5 f   -     -     -         6673    0    0 
+Sas-Taps  968644728  4  3 cc  k     f     -         6673   40    0 
+Sas-Taps  968644756  4  3 f   -     -     -         6633    0    0 
+Sas-Taps  968644771  4  2 Bk  k     kf    -         6633   10    0 
+Sas-Taps  968644787  4  1 Bc  k     k     kr        6623  355  480 
+Sas-Taps  968644807  4  4 f   -     -     -         6748    0    0 
+Sas-Taps  968644810  4  3 f   -     -     -         6748    0    0 
+Sas-Taps  968644813  4  2 Bk  kf    -     -         6748   10    0 
+Sas-Taps  968644824  4  1 Bf  -     -     -         6738    5    0 
+Sas-Taps  968644837  4  4 f   -     -     -         6733    0    0 
+Sas-Taps  968644840  4  3 f   -     -     -         6733    0    0 
+Sas-Taps  968644850  4  2 Bk  kf    -     -         6733   10    0 
+Sas-Taps  968644859  4  1 Bc  kc    k     k         6723  115  240 As 2d
+Sas-Taps  968644874  5  5 f   -     -     -         6848    0    0 
+Sas-Taps  968644893  5  4 cc  c     c     c         6848 1010    0 Td Js
+Sas-Taps  968644925  5  3 f   -     -     -         5838    0    0 
+Sas-Taps  968644948  5  2 Bf  -     -     -         5838   10    0 
+Sas-Taps  968644975  5  1 Bc  kc    kc    k         5828   90  180 Qs Jc
+Sas-Taps  968644998  5  5 c   c     k     k         5918  120    0 9s Qs
+Sas-Taps  968645016  5  4 f   -     -     -         5798    0    0 
+Sas-Taps  968645036  5  3 f   -     -     -         5798    0    0 
+Sas-Taps  968645052  5  2 Bk  k     kf    -         5798   10    0 
+Sas-Taps  968645064  5  1 Bf  -     -     -         5788    5    0 
+Sas-Taps  968645072  5  5 f   -     -     -         5783    0    0 
+Sas-Taps  968645093  5  4 f   -     -     -         5783    0    0 
+Sas-Taps  968645097  5  3 c   k     c     k         5783   40    0 9d Qd
+Sas-Taps  968645128  5  2 Bk  k     k     kf        5743   10    0 
+Sas-Taps  968645158  4  1 Bf  -     -     -         5733    5    0 
+Sas-Taps  968645163  5  5 r   k     r     -         5728 2195 3060 
+Sas-Taps  968645194  5  4 f   -     -     -         6593    0    0 
+Sas-Taps  968645232  5  3 f   -     -     -         6593    0    0 
+Sas-Taps  968645257  7  2 Bk  k     kf    -         6593   10    0 
+Sas-Taps  968645284  7  1 Bf  -     -     -         6583    5    0 
+Sas-Taps  968645301  7  7 c   c     f     -         6578   50    0 
+Sas-Taps  968645325  7  6 f   -     -     -         6528    0    0 
+Sas-Taps  968645358  7  5 cc  c     f     -         6528  210    0 
+Sas-Taps  968645396  7  4 f   -     -     -         6318    0    0 
+Sas-Taps  968645429  8  3 f   -     -     -         6318    0    0 
+Sas-Taps  968645463  9  2 Bk  k     kf    -         6318   10    0 
+Sas-Taps  968645495  9  1 Bf  -     -     -         6308    5    0 
+Sas-Taps  968645549  8  8 f   -     -     -         6303    0    0 
+Sas-Taps  968645595  8  7 f   -     -     -         6303    0    0 
+Sas-Taps  968645615  8  6 f   -     -     -         6303    0    0 
+Sas-Taps  968645643  8  5 c   kf    -     -         6303   10    0 
+Sas-Taps  968645680  8  4 f   -     -     -         6293    0    0 
+Sas-Taps  968645735  7  2 Bc  kf    -     -         6293   35    0 
+Sas-Taps  968645767  7  1 Bf  -     -     -         6258    5    0 
+Sas-Taps  968645791  7  7 f   -     -     -         6253    0    0 
+Sas-Taps  968645823  7  6 f   -     -     -         6253    0    0 
+Sas-Taps  968645850  7  5 c   c     b     -         6253  150  210 
+Sas-Taps  968645880  7  4 f   -     -     -         6313    0    0 
+Sas-Taps  968645896  7  3 cc  kf    -     -         6313   55    0 
+Sas-Taps  968645922  7  2 Bc  kc    kc    k         6258  335    0 Ah 4h
+Sas-Taps  968645951  7  1 Bf  -     -     -         5923    5    0 
+Sas-Taps  968645979  7  7 f   -     -     -         5918    0    0 
+Sas-Taps  968646006  7  6 f   -     -     -         5918    0    0 
+Sas-Taps  968646045  7  5 f   -     -     -         5918    0    0 
+Sas-Taps  968646062  7  4 f   -     -     -         5918    0    0 
+Sas-Taps  968646089  7  3 c   kc    kc    k         5918  170    0 Jh Qd
+Sas-Taps  968646127  7  2 Bc  kf    -     -         5748   35    0 
+Sas-Taps  968646157  7  1 Bf  -     -     -         5713    5    0 
+Sas-Taps  968646190  7  7 c   c     c     r         5708 3960 8100 7s 5s
+Sas-Taps  968646243  7  6 f   -     -     -         9848    0    0 
+Sas-Taps  968646278  7  5 f   -     -     -         9848    0    0 
+Sas-Taps  968646323  7  4 f   -     -     -         9848    0    0 
+Sas-Taps  968646355  7  3 f   -     -     -         9848    0    0 
+Sas-Taps  968646395  8  2 Bk  k     kc    kf        9848   35    0 
+Sas-Taps  968646443  8  1 Bf  -     -     -         9813    5    0 
+Sas-Taps  968646493  8  8 f   -     -     -         9808    0    0 
+Sas-Taps  968646542  9  8 f   -     -     -         9808    0    0 
+Sas-Taps  968646579  9  7 f   -     -     -         9808    0    0 
+Sas-Taps  968646609  9  6 f   -     -     -         9808    0    0 
+Sas-Taps  968646662 10  4 Q   -     -     -         9808    0    0 
+Sas-Taps  968648191  7  5 f   -     -     -         9878    0    0 
+Sas-Taps  968648214  8  4 f   -     -     -         9878    0    0 
+Sas-Taps  968648255  8  3 f   -     -     -         9878    0    0 
+Sas-Taps  968648282  8  2 Bk  kc    kc    kr        9878 2130 2880 
+Sas-Taps  968648332  8  1 Bc  k     kf    -        10628   45    0 
+Sas-Taps  968648372  8  8 f   -     -     -        10583    0    0 
+Sas-Taps  968648402  8  7 f   -     -     -        10583    0    0 
+Sas-Taps  968648443  9  6 f   -     -     -        10583    0    0 
+Sas-Taps  968648479  9  5 cc  f     -     -        10583   55    0 
+Sas-Taps  968648513  9  4 f   -     -     -        10528    0    0 
+Sas-Taps  968648557  9  3 f   -     -     -        10528    0    0 
+Sas-Taps  968648573  9  2 Bf  -     -     -        10528   10    0 
+Sas-Taps  968648610  9  1 Bf  -     -     -        10518    5    0 
+Sas-Taps  968648670  9  9 f   -     -     -        10513    0    0 
+Sas-Taps  968648718  9  8 f   -     -     -        10513    0    0 
+Sas-Taps  968648755  9  7 f   -     -     -        10513    0    0 
+Sas-Taps  968648800  9  6 c   f     -     -        10513   10    0 
+Sas-Taps  968648833  9  5 c   k     f     -        10503   10    0 
+Sas-Taps  968648861  9  4 f   -     -     -        10493    0    0 
+Sas-Taps  968648957  9  3 f   -     -     -        10493    0    0 
+Sas-Taps  968649009  9  2 Bc  k     k     kf       10493   65    0 
+Sas-Taps  968649055  9  1 Bf  -     -     -        10428    5    0 
+Sas-Taps  968649095  9  9 f   -     -     -        10423    0    0 
+Sas-Taps  968649128  9  8 f   -     -     -        10423    0    0 
+Sas-Taps  968649183  9  7 f   -     -     -        10423    0    0 
+Sas-Taps  968649213  9  6 r   kf    -     -        10423   45    0 
+Sas-Taps  968649245  9  5 f   -     -     -        10378    0    0 
+Sas-Taps  968649299 10  4 f   -     -     -        10378    0    0 
+Sas-Taps  968649352 10  3 f   -     -     -        10378    0    0 
+Sas-Taps  968649385 10  2 BKQ -     -     -        10378   10    0 
+Sas-Taps  968650142 10  7 f   -     -     -        10368    0    0 
+Sas-Taps  968650189 10  6 f   -     -     -        10368    0    0 
+Sas-Taps  968650229 10  5 f   -     -     -        10368    0    0 
+Sas-Taps  968650263 10  4 f   -     -     -        10368    0    0 
+Sas-Taps  968650315 10  3 f   -     -     -        10368    0    0 
+Sas-Taps  968650342 10  2 Bk  k     kf    -        10368   10    0 
+Sas-Taps  968650376 10  1 Bf  -     -     -        10358    5    0 
+Sas-Taps  968650393 10 10 f   -     -     -        10353    0    0 
+Sas-Taps  968650410 10  9 f   -     -     -        10353    0    0 
+Sas-Taps  968650451 10  8 f   -     -     -        10353    0    0 
+Sas-Taps  968650502 10  7 f   -     -     -        10353    0    0 
+Sas-Taps  968650530 10  6 f   -     -     -        10353    0    0 
+Sas-Taps  968650558 10  5 c   k     r     k        10353  360  840 Ah 3h
+Sas-Taps  968650605 10  4 f   -     -     -        10833    0    0 
+Sas-Taps  968650639 10  3 cc  kf    -     -        10833   45    0 
+Sas-Taps  968650716 10  2 Bk  k     kf    -        10788   10    0 
+Sas-Taps  968650760 10  1 Bf  -     -     -        10778    5    0 
+Sas-Taps  968650807 10 10 c   k     k     f        10773   10    0 
+Sas-Taps  968650862 10  9 f   -     -     -        10763    0    0 
+Sas-Taps  968650908 10  8 f   -     -     -        10763    0    0 
+Sas-Taps  968650952 10  7 f   -     -     -        10763    0    0 
+Sas-Taps  968650979 10  6 f   -     -     -        10763    0    0 
+Sas-Taps  968651006 10  5 f   -     -     -        10763    0    0 
+Sas-Taps  968651049 10  4 cc  k     k     kf       10763   45    0 
+Sas-Taps  968651100 10  3 f   -     -     -        10718    0    0 
+Sas-Taps  968651155 10  2 Bf  -     -     -        10718   10    0 
+Sas-Taps  968651178 10  1 Bf  -     -     -        10708    5    0 
+Sas-Taps  968651210 10 10 f   -     -     -        10703    0    0 
+Sas-Taps  968651238 10  9 f   -     -     -        10703    0    0 
+Sas-Taps  968651282 10  8 f   -     -     -        10703    0    0 
+Sas-Taps  968651333 10  7 f   -     -     -        10703    0    0 
+Sas-Taps  968651366 10  6 f   -     -     -        10703    0    0 
+Sas-Taps  968651407 10  5 f   -     -     -        10703    0    0 
+Sas-Taps  968651438 10  4 cf  -     -     -        10703   10    0 
+Sas-Taps  968651499 10  3 f   -     -     -        10693    0    0 
+Sas-Taps  968651526 10  2 Bk  kr    b     b        10693 2395 3240 
+Sas-Taps  968651578 10  1 Bf  -     -     -        11538    5    0 
+Sas-Taps  968651625 10 10 f   -     -     -        11533    0    0 
+Sas-Taps  968651659 10  9 cf  -     -     -        11533   10    0 
+Sas-Taps  968651688 10  8 f   -     -     -        11523    0    0 
+Sas-Taps  968651733 10  7 cc  k     k     f        11523   75    0 
+Sas-Taps  968651813 10  6 f   -     -     -        11448    0    0 
+Sas-Taps  968651851  9  5 c   k     k     f        11448   10    0 
+Sas-Taps  968651902  9  4 c   k     k     f        11438   10    0 
+Sas-Taps  968651932  9  3 f   -     -     -        11428    0    0 
+Sas-Taps  968651948  9  2 Bc  k     b     bf       11428  595    0 
+Sas-Taps  968651991 10  1 Bf  -     -     -        10833    5    0 
+Sas-Taps  968652021 10 10 f   -     -     -        10828    0    0 
+Sas-Taps  968652064 10  9 c   k     f     -        10828   10    0 
+Sas-Taps  968652107 10  8 c   b     b     k        10818  285    0 8d Jd
+Sas-Taps  968652159 10  7 f   -     -     -        10533    0    0 
+Sas-Taps  968652207 10  6 f   -     -     -        10533    0    0 
+Sas-Taps  968652259 10  5 f   -     -     -        10533    0    0 
+Sas-Taps  968652313 10  4 f   -     -     -        10533    0    0 
+Sas-Taps  968652362 10  3 f   -     -     -        10533    0    0 
+Sas-Taps  968652407 10  2 Bk  k     kf    -        10533   10    0 
+Sas-Taps  968652437 10  1 Bf  -     -     -        10523    5    0 
+Sas-Taps  968652456 10 10 f   -     -     -        10518    0    0 
+Sas-Taps  968652489 10  9 c   k     c     b        10518  210  320 
+Sas-Taps  968652547 10  8 f   -     -     -        10628    0    0 
+Sas-Taps  968652605 10  7 cc  k     k     k        10628   55  180 9h 9c
+Sas-Taps  968652647 10  6 c   k     c     c        10753  110    0 Jd Jh
+Sas-Taps  968652681 10  5 f   -     -     -        10643    0    0 
+Sas-Taps  968652715 10  4 f   -     -     -        10643    0    0 
+Sas-Taps  968652754 10  3 f   -     -     -        10643    0    0 
+Sas-Taps  968652799 10  2 Bf  -     -     -        10643   10    0 
+Sas-Taps  968652850 10  1 Bc  kf    -     -        10633   10    0 
+Sas-Taps  968652906 10 10 r   b     -     -        10623  635  960 
+Sas-Taps  968652940 10  9 f   -     -     -        10948    0    0 
+Sas-Taps  968652967 10  8 c   k     kf    -        10948   10    0 
+Sas-Taps  968653019 10  7 cc  k     f     -        10938   65    0 
+Sas-Taps  968653062 10  6 f   -     -     -        10873    0    0 
+Sas-Taps  968653088 10  5 f   -     -     -        10873    0    0 
+Sas-Taps  968653115 10  4 f   -     -     -        10873    0    0 
+Sas-Taps  968653144 10  3 f   -     -     -        10873    0    0 
+Sas-Taps  968653187 10  2 Bk  k     kf    -        10873   10    0 
+Sas-Taps  968653224 10  1 Bf  -     -     -        10863    5    0 
+Sas-Taps  968653254 10 10 f   -     -     -        10858    0    0 
+Sas-Taps  968653290 10  9 c   f     -     -        10858   10    0 
+Sas-Taps  968653387 10  8 f   -     -     -        10848    0    0 
+Sas-Taps  968653416 10  7 f   -     -     -        10848    0    0 
+Sas-Taps  968653454 10  6 f   -     -     -        10848    0    0 
+Sas-Taps  968653504 10  5 cc  k     cf    -        10848  170    0 
+Sas-Taps  968653576 10  4 f   -     -     -        10678    0    0 
+Sas-Taps  968653643 10  3 f   -     -     -        10678    0    0 
+Sas-Taps  968653700 10  2 Bk  k     kc    f        10678   55    0 
+Sas-Taps  968653760 10  1 Bf  -     -     -        10623    5    0 
+Sas-Taps  968653794 10 10 f   -     -     -        10618    0    0 
+Sas-Taps  968653831 10  9 f   -     -     -        10618    0    0 
+Sas-Taps  968653886 10  8 cc  f     -     -        10618   65    0 
+Sas-Taps  968653915 10  7 cc  k     kf    -        10553   65    0 
+Sas-Taps  968653977 10  6 f   -     -     -        10488    0    0 
+Sas-Taps  968654038 10  5 f   -     -     -        10488    0    0 
+Sas-Taps  968654081 10  4 cc  k     k     kf       10488  160    0 
+Sas-Taps  968654126 10  3 f   -     -     -        10328    0    0 
+Sas-Taps  968654183 10  2 Bf  -     -     -        10328   10    0 
+Sas-Taps  968654237 10  1 Bc  k     kc    k        10318  220  555 9s Tc
+Sas-Taps  968654314 10 10 f   -     -     -        10653    0    0 
+Sas-Taps  968654341 10  9 cc  f     -     -        10653  160    0 
+Sas-Taps  968654396 10  8 f   -     -     -        10493    0    0 
+Sas-Taps  968654467 10  7 f   -     -     -        10493    0    0 
+Sas-Taps  968654540 10  6 f   -     -     -        10493    0    0 
+Sas-Taps  968654576 10  5 cc  k     k     f        10493   75    0 
+Sas-Taps  968654631 10  4 f   -     -     -        10418    0    0 
+Sas-Taps  968654673 10  3 cc  k     b     k        10418  185    0 Ad Td
+Sas-Taps  968654706 10  2 Bk  kf    -     -        10233   10    0 
+Sas-Taps  968654725 10  1 Bf  -     -     -        10223    5    0 
+Sas-Taps  968654767 10 10 f   -     -     -        10218    0    0 
+Sas-Taps  968654812 10  9 f   -     -     -        10218    0    0 
+Sas-Taps  968654831 10  8 f   -     -     -        10218    0    0 
+Sas-Taps  968654873  9  6 f   -     -     -        10218    0    0 
+Sas-Taps  968654894  8  4 c   k     k     k        10218   10   40 5s Ac
+Sas-Taps  968654932  8  3 f   -     -     -        10248    0    0 
+Sas-Taps  968654969  8  2 Bf  -     -     -        10248   10    0 
+Sas-Taps  968654990  8  1 Bc  k     k     kf       10238   10    0 
+Sas-Taps  968655057  8  8 c   k     f     -        10228   35    0 
+Sas-Taps  968655096 10  9 f   -     -     -        10193    0    0 
+Sas-Taps  968655178 10  8 f   -     -     -        10193    0    0 
+Sas-Taps  968655215 10  7 f   -     -     -        10193    0    0 
+Sas-Taps  968655258 10  6 f   -     -     -        10193    0    0 
+Sas-Taps  968655295 10  5 f   -     -     -        10193    0    0 
+Sas-Taps  968655317 10  4 f   -     -     -        10193    0    0 
+Sas-Taps  968655357 10  3 f   -     -     -        10193    0    0 
+Sas-Taps  968655388 10  2 Bc  k     k     k        10193   35  140 Ac Ks
+Sas-Taps  968655431 10  1 Bf  -     -     -        10298    5    0 
+Sas-Taps  968655493 10 10 f   -     -     -        10293    0    0 
+Sas-Taps  968655526 10  9 cc  c     k     kc       10293  745    0 9s 9c
+Sas-Taps  968655571 10  8 f   -     -     -         9548    0    0 
+Sas-Taps  968655622 10  7 c   k     b     k         9548   45    0 Kh Js
+Sas-Taps  968655673 10  6 f   -     -     -         9503    0    0 
+Sas-Taps  968655731 10  5 cc  k     k     k         9503   65  405 Qd Kc
+Sas-Taps  968655808 10  4 f   -     -     -         9843    0    0 
+Sas-Taps  968655855 10  3 cc  k     c     k         9843  395    0 2h Ac
+Sas-Taps  968655917 10  2 Bf  -     -     -         9448   10    0 
+Sas-Taps  968655964 10  1 Bc  kf    -     -         9438   10    0 
+Sas-Taps  968655994 10 10 f   -     -     -         9428    0    0 
+Sas-Taps  968656036 10  9 f   -     -     -         9428    0    0 
+Sas-Taps  968656098 10  8 f   -     -     -         9428    0    0 
+Sas-Taps  968656154 10  7 f   -     -     -         9428    0    0 
+Sas-Taps  968656180 10  6 rrr bA    -     -         9428 9428    0 Qd Qh
+Sas-Taps  969026155  7  4 cc  f     -     -         3075   65    0 
+Sas-Taps  969026181  7  3 c   f     -     -         3010   10    0 
+Sas-Taps  969026207  7  2 Bk  k     k     b         3000   55  135 8h 9c
+Sas-Taps  969026228  7  1 Bf  -     -     -         3080    5    0 
+Sas-Taps  969026243  6  6 c   c     k     c         3075  190    0 Ad 2d
+Sas-Taps  969026271  6  5 f   -     -     -         2885    0    0 
+Sas-Taps  969026294  6  4 c   kf    -     -         2885   10    0 
+Sas-Taps  969026308  6  3 f   -     -     -         2875    0    0 
+Sas-Taps  969026325  6  2 Bk  kf    -     -         2875   10    0 
+Sas-Taps  969026374  6  1 Bf  -     -     -         2865    5    0 
+Sas-Taps  969026381  6  6 c   k     c     b         2860  185  420 6d 8d
+Sas-Taps  969026402  6  5 f   -     -     -         3095    0    0 
+Sas-Taps  969026421  6  4 f   -     -     -         3095    0    0 
+Sas-Taps  969026436  6  3 c   k     k     b         3095   50    0 2s Ac
+Sas-Taps  969026457  6  2 Bf  -     -     -         3045   10    0 
+Sas-Taps  969026468  6  1 Bf  -     -     -         3035    5    0 
+Sas-Taps  969026483  6  6 c   k     k     k         3030   10    0 4s Ks
+Sas-Taps  969026503  6  5 f   -     -     -         3020    0    0 
+Sas-Taps  969026513  6  4 f   -     -     -         3020    0    0 
+Sas-Taps  969026532  6  3 c   k     cc    k         3020  170  400 6h 6d
+Sas-Taps  969026559  6  2 Bc  k     kf    -         3250   45    0 
+Sas-Taps  969026586  5  1 Bf  -     -     -         3205    5    0 
+Sas-Taps  969026594  5  5 f   -     -     -         3200    0    0 
+Sas-Taps  969026628  5  4 f   -     -     -         3200    0    0 
+Sas-Taps  969026650  5  3 f   -     -     -         3200    0    0 
+Sas-Taps  969026669  5  2 Bk  k     k     k         3200   10    0 Ad 9h
+Sas-Taps  969026688  5  1 Bf  -     -     -         3190    5    0 
+Sas-Taps  969026703  5  5 f   -     -     -         3185    0    0 
+Sas-Taps  969026723  5  4 f   -     -     -         3185    0    0 
+Sas-Taps  969026738  5  3 f   -     -     -         3185    0    0 
+Sas-Taps  969026756  5  2 Bc  kr    b     -         3185 1465 1980 
+Sas-Taps  969026801  5  1 Bc  kf    -     -         3700   10    0 
+Sas-Taps  969026819  5  5 f   -     -     -         3690    0    0 
+Sas-Taps  969026836  5  4 c   kf    -     -         3690   10    0 
+Sas-Taps  969026862  5  3 f   -     -     -         3680    0    0 
+Sas-Taps  969026866  5  2 Bk  k     k     b         3680   40   60 
+Sas-Taps  969026887  5  1 Bc  k     b     b         3700  495  690 
+Sas-Taps  969026908  5  5 f   -     -     -         3895    0    0 
+Sas-Taps  969026930  5  4 f   -     -     -         3895    0    0 
+Sas-Taps  969026958  5  3 cc  kc    kc    k         3895  630 1380 Qh Ad
+Sas-Taps  969026994  5  2 Bk  k     k     k         4645   10    0 7s 6h
+Sas-Taps  969027013  5  1 Bf  -     -     -         4635    5    0 
+Sas-Taps  969027021  5  5 f   -     -     -         4630    0    0 
+Sas-Taps  969027034  5  4 f   -     -     -         4630    0    0 
+Sas-Taps  969027040  5  3 f   -     -     -         4630    0    0 
+Sas-Taps  969027062  5  2 B   -     -     -         4630   10   15 
+Sas-Taps  969027074  6  1 Bc  kc    k     k         4635  115    0 9s Ts
+Sas-Taps  969027097  6  6 f   -     -     -         4520    0    0 
+Sas-Taps  969027135  6  5 f   -     -     -         4520    0    0 
+Sas-Taps  969027158  6  4 cc  f     -     -         4520   60    0 
+Sas-Taps  969027182  6  3 cc  kf    -     -         4460   65    0 
+Sas-Taps  969027224  6  2 Bc  kc    k     b         4395  785 1110 
+Sas-Taps  969027268  6  1 Bf  -     -     -         4720    5    0 
+Sas-Taps  969027300  6  6 f   -     -     -         4715    0    0 
+Sas-Taps  969027312  6  5 cf  -     -     -         4715   10    0 
+Sas-Taps  969027347  6  4 c   f     -     -         4705   10    0 
+Sas-Taps  969027374  6  3 cc  kc    kc    k         4695  775 1620 Jd 7d
+Sas-Taps  969027406  6  2 Bc  kc    k     kr        5540 3105 6035 Qh Jd
+Sas-Taps  969027445  5  1 Bc  kf    -     -         8470   35    0 
+Sas-Taps  969027464  5  5 c   c     c     b         8435  605 1260 3d 2d
+Sas-Taps  969027483  5  4 f   -     -     -         9090    0    0 
+Sas-Taps  969027500  5  3 c   kf    -     -         9090   10    0 
+Sas-Taps  969027513  6  2 Bk  kc    kc    kf        9080  260    0 
+Sas-Taps  969027541  6  1 Bf  -     -     -         8820    5    0 
+Sas-Taps  969027573  6  6 cc  f     -     -         8815   50    0 
+Sas-Taps  969027590  6  5 c   c     k     r         8765  775 1620 6h 8h
+Sas-Taps  969027617  6  4 c   kf    -     -         9610   10    0 
+Sas-Taps  969027646  6  3 c   k     b     -         9600   40   60 
+Sas-Taps  969027666  6  2 Bk  kc    kf    -         9620   50    0 
+Sas-Taps  969027686  6  1 Bf  -     -     -         9570    5    0 
+Sas-Taps  969027689  6  6 f   -     -     -         9565    0    0 
+Sas-Taps  969027696  6  5 f   -     -     -         9565    0    0 
+Sas-Taps  969027736  6  4 f   -     -     -         9565    0    0 
+Sas-Taps  969027758  6  3 f   -     -     -         9565    0    0 
+Sas-Taps  969027783  6  2 B   -     -     -         9565   10   15 
+Sas-Taps  969027789  6  1 Bf  -     -     -         9570    5    0 
+Sas-Taps  969027802  6  6 f   -     -     -         9565    0    0 
+Sas-Taps  969027819  6  5 f   -     -     -         9565    0    0 
+Sas-Taps  969027836  6  4 f   -     -     -         9565    0    0 
+Sas-Taps  969027857  6  3 c   k     b     k         9565   70  240 7h Ac
+Sas-Taps  969027914  6  2 Bf  -     -     -         9735   10    0 
+Sas-Taps  969027930  6  1 Bc  k     b     -         9725   40   60 
+Sas-Taps  969027944  6  6 f   -     -     -         9745    0    0 
+Sas-Taps  969027976  6  5 c   f     -     -         9745   10    0 
+Sas-Taps  969027991  6  4 f   -     -     -         9735    0    0 
+Sas-Taps  969028018  6  3 f   -     -     -         9735    0    0 
+Sas-Taps  969028025  6  2 Bk  k     b     -         9735   35   50 
+Sas-Taps  969028038  6  1 Bc  kf    -     -         9750   35    0 
+Sas-Taps  969028057  6  6 c   k     f     -         9715   10    0 
+Sas-Taps  969028086  6  5 f   -     -     -         9705    0    0 
+Sas-Taps  969028120  6  4 f   -     -     -         9705    0    0 
+Sas-Taps  969028123  6  3 f   -     -     -         9705    0    0 
+Sas-Taps  969028151  6  2 Bc  k     kc    b         9705  970 1480 
+Sas-Taps  969028183  6  1 Bf  -     -     -        10215    5    0 
+Sas-Taps  969028196  6  6 f   -     -     -        10210    0    0 
+Sas-Taps  969028201  6  5 f   -     -     -        10210    0    0 
+Sas-Taps  969028232  6  4 f   -     -     -        10210    0    0 
+Sas-Taps  969028250  6  3 f   -     -     -        10210    0    0 
+Sas-Taps  969028271  6  2 Bc  kf    -     -        10210   25    0 
+Sas-Taps  969028285  6  1 Bc  kf    -     -        10185   25    0 
+Sas-Taps  969028300  6  6 cc  f     -     -        10160   50    0 
+Sas-Taps  969028329  6  5 c   f     -     -        10110   10    0 
+Sas-Taps  969028358  6  4 cc  k     k     b        10100  250  400 
+Sas-Taps  969028390  6  3 f   -     -     -        10250    0    0 
+Sas-Taps  969028420  6  2 Bk  k     k     k        10250   10   15 4c 8d
+Sas-Taps  969028444  6  1 Bc  kf    -     -        10255   35    0 
+Sas-Taps  969028466  6  6 f   -     -     -        10220    0    0 
+Sas-Taps  969028489  6  5 f   -     -     -        10220    0    0 
+Sas-Taps  969028513  7  5 c   c     k     b        10220  150  210 
+Sas-Taps  969028543  6  3 f   -     -     -        10280    0    0 
+Sas-Taps  969028569  7  2 Bk  b     b     b        10280  400  810 6h 5d
+Sas-Taps  969028591  9  1 Bc  k     kf    -        10690   10    0 
+Sas-Taps  969028619  9  9 f   -     -     -        10680    0    0 
+Sas-Taps  969028666  9  8 cc  k     bc    k        10680  625 1305 As 4h
+Sas-Taps  969028699  9  7 c   c     b     -        11360  935 1350 
+Sas-Taps  969028739  9  6 f   -     -     -        11775    0    0 
+Sas-Taps  969028783  9  5 cc  kf    -     -        11775   55    0 
+Sas-Taps  969028815  9  4 f   -     -     -        11720    0    0 
+Sas-Taps  969028854  9  3 cc  kf    -     -        11720   45    0 
+Sas-Taps  969028875  9  2 Bk  kc    k     k        11675   50    0 Ad 8h
+Sas-Taps  969028908  9  1 Bf  -     -     -        11625    5    0 
+Sas-Taps  969028960  9  9 c   f     -     -        11620   55    0 
+Sas-Taps  969029020  9  8 f   -     -     -        11565    0    0 
+Sas-Taps  969029068  9  7 c   c     c     k        11565  285    0 Td Kd
+Sas-Taps  969029113  9  6 c   k     k     k        11280   10    0 4c As
+Sas-Taps  969029168  9  5 f   -     -     -        11270    0    0 
+Sas-Taps  969029229  9  4 f   -     -     -        11270    0    0 
+Sas-Taps  969029301  9  3 f   -     -     -        11270    0    0 
+Sas-Taps  969029338  9  2 Bk  kf    -     -        11270   10    0 
+Sas-Taps  969029367  8  1 Bc  k     k     bc       11260   90    0 5h Ac
+Sas-Taps  969029401  8  8 f   -     -     -        11170    0    0 
+Sas-Taps  969029429  7  6 cc  f     -     -        11170   55    0 
+Sas-Taps  969029456  7  5 cc  kc    kc    k        11115  955 2880 Ks 8s
+Sas-Taps  969029499  7  4 f   -     -     -        13040    0    0 
+Sas-Taps  969029539  7  3 f   -     -     -        13040    0    0 
+Sas-Taps  969029573  7  2 Bk  f     -     -        13040   10    0 
+Sas-Taps  969029592  7  1 Bf  -     -     -        13030    5    0 
+Sas-Taps  969029620  7  7 c   f     -     -        13025   10    0 
+Sas-Taps  969029642  7  6 f   -     -     -        13015    0    0 
+Sas-Taps  969029670  7  5 cc  k     kf    -        13015   65    0 
+Sas-Taps  969029698  7  4 f   -     -     -        12950    0    0 
+Sas-Taps  969029724  7  3 f   -     -     -        12950    0    0 
+Sas-Taps  969029756  7  2 Bk  k     k     k        12950   10   30 6d Js
+Sas-Taps  969029776  7  1 Bf  -     -     -        12970    5    0 
+Sas-Taps  969029782  7  7 f   -     -     -        12965    0    0 
+Sas-Taps  969029825  7  6 c   c     k     b        12965  150  315 Jc Ah
+Sas-Taps  969029860  7  5 f   -     -     -        13130    0    0 
+Sas-Taps  969029906  7  4 f   -     -     -        13130    0    0 
+Sas-Taps  969029938  7  3 c   k     c     r        13130  335  450 
+Sas-Taps  969029959  8  3 f   -     -     -        13245    0    0 
+Sas-Taps  969029982  8  2 Bk  kf    -     -        13245   10    0 
+Sas-Taps  969030014  8  1 Bf  -     -     -        13235    5    0 
+Sas-Taps  969030044  8  8 c   k     b     k        13230   50  120 9c Td
+Sas-Taps  969030083  8  7 cc  k     k     k        13300   45    0 3h 3d
+Sas-Taps  969030115  8  6 f   -     -     -        13255    0    0 
+Sas-Taps  969030147  8  5 f   -     -     -        13255    0    0 
+Sas-Taps  969030178  8  4 f   -     -     -        13255    0    0 
+Sas-Taps  969030205  8  3 cc  k     k     k        13255   45  145 4h 4s
+Sas-Taps  969030233  8  2 Bk  k     k     k        13355   10   13 3s Ac
+Sas-Taps  969030252  8  1 Bc  kc    k     kr       13358  690    0 Ad As
+Sas-Taps  969030288  8  8 f   -     -     -        12668    0    0 
+Sas-Taps  969030312  8  7 f   -     -     -        12668    0    0 
+Sas-Taps  969030346  8  6 f   -     -     -        12668    0    0 
+Sas-Taps  969030373  8  5 f   -     -     -        12668    0    0 
+Sas-Taps  969030410  8  4 f   -     -     -        12668    0    0 
+Sas-Taps  969030439  8  3 c   kc    kc    k        12668  235  540 Js Tc
+Sas-Taps  969030471  8  2 Bk  k     kf    -        12973   10    0 
+Sas-Taps  969030509  7  1 Bc  k     kc    k        12963  100  300 Td Tc
+Sas-Taps  969030540  7  7 f   -     -     -        13163    0    0 
+Sas-Taps  969030575  6  5 f   -     -     -        13163    0    0 
+Sas-Taps  969030595  6  4 f   -     -     -        13163    0    0 
+Sas-Taps  969030617  6  3 cc  c     c     c        13163 2650    0 Qc Qs
+Sas-Taps  969030677  6  2 B   -     -     -        10513   10   15 
+Sas-Taps  969030688  6  1 Bf  -     -     -        10518    5    0 
+Sas-Taps  969030709  6  6 c   f     -     -        10513   10    0 
+Sas-Taps  969030737  6  5 c   c     k     k        10503  125  250 Ad 6d
+Sas-Taps  969030772  6  4 c   r     k     b        10628 1065 1440 
+Sas-Taps  969030811  6  3 f   -     -     -        11003    0    0 
+Sas-Taps  969030845  6  2 Bk  kf    -     -        11003   10    0 
+Sas-Taps  969030863  6  1 Bf  -     -     -        10993    5    0 
+Sas-Taps  969030898  6  6 f   -     -     -        10988    0    0 
+Sas-Taps  969030941  6  5 f   -     -     -        10988    0    0 
+Sas-Taps  969030979  7  5 f   -     -     -        10988    0    0 
+Sas-Taps  969031012  7  4 f   -     -     -        10988    0    0 
+Sas-Taps  969031035  7  3 f   -     -     -        10988    0    0 
+Sas-Taps  969031059  7  2 Bk  k     k     k        10988   10    0 Th 9d
+Sas-Taps  969031077  7  1 Bc  kf    -     -        10978   10    0 
+Sas-Taps  969031101  7  7 c   c     b     -        10968 2270 3210 
+Sas-Taps  969031131  7  6 f   -     -     -        11908    0    0 
+Sas-Taps  969031156  7  5 f   -     -     -        11908    0    0 
+Sas-Taps  969031178  5  4 cc  k     k     f        11908   45    0 
+Sas-Taps  969031201  5  3 f   -     -     -        11863    0    0 
+Sas-Taps  969031224  5  2 Bc  c     kc    kr       11863 6400    0 Td Js
+Sas-Taps  969031261  4  1 Bc  k     k     kf        5463   45    0 
+Sas-Taps  969031303  4  4 c   k     c     f         5418   40    0 
+Sas-Taps  969031323  4  3 f   -     -     -         5378    0    0 
+Sas-Taps  969031347  4  2 Bc  k     k     k         5378   25   75 9h Ah
+Sas-Taps  969031367  4  1 Bf  -     -     -         5428    5    0 
+Sas-Taps  969031372  4  4 f   -     -     -         5423    0    0 
+Sas-Taps  969031377  4  3 f   -     -     -         5423    0    0 
+Sas-Taps  969031400  4  2 Bf  -     -     -         5423   10    0 
+Sas-Taps  969031419  4  1 Bc  b     b     -         5413 1565 2360 
+Sas-Taps  969031440  4  4 f   -     -     -         6208    0    0 
+Sas-Taps  969031453  4  3 c   kf    -     -         6208   10    0 
+Sas-Taps  969031471  4  2 Bc  c     b     b         6198 3450 4800 
+Sas-Taps  969031499  4  1 Bf  -     -     -         7548    5    0 
+Sas-Taps  969031519  4  4 f   -     -     -         7543    0    0 
+Sas-Taps  969031545  4  3 c   k     k     k         7543   10    0 6h 5h
+Sas-Taps  969031585  4  2 Bc  c     c     c         7533  810    0 Td Ah
+Sas-Taps  969031602  4  1 Bf  -     -     -         6723    5    0 
+Sas-Taps  969031619  4  4 f   -     -     -         6718    0    0 
+Sas-Taps  969031630  4  3 cc  k     k     k         6718   35    0 Ac 7h
+Sas-Taps  969031644  4  2 Bf  -     -     -         6683   10    0 
+Sas-Taps  969031670  4  1 Bc  kc    kc    kc        6673 1000 2025 Qd As
+Sas-Taps  969031686  4  4 f   -     -     -         7698    0    0 
+Sas-Taps  969031699  4  3 f   -     -     -         7698    0    0 
+Sas-Taps  969031707  4  2 Bc  k     kf    -         7698   25    0 
+Sas-Taps  969031718  4  1 Bf  -     -     -         7673    5    0 
+Sas-Taps  969031723  4  4 f   -     -     -         7668    0    0 
+Sas-Taps  969031742  4  3 f   -     -     -         7668    0    0 
+Sas-Taps  969031767  4  2 Bc  c     k     b         7668  270  360 
+Sas-Taps  969031785  4  1 Bc  k     k     b         7758   85  120 
+Sas-Taps  969031795  4  4 f   -     -     -         7793    0    0 
+Sas-Taps  969031815  4  3 cf  -     -     -         7793   10    0 
+Sas-Taps  969031832  4  2 Bf  -     -     -         7783   10    0 
+Sas-Taps  969031855  4  1 Bc  k     k     b         7773  100  150 
+Sas-Taps  969031874  4  4 f   -     -     -         7823    0    0 
+Sas-Taps  969031891  4  3 cc  kc    f     -         7823  585    0 
+Sas-Taps  969031923  4  2 Bf  -     -     -         7238   10    0 
+Sas-Taps  969031932  4  1 Bc  k     b     -         7228  110  170 
+Sas-Taps  969031943  4  4 cc  f     -     -         7288   35    0 
+Sas-Taps  969031951  4  3 f   -     -     -         7253    0    0 
+Sas-Taps  969031965  4  2 B   -     -     -         7253   10   15 
+Sas-Taps  969031975  4  1 Bf  -     -     -         7258    5    0 
+Sas-Taps  969031980  4  4 r   b     -     -         7253  375  510 
+Sas-Taps  969031992  4  3 c   k     k     k         7388   10    0 Qc As
+Sas-Taps  969032006  4  2 Bf  -     -     -         7378   10    0 
+Sas-Taps  969032023  4  1 Bc  k     kc    k         7368   85  180 3c 3d
+Sas-Taps  969032041  4  4 f   -     -     -         7463    0    0 
+Sas-Taps  969032047  4  3 cc  k     f     -         7463  115    0 
+Sas-Taps  969032066  4  2 Bc  f     -     -         7348   30    0 
+Sas-Taps  969032073  4  1 Br  k     kr    b         7318 6330 8550 
+Sas-Taps  969032104  4  4 f   -     -     -         9538    0    0 
+Sas-Taps  969032108  4  3 f   -     -     -         9538    0    0 
+Sas-Taps  969032112  4  2 Bc  kc    k     f         9538  100    0 
+Sas-Taps  969032130  4  1 Bf  -     -     -         9438    5    0 
+Sas-Taps  969032152  4  4 f   -     -     -         9433    0    0 
+Sas-Taps  969032193  3  2 Bk  k     k     k         9433   10    0 Th 7s
+Sas-Taps  969032248  3  1 Bf  -     -     -         9423    5    0 
+Sas-Taps  969032254  3  3 c   k     c     r         9418  335  675 6s Js
+Sas-Taps  969032274  3  2 Bc  k     k     b         9758   87  157 
+Sas-Taps  969032298  3  1 Bf  -     -     -         9828    5    0 
+Sas-Taps  969032308  3  3 f   -     -     -         9823    0    0 
+Sas-Taps  969032324  3  2 Bk  k     b     k         9823   30   60 Qd Ks
+Sas-Taps  969032341  3  1 Bc  kf    -     -         9853   25    0 
+Sas-Taps  969032361  3  3 f   -     -     -         9828    0    0 
+Sas-Taps  969032376  3  2 Bf  -     -     -         9828   10    0 
+Sas-Taps  969032392  3  1 Bc  k     k     b         9818   85  120 
+Sas-Taps  969032404  3  3 f   -     -     -         9853    0    0 
+Sas-Taps  969032420  3  2 Bf  -     -     -         9853   10    0 
+Sas-Taps  969032436  3  1 Bf  -     -     -         9843    5    0 
+Sas-Taps  969032441  3  3 c   k     b     -         9838   40   60 
+Sas-Taps  969032457  3  2 Bk  k     k     k         9858   10   25 7d Tc
+Sas-Taps  969032470  3  1 Bf  -     -     -         9873    5    0 
+Sas-Taps  969032480  3  3 f   -     -     -         9868    0    0 
+Sas-Taps  969032483  3  2 Bc  f     -     -         9868   35    0 
+Sas-Taps  969032500  3  1 Bf  -     -     -         9833    5    0 
+Sas-Taps  969032519  3  3 c   k     c     b         9828  160  240 
+Sas-Taps  969032542  3  2 Bk  kc    kc    k         9908  130    0 7h 8c
+Sas-Taps  969032561  3  1 Bc  kc    kc    kr        9778 1345    0 Js Qs
+Sas-Taps  969032588  3  3 f   -     -     -         8433    0    0 
+Sas-Taps  969032612  3  2 B   -     -     -         8433   10   15 
+Sas-Taps  969032619  3  1 Bc  k     kc    kc        8438   90  180 As Tc
+Sas-Taps  969032639  3  3 cc  f     -     -         8528   40    0 
+Sas-Taps  969032659  3  2 Bk  k     k     k         8488   10   25 2c Qh
+Sas-Taps  969032672  3  1 Bc  k     k     k         8503   10   10 Qh 5h
+Sas-Taps  969032690  3  3 f   -     -     -         8503    0    0 
+Sas-Taps  969032697  3  2 Bk  k     kf    -         8503   10    0 
+Sas-Taps  969032710  3  1 Bf  -     -     -         8493    5    0 
+Sas-Taps  969032726  3  3 f   -     -     -         8488    0    0 
+Sas-Taps  969032747  3  2 Bk  kf    -     -         8488   10    0 
+Sas-Taps  969032761  3  1 Bcc kc    kc    kf        8478 1000    0 
+Sas-Taps  969032781  3  3 c   k     k     k         7478   10    0 9h Th
+Sas-Taps  969032795  3  2 Bc  c     k     k         7468   75    0 5c Tc
+Sas-Taps  969032812  3  1 Bc  k     kc    kf        7393   30    0 
+Sas-Taps  969032830  3  3 f   -     -     -         7363    0    0 
+Sas-Taps  969032844  3  2 Bc  k     b     -         7363  140  210 
+Sas-Taps  969032858  3  1 Bf  -     -     -         7433    5    0 
+Sas-Taps  969032862  3  3 c   k     k     f         7428   10    0 
+Sas-Taps  969032875  3  2 Bc  k     k     f         7418   35    0 
+Sas-Taps  969032893  3  1 Bf  -     -     -         7383    5    0 
+Sas-Taps  969032896  3  3 f   -     -     -         7378    0    0 
+Sas-Taps  969032900  3  2 B   -     -     -         7378   10   15 
+Sas-Taps  969032904  3  1 Bf  -     -     -         7383    5    0 
+Sas-Taps  969032913  3  3 c   k     k     k         7378   10    0 3h Jh
+Sas-Taps  969032931  3  2 B   -     -     -         7368   10   15 
+Sas-Taps  969032937  3  1 Bf  -     -     -         7373    5    0 
+Sas-Taps  969032950  3  3 f   -     -     -         7368    0    0 
+Sas-Taps  969032970  3  2 Bk  c     kf    -         7368   40    0 
+Sas-Taps  969033004  3  1 Bf  -     -     -         7328    5    0 
+Sas-Taps  969033008  3  3 f   -     -     -         7323    0    0 
+Sas-Taps  969033034  3  2 Bf  -     -     -         7323   10    0 
+Sas-Taps  969033047  3  1 Bc  k     k     b         7313   30   60 7s 6s
+Sas-Taps  969033061  3  3 c   k     k     k         7343   10   25 Ah 4s
+Sas-Taps  969033076  3  2 Bk  k     f     -         7358   10    0 
+Sas-Taps  969033089  4  1 Bcc kc    k     b         7348  400  540 
+Sas-Taps  969033126  3  3 f   -     -     -         7488    0    0 
+Sas-Taps  969033129  3  2 Bf  -     -     -         7488   10    0 
+Sas-Taps  969033133  3  1 Bf  -     -     -         7478    5    0 
+Sas-Taps  969033150  3  3 c   k     k     k         7473   10    0 9c 8s
+Sas-Taps  969033163  3  2 Bf  -     -     -         7463   10    0 
+Sas-Taps  969033170  3  1 Bf  -     -     -         7453    5    0 
+Sas-Taps  969033174  3  3 f   -     -     -         7448    0    0 
+Sas-Taps  969033181  3  2 Bk  kf    -     -         7448   10    0 
+Sas-Taps  969033191  3  1 Bf  -     -     -         7438    5    0 
+Sas-Taps  969033195  3  3 cr  b     k     b         7433 1210 2430 Js Jh
+Sas-Taps  969033216  3  2 Bc  kc    k     kc        8653 1105 2295 Th Td
+Sas-Taps  969033241  3  1 Bf  -     -     -         9843    5    0 
+Sas-Taps  969033246  3  3 cc  f     -     -         9838   35    0 
+Sas-Taps  969033254  3  2 Bc  k     k     k         9803   35    0 Td Kh
+Sas-Taps  969033273  3  1 Bf  -     -     -         9768    5    0 
+Sas-Taps  969033278  3  3 f   -     -     -         9763    0    0 
+Sas-Taps  969033281  3  2 Bk  k     b     -         9763   40   60 
+Sas-Taps  969033296  3  1 Bf  -     -     -         9783    5    0 
+Sas-Taps  969033299  3  3 f   -     -     -         9778    0    0 
+Sas-Taps  969033308  3  2 Bc  c     c     k         9778  225  450 Qd Qs
+Sas-Taps  969033322  3  1 Bc  k     k     b        10003   85  120 
+Sas-Taps  969033337  3  3 c   b     -     -        10038   35   50 
+Sas-Taps  969033346  3  2 Bf  -     -     -        10053   10    0 
+Sas-Taps  969033350  3  1 Bf  -     -     -        10043    5    0 
+Sas-Taps  969033354  3  3 f   -     -     -        10038    0    0 
+Sas-Taps  969033363  3  2 Bf  -     -     -        10038   10    0 
+Sas-Taps  969033384  3  1 Bcc kc    k     b        10028  270  360 
+Sas-Taps  969033405  3  3 c   k     k     b        10118   35   50 
+Sas-Taps  969033419  3  2 Bc  c     c     k        10133  225    0 Tc Th
+Sas-Taps  969033433  3  1 Bf  -     -     -         9908    5    0 
+Sas-Taps  969033437  3  3 f   -     -     -         9903    0    0 
+Sas-Taps  969033440  4  2 Bk  k     k     k         9903   10    0 5s 6s
+Sas-Taps  969033488  4  1 Bc  k     k     k         9893   25   30 As Jh
+Sas-Taps  969033512  4  4 f   -     -     -         9898    0    0 
+Sas-Taps  969033538  4  3 f   -     -     -         9898    0    0 
+Sas-Taps  969033571  4  2 Bk  k     k     k         9898   10    0 Jh 3c
+Sas-Taps  969033586  4  1 Bf  -     -     -         9888    5    0 
+Sas-Taps  969033614  4  4 c   f     -     -         9883   25    0 
+Sas-Taps  969033625  5  4 f   -     -     -         9858    0    0 
+Sas-Taps  969033640  5  3 f   -     -     -         9858    0    0 
+Sas-Taps  969033666  5  2 Bf  -     -     -         9858   10    0 
+Sas-Taps  969033708  4  1 Bc  k     kf    -         9848   10    0 
+Sas-Taps  969033741  4  4 f   -     -     -         9838    0    0 
+Sas-Taps  969033748  4  3 c   kc    kc    k         9838  150    0 Ks 9s
+Sas-Taps  969033777  4  2 Bk  k     k     k         9688   10   10 3h 6c
+Sas-Taps  969033794  4  1 Bf  -     -     -         9688    5    0 
+Sas-Taps  969033826  4  4 f   -     -     -         9683    0    0 
+Sas-Taps  969033864  4  3 c   k     b     -         9683   35   50 
+Sas-Taps  969033884  4  2 Bk  k     kf    -         9698   10    0 
+Sas-Taps  969033920  4  1 Bc  k     k     b         9688   30   40 
+Sas-Taps  969033944  4  4 f   -     -     -         9698    0    0 
+Sas-Taps  969033955  4  3 f   -     -     -         9698    0    0 
+Sas-Taps  969033972  4  2 Bk  b     -     -         9698   45   70 
+Sas-Taps  969033986  4  1 Bf  -     -     -         9723    5    0 
+Sas-Taps  969034015  4  4 c   k     f     -         9718   25    0 
+Sas-Taps  969034045  4  3 f   -     -     -         9693    0    0 
+Sas-Taps  969034075  4  2 Bf  -     -     -         9693   10    0 
+Sas-Taps  969034105  4  1 Bf  -     -     -         9683    5    0 
+Sas-Taps  969034123  4  4 f   -     -     -         9678    0    0 
+Sas-Taps  969034171  4  3 c   c     c     f         9678  130    0 
+Sas-Taps  969034205  4  2 Bc  k     b     k         9548  175    0 7d Ad
+Sas-Taps  969034253  4  1 Bf  -     -     -         9373    5    0 
+Sas-Taps  969034303  4  4 c   k     k     c         9368  105    0 8s 8h
+Sas-Taps  969034347  4  3 f   -     -     -         9263    0    0 
+Sas-Taps  969034386  4  2 Br  k     kf    -         9263   50    0 
+Sas-Taps  969034440  4  1 Bcc kc    k     k         9213   90  180 7h 7s
+Sas-Taps  969034460  4  4 c   c     b     b         9303  465  945 Ah 2h
+Sas-Taps  969034495  4  3 f   -     -     -         9783    0    0 
+Sas-Taps  969034522  4  2 Bf  -     -     -         9783   10    0 
+Sas-Taps  969034530  4  1 Bc  k     b     -         9773  150  230 
+Sas-Taps  969034558  4  4 c   k     r     b         9853  690  960 
+Sas-Taps  969034616  4  3 c   f     -     -        10123   10    0 
+Sas-Taps  969034642  4  2 Bk  b     -     -        10113   30   40 
+Sas-Taps  969034661  4  1 Bf  -     -     -        10123    5    0 
+Sas-Taps  969034676  4  4 f   -     -     -        10118    0    0 
+Sas-Taps  969034698  4  3 c   k     f     -        10118   10    0 
+Sas-Taps  969034724  4  2 Bk  f     -     -        10108   10    0 
+Sas-Taps  969034749  4  1 Bc  k     kf    -        10098   10    0 
+Sas-Taps  969034771  4  4 c   c     k     f        10088   50    0 
+Sas-Taps  969034826  4  3 c   k     kc    kf       10038  130    0 
+Sas-Taps  969034875  5  2 Bk  kf    -     -         9908   10    0 
+Sas-Taps  969034903  6  1 Bcc kc    k     k         9898  160    0 5s 6c
+Sas-Taps  969034945  6  6 f   -     -     -         9738    0    0 
+Sas-Taps  969034982  6  5 c   f     -     -         9738   25    0 
+Sas-Taps  969035021  7  5 f   -     -     -         9713    0    0 
+Sas-Taps  969035105  7  4 f   -     -     -         9713    0    0 
+Sas-Taps  969035144  7  3 f   -     -     -         9713    0    0 
+Sas-Taps  969035194  7  2 Bk  kc    kr    -         9713 2530 3900 
+Sas-Taps  969035299  7  1 Bc  k     kc    kc       11083  400    0 Th Js
+Sas-Taps  969035380  7  7 c   k     f     -        10683   35    0 
+Sas-Taps  969035417  8  6 f   -     -     -        10648    0    0 
+Sas-Taps  969035478  8  5 cc  kf    -     -        10648   65    0 
+Sas-Taps  969035550  8  4 cc  kf    -     -        10583   45    0 
+Sas-Taps  969035583  9  3 ccc b     -     -        10538 1005 1520 
+Sas-Taps  969035623  9  2 Bc  kf    -     -        11053   55    0 
+Sas-Taps  969035687  9  1 Bf  -     -     -        10998    5    0 
+Sas-Taps  969035719  9  9 f   -     -     -        10993    0    0 
+Sas-Taps  969035769  9  8 cc  k     c     f        10993  285    0 
+Sas-Taps  969035812  9  7 f   -     -     -        10708    0    0 
+Sas-Taps  969035884  9  6 c   kf    -     -        10708   10    0 
+Sas-Taps  969035931  9  5 f   -     -     -        10698    0    0 
+Sas-Taps  969035984  9  4 cc  r     b     k        10698 4420 9045 Qd Qs
+Sas-Taps  969036043  9  3 f   -     -     -        15323    0    0 
+Sas-Taps  969036105  8  2 Bk  kf    -     -        15323   10    0 
+Sas-Taps  969036140  8  1 Bc  k     k     kf       15313   10    0 
+Sas-Taps  969036189  8  8 f   -     -     -        15303    0    0 
+Sas-Taps  969036209  8  7 c   f     -     -        15303   10    0 
+Sas-Taps  969036254  8  6 c   cf    -     -        15293  175    0 
+Sas-Taps  969036307  8  5 f   -     -     -        15118    0    0 
+Sas-Taps  969036346  8  4 f   -     -     -        15118    0    0 
+Sas-Taps  969036392  8  3 f   -     -     -        15118    0    0 
+Sas-Taps  969036452  8  2 Bk  kc    kc    kf       15118  185    0 
+Sas-Taps  969036496  8  1 Bf  -     -     -        14933    5    0 
+Sas-Taps  969036532  8  8 c   c     k     c        14928  185    0 9h Td
+Sas-Taps  969036581  8  7 f   -     -     -        14743    0    0 
+Sas-Taps  969036635  8  6 f   -     -     -        14743    0    0 
+Sas-Taps  969036679  8  5 f   -     -     -        14743    0    0 
+Sas-Taps  969036717  8  4 c   kf    -     -        14743   10    0 
+Sas-Taps  969036767  8  3 f   -     -     -        14733    0    0 
+Sas-Taps  969036821  8  2 Bk  kf    -     -        14733   10    0 
+Sas-Taps  969036864  8  1 Br  b     -     -        14723  210  320 
+Sas-Taps  969036889  8  8 f   -     -     -        14833    0    0 
+Sas-Taps  969036926  8  7 f   -     -     -        14833    0    0 
+Sas-Taps  969036985  8  6 f   -     -     -        14833    0    0 
+Sas-Taps  969037015  8  5 f   -     -     -        14833    0    0 
+Sas-Taps  969037052  8  4 f   -     -     -        14833    0    0 
+Sas-Taps  969037096  8  3 f   -     -     -        14833    0    0 
+Sas-Taps  969037134  8  2 Bk  k     f     -        14833   10    0 
+Sas-Taps  969037186  8  1 Bc  k     KQ    -        14823   10    0 
+Sas-Taps  969130525  3  2 Bk  k     k     k        14768   10   25 Qc 7c
+Sas-Taps  969130545  3  1 Bc  k     b     -        14783   30   40 
+Sas-Taps  969130564  3  3 c   k     k     k        14783   10    0 Qc 6c
+Sas-Taps  969130590  3  2 Bk  kf    -     -        14773   10    0 
+Sas-Taps  969130602  3  1 Bf  -     -     -        14763    5    0 
+Sas-Taps  969130618  3  3 f   -     -     -        14758    0    0 
+Sas-Taps  969130624  3  2 Bk  c     f     -        14758   30    0 
+Sas-Taps  969130635  3  1 Bf  -     -     -        14728    5    0 
+Sas-Taps  969130641  3  3 cc  c     k     k        14723  130    0 4d Ad
+Sas-Taps  969130652  3  2 Bk  k     b     -        14593   35   50 
+Sas-Taps  969130669  3  1 Bf  -     -     -        14608    5    0 
+Sas-Taps  969130688  3  3 f   -     -     -        14603    0    0 
+Sas-Taps  969130703  3  2 Bk  c     c     f        14603   90    0 
+Sas-Taps  969130724  3  1 Bf  -     -     -        14513    5    0 
+Sas-Taps  969130734  3  3 c   k     k     k        14508   10   12 4s 5s
+Sas-Taps  969130750  3  2 Bk  kc    kc    k        14510  160  180 7c 7h
+Sas-Taps  969130772  3  1 Bc  k     k     k        14530   10   30 7c Kc
+Sas-Taps  969130794  3  3 f   -     -     -        14550    0    0 
+Sas-Taps  969130799  3  2 Bk  k     k     c        14550   30    0 8s 9c
+Sas-Taps  969130813  3  1 Bf  -     -     -        14520    5    0 
+Sas-Taps  969130826  3  3 f   -     -     -        14515    0    0 
+Sas-Taps  969130827  3  2 Bf  -     -     -        14515   10    0 
+Sas-Taps  969130839  3  1 Bc  kc    kc    k        14505  130    0 4c 6c
+Sas-Taps  969130857  3  3 f   -     -     -        14375    0    0 
+Sas-Taps  969130869  3  2 Bk  k     f     -        14375   10    0 
+Sas-Taps  969130877  3  1 Br  kf    -     -        14365   40    0 
+Sas-Taps  969130890  3  3 c   k     f     -        14325   10    0 
+Sas-Taps  969130904  3  2 Bk  k     k     f        14315   10    0 
+Sas-Taps  969130921  3  1 Bc  k     k     k        14305   10   10 2c As
+Sas-Taps  969130930  3  3 cc  k     k     r        14305  280  480 
+Sas-Taps  969130965  3  2 Bk  f     -     -        14505   10    0 
+Sas-Taps  969130982  3  1 Bf  -     -     -        14495    5    0 
+Sas-Taps  969130984  3  3 c   c     c     f        14490  160    0 
+Sas-Taps  969131000  3  2 Bk  kf    -     -        14330   10    0 
+Sas-Taps  969131010  3  1 Bf  -     -     -        14320    5    0 
+Sas-Taps  969131022  3  3 f   -     -     -        14315    0    0 
+Sas-Taps  969131030  3  2 Bk  k     kf    -        14315   10    0 
+Sas-Taps  969131045  4  1 Bf  -     -     -        14305    5    0 
+Sas-Taps  969131055  4  4 f   -     -     -        14300    0    0 
+Sas-Taps  969131069  4  3 f   -     -     -        14300    0    0 
+Sas-Taps  969131081  4  2 B   -     -     -        14300   10   15 
+Sas-Taps  969131089  4  1 Bc  kf    -     -        14305   10    0 
+Sas-Taps  969131103  4  4 c   k     c     b        14295  110  225 2h Ah
+Sas-Taps  969131121  4  3 rc  k     k     k        14410  120  370 Ah Jc
+Sas-Taps  969131143  4  2 B   -     -     -        14660   10   15 
+Sas-Taps  969131155  4  1 Bf  -     -     -        14665    5    0 
+Sas-Taps  969131161  5  5 f   -     -     -        14660    0    0 
+Sas-Taps  969131175  5  4 c   c     k     k        14660  170  400 2c 6c
+Sas-Taps  969131214  6  4 f   -     -     -        14890    0    0 
+Sas-Taps  969131229  6  3 c   f     -     -        14890   10    0 
+Sas-Taps  969131244  6  2 Bk  kf    -     -        14880   10    0 
+Sas-Taps  969131284  6  1 Bc  kc    k     k        14870   85  180 Qs 9s
+Sas-Taps  969131312  5  5 f   -     -     -        14965    0    0 
+Sas-Taps  969131329  5  5 f   -     -     -        14965    0    0 
+Sas-Taps  969131347  5  4 f   -     -     -        14965    0    0 
+Sas-Taps  969131379  5  3 f   -     -     -        14965    0    0 
+Sas-Taps  969131399  5  2 Bk  kf    -     -        14965   10    0 
+Sas-Taps  969131438  5  1 Bf  -     -     -        14955    5    0 
+Sas-Taps  969131463  5  5 c   k     c     b        14950  110  150 
+Sas-Taps  969131511  6  4 c   k     k     b        14990   45   70 
+Sas-Taps  969131538  6  3 f   -     -     -        15015    0    0 
+Sas-Taps  969131558  6  2 Bc  kc    kc    kf       15015  425    0 
+Sas-Taps  969131584  6  1 Bf  -     -     -        14590    5    0 
+Sas-Taps  969131612  6  6 c   k     f     -        14585   10    0 
+Sas-Taps  969131649  6  5 f   -     -     -        14575    0    0 
+Sas-Taps  969131684  6  4 c   c     b     -        14575  310  500 
+Sas-Taps  969131710  7  4 cc  c     b     b        14765 2660    0 Kd 6d
+Sas-Taps  969131740  6  3 f   -     -     -        12105    0    0 
+Sas-Taps  969131747  6  2 Bf  -     -     -        12105   10    0 
+Sas-Taps  969131768  6  1 Bf  -     -     -        12095    5    0 
+Sas-Taps  969131794  6  6 f   -     -     -        12090    0    0 
+Sas-Taps  969131817  6  5 f   -     -     -        12090    0    0 
+Sas-Taps  969131838  6  4 f   -     -     -        12090    0    0 
+Sas-Taps  969131867  6  3 c   b     -     -        12090   35   50 
+Sas-Taps  969131886  6  2 Bf  -     -     -        12105   10    0 
+Sas-Taps  969131901  6  1 Bc  kf    -     -        12095   45    0 
+Sas-Taps  969131940  6  6 c   k     c     k        12050   35   75 Qc Kd
+Sas-Taps  969131983  7  5 c   k     b     -        12090  190  310 
+Sas-Taps  969132039  7  4 f   -     -     -        12210    0    0 
+Sas-Taps  969132063  7  3 f   -     -     -        12210    0    0 
+Sas-Taps  969132098  7  2 Bf  -     -     -        12210   10    0 
+Sas-Taps  969132119  7  1 Bc  kf    -     -        12200   10    0 
+Sas-Taps  969132164  7  7 f   -     -     -        12190    0    0 
+Sas-Taps  969132182  7  6 c   k     Q     -        12190   10    0 
+Sas-Taps  969132429  5  5 f   -     -     -        12180    0    0 
+Sas-Taps  969132452  5  4 f   -     -     -        12180    0    0 
+Sas-Taps  969132463  5  3 f   -     -     -        12180    0    0 
+Sas-Taps  969132476  5  2 Bf  -     -     -        12180   10    0 
+Sas-Taps  969132495  4  1 Bf  -     -     -        12170    5    0 
+Sas-Taps  969132511  4  4 f   -     -     -        12165    0    0 
+Sas-Taps  969132520  4  3 f   -     -     -        12165    0    0 
+Sas-Taps  969132531  4  2 Bk  kf    -     -        12165   10    0 
+Sas-Taps  969132544  5  1 Bf  -     -     -        12155    5    0 
+Sas-Taps  969132561  5  5 c   c     c     k        12150  375  765 Qh Kd
+Sas-Taps  969132580  5  4 c   f     -     -        12540   10    0 
+Sas-Taps  969132617  5  3 f   -     -     -        12530    0    0 
+Sas-Taps  969132658  5  2 Bk  kc    k     k        12530   40   90 7d 7c
+Sas-Taps  969132687  6  1 Bc  kf    -     -        12580   10    0 
+Sas-Taps  969132733  6  6 f   -     -     -        12570    0    0 
+Sas-Taps  969132764  6  5 f   -     -     -        12570    0    0 
+Sas-Taps  969132798  6  4 r   c     rc    k        12570 3035 3037 3s 2h
+Sas-Taps  969132832  6  3 cc  kf    -     -        12572   45    0 
+Sas-Taps  969132872  6  2 Bc  kc    k     k        12527  110  225 9c Kd
+Sas-Taps  969132901  6  1 Bf  -     -     -        12642    5    0 
+Sas-Taps  969132927  6  6 c   c     k     k        12637  250    0 6c 7c
+Sas-Taps  969132982  6  5 rc  r     b     -        12387 2613 3552 
+Sas-Taps  969133019  6  4 f   -     -     -        13326    0    0 
+Sas-Taps  969133033  6  3 f   -     -     -        13326    0    0 
+Sas-Taps  969133084  7  2 Bc  b     -     -        13326  250  400 
+Sas-Taps  969133116  7  1 Bf  -     -     -        13476    5    0 
+Sas-Taps  969133157  7  7 c   f     -     -        13471   35    0 
+Sas-Taps  969133178  7  6 c   k     b     -        13436   50   80 
+Sas-Taps  969133221  7  5 f   -     -     -        13466    0    0 
+Sas-Taps  969133281  8  5 f   -     -     -        13466    0    0 
+Sas-Taps  969133381  8  4 f   -     -     -        13466    0    0 
+Sas-Taps  969133435  9  4 c   b     b     -        13466  250  360 
+Sas-Taps  969133498  9  3 f   -     -     -        13576    0    0 
+Sas-Taps  969133542  9  2 Bk  kf    -     -        13576   10    0 
+Sas-Taps  969133592  9  1 Br  kc    kf    -        13566  310    0 
+Sas-Taps  969133638  9  9 c   f     -     -        13256   10    0 
+Sas-Taps  969133675  9  8 c   c     f     -        13246  210    0 
+Sas-Taps  969133763  9  7 c   f     -     -        13036   55    0 
+Sas-Taps  969133842  9  6 f   -     -     -        12981    0    0 
+Sas-Taps  969133912  9  5 f   -     -     -        12981    0    0 
+Sas-Taps  969133958  9  4 f   -     -     -        12981    0    0 
+Sas-Taps  969133995  9  3 cc  kc    f     -        12981  995    0 
+Sas-Taps  969134050  8  2 Bk  kf    -     -        11986   10    0 
+Sas-Taps  969134107  8  1 Bf  -     -     -        11976    5    0 
+Sas-Taps  969134167  8  8 f   -     -     -        11971    0    0 
+Sas-Taps  969134202  8  7 f   -     -     -        11971    0    0 
+Sas-Taps  969134221  8  6 c   c     k     k        11971  240    0 3d 4d
+Sas-Taps  969134276  8  5 f   -     -     -        11731    0    0 
+Sas-Taps  969134351  8  4 f   -     -     -        11731    0    0 
+Sas-Taps  969134402  8  3 f   -     -     -        11731    0    0 
+Sas-Taps  969134437  8  2 Bk  k     k     b        11731   50  120 8c Qh
+Sas-Taps  969134508  8  1 Bf  -     -     -        11801    5    0 
+Sas-Taps  969134554  8  8 f   -     -     -        11796    0    0 
+Sas-Taps  969134599  8  7 f   -     -     -        11796    0    0 
+Sas-Taps  969134634  7  5 f   -     -     -        11796    0    0 
+Sas-Taps  969134688  7  5 c   f     -     -        11796   10    0 
+Sas-Taps  969134744  7  4 f   -     -     -        11786    0    0 
+Sas-Taps  969134812  7  3 f   -     -     -        11786    0    0 
+Sas-Taps  969134870  7  2 Bf  -     -     -        11786   10    0 
+Sas-Taps  969134913  7  1 Bf  -     -     -        11776    5    0 
+Sas-Taps  969134990  7  7 f   -     -     -        11771    0    0 
+Sas-Taps  969135013  7  6 f   -     -     -        11771    0    0 
+Sas-Taps  969135046  7  5 f   -     -     -        11771    0    0 
+Sas-Taps  969135077  7  4 c   f     -     -        11771   10    0 
+Sas-Taps  969135120  7  3 f   -     -     -        11761    0    0 
+Sas-Taps  969135157  7  2 Bf  -     -     -        11761   10    0 
+Sas-Taps  969135240  7  1 Bc  k     k     kf       11751   10    0 
+Sas-Taps  969135321  8  8 f   -     -     -        11741    0    0 
+Sas-Taps  969135411  9  8 c   f     -     -        11741  160    0 
+Sas-Taps  969135458  8  6 f   -     -     -        11581    0    0 
+Sas-Taps  969135477  8  5 c   kc    k     b        11581  230  495 3c Ac
+Sas-Taps  969135543  8  4 f   -     -     -        11846    0    0 
+Sas-Taps  969135624  8  3 f   -     -     -        11846    0    0 
+Sas-Taps  969135666  8  2 Bk  kf    -     -        11846   10    0 
+Sas-Taps  969135705  8  1 Bf  -     -     -        11836    5    0 
+Sas-Taps  969135738  8  8 c   k     c     k        11831   60    0 5c 7c
+Sas-Taps  969135812  7  6 f   -     -     -        11771    0    0 
+Sas-Taps  969135855  7  6 f   -     -     -        11771    0    0 
+Sas-Taps  969135884  8  5 f   -     -     -        11771    0    0 
+Sas-Taps  969135943  7  3 cc  b     b     b        11771 1575    0 Qh 2h
+Sas-Taps  969135991  7  2 Bk  kc    kc    k        10196  210    0 6d 8c
+Sas-Taps  969136025  6  1 Bf  -     -     -         9986    5    0 
+Sas-Taps  969136052  6  6 f   -     -     -         9981    0    0 
+Sas-Taps  969136079  6  5 f   -     -     -         9981    0    0 
+Sas-Taps  969136114  6  4 f   -     -     -         9981    0    0 
+Sas-Taps  969136125  6  3 f   -     -     -         9981    0    0 
+Sas-Taps  969136139  6  2 Bc  cc    k     k         9981  640    0 Td 9h
+Sas-Taps  969136167  6  1 Bf  -     -     -         9341    5    0 
+Sas-Taps  969136199  6  6 c   b     k     k         9336   60    0 Qs 7s
+Sas-Taps  969136238  6  5 r   -     -     -         9276   45   70 
+Sas-Taps  969136249  6  4 f   -     -     -         9301    0    0 
+Sas-Taps  969136278  7  3 f   -     -     -         9301    0    0 
+Sas-Taps  969136289  7  2 Bc  kf    -     -         9301   45    0 
+Sas-Taps  969136316  7  1 Bf  -     -     -         9256    5    0 
+Sas-Taps  969136336  7  7 f   -     -     -         9251    0    0 
+Sas-Taps  969136360  7  6 c   k     f     -         9251   10    0 
+Sas-Taps  969136389  7  5 f   -     -     -         9241    0    0 
+Sas-Taps  969136421  7  4 f   -     -     -         9241    0    0 
+Sas-Taps  969136439  7  3 f   -     -     -         9241    0    0 
+Sas-Taps  969136451  7  2 Bk  k     k     b         9241   50  120 5s 8c
+Sas-Taps  969136518  7  1 Bc  kf    -     -         9311   10    0 
+Sas-Taps  969136550  7  7 f   -     -     -         9301    0    0 
+Sas-Taps  969136608  7  6 f   -     -     -         9301    0    0 
+Sas-Taps  969136649  7  5 f   -     -     -         9301    0    0 
+Sas-Taps  969136702  7  4 f   -     -     -         9301    0    0 
+Sas-Taps  969136732  6  3 f   -     -     -         9301    0    0 
+Sas-Taps  969136759  7  2 Bf  -     -     -         9301   10    0 
+Sas-Taps  969136776  7  1 Bf  -     -     -         9291    5    0 
+Sas-Taps  969136810  7  7 f   -     -     -         9286    0    0 
+Sas-Taps  969136839  7  6 f   -     -     -         9286    0    0 
+Sas-Taps  969136886  7  5 f   -     -     -         9286    0    0 
+Sas-Taps  969136910  7  4 f   -     -     -         9286    0    0 
+Sas-Taps  969136949  6  3 f   -     -     -         9286    0    0 
+Sas-Taps  969136962  6  2 Bf  -     -     -         9286   10    0 
+Sas-Taps  969136993  6  1 Bf  -     -     -         9276    5    0 
+Sas-Taps  969137024  6  6 f   -     -     -         9271    0    0 
+Sas-Taps  969137053  6  5 f   -     -     -         9271    0    0 
+Sas-Taps  969137085  6  4 f   -     -     -         9271    0    0 
+Sas-Taps  969137109  6  3 r   k     c     kc        9271  785    0 Qh Ad
+Sas-Taps  969137142  7  2 Bc  kf    -     -         8486   35    0 
+Sas-Taps  969137198  7  1 Bf  -     -     -         8451    5    0 
+Sas-Taps  969137224  7  7 f   -     -     -         8446    0    0 
+Sas-Taps  969137254  7  6 f   -     -     -         8446    0    0 
+Sas-Taps  969137299  7  5 c   k     f     -         8446   45    0 
+Sas-Taps  969137339  6  3 c   k     kf    -         8401   10    0 
+Sas-Taps  969137370  6  2 Bk  kf    -     -         8391   10    0 
+Sas-Taps  969137395  5  1 Bf  -     -     -         8381    5    0 
+Sas-Taps  969137398  5  5 c   f     -     -         8376   10    0 
+Sas-Taps  969137429  5  4 c   k     b     -         8366   45   70 
+Sas-Taps  969137461  5  3 f   -     -     -         8391    0    0 
+Sas-Taps  969137467  5  2 Bk  k     f     -         8391   10    0 
+Sas-Taps  969137490  5  1 Bf  -     -     -         8381    5    0 
+Sas-Taps  969137525  4  4 f   -     -     -         8376    0    0 
+Sas-Taps  969137544  4  3 cc  kc    kf    -         8376  185    0 
+Sas-Taps  969137571  3  2 B   -     -     -         8191   10   15 
+Sas-Taps  969137579  3  1 Bc  kf    -     -         8196   10    0 
+Sas-Taps  969137587  3  3 f   -     -     -         8186    0    0 
+Sas-Taps  969137590  3  2 Bc  k     b     b         8186  455  630 
+Sas-Taps  969137617  3  1 Bf  -     -     -         8361    5    0 
+Sas-Taps  969137624  3  3 f   -     -     -         8356    0    0 
+Sas-Taps  969137626  3  2 Bf  -     -     -         8356   10    0 
+Sas-Taps  969137637  3  1 Bc  kf    -     -         8346   10    0 
+Sas-Taps  969137655  3  3 c   f     -     -         8336   10    0 
+Sas-Taps  969137669  3  2 Bf  -     -     -         8326   10    0 
+Sas-Taps  969137681  3  1 Bcc k     b     -         8316   90  120 
+Sas-Taps  969137703  3  3 c   c     k     k         8346   35    0 6s Js
+Sas-Taps  969137724  3  2 Bf  -     -     -         8311   10    0 
+Sas-Taps  969137732  3  1 Bf  -     -     -         8301    5    0 
+Sas-Taps  969137749  3  3 f   -     -     -         8296    0    0 
+Sas-Taps  969137766  3  2 Bk  k     f     -         8296   10    0 
+Sas-Taps  969137779  3  1 Bc  kc    kc    k         8286   90  180 7h Ad
+Sas-Taps  969137801  3  3 c   k     f     -         8376   10    0 
+Sas-Taps  969137818  3  2 Bk  k     kf    -         8366   10    0 
+Sas-Taps  969137853  3  1 Br  -     -     -         8356   30   40 
+Sas-Taps  969137870  2  2 B   -     -     -         8366   10   15 

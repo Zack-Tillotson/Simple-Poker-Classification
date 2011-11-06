@@ -1,0 +1,377 @@
+TheBorg   970973513  3  3 rc  c     b     b       494075 3035 4050 
+TheBorg   970973557  4  2 Bk  kf    -     -       495090   10    0 
+TheBorg   970973576  4  1 Bf  -     -     -       495080    5    0 
+TheBorg   970973589  4  4 c   b     b     k       495075  250  600 9s Kd
+TheBorg   970973634  4  3 r   bf    -     -       495425  120    0 
+TheBorg   970973653  4  2 Bk  kf    -     -       495305   10    0 
+TheBorg   970973667  4  1 Bf  -     -     -       495295    5    0 
+TheBorg   970973686  4  4 c   b     -     -       495290   45   70 
+TheBorg   970973703  4  3 f   -     -     -       495315    0    0 
+TheBorg   970973722  4  2 Bk  r     b     b       495315  810 1620 6s 7s
+TheBorg   970973750  4  1 Bc  k     bf    -       496125   40    0 
+TheBorg   970973780  3  3 r   b     -     -       496085  110  150 
+TheBorg   970973793  3  2 Br  r     -     -       496125 4940 1833 8s 8h
+TheBorg   970973832  2  1 Bf  -     -     -       493018    5    0 
+TheBorg   970973838  2  2 B   -     -     -       493013   10   15 
+TheBorg   970984917  4  2 Bc  k     b     b       493018  335  450 
+TheBorg   970984935  4  1 Br  b     k     k       493133  160    0 Ad Qd
+TheBorg   970984952  4  4 r   b     b     k       492973  335  675 Qh Qd
+TheBorg   970984968  4  3 cc  k     b     -       493313  150  210 
+TheBorg   970984984  4  2 Bk  k     k     k       493373   10    0 5d 4h
+TheBorg   970985002  4  1 Bc  b     k     k       493363   50    0 8s 3s
+TheBorg   970985020  4  4 c   k     k     k       493313   10    0 Td Qc
+TheBorg   970985043  4  3 c   c     b     -       493303  130  180 
+TheBorg   970985062  4  2 Bk  kf    -     -       493353   10    0 
+TheBorg   970985087  4  1 Br  -     -     -       493343   30   40 
+TheBorg   970985098  4  4 cf  -     -     -       493353   10    0 
+TheBorg   970985116  4  3 r   b     kf    -       493343  120    0 
+TheBorg   970985134  4  2 Bk  k     b     b       493223  150  210 
+TheBorg   970985150  4  1 Br  -     -     -       493283   30   40 
+TheBorg   970985153  4  4 f   -     -     -       493293    0    0 
+TheBorg   970985157  4  3 f   -     -     -       493293    0    0 
+TheBorg   970985164  4  2 Bk  k     k     kf      493293   10    0 
+TheBorg   970985176  4  1 Bf  -     -     -       493283    5    0 
+TheBorg   970985191  4  4 f   -     -     -       493278    0    0 
+TheBorg   970985203  4  3 f   -     -     -       493278    0    0 
+TheBorg   970985211  4  2 Bk  b     -     -       493278   30   40 
+TheBorg   970985223  4  1 Bc  b     -     -       493288   40   60 
+TheBorg   970985231  4  4 f   -     -     -       493308    0    0 
+TheBorg   970985234  4  3 f   -     -     -       493308    0    0 
+TheBorg   970985241  4  2 Bk  f     -     -       493308   10    0 
+TheBorg   970985251  4  1 Bc  k     k     k       493298   10   30 5c 4c
+TheBorg   970985272  4  4 f   -     -     -       493318    0    0 
+TheBorg   970985284  4  3 r   b     -     -       493318  145  220 
+TheBorg   970985297  4  2 B   -     -     -       493393   10   15 
+TheBorg   970985299  4  1 Bc  kc    krc   kc      493398 4850    0 Th Qh
+TheBorg   970985325  4  4 r   b     -     -       488548  150  210 
+TheBorg   970985337  4  3 f   -     -     -       488608    0    0 
+TheBorg   970985341  4  2 Bk  k     k     k       488608   10    0 Tc 8d
+TheBorg   970985353  4  1 Bc  k     k     k       488598   10    0 8d 9h
+TheBorg   970985377  4  4 cc  f     -     -       488588   40    0 
+TheBorg   970985405  4  3 c   b     -     -       488548   35   50 
+TheBorg   970985412  4  2 Bk  f     -     -       488563   10    0 
+TheBorg   970985420  4  1 Bc  b     -     -       488553   40   60 
+TheBorg   970985431  4  4 f   -     -     -       488573    0    0 
+TheBorg   970985435  4  3 f   -     -     -       488573    0    0 
+TheBorg   970985446  4  2 Bk  kf    -     -       488573   10    0 
+TheBorg   970985454  4  1 Bc  kc    kf    -       488563   40    0 
+TheBorg   970985475  4  4 f   -     -     -       488523    0    0 
+TheBorg   970985478  4  3 r   b     b     -       488523  475  660 
+TheBorg   970985492  4  2 Bk  k     k     k       488708   10   30 7h 9d
+TheBorg   970985504  4  1 Bc  k     kc    k       488728   40   90 5c 7h
+TheBorg   970985520  4  4 r   b     -     -       488778  185  280 
+TheBorg   970985534  4  3 f   -     -     -       488873    0    0 
+TheBorg   970985547  4  2 Bk  k     k     k       488873   10    0 3h Qh
+TheBorg   970985559  4  1 Bf  -     -     -       488863    5    0 
+TheBorg   970985582  5  4 c   c     f     -       488858   60    0 
+TheBorg   970985613  5  3 f   -     -     -       488798    0    0 
+TheBorg   970985638  5  2 Bk  kf    -     -       488798   10    0 
+TheBorg   970985661  6  1 Bf  -     -     -       488788    5    0 
+TheBorg   970985667  7  7 f   -     -     -       488783    0    0 
+TheBorg   970985680  7  6 f   -     -     -       488783    0    0 
+TheBorg   970985700  7  5 f   -     -     -       488783    0    0 
+TheBorg   970985718  8  5 f   -     -     -       488783    0    0 
+TheBorg   970985738  8  4 f   -     -     -       488783    0    0 
+TheBorg   970985766  9  4 f   -     -     -       488783    0    0 
+TheBorg   970985798  9  3 f   -     -     -       488783    0    0 
+TheBorg   970985844  9  2 Bk  f     -     -       488783   10    0 
+TheBorg   970985860  9  1 Bf  -     -     -       488773    5    0 
+TheBorg   970985890  9  9 f   -     -     -       488768    0    0 
+TheBorg   970985927  9  8 c   b     b     -       488768  150  210 
+TheBorg   970985966  9  7 f   -     -     -       488828    0    0 
+TheBorg   970985983  9  6 f   -     -     -       488828    0    0 
+TheBorg   970986008  9  5 f   -     -     -       488828    0    0 
+TheBorg   970986064  9  4 c   kf    -     -       488828   10    0 
+TheBorg   970986091  9  3 cc  f     -     -       488818   40    0 
+TheBorg   970986110  9  2 Bf  -     -     -       488778   10    0 
+TheBorg   970986140  9  1 Bc  k     k     k       488768   45    0 6s 7h
+TheBorg   970986169  9  9 c   k     k     k       488723   10    0 6h Qh
+TheBorg   970986194  7  6 f   -     -     -       488713    0    0 
+TheBorg   970986224  7  5 c   c     k     k       488713   60    0 Ks 2s
+TheBorg   970986259  7  4 f   -     -     -       488653    0    0 
+TheBorg   970986282  7  3 c   b     -     -       488653   35   50 
+TheBorg   970986302  7  2 Bc  kf    -     -       488668   45    0 
+TheBorg   970986352  7  1 Bc  k     b     -       488623   60  100 
+TheBorg   970986381  8  8 c   b     k     f       488663   65    0 
+TheBorg   970986440  8  7 f   -     -     -       488598    0    0 
+TheBorg   970986467  8  6 f   -     -     -       488598    0    0 
+TheBorg   970986489  7  5 f   -     -     -       488598    0    0 
+TheBorg   970986532  7  4 c   f     -     -       488598   10    0 
+TheBorg   970986575  7  3 c   k     k     k       488588   10    0 3s 3h
+TheBorg   970986612  7  2 Bf  -     -     -       488578   10    0 
+TheBorg   970986620  7  1 Bc  k     k     kf      488568   10    0 
+TheBorg   970986641  7  7 r   f     -     -       488558   45    0 
+TheBorg   970986658  7  6 f   -     -     -       488513    0    0 
+TheBorg   970986679  7  5 c   k     k     k       488513   10    0 9s Kh
+TheBorg   970986720  6  3 c   b     -     -       488503   45   70 
+TheBorg   970986737  6  2 Bk  kf    -     -       488528   10    0 
+TheBorg   970986749  6  1 Bf  -     -     -       488518    5    0 
+TheBorg   970986755  6  6 f   -     -     -       488513    0    0 
+TheBorg   970986773  6  5 f   -     -     -       488513    0    0 
+TheBorg   970986779  6  4 f   -     -     -       488513    0    0 
+TheBorg   970986800  6  3 f   -     -     -       488513    0    0 
+TheBorg   970986822  6  2 Bk  k     kf    -       488513   10    0 
+TheBorg   970986862  6  1 Bf  -     -     -       488503    5    0 
+TheBorg   970986880  6  6 c   b     k     k       488498   55    0 8d 8s
+TheBorg   970986920  6  5 r   b     kc    kc      488443 1140    0 9d 9s
+TheBorg   970986948  6  4 f   -     -     -       487303    0    0 
+TheBorg   970986963  6  3 r   -     -     -       487303   35   50 
+TheBorg   970986972  6  2 Bk  k     k     k       487318   10    0 4d 8c
+TheBorg   970986999  6  1 Bf  -     -     -       487308    5    0 
+TheBorg   970987014  6  6 c   b     b     -       487303  375  510 
+TheBorg   970987043  6  5 f   -     -     -       487438    0    0 
+TheBorg   970987049  6  4 f   -     -     -       487438    0    0 
+TheBorg   970987057  6  3 f   -     -     -       487438    0    0 
+TheBorg   970987090  6  2 Bk  k     k     b       487438   40   60 
+TheBorg   970987115  6  1 Bf  -     -     -       487458    5    0 
+TheBorg   970987128  6  6 c   k     k     c       487453   45    0 Ad Th
+TheBorg   970987149  6  5 f   -     -     -       487408    0    0 
+TheBorg   970987178  6  4 c   k     c     c       487408  170    0 Td 8d
+TheBorg   970987211  6  3 c   k     f     -       487238   10    0 
+TheBorg   970987253  6  2 Bk  k     Q     -       487228   10    0 
+TheBorg   971152044 10  2 Bf  -     -     -       487218   10    0 
+TheBorg   971152094 10  1 Bf  -     -     -       487208    5    0 
+TheBorg   971152132 10 10 r   k     f     -       487203   55    0 
+TheBorg   971152165 10  9 cc  kf    -     -       487148  300    0 
+TheBorg   971152246 10  8 f   -     -     -       486848    0    0 
+TheBorg   971152281 10  7 c   r     b     f       486848 1550    0 
+TheBorg   971152348 10  6 c   b     b     k       485298  290    0 5c 6c
+TheBorg   971152428 10  5 f   -     -     -       485008    0    0 
+TheBorg   971152461 10  4 f   -     -     -       485008    0    0 
+TheBorg   971152499 10  3 c   kf    -     -       485008   10    0 
+TheBorg   971152563 10  2 Bk  kf    -     -       484998   10    0 
+TheBorg   971152653 10  1 Bc  k     kf    -       484988   55    0 
+TheBorg   971152717 10 10 f   -     -     -       484933    0    0 
+TheBorg   971152791 10  9 f   -     -     Q       484933    0    0 
+TheBorg   971412766  8  8 c   r     b     -       484933 1530 2070 
+TheBorg   971412794  8  7 f   -     -     -       485473    0    0 
+TheBorg   971412829  8  6 f   -     -     -       485473    0    0 
+TheBorg   971412886  8  5 c   f     -     -       485473   10    0 
+TheBorg   971412906  8  3 f   -     -     -       485463    0    0 
+TheBorg   971412973  8  3 c   b     b     b       485463  530  720 
+TheBorg   971413020  9  2 Bc  f     -     -       485653   50    0 
+TheBorg   971413051  8  1 Bc  b     k     b       485603  260  400 
+TheBorg   971413082  8  8 f   -     -     -       485743    0    0 
+TheBorg   971413092  8  7 f   -     -     -       485743    0    0 
+TheBorg   971413111  8  6 c   b     -     -       485743   35   50 
+TheBorg   971413131  8  3 Q   -     -     -       485758    0    0 
+TheBorg   971560703  7  6 c   k     b     -       485758   55   90 
+TheBorg   971560727  7  5 f   -     -     -       485793    0    0 
+TheBorg   971560762  7  4 f   -     -     -       485793    0    0 
+TheBorg   971560786  7  3 f   -     -     -       485793    0    0 
+TheBorg   971560803  7  2 Bk  b     k     k       485793   30    0 As 9c
+TheBorg   971560820  7  1 Bc  kf    -     -       485763   10    0 
+TheBorg   971560836  7  7 c   k     f     -       485753   10    0 
+TheBorg   971560883  5  4 r   b     b     b       485743 1140    0 5h 5s
+TheBorg   971560904  5  3 c   k     k     k       484603   10    0 5c 3c
+TheBorg   971560925  5  2 Bk  k     kf    -       484593   10    0 
+TheBorg   971560940  5  1 Bc  kc    k     k       484583   30    0 Td Kh
+TheBorg   971560959  4  4 f   -     -     -       484553    0    0 
+TheBorg   971560966  3  2 f   -     -     -       484553    0    0 
+TheBorg   971560973  3  2 Br  b     -     -       484553  110  150 
+TheBorg   971560983  3  1 Bc  k     k     kf      484593   10    0 
+TheBorg   971561001  3  3 f   -     -     -       484583    0    0 
+TheBorg   971561011  3  2 B   -     -     -       484583   10   15 
+TheBorg   971561015  3  1 Bf  -     -     -       484588    5    0 
+TheBorg   971561018  3  3 r   b     -     -       484583  110  150 
+TheBorg   971561027  3  2 Bk  k     k     k       484623   10   20 5d Kd
+TheBorg   971561039  3  1 Br  b     -     -       484633   90  120 
+TheBorg   971561050  3  3 f   -     -     -       484663    0    0 
+TheBorg   971561052  3  2 B   -     -     -       484663   10   15 
+TheBorg   971561054  3  1 Br  -     -     -       484668   30   40 
+TheBorg   971561057  3  3 f   -     -     -       484678    0    0 
+TheBorg   971561060  3  2 Bk  k     k     b       484678   30   40 
+TheBorg   971561074  3  1 Br  b     kf    -       484688   90    0 
+TheBorg   971561085  3  3 r   b     k     k       484598  110    0 As Th
+TheBorg   971561106  3  2 B   -     -     -       484488   10   15 
+TheBorg   971561118  3  1 Br  b     b     -       484493  400  540 
+TheBorg   971561141  3  3 f   -     -     -       484633    0    0 
+TheBorg   971561157  3  2 Bk  c     c     c       484633  270    0 9c Kh
+TheBorg   971561178  3  1 Br  b     -     -       484363  160  240 
+TheBorg   971561194  3  3 c   b     -     -       484443   40   60 
+TheBorg   971561206  3  2 Bk  k     k     k       484463   10   20 Kd 7s
+TheBorg   971561219  3  1 Br  -     -     -       484473   30   40 
+TheBorg   971561227  3  3 f   -     -     -       484483    0    0 
+TheBorg   971561239  3  2 B   -     -     -       484483   10   15 
+TheBorg   971561245  3  1 Bf  -     -     -       484488    5    0 
+TheBorg   971561248  3  3 r   -     -     -       484483   35   50 
+TheBorg   971561252  3  2 Br  b     -     -       484498   90  120 
+TheBorg   971561262  3  1 Bc  b     -     -       484528   30   40 
+TheBorg   971561268  3  3 r   -     -     -       484538   35   50 
+TheBorg   971561273  3  2 Bk  k     k     f       484553   10    0 
+TheBorg   971561286  3  1 Br  -     -     -       484543   30   40 
+TheBorg   971561291  3  3 f   -     -     -       484553    0    0 
+TheBorg   971561295  3  2 Bk  k     f     -       484553   10    0 
+TheBorg   971561306  3  1 Bf  -     -     -       484543    5    0 
+TheBorg   971561309  3  3 f   -     -     -       484538    0    0 
+TheBorg   971561321  3  2 Bk  b     b     b       484538  400  540 
+TheBorg   971561340  3  1 Bf  -     -     -       484678    5    0 
+TheBorg   971561344  3  3 f   -     -     -       484673    0    0 
+TheBorg   971561347  3  2 B   -     -     -       484673   10   15 
+TheBorg   971561349  3  1 Bf  -     -     -       484678    5    0 
+TheBorg   971561358  3  3 r   -     -     -       484673   35   50 
+TheBorg   971561365  3  2 Bk  k     k     k       484688   10   25 3s Ac
+TheBorg   971561378  3  1 Br  b     b     -       484703  400  540 
+TheBorg   971561396  2  2 f   -     -     -       484843    0    0 
+TheBorg   971561399  2  2 Bk  f     -     -       484843   10    0 
+TheBorg   971561407  2  1 Bf  -     -     -       484833    5    0 
+TheBorg   971561409  2  2 Br  k     b     b       484828  270  360 
+TheBorg   971561429  2  1 Bc  kf    -     -       484918   10    0 
+TheBorg   971561438  2  2 Bk  k     f     -       484908   10    0 
+TheBorg   971561449  2  1 Br  b     k     k       484898   90    0 Ac 2s
+TheBorg   971561460  2  2 Bk  c     b     b       484808  270    0 5h 2c
+TheBorg   971561483  2  1 Bf  -     -     -       484538    5    0 
+TheBorg   971561488  2  2 Bk  b     -     -       484533   30   40 
+TheBorg   971561497  2  1 Bf  -     -     -       484543    5    0 
+TheBorg   971561499  2  2 Bk  b     c     f       484538   90    0 
+TheBorg   971561515  2  1 Bc  b     -     -       484448   30   40 
+TheBorg   971561523  2  2 Bk  b     -     -       484458   30   40 
+TheBorg   971561532  2  1 Br  -     -     -       484468   30   40 
+TheBorg   971561537  2  2 Bk  k     k     k       484478   10   10 7d Td
+TheBorg   971561551  2  1 Bc  b     -     -       484478   30   40 
+TheBorg   971561561  2  2 Bk  k     c     c       484488   90  180 9s Qs
+TheBorg   971561577  2  1 Bc  k     k     k       484578   10    0 6c 7h
+TheBorg   971561595  2  2 Bk  k     b     -       484568   30   40 
+TheBorg   971561609  2  1 Br  b     kf    -       484578   90    0 
+TheBorg   971561621  2  2 B   -     -     -       484488   10   15 
+TheBorg   971561626  2  1 Br  b     -     -       484493   90  120 
+TheBorg   971561632  2  2 Bk  k     r     rf      484523  810    0 
+TheBorg   971561654  2  1 Br  b     b     k       483713  270  540 Ah 9h
+TheBorg   971561672  2  2 Br  b     c     k       483983  270    0 5h 5s
+TheBorg   971561696  2  1 Br  -     -     -       483713   30   40 
+TheBorg   971561704  2  2 Bk  k     f     -       483723   10    0 
+TheBorg   971561713  2  1 Bf  -     -     -       483713    5    0 
+TheBorg   971561716  2  2 Bk  b     k     f       483708   30    0 
+TheBorg   971561732  2  1 Br  b     -     -       483678   90  120 
+TheBorg   971561739  2  2 Bk  k     f     -       483708   10    0 
+TheBorg   971561753  2  1 Bf  -     -     -       483698    5    0 
+TheBorg   971561755  2  2 B   -     -     -       483693   10   15 
+TheBorg   971561756  2  1 Bf  -     -     -       483698    5    0 
+TheBorg   971561758  2  2 Bk  k     c     b       483693   90  120 
+TheBorg   971561789  2  1 Bc  k     kf    -       483723   10    0 
+TheBorg   971561799  2  2 Bk  k     b     -       483713   30   40 
+TheBorg   971561811  2  1 Bf  -     -     -       483723    5    0 
+TheBorg   971561814  2  2 Br  k     b     -       483718   90  120 
+TheBorg   971561827  2  1 Br  b     k     k       483748   90    0 Ts Ac
+TheBorg   971561845  2  2 Bk  c     k     k       483658   30    0 Jc 2h
+TheBorg   971561867  2  1 Br  -     -     -       483628   30   40 
+TheBorg   971561874  2  2 Bk  f     -     -       483638   10    0 
+TheBorg   971561883  2  1 Bf  -     -     -       483628    5    0 
+TheBorg   971561885  2  2 Bk  k     f     -       483623   10    0 
+TheBorg   971561896  2  1 Bf  -     -     -       483613    5    0 
+TheBorg   971561898  2  2 Bk  k     k     f       483608   10    0 
+TheBorg   971561915  2  1 Br  -     -     -       483598   30   40 
+TheBorg   971561919  2  2 Br  -     -     -       483608   30   40 
+TheBorg   971561926  2  1 Bf  -     -     -       483618    5    0 
+TheBorg   971561928  2  2 Br  -     -     -       483613   30   40 
+TheBorg   971561932  2  1 Br  b     -     -       483623   90  120 
+TheBorg   971561940  2  2 Bk  k     k     k       483653   10   20 9c Qh
+TheBorg   971561953  2  1 Bf  -     -     -       483663    5    0 
+TheBorg   971561959  2  2 Bk  b     -     -       483658   30   40 
+TheBorg   971561972  2  1 Bf  -     -     -       483668    5    0 
+TheBorg   971561976  2  2 Bk  k     k     b       483663   30   30 7s 3d
+TheBorg   971561990  2  1 Br  -     -     -       483663   30   40 
+TheBorg   971561998  2  2 Bk  b     -     -       483673   30   40 
+TheBorg   971562007  2  1 Bf  -     -     -       483683    5    0 
+TheBorg   971562009  2  2 Bk  b     -     -       483678   30   40 
+TheBorg   971562017  2  1 Bc  k     k     k       483688   10   20 5s 7h
+TheBorg   971562030  2  2 Bk  k     k     k       483698   10    0 3h Js
+TheBorg   971562049  2  1 Br  k     kr    -       483688  270  360 
+TheBorg   971562082  3  3 f   -     -     -       483778    0    0 
+TheBorg   971562101  4  3 c   k     k     b       483778   35   50 
+TheBorg   971562127  4  2 Bk  k     k     k       483793   10    0 4d Ac
+TheBorg   971562167  4  1 Bc  b     -     -       483783   30   40 
+TheBorg   971562187  4  4 f   -     -     -       483793    0    0 
+TheBorg   971562199  4  3 c   k     k     k       483793   10   25 5h Qh
+TheBorg   971562233  4  2 Bk  b     b     b       483808  400  540 
+TheBorg   971562323  2  1 BQ  -     -     -       483948    5    0 
+TheBorg   971757966  8  7 f   -     -     -       483943    0    0 
+TheBorg   971757999  8  6 f   -     -     -       483943    0    0 
+TheBorg   971758023  8  5 f   -     -     -       483943    0    0 
+TheBorg   971758041  9  4 f   -     -     -       483943    0    0 
+TheBorg   971758059  9  3 f   -     -     -       483943    0    0 
+TheBorg   971758093  9  2 Bc  kf    -     -       483943  120    0 
+TheBorg   971758123  9  1 Bc  kc    k     kf      483823   50    0 
+TheBorg   971758156  9  9 f   -     -     -       483773    0    0 
+TheBorg   971758178  9  8 c   r     -     -       483773  210  300 
+TheBorg   971758200  9  7 c   k     kf    -       483863   10    0 
+TheBorg   971758225  9  6 f   -     -     -       483853    0    0 
+TheBorg   971758249  9  5 cc  k     k     k       483853   65    0 Ks 9h
+TheBorg   971758288  9  4 r   b     -     -       483788  195  300 
+TheBorg   971758313  9  3 c   k     k     k       483893   10   45 9d Jc
+TheBorg   971758339  9  2 Bc  k     b     k       483928  175  560 Kh Qc
+TheBorg   971758378  9  1 Bf  -     -     -       484313    5    0 
+TheBorg   971758400  9  9 c   k     f     -       484308   10    0 
+TheBorg   971758424  9  8 f   -     -     -       484298    0    0 
+TheBorg   971758445  9  3 Q   -     -     -       484298    0    0 
+TheBorg   972174741  4  2 Bk  kc    k     b       482598  110  150 
+TheBorg   972174765  4  1 Bf  -     -     -       482638    5    0 
+TheBorg   972174783  4  4 c   r     -     -       482633  130  180 
+TheBorg   972174801  4  3 cc  b     kf    -       482683  185    0 
+TheBorg   972174846  4  2 Bk  kf    -     -       482498   10    0 
+TheBorg   972174863  4  1 Br  kf    -     -       482488   30    0 
+TheBorg   972174877  4  4 cc  k     f     -       482458   50    0 
+TheBorg   972174906  4  3 f   -     -     -       482408    0    0 
+TheBorg   972174927  4  2 Bk  b     -     -       482408   35   50 
+TheBorg   972174961  3  1 Br  -     -     -       482423   30   40 
+TheBorg   972174976  3  3 f   -     -     -       482433    0    0 
+TheBorg   972174980  2  2 B   -     -     -       482433   10   15 
+TheBorg   972174981  2  1 Br  k     k     k       482438   30   60 2s Jh
+TheBorg   972175003  2  2 BQ  -     -     -       482468   10    0 
+TheBorg   972619727 10  4 cc  k     b     k       530862  185    0 6d 4d
+TheBorg   972619797 10  3 cc  kc    k     kc      530677  605 1520 6c 8c
+TheBorg   972619852 10  2 Bc  kf    -     -       531592   65    0 
+TheBorg   972619910 10  1 Bc  b     b     -       531527  250  360 
+TheBorg   972619941 10 10 f   -     -     -       531637    0    0 
+TheBorg   972619971 10  9 f   -     -     -       531637    0    0 
+TheBorg   972620012 10  8 cc  bc    k     k       531637  630 1365 Ah Tc
+TheBorg   972620060 10  7 f   -     -     -       532372    0    0 
+TheBorg   972620148 10  6 f   -     -     -       532372    0    0 
+TheBorg   972620191 10  5 cf  -     -     -       532372   10    0 
+TheBorg   972620273 10  4 cc  f     -     -       532362   65    0 
+TheBorg   972620316 10  3 Q   -     -     -       532297    0    0 
+TheBorg   972790880  5  5 f   -     -     -       532297    0    0 
+TheBorg   972790895  6  4 f   -     -     -       532297    0    0 
+TheBorg   972790907  6  3 f   -     -     -       532297    0    0 
+TheBorg   972790913  6  2 Br  k     b     b       532297  520 1080 Ah Ad
+TheBorg   972790943  6  1 Br  b     b     k       532857  850 1920 Ah Ac
+TheBorg   972790990  6  6 f   -     -     -       533927    0    0 
+TheBorg   972791022  6  5 r   b     -     -       533927  120  170 
+TheBorg   972791038  6  4 f   -     -     -       533977    0    0 
+TheBorg   972791092  6  3 c   k     k     k       533977   10    0 As Jd
+TheBorg   972791122  6  2 Bk  b     b     k       533967  210  240 Js Qd
+TheBorg   972791157  6  1 Bf  -     -     -       533997    5    0 
+TheBorg   972791165  6  6 f   -     -     -       533992    0    0 
+TheBorg   972791175  6  5 f   -     -     -       533992    0    0 
+TheBorg   972791191  6  4 f   -     -     -       533992    0    0 
+TheBorg   972791211  6  3 c   k     k     b       533992   50   80 
+TheBorg   972791251  6  2 Bk  kf    -     -       534022   10    0 
+TheBorg   972791278  6  1 Bf  Q     -     -       534012    5    0 
+TheBorg   972955606  7  4 f   -     -     -       534007    0    0 
+TheBorg   972955679  7  3 c   kf    -     -       534007   10    0 
+TheBorg   972955740  8  2 Bk  k     f     -       533997   10    0 
+TheBorg   972955782  9  1 Bc  kf    -     -       533987   10    0 
+TheBorg   972955809 10 10 f   -     -     -       533977    0    0 
+TheBorg   972955845 10  9 f   -     -     -       533977    0    0 
+TheBorg   972955879 10  8 cc  kf    -     -       533977   55    0 
+TheBorg   972955924  9  6 c   k     k     kf      533922   10    0 
+TheBorg   972955992 10  6 f   -     -     -       533912    0    0 
+TheBorg   972956053  9  5 f   -     -     -       533912    0    0 
+TheBorg   972956128  8  4 f   -     -     -       533912    0    0 
+TheBorg   972956153  8  3 f   -     -     -       533912    0    0 
+TheBorg   972956192  8  2 Bc  k     c     b       533912  595 1260 6c 4s
+TheBorg   972956225  8  1 Bcc kf    -     -       534577   30    0 
+TheBorg   972956250  8  8 f   -     -     -       534547    0    0 
+TheBorg   972956268  8  7 c   f     -     -       534547   10    0 
+TheBorg   972956304  9  7 c   kf    -     -       534537   10    0 
+TheBorg   972956356  9  6 c   k     k     f       534527   10    0 
+TheBorg   972956419  8  4 f   -     -     -       534517    0    0 
+TheBorg   972956459  8  4 f   -     -     -       534517    0    0 
+TheBorg   972956494  9  3 c   f     -     -       534517   10    0 
+TheBorg   972956533 10  2 Bf  -     -     -       534507   10    0 
+TheBorg   972956577  9  1 Bc  k     b     k       534497  270  675 Jd Jh
+TheBorg   972956624  9  9 f   -     -     -       534902    0    0 
+TheBorg   972956659 10  8 f   -     -     -       534902    0    0 
+TheBorg   972956716  9  7 f   -     -     -       534902    0    0 
+TheBorg   972956751  9  5 c   c     k     k       534902   65    0 9s Kc
+TheBorg   972956794  9  4 Q   -     -     -       534837    0    0 

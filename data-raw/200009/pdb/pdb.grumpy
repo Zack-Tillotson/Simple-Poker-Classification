@@ -1,0 +1,68 @@
+grumpy    969768350  4  4 f   -     -     -         8200    0    0 
+grumpy    969768369  4  3 f   -     -     -         8200    0    0 
+grumpy    969768387  4  2 Bc  kf    -     -         8200   35    0 
+grumpy    969768404  4  1 Bc  k     b     -         8165   40   60 
+grumpy    969768421  4  4 f   -     -     -         8185    0    0 
+grumpy    969768433  4  3 f   -     -     -         8185    0    0 
+grumpy    969768451  4  2 Bk  k     b     -         8185   30   40 
+grumpy    969768480  4  1 Bf  -     -     -         8195    5    0 
+grumpy    969768492  4  4 f   -     -     -         8190    0    0 
+grumpy    969768505  4  3 c   k     b     -         8190   35   50 
+grumpy    969768520  4  2 Bk  kf    -     -         8205   10    0 
+grumpy    969768536  4  1 Bf  -     -     -         8195    5    0 
+grumpy    969768546  4  4 c   k     f     -         8190   10    0 
+grumpy    969768577  4  3 cc  b     k     k         8180  130  270 Kh Jd
+grumpy    969768602  4  2 Bf  -     -     -         8320   10    0 
+grumpy    969768611  4  1 Bf  -     -     -         8310    5    0 
+grumpy    969768615  4  4 c   k     b     -         8305   40   60 
+grumpy    969768637  4  3 c   b     b     -         8325  170  240 
+grumpy    969768653  4  2 Bc  k     k     k         8395   35    0 Ks 6d
+grumpy    969768670  4  1 Bc  kf    -     -         8360   10    0 
+grumpy    969768691  4  4 c   c     k     f         8350   40    0 
+grumpy    969768716  4  3 f   -     -     -         8310    0    0 
+grumpy    969768737  4  2 Bk  k     k     f         8310   10    0 
+grumpy    969768760  4  1 Bc  k     kc    k         8300   50    0 9s Ts
+grumpy    969768788  5  5 f   -     -     -         8250    0    0 
+grumpy    969768798  5  4 r   b     b     b         8250 1410 1890 
+grumpy    969768825  5  3 c   kc    k     b         8730  190  270 
+grumpy    969768860  5  2 Bk  kf    -     -         8810   10    0 
+grumpy    969768878  5  1 Br  b     -     -         8800  210  320 
+grumpy    969768900  5  5 c   k     k     b         8910  180  290 
+grumpy    969768932  5  4 r   b     k     bc        9020 1025    0 As 2s
+grumpy    969768964  5  3 c   k     k     f         7995   10    0 
+grumpy    969768999  5  2 Bc  k     b     b         7985  605  840 
+grumpy    969769044  5  1 Bc  k     k     k         8220   10    0 5d 2h
+grumpy    969769065  5  5 c   k     f     -         8210   10    0 
+grumpy    969769104  5  4 r   f     -     -         8200   45    0 
+grumpy    969769152  5  3 c   k     b     -         8155   45   70 
+grumpy    969769192  5  2 Br  b     b     b         8180 2080    0 As Qd
+grumpy    969769230  5  1 Bc  k     kr    b         6100  530    0 Td 9h
+grumpy    969769301  5  5 c   k     r     -         5570  170  240 
+grumpy    969769336  5  4 c   bc    k     b         5640  775 1170 
+grumpy    969769383  6  3 f   -     -     -         6035    0    0 
+grumpy    969769401  6  2 Bk  rf    -     -         6035   90    0 
+grumpy    969769424  6  1 Bf  -     -     -         5945    5    0 
+grumpy    969769454  6  6 c   b     -     -         5940   45   70 
+grumpy    969769484  6  5 r   f     -     -         5965   45    0 
+grumpy    969769507  6  4 r   b     b     b         5920 1865 2520 
+grumpy    969769557  6  3 r   k     b     -         6575  140  210 
+grumpy    969769578  6  2 Bk  k     b     b         6645  130  180 
+grumpy    969769610  6  1 Bf  -     -     -         6695    5    0 
+grumpy    969769640  6  6 f   -     Q     -         6690    0    0 
+grumpy    969770027  7  2 Bk  kc    k     k         6690   35    0 Ad 8c
+grumpy    969770076  7  1 Bc  k     k     k         6655   10    0 9d Jd
+grumpy    969770132  8  7 f   -     -     -         6645    0    0 
+grumpy    969770171  8  6 c   bc    k     c         6645  335    0 Jd Ah
+grumpy    969770207  8  5 f   -     -     -         6310    0    0 
+grumpy    969770235  8  4 f   -     -     -         6310    0    0 
+grumpy    969770280  8  3 f   -     -     -         6310    0    0 
+grumpy    969770317  8  2 B   -     -     -         6310   10   15 
+grumpy    969770325  8  1 Bc  k     b     b         6315  210  480 4h 4s
+grumpy    969770362  8  8 r   f     -     -         6585   55    0 
+grumpy    969770398  8  7 c   k     k     k         6530   10    0 3s Ah
+grumpy    969770466  8  6 c   c     k     b         6520  160  240 
+grumpy    969770508  8  5 c   k     b     b         6600  250  540 Tc Qc
+grumpy    969770554  9  4 cf  -     -     -         6890   10    0 
+grumpy    969770625  9  3 f   -     -     -         6880    0    0 
+grumpy    969770682  9  2 Bc  kc    kc    b         6880 4180    0 Th Td
+grumpy    969770754 10  1 Bf  -     Q     -         2700    5    0 

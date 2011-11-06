@@ -1,0 +1,78 @@
+hldmsux   975202511  7  2 f   -     -     -         6834    0    0 
+hldmsux   975202556  7  2 B   -     -     -         6834   10   15 
+hldmsux   975202569  7  1 Bc  kc    k     kf        6839   30    0 
+hldmsux   975202617  7  7 f   -     -     -         6809    0    0 
+hldmsux   975202685  8  7 f   -     -     -         6809    0    0 
+hldmsux   975202713  8  6 f   -     -     -         6809    0    0 
+hldmsux   975202751  8  5 c   b     -     -         6809   45   70 
+hldmsux   975202777  8  4 f   -     -     -         6834    0    0 
+hldmsux   975202799  8  3 f   -     -     -         6834    0    0 
+hldmsux   975202828  8  2 Bk  f     -     -         6834   10    0 
+hldmsux   975202855  8  1 Bc  b     k     k         6824  190  435 Jc Qc
+hldmsux   975202901  8  8 c   b     b     k         7069  290    0 Ts Qd
+hldmsux   975202970  9  8 f   -     -     -         6779    0    0 
+hldmsux   975203013  9  7 f   -     -     -         6779    0    0 
+hldmsux   975203053  8  5 c   f     -     -         6779   10    0 
+hldmsux   975203105  8  4 f   -     -     -         6769    0    0 
+hldmsux   975203158  8  3 c   b     k     k         6769   50    0 3h 3s
+hldmsux   975203205  8  2 Bc  kf    -     -         6719   35    0 
+hldmsux   975203302  8  1 Bc  k     kf    -         6684   10    0 
+hldmsux   975203351  9  9 f   -     -     -         6674    0    0 
+hldmsux   975203420  8  7 f   -     -     -         6674    0    0 
+hldmsux   975203474  8  6 f   -     -     -         6674    0    0 
+hldmsux   975203545  8  5 cf  -     -     -         6674   10    0 
+hldmsux   975203572  8  4 f   -     -     -         6664    0    0 
+hldmsux   975203642  8  3 f   -     -     -         6664    0    0 
+hldmsux   975203732  8  2 Bf  -     -     -         6664   10    0 
+hldmsux   975203810  8  1 Bc  k     k     kf        6654   10    0 
+hldmsux   975203884  9  9 c   f     -     -         6644  130    0 
+hldmsux   975203994  9  8 cf  -     -     -         6514   10    0 
+hldmsux   975204037  7  5 c   f     -     -         6504   10    0 
+hldmsux   975204095  7  4 c   kc    kf    -         6494   50    0 
+hldmsux   975204144  7  3 f   -     -     -         6444    0    0 
+hldmsux   975204166  7  2 Bf  -     -     -         6444   10    0 
+hldmsux   975204174  6  1 Bc  k     kf    -         6434   35    0 
+hldmsux   975204203  6  6 f   -     -     -         6399    0    0 
+hldmsux   975204224  6  5 f   -     -     -         6399    0    0 
+hldmsux   975204268  7  5 rc  b     b     f         6399 4315    0 
+hldmsux   975204346  7  4 c   b     b     -         2084  185  280 
+hldmsux   975204378  7  3 f   -     -     -         2179    0    0 
+hldmsux   975204399  7  2 Bk  b     b     b         2179  860 1200 
+hldmsux   975204437  7  1 Bf  -     -     -         2519    5    0 
+hldmsux   975204475  7  7 f   -     -     -         2514    0    0 
+hldmsux   975204504  7  6 c   kf    -     -         2514   10    0 
+hldmsux   975204537  7  5 f   -     -     -         2504    0    0 
+hldmsux   975204563  7  4 cc  kf    -     -         2504   65    0 
+hldmsux   975204592  7  3 f   -     -     -         2439    0    0 
+hldmsux   975204642  7  2 Bk  k     k     f         2439   10    0 
+hldmsux   975204686  7  1 Bf  -     -     -         2429    5    0 
+hldmsux   975204710  7  7 f   -     -     -         2424    0    0 
+hldmsux   975204747  7  7 c   b     -     -         2424   35   50 
+hldmsux   975204780  6  5 c   b     -     -         2439   40   60 
+hldmsux   975204804  6  4 c   b     -     -         2459   35   50 
+hldmsux   975204812  6  3 cc  kf    -     -         2474   45    0 
+hldmsux   975204845  6  2 Bk  b     b     b         2429  775 1620 As Js
+hldmsux   975204881  6  1 Bf  -     -     -         3274    5    0 
+hldmsux   975204925  6  6 f   -     -     -         3269    0    0 
+hldmsux   975204960  7  6 f   -     -     -         3269    0    0 
+hldmsux   975204977  7  5 f   -     -     -         3269    0    0 
+hldmsux   975205002  7  4 f   -     -     -         3269    0    0 
+hldmsux   975205021  7  3 f   -     -     -         3269    0    0 
+hldmsux   975205057  7  2 Bk  b     b     k         3269   90    0 5s 5h
+hldmsux   975205087  7  1 Bc  kc    kf    -         3179   60    0 
+hldmsux   975205141  8  7 f   -     -     -         3119    0    0 
+hldmsux   975205165  8  6 f   -     -     -         3119    0    0 
+hldmsux   975205188  8  5 c   b     b     -         3119  360  560 
+hldmsux   975205240  8  4 f   -     -     -         3319    0    0 
+hldmsux   975205268  8  3 f   -     -     -         3319    0    0 
+hldmsux   975205303  8  2 Bc  b     -     -         3319  110  150 
+hldmsux   975205336  8  1 Bf  -     -     -         3359    5    0 
+hldmsux   975205366  8  8 c   k     f     -         3354   10    0 
+hldmsux   975205400  8  7 c   k     k     k         3344   35   85 4s As
+hldmsux   975205429  7  5 f   -     -     -         3394    0    0 
+hldmsux   975205452  7  5 f   -     -     -         3394    0    0 
+hldmsux   975205475  7  4 cc  k     kf    -         3394   45    0 
+hldmsux   975205508  6  2 Bf  -     -     -         3349   10    0 
+hldmsux   975205532  6  1 Bc  bc    kc    b         3339  810 1620 8h Jh
+hldmsux   975205572  5  5 cc  k     f     -         4149   45    0 
+hldmsux   975205616  4  4 f   Q     -     -         4104    0    0 
