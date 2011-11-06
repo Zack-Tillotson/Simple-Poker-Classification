@@ -1,5 +1,6 @@
 package com.excitedmuch.csm.ml.poker;
 
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -11,14 +12,16 @@ import java.util.List;
  */
 public class PlayedHand {
 	
-	private String id;
-	private List<Card> boardCards;
-	private List<PlayerAction> players;
+	public final String id;
+	public final List<Card> boardCards;
+	public final List<PlayerAction> players;
+	public final List<String> playersNameList;
 	
-	public PlayedHand(String id, List<Card> boardCards, List<PlayerAction> players) {
+	public PlayedHand(String id, List<Card> boardCards) {
 		this.id = id;
 		this.boardCards = boardCards;
-		this.players = players;
+		this.players = new ArrayList<PlayerAction>();
+		this.playersNameList = new ArrayList<String>();
 	}
 
 }

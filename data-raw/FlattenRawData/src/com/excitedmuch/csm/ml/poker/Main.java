@@ -10,34 +10,27 @@ import java.util.List;
 
 public class Main {
 	
-	public static void main(String[] args) throws InterruptedException {
+	public static void main(String[] args) throws Exception {
 		
-		if(args.length == 1) {
+		if(args.length == 0) {
 			System.err.println("Usage: java Main <directory 1> [<directory 2> <directory 3>...]");
+			System.exit(1);
 		}
 		
-		List<Flattenizer> toRun = new ArrayList<Flattenizer>();
+		List<Flattenizer> running = new ArrayList<Flattenizer>();
 		
-		// For each directory given
-		boolean skippedFirst = false;
+		// For each directory given	
 		for(String dir : args) {
-			
-			if(!skippedFirst) {
-				skippedFirst = true;
-				continue;
-			}
-			
-			toRun.add(new Flattenizer(dir));
-			
-		}
-		
-		for(Flattenizer f : toRun) {
+			Flattenizer f = new Flattenizer(dir);
 			f.start();
+			running.add(f);
 		}
 		
-		for(Flattenizer f : toRun) {
+		for(Flattenizer f : running) {
 			f.join();
 		}
+		
+		System.out.println("Finished");
 		
 	}
 

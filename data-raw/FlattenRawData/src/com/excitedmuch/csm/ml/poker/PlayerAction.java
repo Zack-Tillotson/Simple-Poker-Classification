@@ -4,14 +4,14 @@ import java.util.List;
 
 public class PlayerAction {
 	
-	public final int position;
+	public final String position;
 	public final String flopActions;
 	public final String turnActions;
 	public final String riverActions;
 	public final String showdownActions;
 	public final List<Card> handCards;
 	
-	public PlayerAction(int position, String flopActions, String turnActions, String riverActions, String showdownActions, List<Card> handCards) {
+	public PlayerAction(String position, String flopActions, String turnActions, String riverActions, String showdownActions, List<Card> handCards) {
 
 		this.position = position;
 		this.flopActions = flopActions;
