@@ -177,7 +177,8 @@ public class Flattenizer extends Thread {
 				hadAction = false;
 				for(PlayerAction player : hand.players) {
 					if(player.flopActions.length() >= round) {
-						printRow(player.handCards, hand.boardCards, player.playersLeft, player.position, 
+						List<Card> boardCards = new ArrayList<Card>();
+						printRow(player.handCards, boardCards, player.playersLeft, player.position, 
 								potNormalize(hand.potFlop, player.chipCount), player.flopActions.substring(round - 1, round));
 						hadAction = true;
 					}
@@ -190,7 +191,8 @@ public class Flattenizer extends Thread {
 				hadAction = false;
 				for(PlayerAction player : hand.players) {
 					if(player.turnActions.length() >= round) {
-						printRow(player.handCards, hand.boardCards, player.playersLeft, player.position, 
+						List<Card> boardCards = hand.boardCards.size() >= 3 ? hand.boardCards.subList(0, 3) : new ArrayList<Card>();
+						printRow(player.handCards, boardCards, player.playersLeft, player.position, 
 								potNormalize(hand.potTurn, player.chipCount), player.turnActions.substring(round - 1, round));
 						hadAction = true;
 					}
@@ -203,7 +205,8 @@ public class Flattenizer extends Thread {
 				hadAction = false;
 				for(PlayerAction player : hand.players) {
 					if(player.riverActions.length() >= round) {
-						printRow(player.handCards, hand.boardCards, player.playersLeft, player.position, 
+						List<Card> boardCards = hand.boardCards.size() >= 4 ? hand.boardCards.subList(0, 4) : new ArrayList<Card>();
+						printRow(player.handCards, boardCards, player.playersLeft, player.position, 
 								potNormalize(hand.potRiver, player.chipCount), player.riverActions.substring(round - 1, round));
 						hadAction = true;
 					}
@@ -216,7 +219,8 @@ public class Flattenizer extends Thread {
 				hadAction = false;
 				for(PlayerAction player : hand.players) {
 					if(player.showdownActions.length() >= round) {
-						printRow(player.handCards, hand.boardCards, player.playersLeft, player.position, 
+						List<Card> boardCards = hand.boardCards.size() >= 5 ? hand.boardCards.subList(0, 5) : new ArrayList<Card>();
+						printRow(player.handCards, boardCards, player.playersLeft, player.position, 
 								potNormalize(hand.potShowdown, player.chipCount), player.showdownActions.substring(round - 1, round));
 						hadAction = true;
 					}
