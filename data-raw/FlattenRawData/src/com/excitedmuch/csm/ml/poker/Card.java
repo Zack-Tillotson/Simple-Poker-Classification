@@ -9,5 +9,10 @@ public class Card {
 		this.rank = val.substring(0,1);
 		this.suit = val.substring(1,2);
 	}
+	
+	@Override
+	public String toString() {
+		return rank + suit;
+	}
 
 }

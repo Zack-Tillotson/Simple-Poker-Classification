@@ -30,8 +30,6 @@ public class Main {
 			f.join();
 		}
 		
-		System.out.println("Finished");
-		
 	}
 
 }
