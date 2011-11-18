@@ -15,7 +15,7 @@ public class PlayedHand {
 	
 	public final String id;
 	public final List<Card> boardCards;
-	public final List<PlayerAction> players;
+	public final List<PlayedHandPlayer> players;
 	public final List<String> playersNameList;
 	public final BigDecimal potFlop;
 	public final BigDecimal potTurn;
@@ -29,7 +29,7 @@ public class PlayedHand {
 		this.potRiver = potRiver;
 		this.potShowdown = potShowdown;
 		this.boardCards = boardCards;
-		this.players = new ArrayList<PlayerAction>();
+		this.players = new ArrayList<PlayedHandPlayer>();
 		this.playersNameList = new ArrayList<String>();
 	}
 	
