@@ -325,22 +325,28 @@ public class Flattenizer extends Thread {
 	}
 
 	private void printRow(PlayerHistory h, PlayerHandAction a) {
+		
+		if (a.handCards.size() == 0) {
+			return;
+		} else {
 
-		StringBuilder output = new StringBuilder();
+			StringBuilder output = new StringBuilder();
 
-		output.append(String.format("%s,%s,%s,%s", h.getPlayRate(), h
-				.getRaiseRate(), h.getFoldRate(), buildOutputString(a)));
+			output.append(String.format("%s,%s,%s,%s", h.getPlayRate(), h
+					.getRaiseRate(), h.getFoldRate(), buildOutputString(a)));
 
-		for (PlayerHandAction hist : h.lastNActions) {
-			output.append(",");
-			output.append(buildOutputString(hist));
+			for (PlayerHandAction hist : h.lastNActions) {
+				output.append(",");
+				output.append(buildOutputString(hist));
+			}
+			for (int i = h.lastNActions.size(); i < h.lastNActions.MAX_HAND_HISTORY; i++) {
+				output.append(",");
+				output.append(buildEmptyOutputString());
+			}
+
+			System.out.println(output);
+
 		}
-		for (int i = h.lastNActions.size(); i < h.lastNActions.MAX_HAND_HISTORY; i++) {
-			output.append(",");
-			output.append(buildEmptyOutputString());
-		}
-
-		System.out.println(output);
 
 	}
 
