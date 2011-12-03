@@ -3,6 +3,7 @@ package com.excitedmuch.csm.ml.poker;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.math.BigDecimal;
+import java.math.MathContext;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -209,81 +210,189 @@ public class Flattenizer extends Thread {
 						if (action.equals("r") || action.equals("B"))
 							h.raiseActions++;
 						
-						// If we know his cards
-						if(player.handCards.size() > 0) {
-							
-							// If he has a pocket pair
-							if((player.handCards.get(0).rank.equals(player.handCards.get(1).rank))) {
-								h.hasPairTotActions++;
-								if (action.equals("f"))
-									h.hasPairFoldActions++;
-								if (action.equals("r") || action.equals("B"))
-									h.hasPairRaiseActions++;								
-							} else {
-								h.noPairTotActions++;
-								if (action.equals("f"))
-									h.noPairFoldActions++;
-								if (action.equals("r") || action.equals("B"))
-									h.noPairRaiseActions++;
-							}
-														
+						BigDecimal avgChipCount = BigDecimal.ZERO;
+						String numPlayers = "";
+						for (PlayedHandPlayer p2 : hand.players) {
+							avgChipCount = avgChipCount.add(p2.chipCount);
+							numPlayers = p2.playersLeft;
 						}
+						avgChipCount = avgChipCount.divide(new BigDecimal(numPlayers), BigDecimal.ROUND_HALF_UP);
+
 
 						List<Card> cards = new ArrayList<Card>();
 						PlayerHandAction a = new PlayerHandAction(
 								player.handCards, cards, potNormalize(
 										hand.potFlop, player.chipCount),
-								player.playersLeft, player.position, action);
-						printRow(h, a);
+								player.playersLeft, player.position,avgChipCount, player.chipCount,action);
+						
 
-						h.lastNActions.addNewItem(a);
+						h.lastNActions.add(a);
 						hadAction = true;
 
 					}
 				}
 			}
 
-		
+			// Turn actions
+			hadAction = true;
+			for (int round = 1; round == 1 || hadAction; round++) {
+				hadAction = false;
+				for (PlayedHandPlayer player : hand.players) {
+					if (player.turnActions.length() >= round) {
 
-		}
+						String action = player.turnActions.substring(round - 1, round);
 
-	}
+						PlayerHistory h = playerHistory.get(player.name);
+						h.totActions++;
+						if (action.equals("f"))
+							h.foldActions++;
+						if (action.equals("r") || action.equals("B"))
+							h.raiseActions++;
+						
+						BigDecimal avgChipCount = BigDecimal.ZERO;
+						String numPlayers = "";
+						for (PlayedHandPlayer p2 : hand.players) {
+							avgChipCount = avgChipCount.add(p2.chipCount);
+							numPlayers = p2.playersLeft;
+						}
+						avgChipCount = avgChipCount.divide(new BigDecimal(numPlayers), BigDecimal.ROUND_HALF_UP);
 
-	private void printRow(PlayerHistory h, PlayerHandAction a) {
-		
-		if (a.handCards.size() == 0) {
-			return;
-		} else {
 
-			StringBuilder output = new StringBuilder();
+						List<Card> boardCards = hand.boardCards.size() >= 3 ? hand.boardCards
+								.subList(0, 3)
+								: new ArrayList<Card>();
+						PlayerHandAction a = new PlayerHandAction(
+								player.handCards, boardCards, potNormalize(
+										hand.potTurn, player.chipCount),
+								player.playersLeft, player.position, avgChipCount,player.chipCount,action);
+						
 
-			output.append(String.format("%s,%s,%s", h.getPlayRate(), h
-					.getRaiseRate(), h.getFoldRate()));
+						h.lastNActions.add(a);
+						hadAction = true;
 
-			// For hands with pocket pairs
-			output.append(String.format(",%s", h.getHasPairRaiseRate()));
-			
-			// For hands without pocket pairs
-			output.append(String.format(",%s", h.getNoPairRaiseRate()));
+					}
+				}
+			}
 
-			output.append("," + buildOutputString(a));
+			// River actions
+			hadAction = true;
+			for (int round = 1; round == 1 || hadAction; round++) {
+				hadAction = false;
+				for (PlayedHandPlayer player : hand.players) {
+					if (player.riverActions.length() >= round) {
 
-			System.out.println(output);
+						String action = player.riverActions.substring(
+								round - 1, round);
 
-		}
+						PlayerHistory h = playerHistory.get(player.name);
+						h.totActions++;
+						if (action.equals("f"))
+							h.foldActions++;
+						if (action.equals("r") || action.equals("B"))
+							h.raiseActions++;
+						
+						BigDecimal avgChipCount = BigDecimal.ZERO;
+						String numPlayers = "";
+						for (PlayedHandPlayer p2 : hand.players) {
+							avgChipCount = avgChipCount.add(p2.chipCount);
+							numPlayers = p2.playersLeft;
+						}
+						avgChipCount = avgChipCount.divide(new BigDecimal(numPlayers), BigDecimal.ROUND_HALF_UP);
 
-	}
 
-	private String buildOutputString(PlayerHandAction a) {
+						List<Card> boardCards = hand.boardCards.size() >= 4 ? hand.boardCards
+								.subList(0, 4)
+								: new ArrayList<Card>();
+						PlayerHandAction a = new PlayerHandAction(
+								player.handCards, boardCards, potNormalize(
+										hand.potRiver, player.chipCount),
+								player.playersLeft, player.position,avgChipCount,player.chipCount, action);
+						
 
-		String handCard1 = a.handCards.size() > 1 ? a.handCards.get(0)
-				.toString() : "";
-		String handCard2 = a.handCards.size() > 1 ? a.handCards.get(1)
-				.toString() : "";
+						h.lastNActions.add(a);
+						hadAction = true;
+					}
+				}
+			}
+
+			// Showdown actions
+			hadAction = true;
+			for (int round = 1; round == 1 || hadAction; round++) {
+				hadAction = false;
+				for (PlayedHandPlayer player : hand.players) {
+					if (player.showdownActions.length() >= round) {
+
+						String action = player.showdownActions.substring(
+								round - 1, round);
+
+						PlayerHistory h = playerHistory.get(player.name);
+						h.totActions++;
+						if (action.equals("f"))
+							h.foldActions++;
+						if (action.equals("r") || action.equals("B"))
+							h.raiseActions++;
+						
+						BigDecimal avgChipCount = BigDecimal.ZERO;
+						String numPlayers = "";
+						for (PlayedHandPlayer p2 : hand.players) {
+							avgChipCount = avgChipCount.add(p2.chipCount);
+							numPlayers = p2.playersLeft;
+						}
+						avgChipCount = avgChipCount.divide(new BigDecimal(numPlayers), BigDecimal.ROUND_HALF_UP);
+
+						List<Card> boardCards = hand.boardCards.size() >= 5 ? hand.boardCards
+								.subList(0, 5)
+								: new ArrayList<Card>();
+						PlayerHandAction a = new PlayerHandAction(
+								player.handCards, boardCards, potNormalize(
+										hand.potShowdown, player.chipCount),
+								player.playersLeft, player.position, avgChipCount,  player.chipCount, action);
+						
+						h.lastNActions.add(a);
+						hadAction = true;
+					}
+				}
 				
-		String holePair = a.handCards.size() > 1 ? (handCard1.substring(0,1).equals(handCard2.substring(0,1)) ? "1" : "0") : "-";
+			}
+			
+			for (PlayedHandPlayer player : hand.players) {
+				PlayerHistory h = playerHistory.get(player.name);
+				
+				if(h.lastNActions.size() >= h.lastNActions.MAX_HAND_HISTORY) {
+					printRow(h);
+					h.lastNActions.clear();
+					h.playedHands = 0;
+					h.totActions = 0;
+					h.totHands = 0;
+					h.foldActions = 0;
+					h.raiseActions = 0;
+				}
+				
+			}
+			
+		}
 
-		return String.format("%s,%s,%s,%s,%s", a.numPlayers, a.position, a.potSize, a.action, holePair);
+	}
+
+	private void printRow(PlayerHistory h) {
+
+		int totPlayers = 0;
+		BigDecimal avgChipSize = BigDecimal.ZERO;
+		for (PlayerHandAction hist : h.lastNActions) {
+			int numPlayers = Integer.parseInt(hist.numPlayers);
+			totPlayers += numPlayers;
+			avgChipSize = avgChipSize.add(hist.avgChipCount); 
+		}
+		avgChipSize = avgChipSize.divide(new BigDecimal(h.lastNActions.size()), BigDecimal.ROUND_HALF_UP);
+		
+		StringBuilder output = new StringBuilder();
+		
+		boolean hasMoreChips = h.lastNActions.getFirst().chipCount.compareTo(h.lastNActions.getLast().chipCount) < 0;
+
+		output.append(String.format("%s,%s,%s,%s,%s,%s", h.getPlayRate(), h.getRaiseRate(), h.getFoldRate(), ""+(1.*totPlayers/h.lastNActions.size()),
+				h.lastNActions.getLast().chipCount.setScale(4).divide(avgChipSize, BigDecimal.ROUND_HALF_UP).toPlainString(), hasMoreChips ? "1":"0"));
+
+		System.out.println(output);
 
 	}
 
