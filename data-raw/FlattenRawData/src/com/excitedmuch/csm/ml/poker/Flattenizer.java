@@ -208,6 +208,26 @@ public class Flattenizer extends Thread {
 							h.foldActions++;
 						if (action.equals("r") || action.equals("B"))
 							h.raiseActions++;
+						
+						// If we know his cards
+						if(player.handCards.size() > 0) {
+							
+							// If he has a pocket pair
+							if((player.handCards.get(0).rank.equals(player.handCards.get(1).rank))) {
+								h.hasPairTotActions++;
+								if (action.equals("f"))
+									h.hasPairFoldActions++;
+								if (action.equals("r") || action.equals("B"))
+									h.hasPairRaiseActions++;								
+							} else {
+								h.noPairTotActions++;
+								if (action.equals("f"))
+									h.noPairFoldActions++;
+								if (action.equals("r") || action.equals("B"))
+									h.noPairRaiseActions++;
+							}
+														
+						}
 
 						List<Card> cards = new ArrayList<Card>();
 						PlayerHandAction a = new PlayerHandAction(
@@ -216,109 +236,14 @@ public class Flattenizer extends Thread {
 								player.playersLeft, player.position, action);
 						printRow(h, a);
 
-						h.lastNActions.add(a);
+						h.lastNActions.addNewItem(a);
 						hadAction = true;
 
 					}
 				}
 			}
 
-			// Turn actions
-			hadAction = true;
-			for (int round = 1; round == 1 || hadAction; round++) {
-				hadAction = false;
-				for (PlayedHandPlayer player : hand.players) {
-					if (player.turnActions.length() >= round) {
-
-						String action = player.turnActions.substring(round - 1,
-								round);
-
-						PlayerHistory h = playerHistory.get(player.name);
-						h.totActions++;
-						if (action.equals("f"))
-							h.foldActions++;
-						if (action.equals("r") || action.equals("B"))
-							h.raiseActions++;
-
-						List<Card> boardCards = hand.boardCards.size() >= 3 ? hand.boardCards
-								.subList(0, 3)
-								: new ArrayList<Card>();
-						PlayerHandAction a = new PlayerHandAction(
-								player.handCards, boardCards, potNormalize(
-										hand.potTurn, player.chipCount),
-								player.playersLeft, player.position, action);
-						printRow(h, a);
-
-						h.lastNActions.add(a);
-						hadAction = true;
-
-					}
-				}
-			}
-
-			// River actions
-			hadAction = true;
-			for (int round = 1; round == 1 || hadAction; round++) {
-				hadAction = false;
-				for (PlayedHandPlayer player : hand.players) {
-					if (player.riverActions.length() >= round) {
-
-						String action = player.riverActions.substring(
-								round - 1, round);
-
-						PlayerHistory h = playerHistory.get(player.name);
-						h.totActions++;
-						if (action.equals("f"))
-							h.foldActions++;
-						if (action.equals("r") || action.equals("B"))
-							h.raiseActions++;
-
-						List<Card> boardCards = hand.boardCards.size() >= 4 ? hand.boardCards
-								.subList(0, 4)
-								: new ArrayList<Card>();
-						PlayerHandAction a = new PlayerHandAction(
-								player.handCards, boardCards, potNormalize(
-										hand.potRiver, player.chipCount),
-								player.playersLeft, player.position, action);
-						printRow(h, a);
-
-						h.lastNActions.add(a);
-						hadAction = true;
-					}
-				}
-			}
-
-			// Showdown actions
-			hadAction = true;
-			for (int round = 1; round == 1 || hadAction; round++) {
-				hadAction = false;
-				for (PlayedHandPlayer player : hand.players) {
-					if (player.showdownActions.length() >= round) {
-
-						String action = player.showdownActions.substring(
-								round - 1, round);
-
-						PlayerHistory h = playerHistory.get(player.name);
-						h.totActions++;
-						if (action.equals("f"))
-							h.foldActions++;
-						if (action.equals("r") || action.equals("B"))
-							h.raiseActions++;
-
-						List<Card> boardCards = hand.boardCards.size() >= 5 ? hand.boardCards
-								.subList(0, 5)
-								: new ArrayList<Card>();
-						PlayerHandAction a = new PlayerHandAction(
-								player.handCards, boardCards, potNormalize(
-										hand.potShowdown, player.chipCount),
-								player.playersLeft, player.position, action);
-						printRow(h, a);
-
-						h.lastNActions.add(a);
-						hadAction = true;
-					}
-				}
-			}
+		
 
 		}
 
@@ -332,17 +257,16 @@ public class Flattenizer extends Thread {
 
 			StringBuilder output = new StringBuilder();
 
-			output.append(String.format("%s,%s,%s,%s", h.getPlayRate(), h
-					.getRaiseRate(), h.getFoldRate(), buildOutputString(a)));
+			output.append(String.format("%s,%s,%s", h.getPlayRate(), h
+					.getRaiseRate(), h.getFoldRate()));
 
-			for (PlayerHandAction hist : h.lastNActions) {
-				output.append(",");
-				output.append(buildOutputString(hist));
-			}
-			for (int i = h.lastNActions.size(); i < h.lastNActions.MAX_HAND_HISTORY; i++) {
-				output.append(",");
-				output.append(buildEmptyOutputString());
-			}
+			// For hands with pocket pairs
+			output.append(String.format(",%s", h.getHasPairRaiseRate()));
+			
+			// For hands without pocket pairs
+			output.append(String.format(",%s", h.getNoPairRaiseRate()));
+
+			output.append("," + buildOutputString(a));
 
 			System.out.println(output);
 
@@ -356,34 +280,15 @@ public class Flattenizer extends Thread {
 				.toString() : "";
 		String handCard2 = a.handCards.size() > 1 ? a.handCards.get(1)
 				.toString() : "";
+				
+		String holePair = a.handCards.size() > 1 ? (handCard1.substring(0,1).equals(handCard2.substring(0,1)) ? "1" : "0") : "-";
 
-		String poolCard1 = a.boardCards.size() > 0 ? a.boardCards.get(0)
-				.toString() : "";
-		String poolCard2 = a.boardCards.size() > 1 ? a.boardCards.get(1)
-				.toString() : "";
-		String poolCard3 = a.boardCards.size() > 2 ? a.boardCards.get(2)
-				.toString() : "";
-		String poolCard4 = a.boardCards.size() > 3 ? a.boardCards.get(3)
-				.toString() : "";
-		String poolCard5 = a.boardCards.size() > 4 ? a.boardCards.get(4)
-				.toString() : "";
-
-		return String.format("%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s", handCard1,
-				handCard2, poolCard1, poolCard2, poolCard3, poolCard4,
-				poolCard5, a.numPlayers, a.position, a.potSize, a.action);
-
-	}
-
-	private String buildEmptyOutputString() {
-
-		return String.format(",,,,,,,,,,");
+		return String.format("%s,%s,%s,%s,%s", a.numPlayers, a.position, a.potSize, a.action, holePair);
 
 	}
 
 	private BigDecimal potNormalize(BigDecimal pot, BigDecimal value) {
-		return value.divide(pot.add(BigDecimal.TEN), BigDecimal.ROUND_FLOOR); // Adds
-																				// ten
-																				// cause
+		return value.divide(pot.add(BigDecimal.TEN), BigDecimal.ROUND_FLOOR); // Adds ten just cause
 	}
 
 }

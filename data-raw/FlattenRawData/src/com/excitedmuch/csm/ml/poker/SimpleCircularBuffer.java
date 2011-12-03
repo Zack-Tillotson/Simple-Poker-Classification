@@ -4,8 +4,8 @@ import java.util.LinkedList;
 
 public class SimpleCircularBuffer<E> extends LinkedList<E> {
 
-	public final int MAX_HAND_HISTORY = 100;
-
+	public final int MAX_HAND_HISTORY = 10;
+	
 	public void addNewItem(E item) {
 
 		this.add(item);
